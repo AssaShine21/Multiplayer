@@ -1,0 +1,1584 @@
+﻿Log file open, 05/28/21 09:02:23
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: AssaShineMulti_V100
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.351529
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogSteamShared: Display: Loading Steam SDK 1.47
+LogSteamShared: Steam SDK Loaded!
+LogOnline: OSS: Creating online subsystem instance for: Steam
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz, GPU: Intel(R) HD Graphics 5500
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  /Game/Maps/MainMenu -game -PIEVIACONSOLE -Multiprocess "GameUserSettingsINI=D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/PIEGameUserSettings0.ini" -MultiprocessSaveConfig -MultiprocessOSS -messaging -SessionName="Play in Standalone Game" -windowed -WinX=-1309 -WinY=158 SAVEWINPOS=1 -ResX=1242 -ResY=713
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.28-01.02.26:506][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2021.05.28-01.02.26:506][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.28-01.02.26:507][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Engine.ini]
+[2021.05.28-01.02.26:507][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.28-01.02.26:507][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Engine.ini]
+[2021.05.28-01.02.26:508][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Engine.ini]
+[2021.05.28-01.02.26:508][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.28-01.02.26:508][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.28-01.02.26:508][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.28-01.02.26:508][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.28-01.02.26:508][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.28-01.02.26:508][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.28-01.02.26:508][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.28-01.02.26:508][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.28-01.02.26:508][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.28-01.02.26:508][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.28-01.02.26:508][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.28-01.02.26:508][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.28-01.02.26:508][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.28-01.02.26:508][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.28-01.02.26:508][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Engine.ini]
+[2021.05.28-01.02.26:509][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.28-01.02.26:509][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.28-01.02.26:509][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.28-01.02.26:509][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.28-01.02.26:509][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.28-01.02.26:509][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.28-01.02.26:509][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.28-01.02.26:509][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.28-01.02.26:509][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.28-01.02.26:509][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.28-01.02.26:509][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.28-01.02.26:509][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.28-01.02.26:509][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.28-01.02.26:509][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.28-01.02.26:509][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Engine.ini]
+[2021.05.28-01.02.26:509][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Engine.ini]
+[2021.05.28-01.02.26:594][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.28-01.02.26:594][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.28-01.02.26:595][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.28-01.02.26:595][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.28-01.02.26:595][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.28-01.02.26:595][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.28-01.02.26:595][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.28-01.02.26:595][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.28-01.02.26:595][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.28-01.02.26:596][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.28-01.02.26:596][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.28-01.02.26:596][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.28-01.02.26:596][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.28-01.02.26:596][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.28-01.02.26:596][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.28-01.02.26:596][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.28-01.02.26:596][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.28-01.02.26:596][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.28-01.02.26:596][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.28-01.02.26:596][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.28-01.02.26:596][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.28-01.02.26:596][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-01.02.26:596][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.28-01.02.26:596][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.28-01.02.26:597][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.28-01.02.26:597][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.28-01.02.26:597][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.28-01.02.26:597][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.28-01.02.26:597][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.28-01.02.26:597][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.28-01.02.26:597][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.28-01.02.26:597][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-01.02.26:597][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.28-01.02.26:597][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.28-01.02.26:597][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.28-01.02.26:598][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.28-01.02.26:598][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.28-01.02.26:598][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.28-01.02.26:598][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.28-01.02.26:598][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.28-01.02.26:598][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.28-01.02.26:599][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.28-01.02.26:599][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.28-01.02.26:599][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.28-01.02.26:599][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.28-01.02.26:599][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.28-01.02.26:599][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.28-01.02.26:599][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.28-01.02.26:599][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.28-01.02.26:599][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.28-01.02.26:599][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.28-01.02.26:599][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.28-01.02.26:599][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.28-01.02.26:599][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.28-01.02.26:599][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.28-01.02.26:600][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.28-01.02.26:600][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.28-01.02.26:600][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.28-01.02.26:600][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.28-01.02.26:600][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-01.02.26:600][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.28-01.02.26:600][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.28-01.02.26:600][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-01.02.26:600][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.28-01.02.26:600][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.28-01.02.26:600][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.28-01.02.26:600][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.28-01.02.26:600][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.28-01.02.26:600][  0]LogHAL: Display: Platform has ~ 8 GB [8506490880 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.28-01.02.26:600][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.28-01.02.26:600][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-01.02.26:600][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.28-01.02.26:600][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.28-01.02.26:600][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.28-01.02.26:601][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.28-01.02.26:602][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.28-01.02.26:602][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.28-01.02.26:602][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.28-01.02.26:602][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.28-01.02.26:602][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.28-01.02.26:602][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.28-01.02.26:602][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.28-01.02.26:602][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.28-01.02.26:602][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.28-01.02.26:602][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.28-01.02.26:602][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.28-01.02.26:602][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.28-01.02.26:602][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.28-01.02.26:602][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.28-01.02.26:602][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.28-01.02.26:602][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.28-01.02.26:602][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-01.02.26:602][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.28-01.02.26:602][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.28-01.02.26:603][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.28-01.02.26:603][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.28-01.02.26:603][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.28-01.02.26:603][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.28-01.02.26:603][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.28-01.02.26:603][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.28-01.02.26:603][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.28-01.02.26:603][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-01.02.26:603][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.28-01.02.26:603][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.28-01.02.26:603][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.28-01.02.26:603][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.28-01.02.26:604][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.28-01.02.26:604][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.28-01.02.26:604][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.28-01.02.26:604][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.28-01.02.26:604][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.28-01.02.26:604][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.28-01.02.26:604][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.28-01.02.26:604][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.28-01.02.26:604][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.28-01.02.26:605][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.28-01.02.26:605][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.28-01.02.26:605][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.28-01.02.26:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.28-01.02.26:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.28-01.02.26:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.28-01.02.26:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.28-01.02.26:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.28-01.02.26:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.28-01.02.26:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.28-01.02.26:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.28-01.02.26:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.28-01.02.26:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.28-01.02.26:606][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.28-01.02.26:606][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-01.02.26:606][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.28-01.02.26:606][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.28-01.02.26:606][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-01.02.26:606][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.28-01.02.26:606][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.28-01.02.26:606][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.28-01.02.26:606][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.28-01.02.26:607][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.28-01.02.26:608][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.28-01.02.26:608][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.28-01.02.26:608][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Engine.ini]
+[2021.05.28-01.02.26:608][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Editor.ini]
+[2021.05.28-01.02.26:609][  0]LogInit: Computer: DESKTOP-7II9F1T
+[2021.05.28-01.02.26:609][  0]LogInit: User: Administrator
+[2021.05.28-01.02.26:609][  0]LogInit: CPU Page size=4096, Cores=2
+[2021.05.28-01.02.26:609][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.28-01.02.26:610][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.05.28-01.02.26:610][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.28-01.02.26:610][  0]LogMemory: Process Physical Memory: 133.64 MB used, 133.64 MB peak
+[2021.05.28-01.02.26:610][  0]LogMemory: Process Virtual Memory: 117.09 MB used, 117.09 MB peak
+[2021.05.28-01.02.26:610][  0]LogMemory: Physical Memory: 4010.15 MB used,  4102.27 MB free, 8112.42 MB total
+[2021.05.28-01.02.26:610][  0]LogMemory: Virtual Memory: 134212544.00 MB used,  5187.02 MB free, 134217728.00 MB total
+[2021.05.28-01.02.26:666][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.28-01.02.26:863][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.28-01.02.26:864][  0]LogInit: Using OS detected language (zh-CN).
+[2021.05.28-01.02.26:864][  0]LogInit: Using OS detected locale (zh-CN).
+[2021.05.28-01.02.26:892][  0]LogTextLocalizationManager: No specific localization for 'zh-CN' exists, so the 'zh-Hans' localization will be used.
+[2021.05.28-01.02.27:882][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2021.05.28-01.02.27:882][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2021.05.28-01.02.27:882][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2021.05.28-01.02.27:882][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2021.05.28-01.02.27:883][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2021.05.28-01.02.27:883][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2021.05.28-01.02.27:883][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2021.05.28-01.02.27:883][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2021.05.28-01.02.27:883][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemSteam/Content/Localization/OnlineSubsystemSteam/zh/OnlineSubsystemSteam.locres' could not be opened for reading!
+[2021.05.28-01.02.27:884][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2021.05.28-01.02.27:884][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2021.05.28-01.02.27:884][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2021.05.28-01.02.28:206][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.28-01.02.28:455][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.28-01.02.28:456][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.28-01.02.28:619][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.28-01.02.28:619][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.28-01.02.28:619][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.28-01.02.28:619][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.28-01.02.28:665][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2021.05.28-01.02.28:666][  0]LogD3D11RHI:       128/0/4056 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2021.05.28-01.02.28:689][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.28-01.02.28:689][  0]LogD3D11RHI:       0/0/4056 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.28-01.02.28:689][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.28-01.02.28:718][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.28-01.02.28:719][  0]LogD3D11RHI:     GPU DeviceId: 0x1616 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.28-01.02.28:719][  0]LogWindows: EnumDisplayDevices:
+[2021.05.28-01.02.28:720][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2021.05.28-01.02.28:722][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2021.05.28-01.02.28:726][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2021.05.28-01.02.28:729][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2021.05.28-01.02.28:729][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 5500
+[2021.05.28-01.02.28:729][  0]LogD3D11RHI:   Driver Version: 20.19.15.4531 (internal:20.19.15.4531, unified:20.19.15.4531)
+[2021.05.28-01.02.28:729][  0]LogD3D11RHI:      Driver Date: 9-29-2016
+[2021.05.28-01.02.28:729][  0]LogRHI: Texture pool is 1509 MB (70% of 2156 MB)
+[2021.05.28-01.02.28:755][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2021.05.28-01.02.28:804][  0]LogD3D11RHI: Intel Extensions Framework not found
+[2021.05.28-01.02.28:804][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.28-01.02.28:804][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.28-01.02.28:841][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2021.05.28-01.02.30:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.28-01.02.30:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.28-01.02.30:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.28-01.02.30:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.28-01.02.30:674][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.28-01.02.30:683][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.28-01.02.30:753][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.28-01.02.30:753][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Intermediate/Shaders/WorkingDirectory/4608/).
+[2021.05.28-01.02.30:754][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/F57768634B2D067E6656FBBAE735A0BD/'.
+[2021.05.28-01.02.30:754][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.28-01.02.30:754][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.28-01.02.32:194][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.28-01.02.32:302][  0]LogDerivedDataCache: Loaded boot cache 0.11s 77MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.28-01.02.32:302][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Administrator/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.28-01.02.32:302][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Documents/Unreal Projects/Multiplayer/Multiplayer/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.28-01.02.32:302][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.28-01.02.32:302][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Documents/Unreal Projects/Multiplayer/Multiplayer/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.28-01.02.32:302][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.28-01.02.32:321][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.28-01.02.32:321][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.28-01.02.32:321][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.28-01.02.32:508][  0]LogDerivedDataCache: Speed tests for C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.19 seconds
+[2021.05.28-01.02.32:508][  0]LogDerivedDataCache: Display: Performance to C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=584.08MBs, RandomWriteSpeed=5.05MBs. Assigned SpeedClass 'Local'
+[2021.05.28-01.02.32:517][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.28-01.02.32:517][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.28-01.02.32:517][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.28-01.02.32:588][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.28-01.02.32:589][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.28-01.02.33:022][  0]LogInit: Using OS detected language (zh-CN).
+[2021.05.28-01.02.33:022][  0]LogInit: Using OS detected locale (zh-CN).
+[2021.05.28-01.02.33:022][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the language.
+[2021.05.28-01.02.33:022][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the locale.
+[2021.05.28-01.02.33:022][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.05.28-01.02.33:022][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.05.28-01.02.33:042][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2021.05.28-01.02.33:048][  0]LogAssetRegistry: FAssetRegistry took 0.0034 seconds to start up
+[2021.05.28-01.02.33:312][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.001510 seconds
+[2021.05.28-01.02.33:413][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.28-01.02.33:413][  0]LogInit: Active device profile: [00000144EEF92300][00000144EA159D40 49] Windows
+[2021.05.28-01.02.33:413][  0]LogInit: Profiles: [00000144EEF92300][00000144EA159D40 49] Windows, [00000144EEF2E900][00000144EA1C8200 49] WindowsNoEditor, [00000144EEF91400][00000144EA1CC380 49] WindowsServer, [00000144EEF2F800][00000144E6EFE500 49] WindowsClient, [00000144EEF90700][00000144E6F02680 49] IOS, [00000144EEF2EF00][00000144E6F06800 49] iPadAir, [00000144EEF92100][00000144E6F0A980 49] iPadAir2, [00000144EEED6000][00000144E6F12C40 49] IPadPro, [00000144EEED6100][00000144E6F0EC80 49] iPadAir3, [00000144EEF2D600][00000144E6F16E00 49] iPadAir4, [00000144EEED7800][00000144E6F1AF80 49] iPadMini2, [00000144EEF2EA00][00000144E6F1F100 49] iPadMini3, [00000144EEED5700][00000144EA1C5240 49] iPadMini4, [00000144EEF2FF00][00000144E6F23380 49] iPadMini5, [00000144EEF11900][00000144E6F2B5C0 49] iPhone6, [00000144EEF11A00][00000144E6F27600 49] iPodTouch6, [00000144EEF92F00][00000144E6F378C0 49] iPhone7, [00000144EEF93100][00000144E6F33900 49] iPodTouch7, [00000144EEF12800][00000144E6F3BA80 49] iPhone5S, [00000144EEF90400][00000144E6F3FC00 49] iPhone6Plus, [00000144EEF13400][00000144E6F420C0 49] iPhone6S, [00000144EEF93600][00000144E6F46240 49] iPhone6SPlus, [00000144EEF11D00][00000144E6F4A3C0 49] iPhone7Plus, [00000144EEF90500][00000144E6F4E540 49] iPhoneSE, [00000144EEF10B00][00000144E6F526C0 49] iPhone8, [00000144EEF93400][00000144E6F56840 49] iPhone8Plus, [00000144EEF10800][00000144E6F5A9C0 49] iPhoneX, [00000144EEF92200][00000144E6F5EB40 49] iPhoneXS, [00000144EEF2CC00][00000144E6F62CC0 49] iPhoneXSMax, [00000144EEF11600][00000144E6F66E40 49] iPhoneXR, [00000144EEF2C500][00000144E6F6AFC0 49] iPhone11, [00000144EEF10500][00000144E6F6F140 49] iPhone11Pro, [00000144EEF2C300][00000144E6F2F280 49] iPhone11ProMax, [00000144EEF11100][00000144EF5F13C0 49] iPhoneSE2, [00000144EEF2F200][00000144EF5F5500 49] iPhone12Mini, [00000144EEF12500][00000144EF5F9640 49] iPhone12, [00000144EEF2C100][00000144EF6017C0 49] iPhone12Pro, [00000144EEF11000][00000144EF605940 49] iPhone12ProMax, [00000144EEF2D900][00000144EF609AC0 49] iPadPro105, [00000144EEF13600][00000144EF60DC40 49] iPadPro129, [00000144EEF92B00][00000144EF610100 49] iPadPro97, [00000144EEF11E00][00000144EF614280 49] iPadPro2_129, [00000144EEF91500][00000144EF618400 49] iPad5, [00000144EEF13800][00000144EF61C580 49] iPad6, [00000144EEF90900][00000144EF620700 49] iPad7, [00000144EEF12700][00000144EF624880 49] iPad8, [00000144EEF92E00][00000144EF628A00 49] iPadPro11, [00000144EEF13500][00000144EF62CB80 49] iPadPro2_11, [00000144EEF90C00][00000144EF630D00 49] iPadPro3_129, [00000144EEF13700][00000144EF634E80 49] iPadPro4_129, [00000144EEF91B00][00000144EF639000 49] AppleTV, [00000144EEF10D00][00000144EF63D180 49] AppleTV4K, [00000144EEF92000][00000144EF641300 49] TVOS, [00000144EEF13A00][00000144EF5FD440 49] Mac, [00000144EEF91F00][00000144EF645580 49] MacClient, [00000144EEF13200][00000144EF6496C0 49] MacNoEditor, [00000144EEF92A00][00000144EF651840 49] MacServer, [00000144EEF12300][00000144EF6559C0 49] Linux, [00000144EEF90A00][00000144EF659B40 49] LinuxAArch64, [00000144EEF12600][00000144EF65DCC0 49] LinuxNoEditor, [00000144EEF91300][00000144EF660180 49] LinuxAArch64NoEditor, [00000144EEF12400][00000144EF664300 49] LinuxClient, [00000144EEF91000][00000144EF668480 49] LinuxAArch64Client, [00000144EEF11500][00000144EF66C600 49] LinuxServer, [00000144EEF91C00][00000144EF670780 49] LinuxAArch64Server, [00000144EEF10200][00000144EF674900 49] Android, [00000144EEF90600][00000144EF678A80 49] Android_Low, [00000144EEF10100][00000144EF67CC00 49] Android_Mid, [00000144EEF91E00][00000144EF680D80 49] Android_High, [00000144EEF13D00][00000144EF684F00 49] Android_Default, [00000144EEF92600][00000144EF689080 49] Android_Adreno4xx, [00000144EEF11800][00000144EF68D200 49] Android_Adreno5xx_Low, [00000144EEF93800][00000144EF691380 49] Android_Adreno5xx, [00000144EEF10700][00000144EF64D4C0 49] Android_Adreno6xx, [00000144EEF92C00][00000144EF695600 49] Android_Adreno6xx_Vulkan, [00000144EEF13900][00000144EF699740 49] Android_Mali_T6xx, [00000144EEF91700][00000144EF69D880 49] Android_Mali_T7xx, [00000144EEF13F00][00000144EF6A5A00 49] Android_Mali_T8xx, [00000144EEED6900][00000144EF6A9B80 49] Android_Mali_G71, [00000144EEF2DE00][00000144EF6ADD00 49] Android_Mali_G72, [00000144EEED5B00][00000144EF6B01C0 49] Android_Mali_G72_Vulkan, [00000144EEF2F400][00000144EF6B4340 49] Android_Mali_G76, [00000144EEED4800][00000144EF6B84C0 49] Android_Mali_G76_Vulkan, [00000144EEF2E500][00000144EF6BC640 49] Android_Mali_G77, [00000144EEED5E00][00000144EF6C07C0 49] Android_Mali_G77_Vulkan, [00000144EEF2E300][00000144EF6C4940 49] Android_Vulkan_SM5, [00000144EEED6400][00000144EF6C8AC0 49] Android_PowerVR_G6xxx, [00000144EEF2FE00][00000144EF6CCC40 49] Android_PowerVR_GT7xxx, [00000144EEED7C00][00000144EF6D0DC0 49] Android_PowerVR_GE8xxx, [00000144EEF2F500][00000144EF6D4F40 49] Android_PowerVR_GM9xxx, [00000144EEED4A00][00000144EF6D90C0 49] Android_PowerVR_GM9xxx_Vulkan, [00000144EEF2CE00][00000144EF6DD240 49] Android_TegraK1, [00000144EEED5F00][00000144EF6E13C0 49] Android_Unknown_Vulkan, [00000144EEF2D300][00000144EF6A1500 49] Lumin, [00000144EEED6D00][00000144EF6E5640 49] Lumin_Desktop, [00000144EEF2DC00][00000144EF6E9780 49] HoloLens, 
+[2021.05.28-01.02.33:573][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.28-01.02.33:573][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.28-01.02.33:573][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.28-01.02.33:573][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.28-01.02.33:573][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.28-01.02.33:736][  0]LogNetVersion: AssaShineMulti_V100 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 710679212)
+[2021.05.28-01.02.36:070][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.28-01.02.36:886][  0]LogMoviePlayer: Initializing movie player
+[2021.05.28-01.02.38:182][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.28-01.02.38:200][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.28-01.02.38:617][  0]SourceControl: Source control is disabled
+[2021.05.28-01.02.38:617][  0]SourceControl: Source control is disabled
+[2021.05.28-01.02.38:633][  0]SourceControl: Source control is disabled
+[2021.05.28-01.02.38:681][  0]LogUProjectInfo: Found projects:
+[2021.05.28-01.02.39:435][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.28-01.02.39:615][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.28-01.02.39:615][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.28-01.02.39:883][  0]LogOcInput: OculusInput pre-init called
+[2021.05.28-01.02.39:922][  0]LogUObjectArray: 20232 objects as part of root set at end of initial load.
+[2021.05.28-01.02.39:922][  0]LogUObjectAllocator: 5397856 out of 0 bytes used by permanent object pool.
+[2021.05.28-01.02.39:922][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.28-01.02.40:202][  0]LogEngine: Initializing Engine...
+[2021.05.28-01.02.40:216][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.28-01.02.40:216][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.28-01.02.40:223][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.05.28-01.02.40:890][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.28-01.02.40:890][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.28-01.02.40:908][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.28-01.02.40:908][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.28-01.02.40:908][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.28-01.02.40:908][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.28-01.02.40:908][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.28-01.02.40:908][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.28-01.02.40:908][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.28-01.02.40:909][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.28-01.02.40:909][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.28-01.02.40:909][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.28-01.02.40:910][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.28-01.02.40:910][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.28-01.02.41:052][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.28-01.02.41:052][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.28-01.02.41:125][  0]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2021.05.28-01.02.41:135][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.28-01.02.41:138][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.28-01.02.41:138][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.28-01.02.41:139][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.28-01.02.41:139][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.28-01.02.41:139][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.28-01.02.41:140][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.28-01.02.41:140][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.28-01.02.41:140][  0]LogInit: FAudioDevice initialized.
+[2021.05.28-01.02.41:186][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.28-01.02.41:187][  0]LogInit: Texture streaming: Enabled
+[2021.05.28-01.02.42:180][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:PlayerInfo'. Unknown structure.
+[2021.05.28-01.02.42:184][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/AllLevels/PlayerSaveGame.PlayerSaveGame_C:S_PlayerInfo'. Unknown structure.
+[2021.05.28-01.02.42:185][  0]LogClass: Warning: Property S_PlayerInfo of S_PlayerInfo has a struct type mismatch (tag STRUCT_REINST_PlayerInfo_0 != prop FallbackStruct) in package:  D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/AllLevels/PlayerSaveGame.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.05.28-01.02.42:494][  0]LogClass: Warning: Property PlayerInfo of PlayerInfo has a struct type mismatch (tag STRUCT_REINST_PlayerInfo_0 != prop FallbackStruct) in package:  D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/UI/MainMenu/OptionsMenu.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.05.28-01.02.42:942][  0]LogClass: Warning: Property S_PlayerInfo of S_PlayerInfo has a struct type mismatch (tag FallbackStruct != prop PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.05.28-01.02.42:952][  0]LogClass: Warning: Property PlayerInfo of PlayerInfo has a struct type mismatch (tag FallbackStruct != prop PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.05.28-01.02.43:102][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.28-01.02.43:112][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-01.02.43:124][  0]LogInit: Display: Game Engine Initialized.
+[2021.05.28-01.02.43:141][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2021.05.28-01.02.43:920][  0]LogInit: Display: Starting Game.
+[2021.05.28-01.02.43:998][  0]LogNet: Browse: /Game/Maps/MainMenu?Name=Player
+[2021.05.28-01.02.44:005][  0]LogLoad: LoadMap: /Game/Maps/MainMenu?Name=Player
+[2021.05.28-01.02.44:005][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2021.05.28-01.02.44:013][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.28-01.02.44:013][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-01.02.44:071][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.28-01.02.44:087][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.05.28-01.02.44:264][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.05.28-01.02.44:301][  0]LogAIModule: Creating AISystem for world MainMenu
+[2021.05.28-01.02.45:340][  0]LogTexture: Display: Building textures: T_CharM_Base_D (DXT1, 1024X1024)
+[2021.05.28-01.02.52:090][  0]LogTexture: Display: Building textures: T_CharM_Base_N (BC5, 1024X1024)
+[2021.05.28-01.02.52:740][  0]LogMaterial: Display: Missing cached shader map for material M_CharM_Base, compiling. 
+[2021.05.28-01.02.53:118][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2021.05.28-01.02.53:118][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.05.28-01.02.53:118][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2021.05.28-01.02.53:118][  0]LogSkeletalMesh: Building Skeletal Mesh sk_CharM_Base...
+[2021.05.28-01.02.53:213][  0]LogSkeletalMesh: Built Skeletal Mesh [0.11s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/sk_CharM_Base.sk_CharM_Base
+[2021.05.28-01.02.53:431][  0]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.05.28-01.02.53:441][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeWarriors/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2021.05.28-01.02.53:441][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeWarriors/Animations/ThirdPersonRun.ThirdPersonRun
+[2021.05.28-01.02.53:443][  0]LogWorld: Bringing World /Game/Maps/MainMenu.MainMenu up for play (max tick rate 0) at 2021.05.28-09.02.53
+[2021.05.28-01.02.53:443][  0]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.05.28-01.02.53:444][  0]LogWorld: Bringing up level for play took: 0.002883
+[2021.05.28-01.02.53:446][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.28-01.02.53:665][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.28-01.02.53:680][  0]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.28-01.02.53:795][  0]LogLoad: Took 9.790131 seconds to LoadMap(/Game/Maps/MainMenu)
+[2021.05.28-01.02.54:642][  0]LogSlate: Took 0.009836 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.28-01.02.54:971][  0]LogRenderer: Reallocating scene render targets to support 1244x716 Format 10 NumSamples 1 (Frame:1).
+[2021.05.28-01.02.54:971][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.28-01.02.54:971][  0]LogLoad: (Engine Initialization) Total time: 35.85 seconds
+[2021.05.28-01.02.54:971][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.28-01.02.54:971][  0]LogInit: First time updating LLM stats...
+[2021.05.28-01.03.03:714][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.05.28-01.03.03:724][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-01.03.05:538][  1]LogSlate: Took 0.001613 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.28-01.03.05:615][  2]LogAudio: Display: Waited 47.001202 ms for audio thread.
+[2021.05.28-01.03.05:650][  2]LogAudio: Display: Waited 81.641998 ms for audio thread.
+[2021.05.28-01.03.05:691][  2]LogAudio: Display: Waited 123.134399 ms for audio thread.
+[2021.05.28-01.03.05:731][  2]LogAudio: Display: Waited 162.602097 ms for audio thread.
+[2021.05.28-01.03.05:774][  2]LogAudio: Display: Waited 206.469894 ms for audio thread.
+[2021.05.28-01.03.05:825][  2]LogAudio: Display: Waited 257.606293 ms for audio thread.
+[2021.05.28-01.03.05:883][  2]LogAudio: Display: Waited 315.242889 ms for audio thread.
+[2021.05.28-01.03.05:950][  2]LogAudio: Display: Waited 381.966492 ms for audio thread.
+[2021.05.28-01.03.05:986][  2]LogAudio: Display: Waited 418.273499 ms for audio thread.
+[2021.05.28-01.03.06:034][  2]LogAudio: Display: Waited 466.700806 ms for audio thread.
+[2021.05.28-01.03.06:079][  2]LogAudio: Display: Waited 511.041687 ms for audio thread.
+[2021.05.28-01.03.06:133][  2]LogAudio: Display: Waited 565.395874 ms for audio thread.
+[2021.05.28-01.03.06:173][  2]LogAudio: Display: Waited 605.381775 ms for audio thread.
+[2021.05.28-01.03.06:184][  2]LogAudio: Display: Waited 616.413696 ms for audio thread.
+[2021.05.28-01.03.06:599][  4]LogAudio: Display: Waited 44.168201 ms for audio thread.
+[2021.05.28-01.03.06:649][  4]LogAudio: Display: Waited 93.998100 ms for audio thread.
+[2021.05.28-01.03.06:685][  4]LogAudio: Display: Waited 130.074310 ms for audio thread.
+[2021.05.28-01.03.06:721][  4]LogAudio: Display: Waited 166.251099 ms for audio thread.
+[2021.05.28-01.03.06:776][  4]LogAudio: Display: Waited 220.940308 ms for audio thread.
+[2021.05.28-01.03.06:825][  4]LogAudio: Display: Waited 270.439789 ms for audio thread.
+[2021.05.28-01.03.06:872][  4]LogAudio: Display: Waited 317.898407 ms for audio thread.
+[2021.05.28-01.03.06:916][  4]LogAudio: Display: Waited 361.419403 ms for audio thread.
+[2021.05.28-01.03.06:962][  4]LogAudio: Display: Waited 408.201385 ms for audio thread.
+[2021.05.28-01.03.07:000][  4]LogAudio: Display: Waited 445.223694 ms for audio thread.
+[2021.05.28-01.03.07:039][  4]LogAudio: Display: Waited 484.557587 ms for audio thread.
+[2021.05.28-01.03.07:070][  4]LogAudio: Display: Waited 515.344788 ms for audio thread.
+[2021.05.28-01.03.07:185][  6]LogAudio: Display: Waited 51.235298 ms for audio thread.
+[2021.05.28-01.03.07:192][  6]LogAudio: Display: Waited 59.753998 ms for audio thread.
+[2021.05.28-01.03.07:814][  8]LogAudio: Display: Waited 36.691597 ms for audio thread.
+[2021.05.28-01.03.07:870][  8]LogAudio: Display: Waited 92.014198 ms for audio thread.
+[2021.05.28-01.03.07:911][  8]LogAudio: Display: Waited 132.160309 ms for audio thread.
+[2021.05.28-01.03.07:971][  8]LogAudio: Display: Waited 192.927002 ms for audio thread.
+[2021.05.28-01.03.08:022][  8]LogAudio: Display: Waited 243.514496 ms for audio thread.
+[2021.05.28-01.03.08:060][  8]LogAudio: Display: Waited 282.158997 ms for audio thread.
+[2021.05.28-01.03.08:102][  8]LogAudio: Display: Waited 323.617493 ms for audio thread.
+[2021.05.28-01.03.08:163][  8]LogAudio: Display: Waited 385.128418 ms for audio thread.
+[2021.05.28-01.03.08:211][  8]LogAudio: Display: Waited 433.273926 ms for audio thread.
+[2021.05.28-01.03.08:254][  8]LogAudio: Display: Waited 475.277100 ms for audio thread.
+[2021.05.28-01.03.08:316][  8]LogAudio: Display: Waited 537.595398 ms for audio thread.
+[2021.05.28-01.03.08:351][  8]LogAudio: Display: Waited 573.021606 ms for audio thread.
+[2021.05.28-01.03.08:391][  8]LogAudio: Display: Waited 613.066956 ms for audio thread.
+[2021.05.28-01.03.08:429][  8]LogAudio: Display: Waited 650.994019 ms for audio thread.
+[2021.05.28-01.03.08:475][  8]LogAudio: Display: Waited 696.943970 ms for audio thread.
+[2021.05.28-01.03.08:511][  8]LogAudio: Display: Waited 733.037720 ms for audio thread.
+[2021.05.28-01.03.08:553][  8]LogAudio: Display: Waited 775.748596 ms for audio thread.
+[2021.05.28-01.03.08:591][  8]LogAudio: Display: Waited 813.603271 ms for audio thread.
+[2021.05.28-01.03.08:637][  8]LogAudio: Display: Waited 857.901367 ms for audio thread.
+[2021.05.28-01.03.08:673][  8]LogAudio: Display: Waited 894.513489 ms for audio thread.
+[2021.05.28-01.03.08:711][  8]LogAudio: Display: Waited 933.168884 ms for audio thread.
+[2021.05.28-01.03.08:772][  8]LogAudio: Display: Waited 994.079407 ms for audio thread.
+[2021.05.28-01.03.08:812][  8]LogAudio: Display: Waited 1034.054932 ms for audio thread.
+[2021.05.28-01.03.08:860][  8]LogAudio: Display: Waited 1081.717285 ms for audio thread.
+[2021.05.28-01.03.08:905][  8]LogAudio: Display: Waited 1126.918457 ms for audio thread.
+[2021.05.28-01.03.08:952][  8]LogAudio: Display: Waited 1174.712280 ms for audio thread.
+[2021.05.28-01.03.08:999][  8]LogAudio: Display: Waited 1220.265747 ms for audio thread.
+[2021.05.28-01.03.09:043][  8]LogAudio: Display: Waited 1264.273071 ms for audio thread.
+[2021.05.28-01.03.09:087][  8]LogAudio: Display: Waited 1308.337158 ms for audio thread.
+[2021.05.28-01.03.09:123][  8]LogAudio: Display: Waited 1345.401855 ms for audio thread.
+[2021.05.28-01.03.09:175][  8]LogAudio: Display: Waited 1397.238159 ms for audio thread.
+[2021.05.28-01.03.09:224][  8]LogAudio: Display: Waited 1445.560425 ms for audio thread.
+[2021.05.28-01.03.09:272][  8]LogAudio: Display: Waited 1493.819458 ms for audio thread.
+[2021.05.28-01.03.09:314][  8]LogAudio: Display: Waited 1536.091431 ms for audio thread.
+[2021.05.28-01.03.09:325][  8]LogAudio: Display: Waited 1547.435791 ms for audio thread.
+[2021.05.28-01.03.09:804][ 12]LogAudio: Display: Waited 44.041000 ms for audio thread.
+[2021.05.28-01.03.09:873][ 12]LogAudio: Display: Waited 114.425003 ms for audio thread.
+[2021.05.28-01.03.09:915][ 12]LogAudio: Display: Waited 155.283096 ms for audio thread.
+[2021.05.28-01.03.09:970][ 12]LogAudio: Display: Waited 210.920090 ms for audio thread.
+[2021.05.28-01.03.10:023][ 12]LogAudio: Display: Waited 263.337921 ms for audio thread.
+[2021.05.28-01.03.10:089][ 12]LogAudio: Display: Waited 330.057007 ms for audio thread.
+[2021.05.28-01.03.10:132][ 12]LogAudio: Display: Waited 373.437714 ms for audio thread.
+[2021.05.28-01.03.10:171][ 12]LogAudio: Display: Waited 411.237000 ms for audio thread.
+[2021.05.28-01.03.10:213][ 12]LogAudio: Display: Waited 453.412292 ms for audio thread.
+[2021.05.28-01.03.10:248][ 12]LogAudio: Display: Waited 489.040924 ms for audio thread.
+[2021.05.28-01.03.10:305][ 12]LogAudio: Display: Waited 545.927307 ms for audio thread.
+[2021.05.28-01.03.10:349][ 12]LogAudio: Display: Waited 588.988159 ms for audio thread.
+[2021.05.28-01.03.10:412][ 12]LogAudio: Display: Waited 652.292358 ms for audio thread.
+[2021.05.28-01.03.10:453][ 12]LogAudio: Display: Waited 693.558594 ms for audio thread.
+[2021.05.28-01.03.10:502][ 12]LogAudio: Display: Waited 742.850708 ms for audio thread.
+[2021.05.28-01.03.10:550][ 12]LogAudio: Display: Waited 791.029663 ms for audio thread.
+[2021.05.28-01.03.10:599][ 12]LogAudio: Display: Waited 839.351624 ms for audio thread.
+[2021.05.28-01.03.10:646][ 12]LogAudio: Display: Waited 886.072693 ms for audio thread.
+[2021.05.28-01.03.10:691][ 12]LogAudio: Display: Waited 932.333313 ms for audio thread.
+[2021.05.28-01.03.10:739][ 12]LogAudio: Display: Waited 980.269165 ms for audio thread.
+[2021.05.28-01.03.10:802][ 12]LogAudio: Display: Waited 1042.915649 ms for audio thread.
+[2021.05.28-01.03.10:876][ 12]LogAudio: Display: Waited 1116.487671 ms for audio thread.
+[2021.05.28-01.03.10:921][ 12]LogAudio: Display: Waited 1162.342773 ms for audio thread.
+[2021.05.28-01.03.10:959][ 12]LogAudio: Display: Waited 1199.322388 ms for audio thread.
+[2021.05.28-01.03.10:968][ 12]LogAudio: Display: Waited 1208.887085 ms for audio thread.
+[2021.05.28-01.03.11:733][ 16]LogAudio: Display: Waited 37.409000 ms for audio thread.
+[2021.05.28-01.03.11:749][ 16]LogAudio: Display: Waited 54.118702 ms for audio thread.
+[2021.05.28-01.03.11:975][ 20]LogAudio: Display: Waited 55.645298 ms for audio thread.
+[2021.05.28-01.03.12:019][ 20]LogAudio: Display: Waited 100.327003 ms for audio thread.
+[2021.05.28-01.03.12:046][ 20]LogAudio: Display: Waited 127.319099 ms for audio thread.
+[2021.05.28-01.03.12:342][ 23]LogAudio: Display: Waited 40.252998 ms for audio thread.
+[2021.05.28-01.03.12:382][ 23]LogAudio: Display: Waited 80.182701 ms for audio thread.
+[2021.05.28-01.03.12:388][ 23]LogAudio: Display: Waited 86.685005 ms for audio thread.
+[2021.05.28-01.03.12:570][ 27]LogAudio: Display: Waited 35.392002 ms for audio thread.
+[2021.05.28-01.03.12:609][ 27]LogAudio: Display: Waited 74.532700 ms for audio thread.
+[2021.05.28-01.03.12:610][ 27]LogAudio: Display: Waited 75.649101 ms for audio thread.
+[2021.05.28-01.03.13:141][ 33]LogAudio: Display: Waited 43.166000 ms for audio thread.
+[2021.05.28-01.03.13:167][ 33]LogAudio: Display: Waited 68.282997 ms for audio thread.
+[2021.05.28-01.03.13:497][ 36]LogAudio: Display: Waited 48.929901 ms for audio thread.
+[2021.05.28-01.03.13:533][ 36]LogAudio: Display: Waited 85.072304 ms for audio thread.
+[2021.05.28-01.03.13:537][ 36]LogAudio: Display: Waited 89.048401 ms for audio thread.
+[2021.05.28-01.03.13:830][ 40]LogAudio: Display: Waited 39.875702 ms for audio thread.
+[2021.05.28-01.03.13:841][ 40]LogAudio: Display: Waited 50.792297 ms for audio thread.
+[2021.05.28-01.03.14:587][ 48]LogAudio: Display: Waited 38.442398 ms for audio thread.
+[2021.05.28-01.03.14:627][ 48]LogAudio: Display: Waited 79.124397 ms for audio thread.
+[2021.05.28-01.03.14:674][ 48]LogAudio: Display: Waited 126.078995 ms for audio thread.
+[2021.05.28-01.03.14:744][ 48]LogAudio: Display: Waited 196.233307 ms for audio thread.
+[2021.05.28-01.03.14:757][ 48]LogAudio: Display: Waited 208.819107 ms for audio thread.
+[2021.05.28-01.03.14:869][ 51]LogAudio: Display: Waited 37.848701 ms for audio thread.
+[2021.05.28-01.03.14:910][ 51]LogAudio: Display: Waited 78.525200 ms for audio thread.
+[2021.05.28-01.03.14:952][ 51]LogAudio: Display: Waited 121.209702 ms for audio thread.
+[2021.05.28-01.03.14:973][ 51]LogAudio: Display: Waited 142.020203 ms for audio thread.
+[2021.05.28-01.03.15:065][ 53]LogAudio: Display: Waited 56.037399 ms for audio thread.
+[2021.05.28-01.03.15:104][ 53]LogAudio: Display: Waited 94.633896 ms for audio thread.
+[2021.05.28-01.03.15:145][ 53]LogAudio: Display: Waited 135.551605 ms for audio thread.
+[2021.05.28-01.03.15:151][ 53]LogAudio: Display: Waited 141.755096 ms for audio thread.
+[2021.05.28-01.03.15:314][ 55]LogAudio: Display: Waited 58.475403 ms for audio thread.
+[2021.05.28-01.03.15:350][ 55]LogAudio: Display: Waited 94.116898 ms for audio thread.
+[2021.05.28-01.03.15:389][ 55]LogAudio: Display: Waited 133.778000 ms for audio thread.
+[2021.05.28-01.03.15:399][ 55]LogAudio: Display: Waited 143.324112 ms for audio thread.
+[2021.05.28-01.03.19:293][101]LogAudio: Display: Waited 51.512600 ms for audio thread.
+[2021.05.28-01.03.19:313][101]LogAudio: Display: Waited 71.756203 ms for audio thread.
+[2021.05.28-01.03.20:232][112]LogAudio: Display: Waited 43.978100 ms for audio thread.
+[2021.05.28-01.03.20:235][112]LogAudio: Display: Waited 47.377300 ms for audio thread.
+[2021.05.28-01.03.21:015][121]LogAudio: Display: Waited 44.077602 ms for audio thread.
+[2021.05.28-01.03.21:019][121]LogAudio: Display: Waited 48.276699 ms for audio thread.
+[2021.05.28-01.03.21:469][127]LogAudio: Display: Waited 37.436100 ms for audio thread.
+[2021.05.28-01.03.21:473][127]LogAudio: Display: Waited 41.485001 ms for audio thread.
+[2021.05.28-01.03.21:775][131]LogAudio: Display: Waited 35.768101 ms for audio thread.
+[2021.05.28-01.03.21:786][131]LogAudio: Display: Waited 46.781101 ms for audio thread.
+[2021.05.28-01.03.22:311][137]LogAudio: Display: Waited 51.884098 ms for audio thread.
+[2021.05.28-01.03.22:313][137]LogAudio: Display: Waited 53.086002 ms for audio thread.
+[2021.05.28-01.03.24:206][158]LogAudio: Display: Waited 43.122601 ms for audio thread.
+[2021.05.28-01.03.24:251][158]LogAudio: Display: Waited 88.210800 ms for audio thread.
+[2021.05.28-01.03.24:292][158]LogAudio: Display: Waited 128.651505 ms for audio thread.
+[2021.05.28-01.03.24:320][158]LogAudio: Display: Waited 157.120697 ms for audio thread.
+[2021.05.28-01.03.24:383][159]LogAudio: Display: Waited 49.677700 ms for audio thread.
+[2021.05.28-01.03.24:383][159]LogAudio: Display: Waited 50.362801 ms for audio thread.
+[2021.05.28-01.03.24:431][160]LogAudio: Display: Waited 37.453300 ms for audio thread.
+[2021.05.28-01.03.24:475][160]LogAudio: Display: Waited 81.200600 ms for audio thread.
+[2021.05.28-01.03.24:512][160]LogAudio: Display: Waited 118.445900 ms for audio thread.
+[2021.05.28-01.03.24:556][160]LogAudio: Display: Waited 162.412399 ms for audio thread.
+[2021.05.28-01.03.24:571][160]LogAudio: Display: Waited 177.305695 ms for audio thread.
+[2021.05.28-01.03.24:631][161]LogAudio: Display: Waited 50.106701 ms for audio thread.
+[2021.05.28-01.03.24:633][161]LogAudio: Display: Waited 51.472900 ms for audio thread.
+[2021.05.28-01.03.24:685][162]LogAudio: Display: Waited 40.360802 ms for audio thread.
+[2021.05.28-01.03.24:695][162]LogAudio: Display: Waited 49.964397 ms for audio thread.
+[2021.05.28-01.03.24:754][163]LogAudio: Display: Waited 38.027599 ms for audio thread.
+[2021.05.28-01.03.24:782][163]LogAudio: Display: Waited 65.701797 ms for audio thread.
+[2021.05.28-01.03.24:883][165]LogAudio: Display: Waited 45.557301 ms for audio thread.
+[2021.05.28-01.03.24:904][165]LogAudio: Display: Waited 65.759300 ms for audio thread.
+[2021.05.28-01.03.24:963][166]LogAudio: Display: Waited 51.251698 ms for audio thread.
+[2021.05.28-01.03.24:964][166]LogAudio: Display: Waited 52.511902 ms for audio thread.
+[2021.05.28-01.03.25:022][167]LogAudio: Display: Waited 44.211498 ms for audio thread.
+[2021.05.28-01.03.25:050][167]LogAudio: Display: Waited 71.973007 ms for audio thread.
+[2021.05.28-01.03.25:116][168]LogAudio: Display: Waited 41.317200 ms for audio thread.
+[2021.05.28-01.03.25:136][168]LogAudio: Display: Waited 60.833099 ms for audio thread.
+[2021.05.28-01.03.25:321][171]LogAudio: Display: Waited 51.185299 ms for audio thread.
+[2021.05.28-01.03.25:375][171]LogAudio: Display: Waited 105.193604 ms for audio thread.
+[2021.05.28-01.03.25:419][171]LogAudio: Display: Waited 149.607010 ms for audio thread.
+[2021.05.28-01.03.25:441][171]LogAudio: Display: Waited 171.340790 ms for audio thread.
+[2021.05.28-01.03.25:702][176]LogAudio: Display: Waited 50.760002 ms for audio thread.
+[2021.05.28-01.03.25:742][176]LogAudio: Display: Waited 91.102196 ms for audio thread.
+[2021.05.28-01.03.25:780][176]LogAudio: Display: Waited 129.128906 ms for audio thread.
+[2021.05.28-01.03.25:815][176]LogAudio: Display: Waited 164.366501 ms for audio thread.
+[2021.05.28-01.03.25:862][177]LogAudio: Display: Waited 37.405403 ms for audio thread.
+[2021.05.28-01.03.25:864][177]LogAudio: Display: Waited 39.899498 ms for audio thread.
+[2021.05.28-01.03.25:918][178]LogAudio: Display: Waited 38.538700 ms for audio thread.
+[2021.05.28-01.03.25:923][178]LogAudio: Display: Waited 47.082901 ms for audio thread.
+[2021.05.28-01.03.25:996][179]LogAudio: Display: Waited 47.002300 ms for audio thread.
+[2021.05.28-01.03.26:001][179]LogAudio: Display: Waited 52.476101 ms for audio thread.
+[2021.05.28-01.03.26:231][182]LogAudio: Display: Waited 39.914501 ms for audio thread.
+[2021.05.28-01.03.26:267][182]LogAudio: Display: Waited 76.647202 ms for audio thread.
+[2021.05.28-01.03.26:272][182]LogAudio: Display: Waited 81.116104 ms for audio thread.
+[2021.05.28-01.03.26:670][187]LogAudio: Display: Waited 38.582298 ms for audio thread.
+[2021.05.28-01.03.26:684][187]LogAudio: Display: Waited 52.838600 ms for audio thread.
+[2021.05.28-01.03.26:738][188]LogAudio: Display: Waited 44.286602 ms for audio thread.
+[2021.05.28-01.03.26:748][188]LogAudio: Display: Waited 54.268501 ms for audio thread.
+[2021.05.28-01.03.26:813][189]LogAudio: Display: Waited 45.965702 ms for audio thread.
+[2021.05.28-01.03.26:815][189]LogAudio: Display: Waited 47.805500 ms for audio thread.
+[2021.05.28-01.03.27:122][193]LogAudio: Display: Waited 46.381599 ms for audio thread.
+[2021.05.28-01.03.27:149][193]LogAudio: Display: Waited 73.810303 ms for audio thread.
+[2021.05.28-01.03.27:193][194]LogAudio: Display: Waited 36.238998 ms for audio thread.
+[2021.05.28-01.03.27:193][194]LogAudio: Display: Waited 36.551800 ms for audio thread.
+[2021.05.28-01.03.27:390][197]LogAudio: Display: Waited 37.109798 ms for audio thread.
+[2021.05.28-01.03.27:415][197]LogAudio: Display: Waited 61.941601 ms for audio thread.
+[2021.05.28-01.03.27:570][200]LogAudio: Display: Waited 36.150398 ms for audio thread.
+[2021.05.28-01.03.27:607][200]LogAudio: Display: Waited 73.466705 ms for audio thread.
+[2021.05.28-01.03.27:643][200]LogAudio: Display: Waited 108.793602 ms for audio thread.
+[2021.05.28-01.03.27:653][200]LogAudio: Display: Waited 119.434807 ms for audio thread.
+[2021.05.28-01.03.27:839][203]LogAudio: Display: Waited 37.175201 ms for audio thread.
+[2021.05.28-01.03.27:883][203]LogAudio: Display: Waited 81.308296 ms for audio thread.
+[2021.05.28-01.03.27:922][203]LogAudio: Display: Waited 120.682899 ms for audio thread.
+[2021.05.28-01.03.27:931][203]LogAudio: Display: Waited 129.623001 ms for audio thread.
+[2021.05.28-01.03.27:981][204]LogAudio: Display: Waited 39.451202 ms for audio thread.
+[2021.05.28-01.03.27:995][204]LogAudio: Display: Waited 53.754402 ms for audio thread.
+[2021.05.28-01.03.28:138][207]LogAudio: Display: Waited 48.409901 ms for audio thread.
+[2021.05.28-01.03.28:174][207]LogAudio: Display: Waited 84.019302 ms for audio thread.
+[2021.05.28-01.03.28:208][207]LogAudio: Display: Waited 118.740204 ms for audio thread.
+[2021.05.28-01.03.28:845][215]LogAudio: Display: Waited 35.106598 ms for audio thread.
+[2021.05.28-01.03.30:355][232]LogAudio: Display: Waited 35.727100 ms for audio thread.
+[2021.05.28-01.03.30:391][232]LogAudio: Display: Waited 71.710602 ms for audio thread.
+[2021.05.28-01.03.30:394][232]LogAudio: Display: Waited 74.955101 ms for audio thread.
+[2021.05.28-01.03.30:875][239]LogAudio: Display: Waited 39.815601 ms for audio thread.
+[2021.05.28-01.03.30:882][239]LogAudio: Display: Waited 47.046402 ms for audio thread.
+[2021.05.28-01.03.31:215][242]LogAudio: Display: Waited 61.564899 ms for audio thread.
+[2021.05.28-01.03.31:218][242]LogAudio: Display: Waited 65.330101 ms for audio thread.
+[2021.05.28-01.03.32:356][255]LogAudio: Display: Waited 37.163803 ms for audio thread.
+[2021.05.28-01.03.32:391][255]LogAudio: Display: Waited 72.320297 ms for audio thread.
+[2021.05.28-01.03.33:063][263]LogAudio: Display: Waited 39.213898 ms for audio thread.
+[2021.05.28-01.03.33:066][263]LogAudio: Display: Waited 42.292503 ms for audio thread.
+[2021.05.28-01.03.33:210][265]LogAudio: Display: Waited 40.724899 ms for audio thread.
+[2021.05.28-01.03.33:213][265]LogAudio: Display: Waited 43.428501 ms for audio thread.
+[2021.05.28-01.03.34:731][281]LogAudio: Display: Waited 37.125698 ms for audio thread.
+[2021.05.28-01.03.34:769][281]LogAudio: Display: Waited 75.332100 ms for audio thread.
+[2021.05.28-01.03.34:812][281]LogAudio: Display: Waited 118.835701 ms for audio thread.
+[2021.05.28-01.03.34:830][281]LogAudio: Display: Waited 136.437195 ms for audio thread.
+[2021.05.28-01.03.34:881][282]LogAudio: Display: Waited 40.561298 ms for audio thread.
+[2021.05.28-01.03.34:918][282]LogAudio: Display: Waited 78.071198 ms for audio thread.
+[2021.05.28-01.03.34:942][282]LogAudio: Display: Waited 102.446396 ms for audio thread.
+[2021.05.28-01.03.34:992][283]LogAudio: Display: Waited 44.128300 ms for audio thread.
+[2021.05.28-01.03.35:010][283]LogAudio: Display: Waited 62.412800 ms for audio thread.
+[2021.05.28-01.03.35:075][284]LogAudio: Display: Waited 49.793102 ms for audio thread.
+[2021.05.28-01.03.35:110][284]LogAudio: Display: Waited 85.024696 ms for audio thread.
+[2021.05.28-01.03.35:154][285]LogAudio: Display: Waited 38.109200 ms for audio thread.
+[2021.05.28-01.03.35:155][285]LogAudio: Display: Waited 39.998199 ms for audio thread.
+[2021.05.28-01.03.35:400][288]LogAudio: Display: Waited 45.308899 ms for audio thread.
+[2021.05.28-01.03.35:436][288]LogAudio: Display: Waited 81.331497 ms for audio thread.
+[2021.05.28-01.03.35:438][288]LogAudio: Display: Waited 84.228203 ms for audio thread.
+[2021.05.28-01.03.35:659][292]LogAudio: Display: Waited 35.498100 ms for audio thread.
+[2021.05.28-01.03.35:695][292]LogAudio: Display: Waited 70.810799 ms for audio thread.
+[2021.05.28-01.03.35:737][292]LogAudio: Display: Waited 112.504700 ms for audio thread.
+[2021.05.28-01.03.35:784][292]LogAudio: Display: Waited 159.927902 ms for audio thread.
+[2021.05.28-01.03.35:826][292]LogAudio: Display: Waited 202.225891 ms for audio thread.
+[2021.05.28-01.03.35:855][292]LogAudio: Display: Waited 230.829590 ms for audio thread.
+[2021.05.28-01.03.36:201][297]LogAudio: Display: Waited 40.677399 ms for audio thread.
+[2021.05.28-01.03.36:233][297]LogAudio: Display: Waited 72.769699 ms for audio thread.
+[2021.05.28-01.03.36:279][298]LogAudio: Display: Waited 36.339600 ms for audio thread.
+[2021.05.28-01.03.36:306][298]LogAudio: Display: Waited 64.054001 ms for audio thread.
+[2021.05.28-01.03.36:350][299]LogAudio: Display: Waited 36.379299 ms for audio thread.
+[2021.05.28-01.03.36:356][299]LogAudio: Display: Waited 41.476902 ms for audio thread.
+[2021.05.28-01.03.36:408][300]LogAudio: Display: Waited 39.133102 ms for audio thread.
+[2021.05.28-01.03.36:433][300]LogAudio: Display: Waited 63.949696 ms for audio thread.
+[2021.05.28-01.03.36:651][303]LogAudio: Display: Waited 51.308701 ms for audio thread.
+[2021.05.28-01.03.36:691][303]LogAudio: Display: Waited 92.071304 ms for audio thread.
+[2021.05.28-01.03.36:721][303]LogAudio: Display: Waited 121.969498 ms for audio thread.
+[2021.05.28-01.03.36:771][304]LogAudio: Display: Waited 42.285099 ms for audio thread.
+[2021.05.28-01.03.36:781][304]LogAudio: Display: Waited 52.240498 ms for audio thread.
+[2021.05.28-01.03.36:831][305]LogAudio: Display: Waited 39.958298 ms for audio thread.
+[2021.05.28-01.03.36:869][305]LogAudio: Display: Waited 78.169006 ms for audio thread.
+[2021.05.28-01.03.36:870][305]LogAudio: Display: Waited 78.624802 ms for audio thread.
+[2021.05.28-01.03.36:913][306]LogAudio: Display: Waited 38.302399 ms for audio thread.
+[2021.05.28-01.03.36:936][306]LogAudio: Display: Waited 60.930599 ms for audio thread.
+[2021.05.28-01.03.37:177][309]LogAudio: Display: Waited 37.066399 ms for audio thread.
+[2021.05.28-01.03.37:236][309]LogAudio: Display: Waited 95.976097 ms for audio thread.
+[2021.05.28-01.03.37:308][309]LogAudio: Display: Waited 168.333496 ms for audio thread.
+[2021.05.28-01.03.37:421][309]LogAudio: Display: Waited 280.841583 ms for audio thread.
+[2021.05.28-01.03.37:442][309]LogAudio: Display: Waited 301.522919 ms for audio thread.
+[2021.05.28-01.03.37:534][312]LogAudio: Display: Waited 47.606503 ms for audio thread.
+[2021.05.28-01.03.37:583][312]LogAudio: Display: Waited 95.994499 ms for audio thread.
+[2021.05.28-01.03.37:589][312]LogAudio: Display: Waited 102.480797 ms for audio thread.
+[2021.05.28-01.03.37:683][314]LogAudio: Display: Waited 44.579903 ms for audio thread.
+[2021.05.28-01.03.37:719][314]LogAudio: Display: Waited 80.677597 ms for audio thread.
+[2021.05.28-01.03.37:766][314]LogAudio: Display: Waited 127.294899 ms for audio thread.
+[2021.05.28-01.03.37:828][314]LogAudio: Display: Waited 189.962891 ms for audio thread.
+[2021.05.28-01.03.37:889][314]LogAudio: Display: Waited 249.925201 ms for audio thread.
+[2021.05.28-01.03.37:952][314]LogAudio: Display: Waited 313.255920 ms for audio thread.
+[2021.05.28-01.03.37:989][314]LogAudio: Display: Waited 351.080597 ms for audio thread.
+[2021.05.28-01.03.38:056][314]LogAudio: Display: Waited 417.535706 ms for audio thread.
+[2021.05.28-01.03.38:093][314]LogAudio: Display: Waited 453.967987 ms for audio thread.
+[2021.05.28-01.03.38:168][314]LogAudio: Display: Waited 529.330933 ms for audio thread.
+[2021.05.28-01.03.38:222][314]LogAudio: Display: Waited 582.852295 ms for audio thread.
+[2021.05.28-01.03.38:291][314]LogAudio: Display: Waited 652.019775 ms for audio thread.
+[2021.05.28-01.03.38:327][314]LogAudio: Display: Waited 688.512939 ms for audio thread.
+[2021.05.28-01.03.38:328][314]LogAudio: Display: Waited 688.912537 ms for audio thread.
+[2021.05.28-01.03.38:642][319]LogAudio: Display: Waited 37.657398 ms for audio thread.
+[2021.05.28-01.03.38:649][319]LogAudio: Display: Waited 44.418301 ms for audio thread.
+[2021.05.28-01.03.38:700][320]LogAudio: Display: Waited 40.740200 ms for audio thread.
+[2021.05.28-01.03.38:725][320]LogAudio: Display: Waited 65.746002 ms for audio thread.
+[2021.05.28-01.03.39:054][324]LogAudio: Display: Waited 39.863899 ms for audio thread.
+[2021.05.28-01.03.39:072][324]LogAudio: Display: Waited 58.150200 ms for audio thread.
+[2021.05.28-01.03.39:120][325]LogAudio: Display: Waited 41.227898 ms for audio thread.
+[2021.05.28-01.03.39:133][325]LogAudio: Display: Waited 54.484501 ms for audio thread.
+[2021.05.28-01.03.41:538][341]LogAudio: Display: Waited 38.082203 ms for audio thread.
+[2021.05.28-01.03.41:556][341]LogAudio: Display: Waited 55.867401 ms for audio thread.
+[2021.05.28-01.03.41:617][342]LogAudio: Display: Waited 38.412197 ms for audio thread.
+[2021.05.28-01.03.41:631][342]LogAudio: Display: Waited 52.754902 ms for audio thread.
+[2021.05.28-01.03.44:057][371]LogAudio: Display: Waited 35.364700 ms for audio thread.
+[2021.05.28-01.03.44:093][371]LogAudio: Display: Waited 72.175896 ms for audio thread.
+[2021.05.28-01.03.44:094][371]LogAudio: Display: Waited 72.617302 ms for audio thread.
+[2021.05.28-01.03.44:231][373]LogAudio: Display: Waited 71.644402 ms for audio thread.
+[2021.05.28-01.03.44:234][373]LogAudio: Display: Waited 74.571800 ms for audio thread.
+[2021.05.28-01.03.44:470][377]LogAudio: Display: Waited 49.911701 ms for audio thread.
+[2021.05.28-01.03.44:506][377]LogAudio: Display: Waited 85.159401 ms for audio thread.
+[2021.05.28-01.03.44:514][377]LogAudio: Display: Waited 93.752602 ms for audio thread.
+[2021.05.28-01.03.45:960][395]LogAudio: Display: Waited 38.087299 ms for audio thread.
+[2021.05.28-01.03.45:988][395]LogAudio: Display: Waited 66.648605 ms for audio thread.
+[2021.05.28-01.03.46:769][404]LogAudio: Display: Waited 52.826302 ms for audio thread.
+[2021.05.28-01.03.46:811][404]LogAudio: Display: Waited 94.617798 ms for audio thread.
+[2021.05.28-01.03.46:816][404]LogAudio: Display: Waited 99.843193 ms for audio thread.
+[2021.05.28-01.03.46:861][405]LogAudio: Display: Waited 37.165798 ms for audio thread.
+[2021.05.28-01.03.46:865][405]LogAudio: Display: Waited 41.021500 ms for audio thread.
+[2021.05.28-01.03.47:041][408]LogAudio: Display: Waited 39.986000 ms for audio thread.
+[2021.05.28-01.03.47:082][408]LogAudio: Display: Waited 80.949402 ms for audio thread.
+[2021.05.28-01.03.47:085][408]LogAudio: Display: Waited 84.141800 ms for audio thread.
+[2021.05.28-01.03.47:269][410]LogAudio: Display: Waited 44.413200 ms for audio thread.
+[2021.05.28-01.03.47:312][410]LogAudio: Display: Waited 88.312904 ms for audio thread.
+[2021.05.28-01.03.47:353][410]LogAudio: Display: Waited 128.433899 ms for audio thread.
+[2021.05.28-01.03.47:399][410]LogAudio: Display: Waited 174.564697 ms for audio thread.
+[2021.05.28-01.03.47:400][410]LogAudio: Display: Waited 175.397308 ms for audio thread.
+[2021.05.28-01.03.47:687][414]LogAudio: Display: Waited 38.435398 ms for audio thread.
+[2021.05.28-01.03.47:727][414]LogAudio: Display: Waited 78.121605 ms for audio thread.
+[2021.05.28-01.03.47:763][414]LogAudio: Display: Waited 114.589401 ms for audio thread.
+[2021.05.28-01.03.47:788][414]LogAudio: Display: Waited 139.249496 ms for audio thread.
+[2021.05.28-01.03.47:872][416]LogAudio: Display: Waited 39.360199 ms for audio thread.
+[2021.05.28-01.03.47:899][416]LogAudio: Display: Waited 66.701897 ms for audio thread.
+[2021.05.28-01.03.48:071][418]LogAudio: Display: Waited 41.823498 ms for audio thread.
+[2021.05.28-01.03.48:109][418]LogAudio: Display: Waited 79.576797 ms for audio thread.
+[2021.05.28-01.03.48:148][418]LogAudio: Display: Waited 118.704803 ms for audio thread.
+[2021.05.28-01.03.48:188][418]LogAudio: Display: Waited 159.392990 ms for audio thread.
+[2021.05.28-01.03.48:194][418]LogAudio: Display: Waited 164.869095 ms for audio thread.
+[2021.05.28-01.03.48:392][421]LogAudio: Display: Waited 41.132900 ms for audio thread.
+[2021.05.28-01.03.48:438][421]LogAudio: Display: Waited 88.288498 ms for audio thread.
+[2021.05.28-01.03.48:475][421]LogAudio: Display: Waited 125.267998 ms for audio thread.
+[2021.05.28-01.03.48:490][421]LogAudio: Display: Waited 140.251801 ms for audio thread.
+[2021.05.28-01.03.48:649][424]LogAudio: Display: Waited 38.972099 ms for audio thread.
+[2021.05.28-01.03.48:687][424]LogAudio: Display: Waited 76.446396 ms for audio thread.
+[2021.05.28-01.03.48:723][424]LogAudio: Display: Waited 112.184998 ms for audio thread.
+[2021.05.28-01.03.48:760][424]LogAudio: Display: Waited 149.103500 ms for audio thread.
+[2021.05.28-01.03.48:802][424]LogAudio: Display: Waited 191.407501 ms for audio thread.
+[2021.05.28-01.03.48:839][424]LogAudio: Display: Waited 229.000107 ms for audio thread.
+[2021.05.28-01.03.48:842][424]LogAudio: Display: Waited 231.992310 ms for audio thread.
+[2021.05.28-01.03.48:934][426]LogAudio: Display: Waited 39.317204 ms for audio thread.
+[2021.05.28-01.03.48:973][426]LogAudio: Display: Waited 78.586494 ms for audio thread.
+[2021.05.28-01.03.49:021][426]LogAudio: Display: Waited 126.107697 ms for audio thread.
+[2021.05.28-01.03.49:058][426]LogAudio: Display: Waited 163.137299 ms for audio thread.
+[2021.05.28-01.03.49:059][426]LogAudio: Display: Waited 164.257706 ms for audio thread.
+[2021.05.28-01.03.49:841][431]LogAudio: Display: Waited 41.922001 ms for audio thread.
+[2021.05.28-01.03.49:886][431]LogAudio: Display: Waited 86.301399 ms for audio thread.
+[2021.05.28-01.03.49:932][431]LogAudio: Display: Waited 132.579590 ms for audio thread.
+[2021.05.28-01.03.49:974][431]LogAudio: Display: Waited 174.666199 ms for audio thread.
+[2021.05.28-01.03.50:027][431]LogAudio: Display: Waited 227.545105 ms for audio thread.
+[2021.05.28-01.03.50:035][431]LogAudio: Display: Waited 235.312698 ms for audio thread.
+[2021.05.28-01.03.50:077][432]LogAudio: Display: Waited 36.415901 ms for audio thread.
+[2021.05.28-01.03.50:093][432]LogAudio: Display: Waited 53.055698 ms for audio thread.
+[2021.05.28-01.03.50:150][433]LogAudio: Display: Waited 48.461002 ms for audio thread.
+[2021.05.28-01.03.50:186][433]LogAudio: Display: Waited 85.204201 ms for audio thread.
+[2021.05.28-01.03.50:191][433]LogAudio: Display: Waited 90.332001 ms for audio thread.
+[2021.05.28-01.03.50:415][434]LogAudio: Display: Waited 144.368301 ms for audio thread.
+[2021.05.28-01.03.50:421][434]LogAudio: Display: Waited 160.209595 ms for audio thread.
+[2021.05.28-01.03.50:889][441]LogAudio: Display: Waited 37.832001 ms for audio thread.
+[2021.05.28-01.03.50:890][441]LogAudio: Display: Waited 38.421097 ms for audio thread.
+[2021.05.28-01.03.51:129][447]LogAudio: Display: Waited 35.007301 ms for audio thread.
+[2021.05.28-01.03.51:419][453]LogAudio: Display: Waited 35.042599 ms for audio thread.
+[2021.05.28-01.03.51:460][453]LogAudio: Display: Waited 76.067795 ms for audio thread.
+[2021.05.28-01.03.51:470][453]LogAudio: Display: Waited 86.152298 ms for audio thread.
+[2021.05.28-01.03.51:621][457]LogAudio: Display: Waited 36.344200 ms for audio thread.
+[2021.05.28-01.03.51:624][457]LogAudio: Display: Waited 38.548599 ms for audio thread.
+[2021.05.28-01.03.52:246][466]LogAudio: Display: Waited 52.298901 ms for audio thread.
+[2021.05.28-01.03.52:252][466]LogAudio: Display: Waited 58.537598 ms for audio thread.
+[2021.05.28-01.03.52:311][468]LogAudio: Display: Waited 35.957897 ms for audio thread.
+[2021.05.28-01.03.52:311][468]LogAudio: Display: Waited 36.123398 ms for audio thread.
+[2021.05.28-01.03.52:789][477]LogAudio: Display: Waited 43.841999 ms for audio thread.
+[2021.05.28-01.03.52:805][477]LogAudio: Display: Waited 59.738300 ms for audio thread.
+[2021.05.28-01.03.55:322][513]LogAudio: Display: Waited 44.520699 ms for audio thread.
+[2021.05.28-01.03.55:361][513]LogAudio: Display: Waited 82.303802 ms for audio thread.
+[2021.05.28-01.03.55:405][513]LogAudio: Display: Waited 126.844498 ms for audio thread.
+[2021.05.28-01.03.55:441][513]LogAudio: Display: Waited 162.929596 ms for audio thread.
+[2021.05.28-01.03.55:488][513]LogAudio: Display: Waited 209.105804 ms for audio thread.
+[2021.05.28-01.03.55:525][513]LogAudio: Display: Waited 246.309204 ms for audio thread.
+[2021.05.28-01.03.55:561][513]LogAudio: Display: Waited 282.822021 ms for audio thread.
+[2021.05.28-01.03.55:601][513]LogAudio: Display: Waited 323.593597 ms for audio thread.
+[2021.05.28-01.03.55:644][513]LogAudio: Display: Waited 365.982422 ms for audio thread.
+[2021.05.28-01.03.55:684][513]LogAudio: Display: Waited 404.941498 ms for audio thread.
+[2021.05.28-01.03.55:725][513]LogAudio: Display: Waited 446.518311 ms for audio thread.
+[2021.05.28-01.03.55:768][513]LogAudio: Display: Waited 489.870026 ms for audio thread.
+[2021.05.28-01.03.55:808][513]LogAudio: Display: Waited 529.733887 ms for audio thread.
+[2021.05.28-01.03.55:844][513]LogAudio: Display: Waited 565.393799 ms for audio thread.
+[2021.05.28-01.03.55:862][513]LogAudio: Display: Waited 583.702942 ms for audio thread.
+[2021.05.28-01.03.56:079][515]LogAudio: Display: Waited 54.699303 ms for audio thread.
+[2021.05.28-01.03.56:132][515]LogAudio: Display: Waited 108.099197 ms for audio thread.
+[2021.05.28-01.03.56:173][515]LogAudio: Display: Waited 149.150192 ms for audio thread.
+[2021.05.28-01.03.56:218][515]LogAudio: Display: Waited 194.993011 ms for audio thread.
+[2021.05.28-01.03.56:224][515]LogAudio: Display: Waited 201.002808 ms for audio thread.
+[2021.05.28-01.03.56:823][517]LogAudio: Display: Waited 40.954197 ms for audio thread.
+[2021.05.28-01.03.56:864][517]LogAudio: Display: Waited 81.774895 ms for audio thread.
+[2021.05.28-01.03.56:904][517]LogAudio: Display: Waited 121.804604 ms for audio thread.
+[2021.05.28-01.03.56:940][517]LogAudio: Display: Waited 157.646103 ms for audio thread.
+[2021.05.28-01.03.56:987][517]LogAudio: Display: Waited 204.632111 ms for audio thread.
+[2021.05.28-01.03.57:028][517]LogAudio: Display: Waited 245.956787 ms for audio thread.
+[2021.05.28-01.03.57:067][517]LogAudio: Display: Waited 284.621094 ms for audio thread.
+[2021.05.28-01.03.57:107][517]LogAudio: Display: Waited 324.417419 ms for audio thread.
+[2021.05.28-01.03.57:150][517]LogAudio: Display: Waited 367.487610 ms for audio thread.
+[2021.05.28-01.03.57:191][517]LogAudio: Display: Waited 409.002502 ms for audio thread.
+[2021.05.28-01.03.57:233][517]LogAudio: Display: Waited 450.367310 ms for audio thread.
+[2021.05.28-01.03.57:274][517]LogAudio: Display: Waited 490.835205 ms for audio thread.
+[2021.05.28-01.03.57:317][517]LogAudio: Display: Waited 534.439392 ms for audio thread.
+[2021.05.28-01.03.57:357][517]LogAudio: Display: Waited 575.080872 ms for audio thread.
+[2021.05.28-01.03.57:392][517]LogAudio: Display: Waited 609.715393 ms for audio thread.
+[2021.05.28-01.03.57:430][517]LogAudio: Display: Waited 647.487793 ms for audio thread.
+[2021.05.28-01.03.57:442][517]LogAudio: Display: Waited 659.891602 ms for audio thread.
+[2021.05.28-01.03.57:515][518]LogAudio: Display: Waited 40.324299 ms for audio thread.
+[2021.05.28-01.03.57:554][518]LogAudio: Display: Waited 79.075401 ms for audio thread.
+[2021.05.28-01.03.57:592][518]LogAudio: Display: Waited 116.869896 ms for audio thread.
+[2021.05.28-01.03.57:635][518]LogAudio: Display: Waited 159.752106 ms for audio thread.
+[2021.05.28-01.03.57:672][518]LogAudio: Display: Waited 197.653198 ms for audio thread.
+[2021.05.28-01.03.57:713][518]LogAudio: Display: Waited 237.398499 ms for audio thread.
+[2021.05.28-01.03.57:722][518]LogAudio: Display: Waited 247.336304 ms for audio thread.
+[2021.05.28-01.03.57:978][520]LogAudio: Display: Waited 54.582199 ms for audio thread.
+[2021.05.28-01.03.58:021][520]LogAudio: Display: Waited 98.631699 ms for audio thread.
+[2021.05.28-01.03.58:060][520]LogAudio: Display: Waited 138.050003 ms for audio thread.
+[2021.05.28-01.03.58:097][520]LogAudio: Display: Waited 176.053604 ms for audio thread.
+[2021.05.28-01.03.58:140][520]LogAudio: Display: Waited 217.469101 ms for audio thread.
+[2021.05.28-01.03.58:181][520]LogAudio: Display: Waited 259.330017 ms for audio thread.
+[2021.05.28-01.03.58:222][520]LogAudio: Display: Waited 300.038605 ms for audio thread.
+[2021.05.28-01.03.58:265][520]LogAudio: Display: Waited 342.953308 ms for audio thread.
+[2021.05.28-01.03.58:316][520]LogAudio: Display: Waited 393.588898 ms for audio thread.
+[2021.05.28-01.03.58:356][520]LogAudio: Display: Waited 433.797211 ms for audio thread.
+[2021.05.28-01.03.58:404][520]LogAudio: Display: Waited 482.111084 ms for audio thread.
+[2021.05.28-01.03.58:432][520]LogAudio: Display: Waited 509.555389 ms for audio thread.
+[2021.05.28-01.03.58:492][521]LogAudio: Display: Waited 36.671200 ms for audio thread.
+[2021.05.28-01.03.58:532][521]LogAudio: Display: Waited 76.764900 ms for audio thread.
+[2021.05.28-01.03.58:574][521]LogAudio: Display: Waited 118.314301 ms for audio thread.
+[2021.05.28-01.03.58:616][521]LogAudio: Display: Waited 160.579391 ms for audio thread.
+[2021.05.28-01.03.58:659][521]LogAudio: Display: Waited 203.349899 ms for audio thread.
+[2021.05.28-01.03.58:702][521]LogAudio: Display: Waited 246.935211 ms for audio thread.
+[2021.05.28-01.03.58:739][521]LogAudio: Display: Waited 283.607391 ms for audio thread.
+[2021.05.28-01.03.58:778][521]LogAudio: Display: Waited 322.842590 ms for audio thread.
+[2021.05.28-01.03.58:819][521]LogAudio: Display: Waited 363.256500 ms for audio thread.
+[2021.05.28-01.03.58:844][521]LogAudio: Display: Waited 388.242706 ms for audio thread.
+[2021.05.28-01.03.59:572][525]LogAudio: Display: Waited 39.875599 ms for audio thread.
+[2021.05.28-01.03.59:626][525]LogAudio: Display: Waited 93.300003 ms for audio thread.
+[2021.05.28-01.03.59:683][525]LogAudio: Display: Waited 151.011307 ms for audio thread.
+[2021.05.28-01.03.59:723][525]LogAudio: Display: Waited 190.643600 ms for audio thread.
+[2021.05.28-01.03.59:759][525]LogAudio: Display: Waited 227.281403 ms for audio thread.
+[2021.05.28-01.03.59:800][525]LogAudio: Display: Waited 268.209320 ms for audio thread.
+[2021.05.28-01.03.59:838][525]LogAudio: Display: Waited 306.290588 ms for audio thread.
+[2021.05.28-01.03.59:879][525]LogAudio: Display: Waited 347.018311 ms for audio thread.
+[2021.05.28-01.03.59:921][525]LogAudio: Display: Waited 388.394714 ms for audio thread.
+[2021.05.28-01.03.59:961][525]LogAudio: Display: Waited 428.434387 ms for audio thread.
+[2021.05.28-01.04.00:005][525]LogAudio: Display: Waited 472.843872 ms for audio thread.
+[2021.05.28-01.04.00:042][525]LogAudio: Display: Waited 509.968414 ms for audio thread.
+[2021.05.28-01.04.00:078][525]LogAudio: Display: Waited 546.587280 ms for audio thread.
+[2021.05.28-01.04.00:087][525]LogAudio: Display: Waited 555.468994 ms for audio thread.
+[2021.05.28-01.04.00:159][526]LogAudio: Display: Waited 45.296501 ms for audio thread.
+[2021.05.28-01.04.00:197][526]LogAudio: Display: Waited 83.222206 ms for audio thread.
+[2021.05.28-01.04.00:234][526]LogAudio: Display: Waited 120.015900 ms for audio thread.
+[2021.05.28-01.04.00:288][526]LogAudio: Display: Waited 173.769592 ms for audio thread.
+[2021.05.28-01.04.00:345][526]LogAudio: Display: Waited 230.000488 ms for audio thread.
+[2021.05.28-01.04.00:355][526]LogAudio: Display: Waited 240.681091 ms for audio thread.
+[2021.05.28-01.04.00:703][529]LogAudio: Display: Waited 52.359699 ms for audio thread.
+[2021.05.28-01.04.00:762][529]LogAudio: Display: Waited 111.451401 ms for audio thread.
+[2021.05.28-01.04.00:818][529]LogAudio: Display: Waited 167.916290 ms for audio thread.
+[2021.05.28-01.04.00:856][529]LogAudio: Display: Waited 205.019806 ms for audio thread.
+[2021.05.28-01.04.00:893][529]LogAudio: Display: Waited 242.561508 ms for audio thread.
+[2021.05.28-01.04.00:958][529]LogAudio: Display: Waited 308.007507 ms for audio thread.
+[2021.05.28-01.04.01:015][529]LogAudio: Display: Waited 364.653717 ms for audio thread.
+[2021.05.28-01.04.01:054][529]LogAudio: Display: Waited 403.304108 ms for audio thread.
+[2021.05.28-01.04.01:066][529]LogAudio: Display: Waited 414.827484 ms for audio thread.
+[2021.05.28-01.04.01:148][530]LogAudio: Display: Waited 56.997898 ms for audio thread.
+[2021.05.28-01.04.01:186][530]LogAudio: Display: Waited 94.673599 ms for audio thread.
+[2021.05.28-01.04.01:224][530]LogAudio: Display: Waited 133.231598 ms for audio thread.
+[2021.05.28-01.04.01:261][530]LogAudio: Display: Waited 169.057297 ms for audio thread.
+[2021.05.28-01.04.01:261][530]LogAudio: Display: Waited 169.325394 ms for audio thread.
+[2021.05.28-01.04.02:108][542]LogAudio: Display: Waited 46.162899 ms for audio thread.
+[2021.05.28-01.04.02:155][542]LogAudio: Display: Waited 92.630699 ms for audio thread.
+[2021.05.28-01.04.02:195][542]LogAudio: Display: Waited 133.262802 ms for audio thread.
+[2021.05.28-01.04.02:230][542]LogAudio: Display: Waited 168.786697 ms for audio thread.
+[2021.05.28-01.04.02:274][542]LogAudio: Display: Waited 211.998703 ms for audio thread.
+[2021.05.28-01.04.02:319][542]LogAudio: Display: Waited 257.701202 ms for audio thread.
+[2021.05.28-01.04.02:359][542]LogAudio: Display: Waited 297.046204 ms for audio thread.
+[2021.05.28-01.04.02:410][542]LogAudio: Display: Waited 348.106812 ms for audio thread.
+[2021.05.28-01.04.02:454][542]LogAudio: Display: Waited 392.062988 ms for audio thread.
+[2021.05.28-01.04.02:499][542]LogAudio: Display: Waited 437.335114 ms for audio thread.
+[2021.05.28-01.04.02:537][542]LogAudio: Display: Waited 475.386810 ms for audio thread.
+[2021.05.28-01.04.02:577][542]LogAudio: Display: Waited 515.086609 ms for audio thread.
+[2021.05.28-01.04.02:635][542]LogAudio: Display: Waited 572.567688 ms for audio thread.
+[2021.05.28-01.04.02:663][542]LogAudio: Display: Waited 600.466919 ms for audio thread.
+[2021.05.28-01.04.03:241][545]LogAudio: Display: Waited 47.056999 ms for audio thread.
+[2021.05.28-01.04.03:292][545]LogAudio: Display: Waited 98.237801 ms for audio thread.
+[2021.05.28-01.04.03:345][545]LogAudio: Display: Waited 151.453705 ms for audio thread.
+[2021.05.28-01.04.03:380][545]LogAudio: Display: Waited 186.174500 ms for audio thread.
+[2021.05.28-01.04.03:410][545]LogAudio: Display: Waited 216.883896 ms for audio thread.
+[2021.05.28-01.04.03:470][546]LogAudio: Display: Waited 35.486797 ms for audio thread.
+[2021.05.28-01.04.03:911][555]LogAudio: Display: Waited 49.117100 ms for audio thread.
+[2021.05.28-01.04.03:938][555]LogAudio: Display: Waited 76.409195 ms for audio thread.
+[2021.05.28-01.04.04:114][559]LogAudio: Display: Waited 48.791901 ms for audio thread.
+[2021.05.28-01.04.04:126][559]LogAudio: Display: Waited 61.555901 ms for audio thread.
+[2021.05.28-01.04.04:291][563]LogAudio: Display: Waited 56.272202 ms for audio thread.
+[2021.05.28-01.04.04:319][563]LogAudio: Display: Waited 84.193001 ms for audio thread.
+[2021.05.28-01.04.04:488][567]LogAudio: Display: Waited 42.191299 ms for audio thread.
+[2021.05.28-01.04.04:521][567]LogAudio: Display: Waited 75.469803 ms for audio thread.
+[2021.05.28-01.04.04:659][571]LogAudio: Display: Waited 41.650600 ms for audio thread.
+[2021.05.28-01.04.04:695][571]LogAudio: Display: Waited 78.219597 ms for audio thread.
+[2021.05.28-01.04.04:701][571]LogAudio: Display: Waited 84.342896 ms for audio thread.
+[2021.05.28-01.04.04:872][575]LogAudio: Display: Waited 39.175102 ms for audio thread.
+[2021.05.28-01.04.04:882][575]LogAudio: Display: Waited 48.840103 ms for audio thread.
+[2021.05.28-01.04.05:322][579]LogAudio: Display: Waited 46.153400 ms for audio thread.
+[2021.05.28-01.04.05:341][579]LogAudio: Display: Waited 64.853195 ms for audio thread.
+[2021.05.28-01.04.05:385][580]LogAudio: Display: Waited 39.732002 ms for audio thread.
+[2021.05.28-01.04.05:385][580]LogAudio: Display: Waited 39.943901 ms for audio thread.
+[2021.05.28-01.04.05:603][585]LogAudio: Display: Waited 39.768600 ms for audio thread.
+[2021.05.28-01.04.05:612][585]LogAudio: Display: Waited 49.162998 ms for audio thread.
+[2021.05.28-01.04.05:793][589]LogAudio: Display: Waited 47.429100 ms for audio thread.
+[2021.05.28-01.04.05:802][589]LogAudio: Display: Waited 56.322998 ms for audio thread.
+[2021.05.28-01.04.05:975][593]LogAudio: Display: Waited 35.038898 ms for audio thread.
+[2021.05.28-01.04.05:995][593]LogAudio: Display: Waited 54.968597 ms for audio thread.
+[2021.05.28-01.04.06:088][595]LogAudio: Display: Waited 35.805901 ms for audio thread.
+[2021.05.28-01.04.06:124][595]LogAudio: Display: Waited 71.781998 ms for audio thread.
+[2021.05.28-01.04.06:131][595]LogAudio: Display: Waited 79.352997 ms for audio thread.
+[2021.05.28-01.04.06:338][599]LogAudio: Display: Waited 36.815502 ms for audio thread.
+[2021.05.28-01.04.06:358][599]LogAudio: Display: Waited 57.205597 ms for audio thread.
+[2021.05.28-01.04.06:536][603]LogAudio: Display: Waited 40.496902 ms for audio thread.
+[2021.05.28-01.04.06:553][603]LogAudio: Display: Waited 58.167801 ms for audio thread.
+[2021.05.28-01.04.06:706][607]LogAudio: Display: Waited 36.894001 ms for audio thread.
+[2021.05.28-01.04.06:740][607]LogAudio: Display: Waited 71.429794 ms for audio thread.
+[2021.05.28-01.04.06:903][611]LogAudio: Display: Waited 41.345802 ms for audio thread.
+[2021.05.28-01.04.06:939][611]LogAudio: Display: Waited 76.702698 ms for audio thread.
+[2021.05.28-01.04.06:939][611]LogAudio: Display: Waited 77.127502 ms for audio thread.
+[2021.05.28-01.04.07:122][615]LogAudio: Display: Waited 42.195400 ms for audio thread.
+[2021.05.28-01.04.07:126][615]LogAudio: Display: Waited 46.270699 ms for audio thread.
+[2021.05.28-01.04.07:496][622]LogAudio: Display: Waited 36.894600 ms for audio thread.
+[2021.05.28-01.04.07:503][622]LogAudio: Display: Waited 44.447002 ms for audio thread.
+[2021.05.28-01.04.07:911][630]LogAudio: Display: Waited 36.726002 ms for audio thread.
+[2021.05.28-01.04.08:023][630]LogAudio: Display: Waited 147.026810 ms for audio thread.
+[2021.05.28-01.04.08:047][630]LogAudio: Display: Waited 171.195511 ms for audio thread.
+[2021.05.28-01.04.08:137][631]LogAudio: Display: Waited 81.572098 ms for audio thread.
+[2021.05.28-01.04.08:227][631]LogAudio: Display: Waited 172.219498 ms for audio thread.
+[2021.05.28-01.04.08:239][631]LogAudio: Display: Waited 183.630798 ms for audio thread.
+[2021.05.28-01.04.08:387][634]LogAudio: Display: Waited 50.377102 ms for audio thread.
+[2021.05.28-01.04.08:504][634]LogAudio: Display: Waited 167.679504 ms for audio thread.
+[2021.05.28-01.04.08:558][634]LogAudio: Display: Waited 221.367493 ms for audio thread.
+[2021.05.28-01.04.08:594][634]LogAudio: Display: Waited 257.706696 ms for audio thread.
+[2021.05.28-01.04.08:640][634]LogAudio: Display: Waited 303.576874 ms for audio thread.
+[2021.05.28-01.04.08:676][634]LogAudio: Display: Waited 339.227509 ms for audio thread.
+[2021.05.28-01.04.08:679][634]LogAudio: Display: Waited 342.169403 ms for audio thread.
+[2021.05.28-01.04.08:753][635]LogAudio: Display: Waited 46.202000 ms for audio thread.
+[2021.05.28-01.04.08:772][635]LogAudio: Display: Waited 65.129700 ms for audio thread.
+[2021.05.28-01.04.08:972][638]LogAudio: Display: Waited 39.712200 ms for audio thread.
+[2021.05.28-01.04.08:994][638]LogAudio: Display: Waited 61.384701 ms for audio thread.
+[2021.05.28-01.04.13:001][699]LogSlate: Window 'AssaShineMulti_V100 (64-bit Development PCD3D_SM5) ' being destroyed
+[2021.05.28-01.04.13:002][699]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.28-01.04.13:110][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-01.04.13:110][699]LogEngine: All Windows Closed
+[2021.05.28-01.04.13:110][699]LogWindows: FPlatformMisc::RequestExit(0)
+[2021.05.28-01.04.13:110][699]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.05.28-01.04.13:111][700]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.05.28-01.04.13:111][700]LogInit: Display: PreExit Game.
+[2021.05.28-01.04.13:112][700]LogWorld: BeginTearingDown for /Game/Maps/MainMenu
+[2021.05.28-01.04.13:112][700]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.05.28-01.04.13:113][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-01.04.13:951][700]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.05.28-01.04.13:951][700]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.05.28-01.04.13:951][700]LogAudio: Display: Audio Device unregistered from world 'MainMenu'.
+[2021.05.28-01.04.14:040][700]LogAudio: Display: Waited 51.259598 ms for audio thread.
+[2021.05.28-01.04.14:054][700]LogAudio: Display: Waited 65.970901 ms for audio thread.
+[2021.05.28-01.04.14:056][700]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.28-01.04.14:057][700]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.28-01.04.14:692][700]LogAudio: Display: Audio Device Manager Shutdown
+[2021.05.28-01.04.14:695][700]LogExit: Preparing to exit.
+[2021.05.28-01.04.16:463][700]LogMoviePlayer: Shutting down movie player
+[2021.05.28-01.04.16:582][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF92300] Windows
+[2021.05.28-01.04.16:582][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF92400] Default__DeviceProfile
+[2021.05.28-01.04.16:582][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF2E900] WindowsNoEditor
+[2021.05.28-01.04.16:582][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF91400] WindowsServer
+[2021.05.28-01.04.16:582][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF2F800] WindowsClient
+[2021.05.28-01.04.16:582][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF90700] IOS
+[2021.05.28-01.04.16:582][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF2EF00] iPadAir
+[2021.05.28-01.04.16:582][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF92100] iPadAir2
+[2021.05.28-01.04.16:582][700]LogDeviceProfile: Device profile begin destroy: [00000144EEED6000] IPadPro
+[2021.05.28-01.04.16:582][700]LogDeviceProfile: Device profile begin destroy: [00000144EEED6100] iPadAir3
+[2021.05.28-01.04.16:582][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF2D600] iPadAir4
+[2021.05.28-01.04.16:582][700]LogDeviceProfile: Device profile begin destroy: [00000144EEED7800] iPadMini2
+[2021.05.28-01.04.16:582][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF2EA00] iPadMini3
+[2021.05.28-01.04.16:582][700]LogDeviceProfile: Device profile begin destroy: [00000144EEED5700] iPadMini4
+[2021.05.28-01.04.16:582][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF2FF00] iPadMini5
+[2021.05.28-01.04.16:582][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF11900] iPhone6
+[2021.05.28-01.04.16:582][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF11A00] iPodTouch6
+[2021.05.28-01.04.16:582][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF92F00] iPhone7
+[2021.05.28-01.04.16:582][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF93100] iPodTouch7
+[2021.05.28-01.04.16:582][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF12800] iPhone5S
+[2021.05.28-01.04.16:582][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF90400] iPhone6Plus
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF13400] iPhone6S
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF93600] iPhone6SPlus
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF11D00] iPhone7Plus
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF90500] iPhoneSE
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF10B00] iPhone8
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF93400] iPhone8Plus
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF10800] iPhoneX
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF92200] iPhoneXS
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF2CC00] iPhoneXSMax
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF11600] iPhoneXR
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF2C500] iPhone11
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF10500] iPhone11Pro
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF2C300] iPhone11ProMax
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF11100] iPhoneSE2
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF2F200] iPhone12Mini
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF12500] iPhone12
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF2C100] iPhone12Pro
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF11000] iPhone12ProMax
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF2D900] iPadPro105
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF13600] iPadPro129
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF92B00] iPadPro97
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF11E00] iPadPro2_129
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF91500] iPad5
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF13800] iPad6
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF90900] iPad7
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF12700] iPad8
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF92E00] iPadPro11
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF13500] iPadPro2_11
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF90C00] iPadPro3_129
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF13700] iPadPro4_129
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF91B00] AppleTV
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF10D00] AppleTV4K
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF92000] TVOS
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF13A00] Mac
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF91F00] MacClient
+[2021.05.28-01.04.16:583][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF13200] MacNoEditor
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF92A00] MacServer
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF12300] Linux
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF90A00] LinuxAArch64
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF12600] LinuxNoEditor
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF91300] LinuxAArch64NoEditor
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF12400] LinuxClient
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF91000] LinuxAArch64Client
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF11500] LinuxServer
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF91C00] LinuxAArch64Server
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF10200] Android
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF90600] Android_Low
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF10100] Android_Mid
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF91E00] Android_High
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF13D00] Android_Default
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF92600] Android_Adreno4xx
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF11800] Android_Adreno5xx_Low
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF93800] Android_Adreno5xx
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF10700] Android_Adreno6xx
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF92C00] Android_Adreno6xx_Vulkan
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF13900] Android_Mali_T6xx
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF91700] Android_Mali_T7xx
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF13F00] Android_Mali_T8xx
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEED6900] Android_Mali_G71
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF2DE00] Android_Mali_G72
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEED5B00] Android_Mali_G72_Vulkan
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF2F400] Android_Mali_G76
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEED4800] Android_Mali_G76_Vulkan
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF2E500] Android_Mali_G77
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEED5E00] Android_Mali_G77_Vulkan
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF2E300] Android_Vulkan_SM5
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEED6400] Android_PowerVR_G6xxx
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF2FE00] Android_PowerVR_GT7xxx
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEED7C00] Android_PowerVR_GE8xxx
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF2F500] Android_PowerVR_GM9xxx
+[2021.05.28-01.04.16:584][700]LogDeviceProfile: Device profile begin destroy: [00000144EEED4A00] Android_PowerVR_GM9xxx_Vulkan
+[2021.05.28-01.04.16:585][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF2CE00] Android_TegraK1
+[2021.05.28-01.04.16:585][700]LogDeviceProfile: Device profile begin destroy: [00000144EEED5F00] Android_Unknown_Vulkan
+[2021.05.28-01.04.16:585][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF2D300] Lumin
+[2021.05.28-01.04.16:585][700]LogDeviceProfile: Device profile begin destroy: [00000144EEED6D00] Lumin_Desktop
+[2021.05.28-01.04.16:585][700]LogDeviceProfile: Device profile begin destroy: [00000144EEF2DC00] HoloLens
+[2021.05.28-01.04.16:605][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-01.04.16:608][700]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.05.28-01.04.16:617][700]LogExit: Game engine shut down
+[2021.05.28-01.04.16:687][700]LogExit: Object subsystem successfully closed.
+[2021.05.28-01.04.16:733][700]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.05.28-01.04.16:835][700]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (512)
+[2021.05.28-01.04.16:836][700]LogModuleManager: Shutting down and abandoning module SequenceRecorder (510)
+[2021.05.28-01.04.16:836][700]LogModuleManager: Shutting down and abandoning module AutomationController (508)
+[2021.05.28-01.04.16:836][700]LogModuleManager: Shutting down and abandoning module AutomationWorker (506)
+[2021.05.28-01.04.16:836][700]LogModuleManager: Shutting down and abandoning module Voice (504)
+[2021.05.28-01.04.16:872][700]LogModuleManager: Shutting down and abandoning module AnimGraph (502)
+[2021.05.28-01.04.16:873][700]LogModuleManager: Shutting down and abandoning module AIModule (500)
+[2021.05.28-01.04.16:873][700]LogModuleManager: Shutting down and abandoning module GameplayDebugger (499)
+[2021.05.28-01.04.16:873][700]LogModuleManager: Shutting down and abandoning module AITestSuite (497)
+[2021.05.28-01.04.16:873][700]LogModuleManager: Shutting down and abandoning module NavigationSystem (495)
+[2021.05.28-01.04.16:873][700]LogModuleManager: Shutting down and abandoning module SteamVREditor (492)
+[2021.05.28-01.04.16:873][700]LogModuleManager: Shutting down and abandoning module ToolMenus (491)
+[2021.05.28-01.04.16:873][700]LogModuleManager: Shutting down and abandoning module OculusMR (488)
+[2021.05.28-01.04.16:873][700]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2021.05.28-01.04.16:873][700]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (484)
+[2021.05.28-01.04.16:873][700]LogModuleManager: Shutting down and abandoning module WebMMedia (482)
+[2021.05.28-01.04.16:873][700]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (480)
+[2021.05.28-01.04.16:873][700]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (478)
+[2021.05.28-01.04.16:873][700]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (476)
+[2021.05.28-01.04.16:873][700]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (474)
+[2021.05.28-01.04.16:873][700]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (472)
+[2021.05.28-01.04.16:873][700]LogModuleManager: Shutting down and abandoning module PlanarCut (470)
+[2021.05.28-01.04.16:873][700]LogModuleManager: Shutting down and abandoning module CharacterAI (468)
+[2021.05.28-01.04.16:873][700]LogModuleManager: Shutting down and abandoning module SessionServices (466)
+[2021.05.28-01.04.16:873][700]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (464)
+[2021.05.28-01.04.16:873][700]LogModuleManager: Shutting down and abandoning module LiveCoding (462)
+[2021.05.28-01.04.16:874][700]LogModuleManager: Shutting down and abandoning module LevelSequence (460)
+[2021.05.28-01.04.16:874][700]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (458)
+[2021.05.28-01.04.16:874][700]LogModuleManager: Shutting down and abandoning module MovieScene (456)
+[2021.05.28-01.04.16:874][700]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (454)
+[2021.05.28-01.04.16:874][700]LogModuleManager: Shutting down and abandoning module PortalServices (452)
+[2021.05.28-01.04.16:874][700]LogModuleManager: Shutting down and abandoning module PortalRpc (450)
+[2021.05.28-01.04.16:874][700]LogModuleManager: Shutting down and abandoning module MessagingRpc (448)
+[2021.05.28-01.04.16:874][700]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (446)
+[2021.05.28-01.04.16:874][700]LogModuleManager: Shutting down and abandoning module AudioMixerCore (445)
+[2021.05.28-01.04.16:874][700]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (442)
+[2021.05.28-01.04.16:875][700]LogModuleManager: Shutting down and abandoning module ProfilerService (440)
+[2021.05.28-01.04.16:981][700]LogModuleManager: Shutting down and abandoning module TaskGraph (438)
+[2021.05.28-01.04.16:981][700]LogModuleManager: Shutting down and abandoning module OculusInput (436)
+[2021.05.28-01.04.16:981][700]LogModuleManager: Shutting down and abandoning module Synthesis (434)
+[2021.05.28-01.04.16:981][700]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (432)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (430)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module GooglePAD (428)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module EditableMesh (426)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (424)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module CableComponent (422)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module AudioCapture (420)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (419)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module AssetTags (416)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (414)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (412)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module AppleImageUtils (410)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module AndroidPermission (408)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (406)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module TemplateSequence (404)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module MediaCompositing (402)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module ImgMedia (400)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (398)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (396)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (394)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (392)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (390)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module MotoSynth (388)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module MeshConversion (386)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module DynamicMesh (384)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (382)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module GeometricObjects (380)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (378)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (377)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (374)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (373)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module GeometryCache (370)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (369)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module ChaosNiagara (366)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (365)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module BackChannel (362)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module AutomationUtils (360)
+[2021.05.28-01.04.16:982][700]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (358)
+[2021.05.28-01.04.16:983][700]LogModuleManager: Shutting down and abandoning module HotReload (357)
+[2021.05.28-01.04.16:983][700]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (356)
+[2021.05.28-01.04.16:983][700]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (352)
+[2021.05.28-01.04.16:983][700]LogModuleManager: Shutting down and abandoning module UObjectPlugin (350)
+[2021.05.28-01.04.16:983][700]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (348)
+[2021.05.28-01.04.16:983][700]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (346)
+[2021.05.28-01.04.16:983][700]LogModuleManager: Shutting down and abandoning module SourceControl (345)
+[2021.05.28-01.04.16:983][700]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (342)
+[2021.05.28-01.04.16:983][700]LogModuleManager: Shutting down and abandoning module SoundFields (340)
+[2021.05.28-01.04.16:983][700]LogModuleManager: Shutting down and abandoning module SignificanceManager (338)
+[2021.05.28-01.04.16:983][700]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (336)
+[2021.05.28-01.04.16:983][700]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (334)
+[2021.05.28-01.04.16:983][700]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2021.05.28-01.04.16:983][700]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2021.05.28-01.04.16:983][700]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (326)
+[2021.05.28-01.04.16:983][700]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (324)
+[2021.05.28-01.04.16:983][700]LogModuleManager: Shutting down and abandoning module ActorSequence (322)
+[2021.05.28-01.04.16:983][700]LogModuleManager: Shutting down and abandoning module UdpMessaging (320)
+[2021.05.28-01.04.17:083][700]LogModuleManager: Shutting down and abandoning module TcpMessaging (318)
+[2021.05.28-01.04.17:184][700]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (316)
+[2021.05.28-01.04.17:184][700]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (314)
+[2021.05.28-01.04.17:184][700]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (312)
+[2021.05.28-01.04.17:184][700]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (310)
+[2021.05.28-01.04.17:184][700]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (308)
+[2021.05.28-01.04.17:184][700]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.05.28-01.04.17:184][700]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (306)
+[2021.05.28-01.04.17:184][700]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (304)
+[2021.05.28-01.04.17:184][700]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (302)
+[2021.05.28-01.04.17:184][700]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (300)
+[2021.05.28-01.04.17:184][700]LogModuleManager: Shutting down and abandoning module MagicLeapController (298)
+[2021.05.28-01.04.17:184][700]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.05.28-01.04.17:184][700]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (296)
+[2021.05.28-01.04.17:184][700]LogModuleManager: Shutting down and abandoning module MagicLeapAR (294)
+[2021.05.28-01.04.17:184][700]LogModuleManager: Shutting down and abandoning module AugmentedReality (293)
+[2021.05.28-01.04.17:184][700]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (290)
+[2021.05.28-01.04.17:184][700]LogModuleManager: Shutting down and abandoning module Niagara (288)
+[2021.05.28-01.04.17:184][700]LogModuleManager: Shutting down and abandoning module SignalProcessing (287)
+[2021.05.28-01.04.17:184][700]LogModuleManager: Shutting down and abandoning module NiagaraEditor (285)
+[2021.05.28-01.04.17:185][700]LogModuleManager: Shutting down and abandoning module NiagaraCore (282)
+[2021.05.28-01.04.17:185][700]LogModuleManager: Shutting down and abandoning module FacialAnimation (280)
+[2021.05.28-01.04.17:185][700]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2021.05.28-01.04.17:185][700]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (276)
+[2021.05.28-01.04.17:185][700]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2021.05.28-01.04.17:185][700]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (272)
+[2021.05.28-01.04.17:185][700]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2021.05.28-01.04.17:185][700]LogModuleManager: Shutting down and abandoning module AnimationSharing (268)
+[2021.05.28-01.04.17:185][700]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (266)
+[2021.05.28-01.04.17:185][700]LogModuleManager: Shutting down and abandoning module Paper2D (264)
+[2021.05.28-01.04.17:185][700]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (262)
+[2021.05.28-01.04.17:186][700]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (260)
+[2021.05.28-01.04.17:186][700]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (258)
+[2021.05.28-01.04.17:186][700]LogModuleManager: Shutting down and abandoning module PacketHandler (256)
+[2021.05.28-01.04.17:187][700]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (254)
+[2021.05.28-01.04.17:187][700]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (252)
+[2021.05.28-01.04.17:187][700]LogModuleManager: Shutting down and abandoning module MediaAssets (250)
+[2021.05.28-01.04.17:187][700]LogModuleManager: Shutting down and abandoning module Overlay (248)
+[2021.05.28-01.04.17:187][700]LogModuleManager: Shutting down and abandoning module OverlayEditor (247)
+[2021.05.28-01.04.17:187][700]LogModuleManager: Shutting down and abandoning module VREditor (244)
+[2021.05.28-01.04.17:187][700]LogModuleManager: Shutting down and abandoning module StringTableEditor (242)
+[2021.05.28-01.04.17:187][700]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (240)
+[2021.05.28-01.04.17:187][700]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (238)
+[2021.05.28-01.04.17:187][700]LogModuleManager: Shutting down and abandoning module FunctionalTesting (236)
+[2021.05.28-01.04.17:187][700]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (234)
+[2021.05.28-01.04.17:187][700]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (233)
+[2021.05.28-01.04.17:187][700]LogModuleManager: Shutting down and abandoning module UMG (230)
+[2021.05.28-01.04.17:187][700]LogModuleManager: Shutting down and abandoning module UMGEditor (229)
+[2021.05.28-01.04.17:187][700]LogModuleManager: Shutting down and abandoning module Sequencer (228)
+[2021.05.28-01.04.17:187][700]LogModuleManager: Shutting down and abandoning module MessageLog (225)
+[2021.05.28-01.04.17:187][700]LogModuleManager: Shutting down and abandoning module SlateReflector (220)
+[2021.05.28-01.04.17:187][700]LogModuleManager: Shutting down and abandoning module Slate (218)
+[2021.05.28-01.04.17:187][700]LogModuleManager: Shutting down and abandoning module SlateCore (216)
+[2021.05.28-01.04.17:189][700]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (214)
+[2021.05.28-01.04.17:189][700]LogModuleManager: Shutting down and abandoning module UnrealEd (212)
+[2021.05.28-01.04.17:189][700]LogModuleManager: Shutting down and abandoning module MRMesh (210)
+[2021.05.28-01.04.17:189][700]LogModuleManager: Shutting down and abandoning module Messaging (208)
+[2021.05.28-01.04.17:189][700]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (206)
+[2021.05.28-01.04.17:189][700]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (204)
+[2021.05.28-01.04.17:189][700]LogModuleManager: Shutting down and abandoning module XAudio2 (202)
+[2021.05.28-01.04.17:189][700]LogModuleManager: Shutting down and abandoning module Networking (200)
+[2021.05.28-01.04.17:189][700]LogModuleManager: Shutting down and abandoning module Core (198)
+[2021.05.28-01.04.17:189][700]LogModuleManager: Shutting down and abandoning module MaterialEditor (196)
+[2021.05.28-01.04.17:189][700]LogModuleManager: Shutting down and abandoning module MovieSceneTools (194)
+[2021.05.28-01.04.17:189][700]LogModuleManager: Shutting down and abandoning module EditorStyle (193)
+[2021.05.28-01.04.17:191][700]LogModuleManager: Shutting down and abandoning module KismetCompiler (190)
+[2021.05.28-01.04.17:191][700]LogModuleManager: Shutting down and abandoning module MeshBuilder (188)
+[2021.05.28-01.04.17:191][700]LogModuleManager: Shutting down and abandoning module MeshUtilities (186)
+[2021.05.28-01.04.17:191][700]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (185)
+[2021.05.28-01.04.17:191][700]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (184)
+[2021.05.28-01.04.17:191][700]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (183)
+[2021.05.28-01.04.17:191][700]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (181)
+[2021.05.28-01.04.17:191][700]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (179)
+[2021.05.28-01.04.17:191][700]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (177)
+[2021.05.28-01.04.17:191][700]LogModuleManager: Shutting down and abandoning module MaterialBaking (173)
+[2021.05.28-01.04.17:191][700]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (168)
+[2021.05.28-01.04.17:191][700]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (166)
+[2021.05.28-01.04.17:192][700]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2021.05.28-01.04.17:192][700]LogModuleManager: Shutting down and abandoning module TargetPlatform (162)
+[2021.05.28-01.04.17:192][700]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (161)
+[2021.05.28-01.04.17:192][700]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (159)
+[2021.05.28-01.04.17:192][700]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (157)
+[2021.05.28-01.04.17:192][700]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (155)
+[2021.05.28-01.04.17:192][700]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (153)
+[2021.05.28-01.04.17:192][700]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (151)
+[2021.05.28-01.04.17:192][700]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (149)
+[2021.05.28-01.04.17:192][700]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (147)
+[2021.05.28-01.04.17:192][700]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2021.05.28-01.04.17:192][700]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2021.05.28-01.04.17:192][700]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2021.05.28-01.04.17:192][700]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2021.05.28-01.04.17:192][700]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (137)
+[2021.05.28-01.04.17:192][700]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (135)
+[2021.05.28-01.04.17:192][700]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (133)
+[2021.05.28-01.04.17:192][700]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (131)
+[2021.05.28-01.04.17:192][700]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (129)
+[2021.05.28-01.04.17:192][700]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (127)
+[2021.05.28-01.04.17:193][700]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (125)
+[2021.05.28-01.04.17:193][700]LogModuleManager: Shutting down and abandoning module InputCore (122)
+[2021.05.28-01.04.17:193][700]LogModuleManager: Shutting down and abandoning module Settings (120)
+[2021.05.28-01.04.17:193][700]LogModuleManager: Shutting down and abandoning module PhysXCooking (118)
+[2021.05.28-01.04.17:193][700]LogModuleManager: Shutting down and abandoning module Chaos (116)
+[2021.05.28-01.04.17:193][700]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (114)
+[2021.05.28-01.04.17:193][700]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (113)
+[2021.05.28-01.04.17:193][700]LogModuleManager: Shutting down and abandoning module AVEncoder (112)
+[2021.05.28-01.04.17:193][700]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (108)
+[2021.05.28-01.04.17:193][700]LogModuleManager: Shutting down and abandoning module SteamVRInput (106)
+[2021.05.28-01.04.17:193][700]LogModuleManager: Shutting down and abandoning module SteamVR (104)
+[2021.05.28-01.04.17:193][700]LogHMD: Freeing OpenVRDLLHandle.
+[2021.05.28-01.04.17:193][700]LogModuleManager: Shutting down and abandoning module OculusHMD (102)
+[2021.05.28-01.04.17:193][700]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (100)
+[2021.05.28-01.04.17:193][700]LogModuleManager: Shutting down and abandoning module ChunkDownloader (98)
+[2021.05.28-01.04.17:193][700]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (96)
+[2021.05.28-01.04.17:193][700]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2021.05.28-01.04.17:193][700]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (90)
+[2021.05.28-01.04.17:194][700]LogModuleManager: Shutting down and abandoning module SteamShared (84)
+[2021.05.28-01.04.17:195][700]LogSteamShared: Freeing the Steam Loaded Modules...
+[2021.05.28-01.04.17:195][700]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2021.05.28-01.04.17:195][700]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2021.05.28-01.04.17:230][700]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2021.05.28-01.04.17:230][700]LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2021.05.28-01.04.17:264][700]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2021.05.28-01.04.17:265][700]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2021.05.28-01.04.17:267][700]LogModuleManager: Shutting down and abandoning module Media (71)
+[2021.05.28-01.04.17:268][700]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2021.05.28-01.04.17:268][700]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2021.05.28-01.04.17:268][700]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2021.05.28-01.04.17:268][700]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2021.05.28-01.04.17:268][700]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2021.05.28-01.04.17:268][700]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2021.05.28-01.04.17:268][700]LogModuleManager: Shutting down and abandoning module ChaosCloth (56)
+[2021.05.28-01.04.17:268][700]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2021.05.28-01.04.17:268][700]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2021.05.28-01.04.17:269][700]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2021.05.28-01.04.17:269][700]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2021.05.28-01.04.17:269][700]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2021.05.28-01.04.17:269][700]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2021.05.28-01.04.17:269][700]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2021.05.28-01.04.17:269][700]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2021.05.28-01.04.17:269][700]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.05.28-01.04.17:269][700]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2021.05.28-01.04.17:269][700]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.05.28-01.04.17:269][700]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.05.28-01.04.17:269][700]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.05.28-01.04.17:269][700]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.05.28-01.04.17:269][700]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.05.28-01.04.17:269][700]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.05.28-01.04.17:270][700]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.05.28-01.04.17:270][700]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.05.28-01.04.17:270][700]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.05.28-01.04.17:270][700]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.05.28-01.04.17:270][700]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.05.28-01.04.17:270][700]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.05.28-01.04.17:270][700]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.05.28-01.04.17:270][700]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.05.28-01.04.17:270][700]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.05.28-01.04.17:270][700]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.05.28-01.04.17:270][700]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.05.28-01.04.17:405][700]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.05.28-01.04.17:408][700]LogD3D11RHI: Shutdown
+[2021.05.28-01.04.17:408][700]LogD3D11RHI: CleanupD3DDevice
+[2021.05.28-01.04.17:414][700]LogExit: Exiting.
+[2021.05.28-01.04.17:512][700]Log file closed, 05/28/21 09:04:17
