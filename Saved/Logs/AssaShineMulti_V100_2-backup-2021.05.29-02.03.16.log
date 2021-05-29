@@ -1,0 +1,1501 @@
+﻿Log file open, 05/28/21 21:22:07
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: AssaShineMulti_V100
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.064412
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogSteamShared: Display: Loading Steam SDK 1.47
+LogSteamShared: Steam SDK Loaded!
+LogOnline: OSS: Creating online subsystem instance for: Steam
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz, GPU: Intel(R) HD Graphics 5500
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  /Game/Maps/Arena02 -game -PIEVIACONSOLE -Multiprocess "GameUserSettingsINI=D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/PIEGameUserSettings1.ini" -MultiprocessSaveConfig -MultiprocessOSS -messaging -SessionName="Play in Standalone Game" -windowed -WinX=-1309 -WinY=158 SAVEWINPOS=1 -ResX=1242 -ResY=713
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.28-13.22.12:516][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2021.05.28-13.22.12:516][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.28-13.22.12:516][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Engine.ini]
+[2021.05.28-13.22.12:516][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.28-13.22.12:516][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Engine.ini]
+[2021.05.28-13.22.12:517][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Engine.ini]
+[2021.05.28-13.22.12:517][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.28-13.22.12:517][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.28-13.22.12:517][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.28-13.22.12:517][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.28-13.22.12:517][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.28-13.22.12:517][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.28-13.22.12:517][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.28-13.22.12:517][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.28-13.22.12:517][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.28-13.22.12:517][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.28-13.22.12:517][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.28-13.22.12:517][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.28-13.22.12:517][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.28-13.22.12:517][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.28-13.22.12:517][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Engine.ini]
+[2021.05.28-13.22.12:518][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.28-13.22.12:518][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.28-13.22.12:518][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.28-13.22.12:518][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.28-13.22.12:518][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.28-13.22.12:518][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.28-13.22.12:518][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.28-13.22.12:518][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.28-13.22.12:518][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.28-13.22.12:518][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.28-13.22.12:518][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.28-13.22.12:518][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.28-13.22.12:518][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.28-13.22.12:518][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.28-13.22.12:518][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Engine.ini]
+[2021.05.28-13.22.12:519][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Engine.ini]
+[2021.05.28-13.22.12:636][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-13.22.12:636][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.28-13.22.12:636][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.28-13.22.12:636][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-13.22.12:636][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.28-13.22.12:636][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-13.22.12:636][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.28-13.22.12:636][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.28-13.22.12:636][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.28-13.22.12:636][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.28-13.22.12:636][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.28-13.22.12:637][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.28-13.22.12:637][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.28-13.22.12:637][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.28-13.22.12:637][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.28-13.22.12:637][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.28-13.22.12:637][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.28-13.22.12:637][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.28-13.22.12:637][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.28-13.22.12:637][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.28-13.22.12:637][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.28-13.22.12:637][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.28-13.22.12:637][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.28-13.22.12:638][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.28-13.22.12:638][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-13.22.12:638][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.28-13.22.12:638][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.28-13.22.12:638][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.28-13.22.12:638][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.28-13.22.12:638][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.28-13.22.12:638][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.28-13.22.12:639][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.28-13.22.12:639][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.28-13.22.12:639][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.28-13.22.12:639][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.28-13.22.12:640][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.28-13.22.12:641][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.28-13.22.12:641][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.28-13.22.12:641][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.28-13.22.12:641][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.28-13.22.12:641][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.28-13.22.12:641][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.28-13.22.12:641][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.28-13.22.12:641][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.28-13.22.12:641][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.28-13.22.12:642][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.28-13.22.12:642][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.28-13.22.12:642][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.28-13.22.12:642][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.28-13.22.12:642][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.28-13.22.12:642][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.28-13.22.12:642][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.28-13.22.12:643][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.28-13.22.12:643][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.28-13.22.12:643][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.28-13.22.12:643][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-13.22.12:643][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.28-13.22.12:643][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.28-13.22.12:643][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.28-13.22.12:643][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.28-13.22.12:644][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.28-13.22.12:644][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.28-13.22.12:644][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.28-13.22.12:644][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.28-13.22.12:644][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.28-13.22.12:644][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-13.22.12:644][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.28-13.22.12:644][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.28-13.22.12:644][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.28-13.22.12:644][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.28-13.22.12:644][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.28-13.22.12:644][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.28-13.22.12:644][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.28-13.22.12:644][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.28-13.22.12:644][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.28-13.22.12:644][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.28-13.22.12:644][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.28-13.22.12:644][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.28-13.22.12:644][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.28-13.22.12:644][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.28-13.22.12:644][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.28-13.22.12:644][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.28-13.22.12:645][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.28-13.22.12:645][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.28-13.22.12:645][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.28-13.22.12:645][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.28-13.22.12:645][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.28-13.22.12:645][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.28-13.22.12:645][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.28-13.22.12:645][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.28-13.22.12:645][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.28-13.22.12:645][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.28-13.22.12:645][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.28-13.22.12:645][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-13.22.12:645][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.28-13.22.12:646][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.28-13.22.12:646][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-13.22.12:646][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.28-13.22.12:646][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.28-13.22.12:646][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.28-13.22.12:646][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.28-13.22.12:646][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.28-13.22.12:647][  0]LogHAL: Display: Platform has ~ 8 GB [8506490880 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.28-13.22.12:647][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.28-13.22.12:647][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-13.22.12:648][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.28-13.22.12:648][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.28-13.22.12:648][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-13.22.12:648][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.28-13.22.12:648][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-13.22.12:648][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.28-13.22.12:648][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.28-13.22.12:648][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.28-13.22.12:648][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.28-13.22.12:648][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.28-13.22.12:648][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.28-13.22.12:648][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.28-13.22.12:648][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.28-13.22.12:649][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.28-13.22.12:649][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.28-13.22.12:649][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.28-13.22.12:649][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.28-13.22.12:649][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.28-13.22.12:649][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.28-13.22.12:649][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.28-13.22.12:649][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.28-13.22.12:649][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.28-13.22.12:649][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.28-13.22.12:649][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-13.22.12:649][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.28-13.22.12:649][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.28-13.22.12:649][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.28-13.22.12:649][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.28-13.22.12:649][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.28-13.22.12:649][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.28-13.22.12:649][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.28-13.22.12:649][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.28-13.22.12:649][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.28-13.22.12:649][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.28-13.22.12:649][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.28-13.22.12:649][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.28-13.22.12:650][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.28-13.22.12:650][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.28-13.22.12:650][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.28-13.22.12:650][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.28-13.22.12:650][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.28-13.22.12:650][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.28-13.22.12:650][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.28-13.22.12:650][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.28-13.22.12:650][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.28-13.22.12:650][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.28-13.22.12:650][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.28-13.22.12:650][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.28-13.22.12:650][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.28-13.22.12:650][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.28-13.22.12:650][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.28-13.22.12:651][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.28-13.22.12:651][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.28-13.22.12:651][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.28-13.22.12:651][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-13.22.12:651][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.28-13.22.12:651][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.28-13.22.12:651][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.28-13.22.12:651][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.28-13.22.12:651][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.28-13.22.12:651][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.28-13.22.12:651][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.28-13.22.12:651][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.28-13.22.12:651][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.28-13.22.12:651][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-13.22.12:651][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.28-13.22.12:651][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.28-13.22.12:652][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.28-13.22.12:652][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.28-13.22.12:652][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.28-13.22.12:652][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.28-13.22.12:652][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.28-13.22.12:652][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.28-13.22.12:652][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.28-13.22.12:652][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.28-13.22.12:652][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.28-13.22.12:652][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.28-13.22.12:652][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.28-13.22.12:652][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.28-13.22.12:652][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.28-13.22.12:652][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.28-13.22.12:652][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.28-13.22.12:652][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.28-13.22.12:652][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.28-13.22.12:652][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.28-13.22.12:652][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.28-13.22.12:653][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.28-13.22.12:653][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.28-13.22.12:653][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.28-13.22.12:653][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.28-13.22.12:653][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.28-13.22.12:653][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.28-13.22.12:653][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-13.22.12:653][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.28-13.22.12:653][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.28-13.22.12:653][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.05.28-13.22.12:654][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.28-13.22.12:654][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.28-13.22.12:654][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.28-13.22.12:654][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.28-13.22.12:657][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.28-13.22.12:657][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.28-13.22.12:657][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.28-13.22.12:657][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Engine.ini]
+[2021.05.28-13.22.12:657][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Config/Windows/Editor.ini]
+[2021.05.28-13.22.12:669][  0]LogInit: Computer: DESKTOP-7II9F1T
+[2021.05.28-13.22.12:670][  0]LogInit: User: Administrator
+[2021.05.28-13.22.12:670][  0]LogInit: CPU Page size=4096, Cores=2
+[2021.05.28-13.22.12:670][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.28-13.22.12:670][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.05.28-13.22.12:671][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.28-13.22.12:671][  0]LogMemory: Process Physical Memory: 132.26 MB used, 132.27 MB peak
+[2021.05.28-13.22.12:671][  0]LogMemory: Process Virtual Memory: 115.05 MB used, 115.05 MB peak
+[2021.05.28-13.22.12:671][  0]LogMemory: Physical Memory: 5389.82 MB used,  2722.60 MB free, 8112.42 MB total
+[2021.05.28-13.22.12:671][  0]LogMemory: Virtual Memory: 134214464.00 MB used,  3267.20 MB free, 134217728.00 MB total
+[2021.05.28-13.22.12:728][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.28-13.22.12:959][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.28-13.22.12:960][  0]LogInit: Using OS detected language (zh-CN).
+[2021.05.28-13.22.12:961][  0]LogInit: Using OS detected locale (zh-CN).
+[2021.05.28-13.22.13:012][  0]LogTextLocalizationManager: No specific localization for 'zh-CN' exists, so the 'zh-Hans' localization will be used.
+[2021.05.28-13.22.13:934][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2021.05.28-13.22.13:934][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2021.05.28-13.22.13:937][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2021.05.28-13.22.13:937][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2021.05.28-13.22.13:938][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2021.05.28-13.22.13:939][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2021.05.28-13.22.13:939][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2021.05.28-13.22.13:942][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2021.05.28-13.22.13:945][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemSteam/Content/Localization/OnlineSubsystemSteam/zh/OnlineSubsystemSteam.locres' could not be opened for reading!
+[2021.05.28-13.22.13:948][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2021.05.28-13.22.13:949][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2021.05.28-13.22.13:950][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2021.05.28-13.22.14:372][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.28-13.22.14:495][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.28-13.22.14:495][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.28-13.22.14:576][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.28-13.22.14:576][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.28-13.22.14:576][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.28-13.22.14:576][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.28-13.22.14:588][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2021.05.28-13.22.14:588][  0]LogD3D11RHI:       128/0/4056 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2021.05.28-13.22.14:595][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.28-13.22.14:595][  0]LogD3D11RHI:       0/0/4056 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.28-13.22.14:595][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.28-13.22.14:604][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.28-13.22.14:605][  0]LogD3D11RHI:     GPU DeviceId: 0x1616 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.28-13.22.14:605][  0]LogWindows: EnumDisplayDevices:
+[2021.05.28-13.22.14:605][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2021.05.28-13.22.14:606][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2021.05.28-13.22.14:607][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2021.05.28-13.22.14:609][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2021.05.28-13.22.14:609][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 5500
+[2021.05.28-13.22.14:609][  0]LogD3D11RHI:   Driver Version: 20.19.15.4531 (internal:20.19.15.4531, unified:20.19.15.4531)
+[2021.05.28-13.22.14:609][  0]LogD3D11RHI:      Driver Date: 9-29-2016
+[2021.05.28-13.22.14:609][  0]LogRHI: Texture pool is 1509 MB (70% of 2156 MB)
+[2021.05.28-13.22.14:619][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2021.05.28-13.22.14:660][  0]LogD3D11RHI: Intel Extensions Framework not found
+[2021.05.28-13.22.14:661][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.28-13.22.14:661][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.28-13.22.14:680][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2021.05.28-13.22.15:498][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.28-13.22.15:509][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.28-13.22.15:527][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.28-13.22.15:544][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.28-13.22.15:544][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.28-13.22.15:565][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.28-13.22.15:747][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.28-13.22.15:748][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Intermediate/Shaders/WorkingDirectory/4080/).
+[2021.05.28-13.22.15:748][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/AC2A2F334E70DE9A60DF1CA723A8C37E/'.
+[2021.05.28-13.22.15:748][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.28-13.22.15:748][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.28-13.22.17:151][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.28-13.22.17:243][  0]LogDerivedDataCache: Loaded boot cache 0.09s 77MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.28-13.22.17:243][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Administrator/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.28-13.22.17:243][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Documents/Unreal Projects/Multiplayer/Multiplayer/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.28-13.22.17:243][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.28-13.22.17:243][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Documents/Unreal Projects/Multiplayer/Multiplayer/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.28-13.22.17:243][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.28-13.22.17:260][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.28-13.22.17:260][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.28-13.22.17:260][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.28-13.22.17:274][  0]LogDerivedDataCache: Speed tests for C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.05.28-13.22.17:274][  0]LogDerivedDataCache: Display: Performance to C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=861.54MBs, RandomWriteSpeed=79.43MBs. Assigned SpeedClass 'Local'
+[2021.05.28-13.22.17:275][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.28-13.22.17:275][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.28-13.22.17:275][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.28-13.22.17:352][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.28-13.22.17:353][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.28-13.22.17:514][  0]LogInit: Using OS detected language (zh-CN).
+[2021.05.28-13.22.17:514][  0]LogInit: Using OS detected locale (zh-CN).
+[2021.05.28-13.22.17:515][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the language.
+[2021.05.28-13.22.17:515][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the locale.
+[2021.05.28-13.22.17:515][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.05.28-13.22.17:515][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.05.28-13.22.17:535][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2021.05.28-13.22.17:539][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2021.05.28-13.22.17:904][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.001502 seconds
+[2021.05.28-13.22.18:013][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.28-13.22.18:013][  0]LogInit: Active device profile: [000002409BEC3200][0000024094687500 49] Windows
+[2021.05.28-13.22.18:013][  0]LogInit: Profiles: [000002409BEC3200][0000024094687500 49] Windows, [000002409BEBD000][000002409468F680 49] WindowsNoEditor, [000002409BEC1000][0000024096E97800 49] WindowsServer, [000002409BEBEA00][0000024096E9B980 49] WindowsClient, [000002409BEC2900][0000024096E9FB00 49] IOS, [000002409BEBD900][0000024096EA3C80 49] iPadAir, [000002409BEC1800][0000024096EA6140 49] iPadAir2, [000002409BE7C400][0000024093248400 49] IPadPro, [000002409BE7C500][0000024096EAA440 49] iPadAir3, [000002409BEC2300][000002409324C5C0 49] iPadAir4, [000002409BE7EE00][0000024093250740 49] iPadMini2, [000002409BEC1D00][00000240932548C0 49] iPadMini3, [000002409BE7DF00][0000024093258A40 49] iPadMini4, [000002409BEC2B00][000002409325CBC0 49] iPadMini5, [000002409BE7BC00][0000024093264E80 49] iPhone6, [000002409BE7BD00][0000024093260EC0 49] iPodTouch6, [000002409BE7E700][000002409326D180 49] iPhone7, [000002409BE7E800][00000240932691C0 49] iPodTouch7, [000002409BE79400][000002409468B300 49] iPhone5S, [000002409BE7C700][0000024093271440 49] iPhone6Plus, [000002409BE7A500][0000024093275580 49] iPhone6S, [000002409BE7F600][000002409327D700 49] iPhone6SPlus, [000002409BE79C00][000002409711F880 49] iPhone7Plus, [000002409BE7EF00][0000024097123A00 49] iPhoneSE, [000002409BE7B600][0000024097127B80 49] iPhone8, [000002409BE7CA00][000002409712BD00 49] iPhone8Plus, [000002409BE79A00][000002409712E1C0 49] iPhoneX, [000002409BE7F800][0000024097132340 49] iPhoneXS, [000002409BE7BA00][00000240971364C0 49] iPhoneXSMax, [000002409BE7CF00][000002409713A640 49] iPhoneXR, [000002409BE7A900][000002409713E7C0 49] iPhone11, [000002409BE7DD00][0000024097142940 49] iPhone11Pro, [000002409BE7AB00][0000024097146AC0 49] iPhone11ProMax, [000002409BE7C800][000002409714AC40 49] iPhoneSE2, [000002409BE79D00][000002409714EDC0 49] iPhone12Mini, [000002409BE7F500][0000024097152F40 49] iPhone12, [000002409BE79200][00000240971570C0 49] iPhone12Pro, [000002409BE7E300][000002409715B240 49] iPhone12ProMax, [000002409BE79900][0000024093279380 49] iPadPro105, [000002409BE7E100][000002409715F4C0 49] iPadPro129, [000002409BE79000][0000024097163600 49] iPadPro97, [000002409BE7E400][000002409716B780 49] iPadPro2_129, [000002409BE78D00][000002409716F900 49] iPad5, [000002409BE7D500][0000024097173A80 49] iPad6, [000002409BE78400][0000024097177C00 49] iPad7, [000002409BE7D000][000002409717A0C0 49] iPad8, [000002409BE7B400][0000024094D68240 49] iPadPro11, [000002409BE7F400][0000024094D6C3C0 49] iPadPro2_11, [000002409BE7AD00][0000024094D70540 49] iPadPro3_129, [000002409BE7CC00][0000024094D746C0 49] iPadPro4_129, [000002409BE79F00][0000024094D78840 49] AppleTV, [000002409BE7FD00][0000024094D7C9C0 49] AppleTV4K, [000002409BE7B000][0000024094D80B40 49] TVOS, [000002409BE7D100][0000024094D84CC0 49] Mac, [000002409BE7BB00][0000024094D88E40 49] MacClient, [000002409BE7D200][0000024094D8CFC0 49] MacNoEditor, [000002409BE7A400][0000024094D91140 49] MacServer, [000002409BE7D300][0000024094D952C0 49] Linux, [000002409BE78700][0000024097167400 49] LinuxAArch64, [000002409BEBC800][0000024094D99540 49] LinuxNoEditor, [000002409BF48F00][0000024094D9D680 49] LinuxAArch64NoEditor, [000002409BEBED00][0000024094DA17C0 49] LinuxClient, [000002409BF49300][0000024094DA9940 49] LinuxAArch64Client, [000002409BEBE800][0000024094DADAC0 49] LinuxServer, [000002409BF48C00][0000024094DB1C40 49] LinuxAArch64Server, [000002409BEBFE00][0000024094DB4100 49] Android, [000002409BF49600][0000024094DB8280 49] Android_Low, [000002409BEBD200][0000024094DBC400 49] Android_Mid, [000002409BF48D00][0000024094DC0580 49] Android_High, [000002409BEBEC00][0000024094DC4700 49] Android_Default, [000002409BF48300][0000024094DC8880 49] Android_Adreno4xx, [000002409BEBF100][0000024094DCCA00 49] Android_Adreno5xx_Low, [000002409BF48500][0000024094DD0B80 49] Android_Adreno5xx, [000002409BEBFC00][0000024094DD4D00 49] Android_Adreno6xx, [000002409BF48100][0000024094DD8E80 49] Android_Adreno6xx_Vulkan, [000002409BE79800][0000024094DDD000 49] Android_Mali_T6xx, [000002409BE7DB00][0000024094DE1180 49] Android_Mali_T7xx, [000002409BE78C00][0000024094DE5300 49] Android_Mali_T8xx, [000002409BE7C200][0000024094DA5440 49] Android_Mali_G71, [000002409BE7AF00][0000024094DE9580 49] Android_Mali_G72, [000002409BE7E000][0000024094DED6C0 49] Android_Mali_G72_Vulkan, [000002409BE7B800][0000024094DF1800 49] Android_Mali_G76, [000002409BE7FC00][0000024094DF9980 49] Android_Mali_G76_Vulkan, [000002409BE7A600][0000024094DFDB00 49] Android_Mali_G77, [000002409BE7F700][0000024094E01C80 49] Android_Mali_G77_Vulkan, [000002409BE79300][0000024094E04140 49] Android_Vulkan_SM5, [000002409BE7D700][0000024094E082C0 49] Android_PowerVR_G6xxx, [000002409BE7B700][0000024094E0C440 49] Android_PowerVR_GT7xxx, [000002409BE7CB00][0000024094E105C0 49] Android_PowerVR_GE8xxx, [000002409BE7B300][0000024094E14740 49] Android_PowerVR_GM9xxx, [000002409BE7C600][0000024094E188C0 49] Android_PowerVR_GM9xxx_Vulkan, [000002409BE78B00][0000024094E1CA40 49] Android_TegraK1, [000002409BE7C300][0000024094E20BC0 49] Android_Unknown_Vulkan, [000002409BE7A700][0000024094E24D40 49] Lumin, [000002409BE7E600][0000024094E28EC0 49] Lumin_Desktop, [000002409BE78F00][0000024094E2D040 49] HoloLens, 
+[2021.05.28-13.22.18:097][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.28-13.22.18:097][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.28-13.22.18:097][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.28-13.22.18:097][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.28-13.22.18:097][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.28-13.22.18:249][  0]LogNetVersion: AssaShineMulti_V100 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 710679212)
+[2021.05.28-13.22.18:796][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.28-13.22.19:032][  0]LogMoviePlayer: Initializing movie player
+[2021.05.28-13.22.19:401][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.28-13.22.19:411][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.28-13.22.19:502][  0]SourceControl: Source control is disabled
+[2021.05.28-13.22.19:502][  0]SourceControl: Source control is disabled
+[2021.05.28-13.22.19:508][  0]SourceControl: Source control is disabled
+[2021.05.28-13.22.19:514][  0]LogUProjectInfo: Found projects:
+[2021.05.28-13.22.19:723][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.28-13.22.19:763][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.28-13.22.19:763][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.28-13.22.19:856][  0]LogOcInput: OculusInput pre-init called
+[2021.05.28-13.22.19:864][  0]LogUObjectArray: 20232 objects as part of root set at end of initial load.
+[2021.05.28-13.22.19:864][  0]LogUObjectAllocator: 5397856 out of 0 bytes used by permanent object pool.
+[2021.05.28-13.22.19:864][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.28-13.22.19:935][  0]LogEngine: Initializing Engine...
+[2021.05.28-13.22.19:939][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.28-13.22.19:939][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.28-13.22.19:941][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.28-13.22.20:133][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.28-13.22.20:133][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.28-13.22.20:149][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.28-13.22.20:149][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.28-13.22.20:149][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.28-13.22.20:149][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.28-13.22.20:149][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.28-13.22.20:149][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.28-13.22.20:149][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.28-13.22.20:149][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.28-13.22.20:149][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.28-13.22.20:149][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.28-13.22.20:151][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.28-13.22.20:151][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.28-13.22.20:196][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.28-13.22.20:196][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.28-13.22.20:265][  0]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2021.05.28-13.22.20:270][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.28-13.22.20:273][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.28-13.22.20:274][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.28-13.22.20:275][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.28-13.22.20:275][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.28-13.22.20:275][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.28-13.22.20:277][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.28-13.22.20:277][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.28-13.22.20:277][  0]LogInit: FAudioDevice initialized.
+[2021.05.28-13.22.20:279][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.28-13.22.20:280][  0]LogInit: Texture streaming: Enabled
+[2021.05.28-13.22.20:420][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:PlayerInfo'. Unknown structure.
+[2021.05.28-13.22.20:421][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/AllLevels/PlayerSaveGame.PlayerSaveGame_C:S_PlayerInfo'. Unknown structure.
+[2021.05.28-13.22.20:421][  0]LogClass: Warning: Property S_PlayerInfo of S_PlayerInfo has a struct type mismatch (tag STRUCT_REINST_PlayerInfo_0 != prop FallbackStruct) in package:  D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/AllLevels/PlayerSaveGame.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.05.28-13.22.20:451][  0]LogClass: Warning: Property PlayerInfo of PlayerInfo has a struct type mismatch (tag STRUCT_REINST_PlayerInfo_0 != prop FallbackStruct) in package:  D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/UI/MainMenu/OptionsMenu.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.05.28-13.22.20:584][  0]LogClass: Warning: Property S_PlayerInfo of S_PlayerInfo has a struct type mismatch (tag FallbackStruct != prop PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.05.28-13.22.20:585][  0]LogClass: Warning: Property PlayerInfo of PlayerInfo has a struct type mismatch (tag FallbackStruct != prop PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.05.28-13.22.20:637][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.28-13.22.20:638][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-13.22.20:647][  0]LogInit: Display: Game Engine Initialized.
+[2021.05.28-13.22.20:647][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2021.05.28-13.22.20:892][  0]LogInit: Display: Starting Game.
+[2021.05.28-13.22.20:892][  0]LogNet: Browse: /Game/Maps/Arena02?Name=Player
+[2021.05.28-13.22.20:893][  0]LogLoad: LoadMap: /Game/Maps/Arena02?Name=Player
+[2021.05.28-13.22.20:893][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2021.05.28-13.22.20:895][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.28-13.22.20:895][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-13.22.20:906][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.28-13.22.20:937][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.05.28-13.22.22:052][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Arena02'.
+[2021.05.28-13.22.22:063][  0]LogAIModule: Creating AISystem for world Arena02
+[2021.05.28-13.22.22:064][  0]LogLoad: Game class is 'GameplayGM_C'
+[2021.05.28-13.22.22:073][  0]LogWorld: Bringing World /Game/Maps/Arena02.Arena02 up for play (max tick rate 0) at 2021.05.28-21.22.22
+[2021.05.28-13.22.22:074][  0]LogWorld: Bringing up level for play took: 0.007187
+[2021.05.28-13.22.22:080][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.28-13.22.22:080][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.05.28-13.22.22:080][  0]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.05.28-13.22.22:098][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-13.22.22:102][  0]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.05.28-13.22.22:102][  0]LogLoad: Took 1.210274 seconds to LoadMap(/Game/Maps/Arena02)
+[2021.05.28-13.22.22:103][  0]LogSlate: Took 0.000325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.28-13.22.22:340][  0]LogRenderer: Reallocating scene render targets to support 1244x716 Format 10 NumSamples 1 (Frame:1).
+[2021.05.28-13.22.22:341][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.28-13.22.22:341][  0]LogLoad: (Engine Initialization) Total time: 24.24 seconds
+[2021.05.28-13.22.22:341][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.28-13.22.22:341][  0]LogInit: First time updating LLM stats...
+[2021.05.28-13.22.23:623][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.05.28-13.22.23:636][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-13.22.26:695][  0]LogRenderer: Reallocating scene render targets to support 128x128 Format 10 NumSamples 1 (Frame:1).
+[2021.05.28-13.22.27:792][  0]LogRenderer: Reallocating scene render targets to support 1244x716 Format 10 NumSamples 1 (Frame:2).
+[2021.05.28-13.22.28:968][  1]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.28:968][  1]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.28:969][  1]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.28:969][  1]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.28:969][  1]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.28:969][  1]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.28:969][  1]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.28:969][  1]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.28:969][  1]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.28:969][  1]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.28:971][  1]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.28:991][  2]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.28:991][  2]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.28:992][  2]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.28:992][  2]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.28:992][  2]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.28:992][  2]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.28:992][  2]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.28:992][  2]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.28:992][  2]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.28:992][  2]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.29:045][  3]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.29:045][  3]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.29:046][  3]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.29:047][  3]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.29:048][  3]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.29:048][  3]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.29:048][  3]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.29:048][  3]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.29:048][  3]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.29:048][  3]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.29:621][  4]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.05.28-13.22.29:625][  4]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.29:625][  4]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.29:625][  4]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.29:625][  4]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.29:625][  4]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.29:625][  4]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.29:626][  4]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.29:626][  4]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.29:627][  4]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.29:627][  4]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.29:632][  4]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.30:546][  5]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.30:548][  5]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.30:549][  5]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.30:550][  5]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.30:550][  5]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.30:550][  5]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.30:550][  5]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.30:550][  5]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.30:550][  5]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.30:550][  5]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.30:551][  5]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.31:198][  6]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.31:198][  6]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.31:199][  6]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.31:199][  6]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.31:199][  6]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.31:199][  6]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.31:199][  6]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.31:199][  6]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.31:200][  6]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.31:200][  6]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.31:200][  6]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.31:201][  6]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.31:970][  7]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.31:970][  7]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.31:970][  7]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.31:971][  7]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.31:971][  7]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.31:971][  7]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.31:971][  7]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.31:971][  7]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.31:971][  7]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.31:971][  7]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.31:974][  7]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.31:975][  7]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.32:663][  8]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.32:664][  8]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.32:664][  8]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.32:664][  8]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.32:664][  8]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.32:664][  8]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.32:664][  8]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.32:665][  8]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.32:665][  8]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.32:665][  8]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.32:668][  8]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.32:668][  8]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.32:669][  8]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.32:669][  8]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.33:300][  9]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.33:300][  9]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.33:301][  9]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.33:301][  9]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.33:301][  9]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.33:301][  9]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.33:301][  9]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.33:301][  9]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.33:301][  9]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.33:301][  9]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.33:301][  9]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.33:302][  9]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.33:302][  9]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.33:303][  9]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.34:054][ 10]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.34:054][ 10]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.34:055][ 10]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.34:055][ 10]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.34:055][ 10]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.34:055][ 10]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.34:055][ 10]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.34:055][ 10]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.34:055][ 10]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.34:056][ 10]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.34:056][ 10]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.34:057][ 10]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.34:058][ 10]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.34:062][ 10]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.34:705][ 11]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.34:705][ 11]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.34:705][ 11]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.34:705][ 11]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.34:705][ 11]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.34:706][ 11]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.34:706][ 11]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.34:706][ 11]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.34:706][ 11]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.34:706][ 11]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.34:708][ 11]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.35:814][ 12]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.35:814][ 12]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.35:814][ 12]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.35:814][ 12]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.35:814][ 12]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.35:815][ 12]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.35:815][ 12]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.35:815][ 12]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.35:815][ 12]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.35:815][ 12]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.35:818][ 12]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.35:819][ 12]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.36:568][ 13]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.36:568][ 13]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.36:568][ 13]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.36:568][ 13]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.36:568][ 13]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.36:568][ 13]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.36:568][ 13]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.36:569][ 13]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.36:569][ 13]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.36:569][ 13]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.37:268][ 14]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.37:268][ 14]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.37:268][ 14]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.37:269][ 14]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.37:269][ 14]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.37:269][ 14]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.37:269][ 14]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.37:270][ 14]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.37:270][ 14]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.37:270][ 14]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.37:271][ 14]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.38:022][ 15]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.38:022][ 15]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.38:022][ 15]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.38:022][ 15]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.38:022][ 15]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.38:022][ 15]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.38:023][ 15]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.38:023][ 15]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.38:023][ 15]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.38:023][ 15]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.38:024][ 15]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.38:026][ 15]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.38:722][ 16]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.38:722][ 16]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.38:722][ 16]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.38:723][ 16]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.38:723][ 16]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.38:723][ 16]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.38:723][ 16]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.38:723][ 16]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.38:723][ 16]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.38:724][ 16]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.38:724][ 16]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.39:412][ 17]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.39:413][ 17]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.39:413][ 17]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.39:413][ 17]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.39:414][ 17]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.39:414][ 17]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.39:414][ 17]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.39:414][ 17]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.39:414][ 17]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.39:414][ 17]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.39:416][ 17]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.39:416][ 17]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.39:417][ 17]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.39:420][ 17]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.40:052][ 18]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.40:052][ 18]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.40:052][ 18]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.40:052][ 18]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.40:052][ 18]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.40:052][ 18]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.40:052][ 18]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.40:052][ 18]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.40:053][ 18]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.40:053][ 18]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.40:055][ 18]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.40:670][ 19]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.40:671][ 19]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.40:672][ 19]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.40:672][ 19]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.40:672][ 19]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.40:673][ 19]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.40:673][ 19]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.40:674][ 19]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.40:674][ 19]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.40:674][ 19]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.40:680][ 19]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.40:681][ 19]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.41:440][ 20]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.41:440][ 20]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.41:440][ 20]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.41:441][ 20]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.41:441][ 20]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.41:441][ 20]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.41:441][ 20]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.41:441][ 20]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.41:441][ 20]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.41:441][ 20]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.41:442][ 20]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.41:445][ 20]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:414][ 21]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:414][ 21]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.42:414][ 21]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:415][ 21]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.42:415][ 21]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:415][ 21]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.42:416][ 21]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:417][ 21]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.42:418][ 21]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:418][ 21]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.42:418][ 21]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:419][ 21]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:615][ 22]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:615][ 22]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.42:615][ 22]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:615][ 22]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.42:615][ 22]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:615][ 22]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.42:615][ 22]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:615][ 22]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.42:616][ 22]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:616][ 22]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.42:710][ 23]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:711][ 23]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.42:711][ 23]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:711][ 23]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.42:711][ 23]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:711][ 23]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.42:711][ 23]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:711][ 23]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.42:711][ 23]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:711][ 23]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.42:792][ 24]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:792][ 24]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.42:792][ 24]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:792][ 24]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.42:792][ 24]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:792][ 24]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.42:793][ 24]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:793][ 24]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.42:793][ 24]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:793][ 24]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.42:883][ 25]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:883][ 25]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.42:883][ 25]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:883][ 25]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.42:883][ 25]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:883][ 25]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.42:883][ 25]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:883][ 25]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.42:883][ 25]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:883][ 25]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.42:884][ 25]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:958][ 26]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:958][ 26]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.42:958][ 26]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:958][ 26]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.42:959][ 26]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:959][ 26]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.42:959][ 26]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:959][ 26]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.42:959][ 26]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.42:959][ 26]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.43:029][ 27]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:029][ 27]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.43:030][ 27]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:030][ 27]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.43:030][ 27]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:030][ 27]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.43:030][ 27]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:030][ 27]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.43:030][ 27]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:030][ 27]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.43:096][ 28]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:097][ 28]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.43:097][ 28]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:097][ 28]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.43:097][ 28]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:097][ 28]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.43:097][ 28]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:097][ 28]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.43:097][ 28]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:097][ 28]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.43:165][ 29]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:165][ 29]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.43:165][ 29]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:165][ 29]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.43:165][ 29]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:165][ 29]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.43:165][ 29]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:165][ 29]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.43:165][ 29]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:165][ 29]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.43:166][ 29]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:222][ 30]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:223][ 30]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.43:223][ 30]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:223][ 30]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.43:223][ 30]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:223][ 30]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.43:223][ 30]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:223][ 30]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.43:224][ 30]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:225][ 30]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.43:230][ 30]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:298][ 31]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:298][ 31]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.43:298][ 31]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:299][ 31]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.43:299][ 31]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:299][ 31]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.43:299][ 31]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:299][ 31]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.43:299][ 31]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:299][ 31]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.43:301][ 31]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:370][ 32]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:370][ 32]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.43:370][ 32]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:370][ 32]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.43:370][ 32]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:370][ 32]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.43:370][ 32]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:370][ 32]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.43:370][ 32]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:370][ 32]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.43:371][ 32]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:457][ 33]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:458][ 33]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.43:458][ 33]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:458][ 33]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.43:458][ 33]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:458][ 33]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.43:458][ 33]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:458][ 33]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.43:458][ 33]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:458][ 33]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.43:632][ 34]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:632][ 34]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.43:632][ 34]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:632][ 34]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.43:633][ 34]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:633][ 34]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.43:633][ 34]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:633][ 34]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.43:633][ 34]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:633][ 34]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.43:633][ 34]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:633][ 34]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:634][ 34]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:742][ 35]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:743][ 35]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.43:743][ 35]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:744][ 35]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.43:744][ 35]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:744][ 35]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.43:749][ 35]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:749][ 35]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.43:749][ 35]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:749][ 35]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.43:750][ 35]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:921][ 36]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:921][ 36]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.43:922][ 36]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:922][ 36]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.43:922][ 36]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:922][ 36]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.43:923][ 36]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:923][ 36]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.43:923][ 36]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:923][ 36]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.43:924][ 36]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:925][ 36]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:925][ 36]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.43:925][ 36]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:055][ 37]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:055][ 37]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.44:057][ 37]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:057][ 37]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.44:058][ 37]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:058][ 37]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.44:059][ 37]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:059][ 37]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.44:059][ 37]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:059][ 37]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.44:061][ 37]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:062][ 37]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:062][ 37]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:182][ 38]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:183][ 38]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.44:183][ 38]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:183][ 38]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.44:183][ 38]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:183][ 38]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.44:184][ 38]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:184][ 38]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.44:184][ 38]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:184][ 38]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.44:302][ 39]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:302][ 39]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.44:302][ 39]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:302][ 39]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.44:303][ 39]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:303][ 39]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.44:303][ 39]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:303][ 39]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.44:303][ 39]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:303][ 39]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.44:305][ 39]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:413][ 40]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:413][ 40]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.44:413][ 40]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:413][ 40]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.44:414][ 40]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:414][ 40]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.44:414][ 40]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:414][ 40]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.44:414][ 40]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:414][ 40]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.44:416][ 40]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:418][ 40]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:420][ 40]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:551][ 41]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:551][ 41]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [0/0]!
+[2021.05.28-13.22.44:552][ 41]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:552][ 41]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [1/0]!
+[2021.05.28-13.22.44:552][ 41]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:553][ 41]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [2/0]!
+[2021.05.28-13.22.44:553][ 41]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:553][ 41]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [3/0]!
+[2021.05.28-13.22.44:554][ 41]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'pBests' of length 0 in '/Game/Blueprints/AI/ParticleSwarmPath.ParticleSwarmPath_C'!
+[2021.05.28-13.22.44:554][ 41]LogScript: Warning: Script Msg: Attempted to set an invalid index on array pBests [4/0]!
+[2021.05.28-13.22.44:934][ 42]LogSlate: Window 'AssaShineMulti_V100 (64-bit Development PCD3D_SM5) ' being destroyed
+[2021.05.28-13.22.44:939][ 42]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.28-13.22.44:961][ 42]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2021.05.28-13.22.44:963][ 42]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.05.28-13.22.44:964][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-13.22.44:964][ 42]LogEngine: All Windows Closed
+[2021.05.28-13.22.44:964][ 42]LogWindows: FPlatformMisc::RequestExit(0)
+[2021.05.28-13.22.44:964][ 42]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.05.28-13.22.44:964][ 43]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.05.28-13.22.44:967][ 43]LogInit: Display: PreExit Game.
+[2021.05.28-13.22.45:052][ 43]LogWorld: BeginTearingDown for /Game/Maps/Arena02
+[2021.05.28-13.22.45:053][ 43]LogWorld: UWorld::CleanupWorld for Arena02, bSessionEnded=true, bCleanupResources=true
+[2021.05.28-13.22.45:062][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-13.22.45:972][ 43]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.05.28-13.22.45:972][ 43]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.05.28-13.22.45:972][ 43]LogAudio: Display: Audio Device unregistered from world 'Arena02'.
+[2021.05.28-13.22.45:976][ 43]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.28-13.22.45:978][ 43]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.28-13.22.46:015][ 43]LogAudio: Display: Audio Device Manager Shutdown
+[2021.05.28-13.22.46:019][ 43]LogExit: Preparing to exit.
+[2021.05.28-13.22.46:468][ 43]LogMoviePlayer: Shutting down movie player
+[2021.05.28-13.22.46:620][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BEC3200] Windows
+[2021.05.28-13.22.46:620][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BEC3100] Default__DeviceProfile
+[2021.05.28-13.22.46:620][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BEBD000] WindowsNoEditor
+[2021.05.28-13.22.46:620][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BEC1000] WindowsServer
+[2021.05.28-13.22.46:620][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BEBEA00] WindowsClient
+[2021.05.28-13.22.46:620][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BEC2900] IOS
+[2021.05.28-13.22.46:620][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BEBD900] iPadAir
+[2021.05.28-13.22.46:620][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BEC1800] iPadAir2
+[2021.05.28-13.22.46:620][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7C400] IPadPro
+[2021.05.28-13.22.46:620][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7C500] iPadAir3
+[2021.05.28-13.22.46:621][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BEC2300] iPadAir4
+[2021.05.28-13.22.46:621][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7EE00] iPadMini2
+[2021.05.28-13.22.46:621][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BEC1D00] iPadMini3
+[2021.05.28-13.22.46:621][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7DF00] iPadMini4
+[2021.05.28-13.22.46:621][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BEC2B00] iPadMini5
+[2021.05.28-13.22.46:621][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7BC00] iPhone6
+[2021.05.28-13.22.46:621][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7BD00] iPodTouch6
+[2021.05.28-13.22.46:621][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7E700] iPhone7
+[2021.05.28-13.22.46:621][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7E800] iPodTouch7
+[2021.05.28-13.22.46:621][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE79400] iPhone5S
+[2021.05.28-13.22.46:621][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7C700] iPhone6Plus
+[2021.05.28-13.22.46:621][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7A500] iPhone6S
+[2021.05.28-13.22.46:621][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7F600] iPhone6SPlus
+[2021.05.28-13.22.46:622][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE79C00] iPhone7Plus
+[2021.05.28-13.22.46:622][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7EF00] iPhoneSE
+[2021.05.28-13.22.46:622][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7B600] iPhone8
+[2021.05.28-13.22.46:622][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7CA00] iPhone8Plus
+[2021.05.28-13.22.46:622][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE79A00] iPhoneX
+[2021.05.28-13.22.46:622][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7F800] iPhoneXS
+[2021.05.28-13.22.46:622][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7BA00] iPhoneXSMax
+[2021.05.28-13.22.46:622][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7CF00] iPhoneXR
+[2021.05.28-13.22.46:622][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7A900] iPhone11
+[2021.05.28-13.22.46:622][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7DD00] iPhone11Pro
+[2021.05.28-13.22.46:623][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7AB00] iPhone11ProMax
+[2021.05.28-13.22.46:623][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7C800] iPhoneSE2
+[2021.05.28-13.22.46:623][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE79D00] iPhone12Mini
+[2021.05.28-13.22.46:623][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7F500] iPhone12
+[2021.05.28-13.22.46:623][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE79200] iPhone12Pro
+[2021.05.28-13.22.46:623][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7E300] iPhone12ProMax
+[2021.05.28-13.22.46:623][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE79900] iPadPro105
+[2021.05.28-13.22.46:623][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7E100] iPadPro129
+[2021.05.28-13.22.46:623][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE79000] iPadPro97
+[2021.05.28-13.22.46:623][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7E400] iPadPro2_129
+[2021.05.28-13.22.46:624][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE78D00] iPad5
+[2021.05.28-13.22.46:624][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7D500] iPad6
+[2021.05.28-13.22.46:624][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE78400] iPad7
+[2021.05.28-13.22.46:624][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7D000] iPad8
+[2021.05.28-13.22.46:624][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7B400] iPadPro11
+[2021.05.28-13.22.46:624][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7F400] iPadPro2_11
+[2021.05.28-13.22.46:624][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7AD00] iPadPro3_129
+[2021.05.28-13.22.46:624][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7CC00] iPadPro4_129
+[2021.05.28-13.22.46:624][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE79F00] AppleTV
+[2021.05.28-13.22.46:624][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7FD00] AppleTV4K
+[2021.05.28-13.22.46:624][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7B000] TVOS
+[2021.05.28-13.22.46:624][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7D100] Mac
+[2021.05.28-13.22.46:625][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7BB00] MacClient
+[2021.05.28-13.22.46:625][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7D200] MacNoEditor
+[2021.05.28-13.22.46:625][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7A400] MacServer
+[2021.05.28-13.22.46:625][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7D300] Linux
+[2021.05.28-13.22.46:625][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE78700] LinuxAArch64
+[2021.05.28-13.22.46:625][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BEBC800] LinuxNoEditor
+[2021.05.28-13.22.46:625][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BF48F00] LinuxAArch64NoEditor
+[2021.05.28-13.22.46:626][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BEBED00] LinuxClient
+[2021.05.28-13.22.46:626][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BF49300] LinuxAArch64Client
+[2021.05.28-13.22.46:626][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BEBE800] LinuxServer
+[2021.05.28-13.22.46:626][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BF48C00] LinuxAArch64Server
+[2021.05.28-13.22.46:626][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BEBFE00] Android
+[2021.05.28-13.22.46:626][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BF49600] Android_Low
+[2021.05.28-13.22.46:626][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BEBD200] Android_Mid
+[2021.05.28-13.22.46:626][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BF48D00] Android_High
+[2021.05.28-13.22.46:626][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BEBEC00] Android_Default
+[2021.05.28-13.22.46:626][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BF48300] Android_Adreno4xx
+[2021.05.28-13.22.46:626][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BEBF100] Android_Adreno5xx_Low
+[2021.05.28-13.22.46:626][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BF48500] Android_Adreno5xx
+[2021.05.28-13.22.46:626][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BEBFC00] Android_Adreno6xx
+[2021.05.28-13.22.46:626][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BF48100] Android_Adreno6xx_Vulkan
+[2021.05.28-13.22.46:626][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE79800] Android_Mali_T6xx
+[2021.05.28-13.22.46:626][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7DB00] Android_Mali_T7xx
+[2021.05.28-13.22.46:626][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE78C00] Android_Mali_T8xx
+[2021.05.28-13.22.46:626][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7C200] Android_Mali_G71
+[2021.05.28-13.22.46:626][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7AF00] Android_Mali_G72
+[2021.05.28-13.22.46:627][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7E000] Android_Mali_G72_Vulkan
+[2021.05.28-13.22.46:627][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7B800] Android_Mali_G76
+[2021.05.28-13.22.46:627][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7FC00] Android_Mali_G76_Vulkan
+[2021.05.28-13.22.46:627][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7A600] Android_Mali_G77
+[2021.05.28-13.22.46:627][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7F700] Android_Mali_G77_Vulkan
+[2021.05.28-13.22.46:627][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE79300] Android_Vulkan_SM5
+[2021.05.28-13.22.46:627][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7D700] Android_PowerVR_G6xxx
+[2021.05.28-13.22.46:627][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7B700] Android_PowerVR_GT7xxx
+[2021.05.28-13.22.46:627][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7CB00] Android_PowerVR_GE8xxx
+[2021.05.28-13.22.46:627][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7B300] Android_PowerVR_GM9xxx
+[2021.05.28-13.22.46:627][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7C600] Android_PowerVR_GM9xxx_Vulkan
+[2021.05.28-13.22.46:628][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE78B00] Android_TegraK1
+[2021.05.28-13.22.46:628][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7C300] Android_Unknown_Vulkan
+[2021.05.28-13.22.46:628][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7A700] Lumin
+[2021.05.28-13.22.46:628][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE7E600] Lumin_Desktop
+[2021.05.28-13.22.46:628][ 43]LogDeviceProfile: Device profile begin destroy: [000002409BE78F00] HoloLens
+[2021.05.28-13.22.46:773][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-13.22.46:849][ 43]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.05.28-13.22.46:880][ 43]LogExit: Game engine shut down
+[2021.05.28-13.22.47:056][ 43]LogExit: Object subsystem successfully closed.
+[2021.05.28-13.22.47:079][ 43]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.05.28-13.22.47:125][ 43]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (512)
+[2021.05.28-13.22.47:125][ 43]LogModuleManager: Shutting down and abandoning module SequenceRecorder (510)
+[2021.05.28-13.22.47:125][ 43]LogModuleManager: Shutting down and abandoning module AutomationController (508)
+[2021.05.28-13.22.47:125][ 43]LogModuleManager: Shutting down and abandoning module AutomationWorker (506)
+[2021.05.28-13.22.47:125][ 43]LogModuleManager: Shutting down and abandoning module Voice (504)
+[2021.05.28-13.22.47:125][ 43]LogModuleManager: Shutting down and abandoning module AIModule (502)
+[2021.05.28-13.22.47:125][ 43]LogModuleManager: Shutting down and abandoning module GameplayDebugger (501)
+[2021.05.28-13.22.47:125][ 43]LogModuleManager: Shutting down and abandoning module AITestSuite (499)
+[2021.05.28-13.22.47:125][ 43]LogModuleManager: Shutting down and abandoning module NavigationSystem (497)
+[2021.05.28-13.22.47:125][ 43]LogModuleManager: Shutting down and abandoning module AnimGraph (494)
+[2021.05.28-13.22.47:125][ 43]LogModuleManager: Shutting down and abandoning module SteamVREditor (492)
+[2021.05.28-13.22.47:125][ 43]LogModuleManager: Shutting down and abandoning module ToolMenus (491)
+[2021.05.28-13.22.47:125][ 43]LogModuleManager: Shutting down and abandoning module OculusMR (488)
+[2021.05.28-13.22.47:125][ 43]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2021.05.28-13.22.47:125][ 43]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (484)
+[2021.05.28-13.22.47:125][ 43]LogModuleManager: Shutting down and abandoning module WebMMedia (482)
+[2021.05.28-13.22.47:125][ 43]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (480)
+[2021.05.28-13.22.47:125][ 43]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (478)
+[2021.05.28-13.22.47:125][ 43]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (476)
+[2021.05.28-13.22.47:125][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (474)
+[2021.05.28-13.22.47:125][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (472)
+[2021.05.28-13.22.47:125][ 43]LogModuleManager: Shutting down and abandoning module PlanarCut (470)
+[2021.05.28-13.22.47:126][ 43]LogModuleManager: Shutting down and abandoning module CharacterAI (468)
+[2021.05.28-13.22.47:126][ 43]LogModuleManager: Shutting down and abandoning module SessionServices (466)
+[2021.05.28-13.22.47:126][ 43]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (464)
+[2021.05.28-13.22.47:126][ 43]LogModuleManager: Shutting down and abandoning module LiveCoding (462)
+[2021.05.28-13.22.47:126][ 43]LogModuleManager: Shutting down and abandoning module LevelSequence (460)
+[2021.05.28-13.22.47:126][ 43]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (458)
+[2021.05.28-13.22.47:126][ 43]LogModuleManager: Shutting down and abandoning module MovieScene (456)
+[2021.05.28-13.22.47:126][ 43]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (454)
+[2021.05.28-13.22.47:126][ 43]LogModuleManager: Shutting down and abandoning module PortalServices (452)
+[2021.05.28-13.22.47:126][ 43]LogModuleManager: Shutting down and abandoning module PortalRpc (450)
+[2021.05.28-13.22.47:126][ 43]LogModuleManager: Shutting down and abandoning module MessagingRpc (448)
+[2021.05.28-13.22.47:126][ 43]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (446)
+[2021.05.28-13.22.47:126][ 43]LogModuleManager: Shutting down and abandoning module AudioMixerCore (445)
+[2021.05.28-13.22.47:126][ 43]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (442)
+[2021.05.28-13.22.47:127][ 43]LogModuleManager: Shutting down and abandoning module ProfilerService (440)
+[2021.05.28-13.22.47:360][ 43]LogModuleManager: Shutting down and abandoning module TaskGraph (438)
+[2021.05.28-13.22.47:360][ 43]LogModuleManager: Shutting down and abandoning module OculusInput (436)
+[2021.05.28-13.22.47:360][ 43]LogModuleManager: Shutting down and abandoning module Synthesis (434)
+[2021.05.28-13.22.47:360][ 43]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (432)
+[2021.05.28-13.22.47:360][ 43]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (430)
+[2021.05.28-13.22.47:360][ 43]LogModuleManager: Shutting down and abandoning module GooglePAD (428)
+[2021.05.28-13.22.47:360][ 43]LogModuleManager: Shutting down and abandoning module EditableMesh (426)
+[2021.05.28-13.22.47:360][ 43]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (424)
+[2021.05.28-13.22.47:360][ 43]LogModuleManager: Shutting down and abandoning module CableComponent (422)
+[2021.05.28-13.22.47:360][ 43]LogModuleManager: Shutting down and abandoning module AudioCapture (420)
+[2021.05.28-13.22.47:360][ 43]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (419)
+[2021.05.28-13.22.47:360][ 43]LogModuleManager: Shutting down and abandoning module AssetTags (416)
+[2021.05.28-13.22.47:360][ 43]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (414)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (412)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module AppleImageUtils (410)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module AndroidPermission (408)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (406)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module TemplateSequence (404)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module MediaCompositing (402)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module ImgMedia (400)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (398)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (396)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (394)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (392)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (390)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module MotoSynth (388)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module MeshConversion (386)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module DynamicMesh (384)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (382)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module GeometricObjects (380)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (378)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (377)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (374)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (373)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module GeometryCache (370)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (369)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module ChaosNiagara (366)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (365)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module AutomationUtils (362)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module BackChannel (360)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (358)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module HotReload (357)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (356)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module UObjectPlugin (352)
+[2021.05.28-13.22.47:361][ 43]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (350)
+[2021.05.28-13.22.47:362][ 43]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (348)
+[2021.05.28-13.22.47:362][ 43]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (346)
+[2021.05.28-13.22.47:362][ 43]LogModuleManager: Shutting down and abandoning module SourceControl (345)
+[2021.05.28-13.22.47:362][ 43]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (342)
+[2021.05.28-13.22.47:362][ 43]LogModuleManager: Shutting down and abandoning module SoundFields (340)
+[2021.05.28-13.22.47:362][ 43]LogModuleManager: Shutting down and abandoning module SignificanceManager (338)
+[2021.05.28-13.22.47:362][ 43]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (336)
+[2021.05.28-13.22.47:362][ 43]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (334)
+[2021.05.28-13.22.47:362][ 43]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2021.05.28-13.22.47:362][ 43]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2021.05.28-13.22.47:362][ 43]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (326)
+[2021.05.28-13.22.47:362][ 43]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (324)
+[2021.05.28-13.22.47:362][ 43]LogModuleManager: Shutting down and abandoning module UdpMessaging (322)
+[2021.05.28-13.22.47:463][ 43]LogModuleManager: Shutting down and abandoning module ActorSequence (320)
+[2021.05.28-13.22.47:463][ 43]LogModuleManager: Shutting down and abandoning module TcpMessaging (318)
+[2021.05.28-13.22.47:564][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (316)
+[2021.05.28-13.22.47:564][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (314)
+[2021.05.28-13.22.47:564][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (312)
+[2021.05.28-13.22.47:564][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (310)
+[2021.05.28-13.22.47:564][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (308)
+[2021.05.28-13.22.47:564][ 43]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.05.28-13.22.47:564][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (306)
+[2021.05.28-13.22.47:564][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (304)
+[2021.05.28-13.22.47:564][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (302)
+[2021.05.28-13.22.47:564][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (300)
+[2021.05.28-13.22.47:564][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapController (298)
+[2021.05.28-13.22.47:564][ 43]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.05.28-13.22.47:564][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (296)
+[2021.05.28-13.22.47:564][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapAR (294)
+[2021.05.28-13.22.47:564][ 43]LogModuleManager: Shutting down and abandoning module AugmentedReality (293)
+[2021.05.28-13.22.47:564][ 43]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (290)
+[2021.05.28-13.22.47:564][ 43]LogModuleManager: Shutting down and abandoning module Niagara (288)
+[2021.05.28-13.22.47:564][ 43]LogModuleManager: Shutting down and abandoning module SignalProcessing (287)
+[2021.05.28-13.22.47:564][ 43]LogModuleManager: Shutting down and abandoning module NiagaraEditor (285)
+[2021.05.28-13.22.47:564][ 43]LogModuleManager: Shutting down and abandoning module NiagaraCore (282)
+[2021.05.28-13.22.47:564][ 43]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (280)
+[2021.05.28-13.22.47:564][ 43]LogModuleManager: Shutting down and abandoning module FacialAnimation (278)
+[2021.05.28-13.22.47:565][ 43]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (276)
+[2021.05.28-13.22.47:565][ 43]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2021.05.28-13.22.47:565][ 43]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (272)
+[2021.05.28-13.22.47:565][ 43]LogModuleManager: Shutting down and abandoning module AnimationSharing (270)
+[2021.05.28-13.22.47:565][ 43]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (268)
+[2021.05.28-13.22.47:565][ 43]LogModuleManager: Shutting down and abandoning module Paper2D (266)
+[2021.05.28-13.22.47:565][ 43]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (264)
+[2021.05.28-13.22.47:565][ 43]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (262)
+[2021.05.28-13.22.47:565][ 43]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (260)
+[2021.05.28-13.22.47:565][ 43]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (258)
+[2021.05.28-13.22.47:565][ 43]LogModuleManager: Shutting down and abandoning module PacketHandler (256)
+[2021.05.28-13.22.47:565][ 43]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (254)
+[2021.05.28-13.22.47:565][ 43]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (252)
+[2021.05.28-13.22.47:565][ 43]LogModuleManager: Shutting down and abandoning module MediaAssets (250)
+[2021.05.28-13.22.47:565][ 43]LogModuleManager: Shutting down and abandoning module Overlay (248)
+[2021.05.28-13.22.47:565][ 43]LogModuleManager: Shutting down and abandoning module OverlayEditor (247)
+[2021.05.28-13.22.47:565][ 43]LogModuleManager: Shutting down and abandoning module VREditor (244)
+[2021.05.28-13.22.47:565][ 43]LogModuleManager: Shutting down and abandoning module StringTableEditor (242)
+[2021.05.28-13.22.47:565][ 43]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (240)
+[2021.05.28-13.22.47:566][ 43]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (238)
+[2021.05.28-13.22.47:566][ 43]LogModuleManager: Shutting down and abandoning module FunctionalTesting (236)
+[2021.05.28-13.22.47:566][ 43]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (234)
+[2021.05.28-13.22.47:566][ 43]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (233)
+[2021.05.28-13.22.47:566][ 43]LogModuleManager: Shutting down and abandoning module UMG (230)
+[2021.05.28-13.22.47:566][ 43]LogModuleManager: Shutting down and abandoning module UMGEditor (229)
+[2021.05.28-13.22.47:566][ 43]LogModuleManager: Shutting down and abandoning module Sequencer (228)
+[2021.05.28-13.22.47:566][ 43]LogModuleManager: Shutting down and abandoning module MessageLog (225)
+[2021.05.28-13.22.47:566][ 43]LogModuleManager: Shutting down and abandoning module SlateReflector (220)
+[2021.05.28-13.22.47:566][ 43]LogModuleManager: Shutting down and abandoning module Slate (218)
+[2021.05.28-13.22.47:566][ 43]LogModuleManager: Shutting down and abandoning module SlateCore (216)
+[2021.05.28-13.22.47:567][ 43]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (214)
+[2021.05.28-13.22.47:567][ 43]LogModuleManager: Shutting down and abandoning module UnrealEd (212)
+[2021.05.28-13.22.47:567][ 43]LogModuleManager: Shutting down and abandoning module MRMesh (210)
+[2021.05.28-13.22.47:567][ 43]LogModuleManager: Shutting down and abandoning module Messaging (208)
+[2021.05.28-13.22.47:567][ 43]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (206)
+[2021.05.28-13.22.47:567][ 43]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (204)
+[2021.05.28-13.22.47:567][ 43]LogModuleManager: Shutting down and abandoning module XAudio2 (202)
+[2021.05.28-13.22.47:567][ 43]LogModuleManager: Shutting down and abandoning module Networking (200)
+[2021.05.28-13.22.47:567][ 43]LogModuleManager: Shutting down and abandoning module Core (198)
+[2021.05.28-13.22.47:567][ 43]LogModuleManager: Shutting down and abandoning module MaterialEditor (196)
+[2021.05.28-13.22.47:568][ 43]LogModuleManager: Shutting down and abandoning module MovieSceneTools (194)
+[2021.05.28-13.22.47:568][ 43]LogModuleManager: Shutting down and abandoning module EditorStyle (193)
+[2021.05.28-13.22.47:568][ 43]LogModuleManager: Shutting down and abandoning module KismetCompiler (190)
+[2021.05.28-13.22.47:568][ 43]LogModuleManager: Shutting down and abandoning module MeshBuilder (188)
+[2021.05.28-13.22.47:568][ 43]LogModuleManager: Shutting down and abandoning module MeshUtilities (186)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (185)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (184)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (183)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (181)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (179)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (177)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module MaterialBaking (173)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (168)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (166)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module TargetPlatform (162)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (161)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (159)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (157)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (155)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (153)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (151)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (149)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (147)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (137)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (135)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (133)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (131)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (129)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (127)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (125)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module InputCore (122)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module Settings (120)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module PhysXCooking (118)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module Chaos (116)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (114)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (113)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module AVEncoder (112)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (108)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module SteamVRInput (106)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module SteamVR (104)
+[2021.05.28-13.22.47:569][ 43]LogHMD: Freeing OpenVRDLLHandle.
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module OculusHMD (102)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (100)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module ChunkDownloader (98)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (96)
+[2021.05.28-13.22.47:569][ 43]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2021.05.28-13.22.47:570][ 43]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (90)
+[2021.05.28-13.22.47:570][ 43]LogModuleManager: Shutting down and abandoning module SteamShared (84)
+[2021.05.28-13.22.47:570][ 43]LogSteamShared: Freeing the Steam Loaded Modules...
+[2021.05.28-13.22.47:571][ 43]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2021.05.28-13.22.47:571][ 43]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2021.05.28-13.22.47:584][ 43]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2021.05.28-13.22.47:584][ 43]LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2021.05.28-13.22.47:618][ 43]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2021.05.28-13.22.47:620][ 43]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2021.05.28-13.22.47:622][ 43]LogModuleManager: Shutting down and abandoning module Media (71)
+[2021.05.28-13.22.47:623][ 43]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2021.05.28-13.22.47:623][ 43]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2021.05.28-13.22.47:623][ 43]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2021.05.28-13.22.47:623][ 43]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2021.05.28-13.22.47:623][ 43]LogModuleManager: Shutting down and abandoning module ChaosCloth (60)
+[2021.05.28-13.22.47:623][ 43]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2021.05.28-13.22.47:623][ 43]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2021.05.28-13.22.47:623][ 43]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2021.05.28-13.22.47:623][ 43]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2021.05.28-13.22.47:624][ 43]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2021.05.28-13.22.47:624][ 43]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2021.05.28-13.22.47:624][ 43]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2021.05.28-13.22.47:624][ 43]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2021.05.28-13.22.47:624][ 43]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2021.05.28-13.22.47:624][ 43]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2021.05.28-13.22.47:624][ 43]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.05.28-13.22.47:624][ 43]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2021.05.28-13.22.47:624][ 43]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.05.28-13.22.47:625][ 43]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.05.28-13.22.47:625][ 43]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.05.28-13.22.47:625][ 43]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.05.28-13.22.47:625][ 43]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.05.28-13.22.47:625][ 43]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.05.28-13.22.47:625][ 43]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.05.28-13.22.47:625][ 43]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.05.28-13.22.47:625][ 43]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.05.28-13.22.47:625][ 43]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.05.28-13.22.47:625][ 43]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.05.28-13.22.47:625][ 43]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.05.28-13.22.47:625][ 43]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.05.28-13.22.47:625][ 43]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.05.28-13.22.47:625][ 43]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.05.28-13.22.47:625][ 43]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.05.28-13.22.47:625][ 43]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.05.28-13.22.47:854][ 43]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.05.28-13.22.47:857][ 43]LogD3D11RHI: Shutdown
+[2021.05.28-13.22.47:857][ 43]LogD3D11RHI: CleanupD3DDevice
+[2021.05.28-13.22.47:869][ 43]LogExit: Exiting.
+[2021.05.28-13.22.47:885][ 43]Log file closed, 05/28/21 21:22:47
