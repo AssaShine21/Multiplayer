@@ -2659,3 +2659,945 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.17-12.48.35:910][657]LogPlayLevel: Display: Destroying online subsystem :Context_36
 [2021.06.17-12.48.35:910][657]LogPlayLevel: Display: Destroying online subsystem :Context_35
 [2021.06.17-12.48.38:083][736]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.06.17-12.55.22:713][689]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.06.17-12.55.22:713][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-12.55.24:110][727]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.06.17-12.55.24:110][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-12.55.25:258][760]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.17-12.55.25:258][760]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.06.17-12.55.25:258][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-12.55.26:132][791]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.17-12.55.26:132][791]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.06.17-12.55.26:132][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-12.55.31:815][887]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Gameplay/GameplayPC.GameplayPC
+[2021.06.17-12.56.00:485][417]BlueprintLog: New page: Compile GameplayPC
+[2021.06.17-12.56.00:695][417]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2021.06.17-12.56.02:337][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayPC" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset" SILENT=true
+[2021.06.17-12.56.02:496][495]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayPC70F23E0E4CC2BB9C087DF791F8DBCAD1.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset'
+[2021.06.17-12.56.02:518][495]AssetCheck: New page: Asset Save: GameplayPC
+[2021.06.17-12.56.02:518][495]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayPC.GameplayPC
+[2021.06.17-12.56.22:829][135]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Gameplay/SkillSystem/SpecificSkills/Skill_Kill.Skill_Kill
+[2021.06.17-12.56.29:736][238]LogSlate: Window 'Skill_Kill' being destroyed
+[2021.06.17-12.56.29:995][238]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.06.17-12.56.29:995][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-12.56.30:105][238]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Gameplay/SkillSystem/SpecificSkills/Skill_Kill.Skill_Kill
+[2021.06.17-12.56.46:656][520]BlueprintLog: New page: Compile Skill_Kill
+[2021.06.17-12.56.46:860][520]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2021.06.17-12.56.47:336][527]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Skill_KillAB5FFB3A4CAEE03430B81FB1CCBADA1E.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/SkillSystem/SpecificSkills/Skill_Kill.uasset'
+[2021.06.17-12.56.47:362][527]AssetCheck: New page: Asset Save: Skill_Kill
+[2021.06.17-12.56.47:362][527]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/SkillSystem/SpecificSkills/Skill_Kill.Skill_Kill
+[2021.06.17-12.56.51:833][618]LogSlate: Window 'Skill_Kill' being destroyed
+[2021.06.17-12.56.51:917][618]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.06.17-12.56.51:918][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-12.56.55:451][680]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2021.06.17-12.56.55:514][680]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Arena01.Arena01
+[2021.06.17-12.56.55:514][680]Cmd: MAP LOAD FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Maps/Arena01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.17-12.56.55:514][680]LightingResults: New page: Lighting Build
+[2021.06.17-12.56.55:514][680]LoadErrors: New page: Loading map: Arena01.umap
+[2021.06.17-12.56.55:517][680]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.17-12.56.55:517][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-12.56.55:517][680]MapCheck: New page: Map Check
+[2021.06.17-12.56.55:517][680]LightingResults: New page: Lighting Build
+[2021.06.17-12.56.55:551][680]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.17-12.56.55:558][680]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.06.17-12.56.55:559][680]LogAudio: Display: Audio Device (ID: 1) registered with world 'Arena01'.
+[2021.06.17-12.56.55:564][680]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.17-12.56.55:564][680]LogAIModule: Creating AISystem for world Arena01
+[2021.06.17-12.56.55:565][680]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2021.06.17-12.56.55:607][680]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.06.17-12.56.55:616][680]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.17-12.56.55:616][680]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.173ms to complete.
+[2021.06.17-12.56.55:616][680]LogFileHelpers: Loading map 'Arena01' took 0.102
+[2021.06.17-12.56.57:425][757]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.17-12.56.57:425][757]PIE: New page: PIE session: Arena01 (Jun 18, 2021, 4:56:57 AM)
+[2021.06.17-12.56.57:425][757]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Arena01
+[2021.06.17-12.56.57:452][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026093s)
+[2021.06.17-12.56.57:453][757]LogAIModule: Creating AISystem for world Arena01
+[2021.06.17-12.56.57:454][757]LogPlayLevel: PIE: World Init took: (0.001944s)
+[2021.06.17-12.56.57:454][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Arena01.Arena01 to /Game/Maps/UEDPIE_0_Arena01.Arena01 (0.028318s)
+[2021.06.17-12.56.57:486][757]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.06.17-12.56.57:487][757]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2021.06.17-12.56.57:487][757]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.17-12.56.57:487][757]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.17-12.56.57:487][757]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.17-12.56.57:487][757]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.17-12.56.57:487][757]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.17-12.56.57:487][757]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.17-12.56.57:488][757]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.17-12.56.57:488][757]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.17-12.56.57:488][757]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.17-12.56.57:488][757]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.17-12.56.57:495][757]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.17-12.56.57:495][757]LogAudioMixer: Display: 1: FrontRight
+[2021.06.17-12.56.57:516][757]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2021.06.17-12.56.57:516][757]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.17-12.56.57:516][757]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.17-12.56.57:516][757]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.17-12.56.57:517][757]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.17-12.56.57:517][757]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.17-12.56.57:517][757]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.17-12.56.57:541][757]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.17-12.56.57:541][757]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.17-12.56.57:541][757]LogInit: FAudioDevice initialized.
+[2021.06.17-12.56.57:541][757]LogAudio: Display: Audio Device (ID: 28) registered with world 'Arena01'.
+[2021.06.17-12.56.57:572][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-12.56.57:572][757]LogLoad: Game class is 'GameplayGM_C'
+[2021.06.17-12.56.57:575][757]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Arena01.Arena01 up for play (max tick rate 60) at 2021.06.17-20.56.57
+[2021.06.17-12.56.57:575][757]LogWorld: Bringing up level for play took: 0.002270
+[2021.06.17-12.56.57:576][757]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2021.06.17-12.56.57:580][757]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.17-12.56.57:580][757]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.17-12.56.57:580][757]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.17-12.56.57:596][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-12.56.57:602][757]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property currentSkillSystemUI". Blueprint:  GameplayPC Function:  Reset Select Graph:  resetSelect Node:  Branch
+[2021.06.17-12.56.57:602][757]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  GameplayPC Function:  Reset Select Graph:  resetSelect Node:  Branch
+[2021.06.17-12.56.57:605][757]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.17-12.56.57:607][757]PIE: Server logged in
+[2021.06.17-12.56.57:608][757]PIE: Play in editor total start time 0.185 seconds.
+[2021.06.17-12.56.57:609][757]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_Arena01
+[2021.06.17-12.56.57:636][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026909s)
+[2021.06.17-12.56.57:638][757]LogAIModule: Creating AISystem for world Arena01
+[2021.06.17-12.56.57:639][757]LogPlayLevel: PIE: World Init took: (0.002794s)
+[2021.06.17-12.56.57:639][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Arena01.Arena01 to /Game/Maps/UEDPIE_1_Arena01.Arena01 (0.030202s)
+[2021.06.17-12.56.57:675][757]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.06.17-12.56.57:677][757]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2021.06.17-12.56.57:677][757]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.17-12.56.57:677][757]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.17-12.56.57:677][757]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.17-12.56.57:677][757]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.17-12.56.57:677][757]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.17-12.56.57:677][757]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.17-12.56.57:677][757]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.17-12.56.57:677][757]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.17-12.56.57:677][757]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.17-12.56.57:677][757]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.17-12.56.57:685][757]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.17-12.56.57:685][757]LogAudioMixer: Display: 1: FrontRight
+[2021.06.17-12.56.57:707][757]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2021.06.17-12.56.57:708][757]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.17-12.56.57:708][757]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.17-12.56.57:708][757]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.17-12.56.57:709][757]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.17-12.56.57:709][757]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.17-12.56.57:709][757]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.17-12.56.57:740][757]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.17-12.56.57:741][757]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.17-12.56.57:741][757]LogInit: FAudioDevice initialized.
+[2021.06.17-12.56.57:741][757]LogAudio: Display: Audio Device (ID: 29) registered with world 'Arena01'.
+[2021.06.17-12.56.57:791][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-12.56.57:791][757]LogLoad: Game class is 'GameplayGM_C'
+[2021.06.17-12.56.57:794][757]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Arena01.Arena01 up for play (max tick rate 60) at 2021.06.17-20.56.57
+[2021.06.17-12.56.57:794][757]LogWorld: Bringing up level for play took: 0.002435
+[2021.06.17-12.56.57:795][757]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2021.06.17-12.56.57:799][757]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.17-12.56.57:802][757]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.17-12.56.57:802][757]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.17-12.56.57:814][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-12.56.57:821][757]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property currentSkillSystemUI". Blueprint:  GameplayPC Function:  Reset Select Graph:  resetSelect Node:  Branch
+[2021.06.17-12.56.57:821][757]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  GameplayPC Function:  Reset Select Graph:  resetSelect Node:  Branch
+[2021.06.17-12.56.57:824][757]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.17-12.56.57:826][757]PIE: Server logged in
+[2021.06.17-12.56.57:827][757]PIE: Play in editor total start time 0.405 seconds.
+[2021.06.17-12.56.58:303][759]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=734.378 Y=49.512 Z=170.000] for [NPC1_C]
+[2021.06.17-12.57.01:793][789]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllPlayerControllers' of length 0 in '/Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C'!
+[2021.06.17-12.57.01:796][789]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllPlayerControllers' of length 0 in '/Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C'!
+[2021.06.17-12.57.08:085][844]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.17-12.57.08:208][844]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2021.06.17-12.57.08:209][844]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.06.17-12.57.08:213][844]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2021.06.17-12.57.08:213][844]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.06.17-12.57.08:214][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-12.57.08:214][844]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Arena01
+[2021.06.17-12.57.08:214][844]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.17-12.57.08:225][844]LogWorld: UWorld::CleanupWorld for Arena01, bSessionEnded=true, bCleanupResources=true
+[2021.06.17-12.57.08:227][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-12.57.08:243][844]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Arena01
+[2021.06.17-12.57.08:243][844]LogWorld: UWorld::CleanupWorld for Arena01, bSessionEnded=true, bCleanupResources=true
+[2021.06.17-12.57.08:244][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-12.57.08:260][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.17-12.57.08:272][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-12.57.08:329][844]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.17-12.57.08:330][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.17-12.57.08:331][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.17-12.57.08:372][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.17-12.57.08:373][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.17-12.57.08:414][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.06.17-12.57.08:593][845]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2021.06.17-12.57.08:593][845]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2021.06.17-12.57.10:041][883]LogSlate: Window 'Message Log' being destroyed
+[2021.06.17-12.57.10:062][883]LogSlate: Window 'Message Log' being destroyed
+[2021.06.17-12.57.44:793][771]BlueprintLog: New page: Compile GameplayPC
+[2021.06.17-12.57.44:919][771]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.06.17-12.57.45:279][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayPC" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset" SILENT=true
+[2021.06.17-12.57.45:431][774]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayPC403C24824C1BF25682D985B222DFE733.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset'
+[2021.06.17-12.57.45:449][774]AssetCheck: New page: Asset Save: GameplayPC
+[2021.06.17-12.57.45:449][774]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayPC.GameplayPC
+[2021.06.17-12.57.47:371][851]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.17-12.57.47:390][851]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.17-12.57.47:390][851]PIE: New page: PIE session: Arena01 (Jun 18, 2021, 4:57:47 AM)
+[2021.06.17-12.57.47:391][851]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Arena01
+[2021.06.17-12.57.47:443][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051510s)
+[2021.06.17-12.57.47:449][851]LogAIModule: Creating AISystem for world Arena01
+[2021.06.17-12.57.47:450][851]LogPlayLevel: PIE: World Init took: (0.007163s)
+[2021.06.17-12.57.47:451][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Arena01.Arena01 to /Game/Maps/UEDPIE_0_Arena01.Arena01 (0.059690s)
+[2021.06.17-12.57.47:493][851]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2021.06.17-12.57.47:494][851]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2021.06.17-12.57.47:494][851]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.17-12.57.47:494][851]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.17-12.57.47:494][851]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.17-12.57.47:494][851]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.17-12.57.47:494][851]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.17-12.57.47:494][851]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.17-12.57.47:494][851]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.17-12.57.47:494][851]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.17-12.57.47:495][851]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.17-12.57.47:495][851]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.17-12.57.47:501][851]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.17-12.57.47:501][851]LogAudioMixer: Display: 1: FrontRight
+[2021.06.17-12.57.47:520][851]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2021.06.17-12.57.47:520][851]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.17-12.57.47:521][851]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.17-12.57.47:521][851]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.17-12.57.47:521][851]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.17-12.57.47:521][851]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.17-12.57.47:521][851]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.17-12.57.47:545][851]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.17-12.57.47:545][851]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.17-12.57.47:545][851]LogInit: FAudioDevice initialized.
+[2021.06.17-12.57.47:545][851]LogAudio: Display: Audio Device (ID: 30) registered with world 'Arena01'.
+[2021.06.17-12.57.47:590][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-12.57.47:590][851]LogLoad: Game class is 'GameplayGM_C'
+[2021.06.17-12.57.47:593][851]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Arena01.Arena01 up for play (max tick rate 60) at 2021.06.17-20.57.47
+[2021.06.17-12.57.47:593][851]LogWorld: Bringing up level for play took: 0.002620
+[2021.06.17-12.57.47:594][851]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2021.06.17-12.57.47:598][851]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.17-12.57.47:598][851]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.17-12.57.47:598][851]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.17-12.57.47:613][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-12.57.47:617][851]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property currentSkillSystemUI". Blueprint:  GameplayPC Function:  Reset Select Graph:  resetSelect Node:  Branch
+[2021.06.17-12.57.47:617][851]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  GameplayPC Function:  Reset Select Graph:  resetSelect Node:  Branch
+[2021.06.17-12.57.47:622][851]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.17-12.57.47:624][851]PIE: Server logged in
+[2021.06.17-12.57.47:626][851]PIE: Play in editor total start time 0.24 seconds.
+[2021.06.17-12.57.47:626][851]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_Arena01
+[2021.06.17-12.57.47:649][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022864s)
+[2021.06.17-12.57.47:651][851]LogAIModule: Creating AISystem for world Arena01
+[2021.06.17-12.57.47:652][851]LogPlayLevel: PIE: World Init took: (0.002474s)
+[2021.06.17-12.57.47:652][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Arena01.Arena01 to /Game/Maps/UEDPIE_1_Arena01.Arena01 (0.025749s)
+[2021.06.17-12.57.47:697][851]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.06.17-12.57.47:698][851]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2021.06.17-12.57.47:698][851]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.17-12.57.47:698][851]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.17-12.57.47:698][851]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.17-12.57.47:699][851]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.17-12.57.47:699][851]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.17-12.57.47:699][851]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.17-12.57.47:699][851]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.17-12.57.47:699][851]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.17-12.57.47:699][851]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.17-12.57.47:699][851]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.17-12.57.47:707][851]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.17-12.57.47:707][851]LogAudioMixer: Display: 1: FrontRight
+[2021.06.17-12.57.47:728][851]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2021.06.17-12.57.47:728][851]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.17-12.57.47:729][851]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.17-12.57.47:729][851]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.17-12.57.47:730][851]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.17-12.57.47:730][851]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.17-12.57.47:730][851]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.17-12.57.47:760][851]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.17-12.57.47:760][851]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.17-12.57.47:760][851]LogInit: FAudioDevice initialized.
+[2021.06.17-12.57.47:760][851]LogAudio: Display: Audio Device (ID: 31) registered with world 'Arena01'.
+[2021.06.17-12.57.47:793][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-12.57.47:793][851]LogLoad: Game class is 'GameplayGM_C'
+[2021.06.17-12.57.47:797][851]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Arena01.Arena01 up for play (max tick rate 60) at 2021.06.17-20.57.47
+[2021.06.17-12.57.47:797][851]LogWorld: Bringing up level for play took: 0.002837
+[2021.06.17-12.57.47:798][851]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2021.06.17-12.57.47:802][851]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.17-12.57.47:802][851]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.17-12.57.47:802][851]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.17-12.57.47:818][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-12.57.47:825][851]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property currentSkillSystemUI". Blueprint:  GameplayPC Function:  Reset Select Graph:  resetSelect Node:  Branch
+[2021.06.17-12.57.47:825][851]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  GameplayPC Function:  Reset Select Graph:  resetSelect Node:  Branch
+[2021.06.17-12.57.47:827][851]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.17-12.57.47:830][851]PIE: Server logged in
+[2021.06.17-12.57.47:831][851]PIE: Play in editor total start time 0.445 seconds.
+[2021.06.17-12.57.51:803][886]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllPlayerControllers' of length 0 in '/Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C'!
+[2021.06.17-12.57.51:811][886]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllPlayerControllers' of length 0 in '/Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C'!
+[2021.06.17-12.58.03:672][993]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.17-12.58.03:788][993]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2021.06.17-12.58.03:788][993]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.06.17-12.58.03:798][993]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2021.06.17-12.58.03:798][993]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.06.17-12.58.03:799][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-12.58.03:799][993]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Arena01
+[2021.06.17-12.58.03:800][993]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.17-12.58.03:811][993]LogWorld: UWorld::CleanupWorld for Arena01, bSessionEnded=true, bCleanupResources=true
+[2021.06.17-12.58.03:812][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-12.58.03:827][993]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Arena01
+[2021.06.17-12.58.03:828][993]LogWorld: UWorld::CleanupWorld for Arena01, bSessionEnded=true, bCleanupResources=true
+[2021.06.17-12.58.03:829][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-12.58.03:839][993]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.17-12.58.03:848][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-12.58.03:907][993]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.17-12.58.03:908][993]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.17-12.58.03:909][993]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.17-12.58.03:910][993]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.17-12.58.03:947][993]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.17-12.58.03:949][993]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.17-12.58.03:992][993]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2021.06.17-12.58.04:181][994]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2021.06.17-12.58.04:181][994]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2021.06.17-12.58.05:632][ 32]LogSlate: Window 'Message Log' being destroyed
+[2021.06.17-12.58.05:661][ 32]LogSlate: Window 'Message Log' being destroyed
+[2021.06.17-12.58.06:617][ 51]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.17-12.58.06:635][ 51]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.17-12.58.06:635][ 51]PIE: New page: PIE session: Arena01 (Jun 18, 2021, 4:58:06 AM)
+[2021.06.17-12.58.06:635][ 51]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Arena01
+[2021.06.17-12.58.06:658][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022778s)
+[2021.06.17-12.58.06:660][ 51]LogAIModule: Creating AISystem for world Arena01
+[2021.06.17-12.58.06:661][ 51]LogPlayLevel: PIE: World Init took: (0.002450s)
+[2021.06.17-12.58.06:661][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Arena01.Arena01 to /Game/Maps/UEDPIE_0_Arena01.Arena01 (0.025690s)
+[2021.06.17-12.58.06:693][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.06.17-12.58.06:694][ 51]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2021.06.17-12.58.06:695][ 51]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.17-12.58.06:695][ 51]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.17-12.58.06:695][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.17-12.58.06:695][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.17-12.58.06:695][ 51]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.17-12.58.06:695][ 51]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.17-12.58.06:695][ 51]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.17-12.58.06:695][ 51]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.17-12.58.06:695][ 51]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.17-12.58.06:695][ 51]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.17-12.58.06:701][ 51]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.17-12.58.06:701][ 51]LogAudioMixer: Display: 1: FrontRight
+[2021.06.17-12.58.06:719][ 51]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2021.06.17-12.58.06:720][ 51]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.17-12.58.06:720][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.17-12.58.06:720][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.17-12.58.06:721][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.17-12.58.06:721][ 51]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.17-12.58.06:721][ 51]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.17-12.58.06:744][ 51]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.17-12.58.06:744][ 51]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.17-12.58.06:744][ 51]LogInit: FAudioDevice initialized.
+[2021.06.17-12.58.06:744][ 51]LogAudio: Display: Audio Device (ID: 32) registered with world 'Arena01'.
+[2021.06.17-12.58.06:783][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-12.58.06:783][ 51]LogLoad: Game class is 'GameplayGM_C'
+[2021.06.17-12.58.06:794][ 51]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Arena01.Arena01 up for play (max tick rate 60) at 2021.06.17-20.58.06
+[2021.06.17-12.58.06:795][ 51]LogWorld: Bringing up level for play took: 0.010140
+[2021.06.17-12.58.06:796][ 51]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2021.06.17-12.58.06:802][ 51]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.17-12.58.06:802][ 51]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.17-12.58.06:802][ 51]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.17-12.58.06:816][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-12.58.06:819][ 51]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property currentSkillSystemUI". Blueprint:  GameplayPC Function:  Reset Select Graph:  resetSelect Node:  Branch
+[2021.06.17-12.58.06:819][ 51]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  GameplayPC Function:  Reset Select Graph:  resetSelect Node:  Branch
+[2021.06.17-12.58.06:826][ 51]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.17-12.58.06:828][ 51]PIE: Server logged in
+[2021.06.17-12.58.06:829][ 51]PIE: Play in editor total start time 0.197 seconds.
+[2021.06.17-12.58.06:829][ 51]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_Arena01
+[2021.06.17-12.58.06:849][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019637s)
+[2021.06.17-12.58.06:851][ 51]LogAIModule: Creating AISystem for world Arena01
+[2021.06.17-12.58.06:852][ 51]LogPlayLevel: PIE: World Init took: (0.003125s)
+[2021.06.17-12.58.06:852][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Arena01.Arena01 to /Game/Maps/UEDPIE_1_Arena01.Arena01 (0.023092s)
+[2021.06.17-12.58.06:893][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.06.17-12.58.06:895][ 51]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2021.06.17-12.58.06:895][ 51]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.17-12.58.06:895][ 51]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.17-12.58.06:895][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.17-12.58.06:895][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.17-12.58.06:895][ 51]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.17-12.58.06:895][ 51]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.17-12.58.06:895][ 51]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.17-12.58.06:895][ 51]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.17-12.58.06:896][ 51]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.17-12.58.06:896][ 51]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.17-12.58.06:901][ 51]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.17-12.58.06:902][ 51]LogAudioMixer: Display: 1: FrontRight
+[2021.06.17-12.58.06:925][ 51]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2021.06.17-12.58.06:925][ 51]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.17-12.58.06:925][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.17-12.58.06:925][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.17-12.58.06:926][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.17-12.58.06:926][ 51]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.17-12.58.06:926][ 51]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.17-12.58.06:953][ 51]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.17-12.58.06:953][ 51]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.17-12.58.06:953][ 51]LogInit: FAudioDevice initialized.
+[2021.06.17-12.58.06:953][ 51]LogAudio: Display: Audio Device (ID: 33) registered with world 'Arena01'.
+[2021.06.17-12.58.07:011][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-12.58.07:011][ 51]LogLoad: Game class is 'GameplayGM_C'
+[2021.06.17-12.58.07:014][ 51]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Arena01.Arena01 up for play (max tick rate 60) at 2021.06.17-20.58.07
+[2021.06.17-12.58.07:015][ 51]LogWorld: Bringing up level for play took: 0.002420
+[2021.06.17-12.58.07:015][ 51]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2021.06.17-12.58.07:018][ 51]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.17-12.58.07:018][ 51]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.17-12.58.07:018][ 51]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.17-12.58.07:036][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-12.58.07:043][ 51]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property currentSkillSystemUI". Blueprint:  GameplayPC Function:  Reset Select Graph:  resetSelect Node:  Branch
+[2021.06.17-12.58.07:043][ 51]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  GameplayPC Function:  Reset Select Graph:  resetSelect Node:  Branch
+[2021.06.17-12.58.07:045][ 51]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.17-12.58.07:046][ 51]PIE: Server logged in
+[2021.06.17-12.58.07:048][ 51]PIE: Play in editor total start time 0.416 seconds.
+[2021.06.17-12.58.10:909][ 84]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllPlayerControllers' of length 0 in '/Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C'!
+[2021.06.17-12.58.10:912][ 84]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllPlayerControllers' of length 0 in '/Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C'!
+[2021.06.17-12.58.11:991][ 94]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.17-12.58.12:102][ 94]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2021.06.17-12.58.12:103][ 94]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.06.17-12.58.12:111][ 94]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2021.06.17-12.58.12:112][ 94]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.06.17-12.58.12:112][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-12.58.12:112][ 94]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Arena01
+[2021.06.17-12.58.12:113][ 94]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.17-12.58.12:123][ 94]LogWorld: UWorld::CleanupWorld for Arena01, bSessionEnded=true, bCleanupResources=true
+[2021.06.17-12.58.12:125][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-12.58.12:144][ 94]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Arena01
+[2021.06.17-12.58.12:145][ 94]LogWorld: UWorld::CleanupWorld for Arena01, bSessionEnded=true, bCleanupResources=true
+[2021.06.17-12.58.12:146][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-12.58.12:164][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.17-12.58.12:176][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-12.58.12:227][ 94]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.17-12.58.12:227][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.17-12.58.12:229][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.17-12.58.12:267][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.17-12.58.12:268][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.17-12.58.12:312][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.06.17-12.58.12:497][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2021.06.17-12.58.12:498][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2021.06.17-12.58.13:443][125]LogSlate: Window 'Message Log' being destroyed
+[2021.06.17-12.58.13:468][125]LogSlate: Window 'Message Log' being destroyed
+[2021.06.17-12.58.25:664][749]LogSlate: Window 'Message Log' being destroyed
+[2021.06.17-12.58.25:688][749]LogSlate: Window 'Message Log' being destroyed
+[2021.06.17-12.58.27:952][855]LogSlate: Window 'Message Log' being destroyed
+[2021.06.17-12.58.27:970][855]LogSlate: Window 'Message Log' being destroyed
+[2021.06.17-12.58.29:928][946]LogSlate: Window 'Message Log' being destroyed
+[2021.06.17-12.58.29:945][946]LogSlate: Window 'Message Log' being destroyed
+[2021.06.17-12.58.46:746][946]BlueprintLog: New page: Compile GameplayPC
+[2021.06.17-12.58.46:874][946]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.06.17-12.58.47:448][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayPC" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset" SILENT=true
+[2021.06.17-12.58.47:598][963]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayPCEF81C75545D620C72F7A4EB8FE8D5885.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset'
+[2021.06.17-12.58.47:617][963]AssetCheck: New page: Asset Save: GameplayPC
+[2021.06.17-12.58.47:617][963]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayPC.GameplayPC
+[2021.06.17-12.58.49:653][ 33]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.17-12.58.49:671][ 33]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.17-12.58.49:671][ 33]PIE: New page: PIE session: Arena01 (Jun 18, 2021, 4:58:49 AM)
+[2021.06.17-12.58.49:671][ 33]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Arena01
+[2021.06.17-12.58.49:711][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039288s)
+[2021.06.17-12.58.49:712][ 33]LogAIModule: Creating AISystem for world Arena01
+[2021.06.17-12.58.49:713][ 33]LogPlayLevel: PIE: World Init took: (0.001954s)
+[2021.06.17-12.58.49:713][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Arena01.Arena01 to /Game/Maps/UEDPIE_0_Arena01.Arena01 (0.041571s)
+[2021.06.17-12.58.49:747][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.06.17-12.58.49:749][ 33]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2021.06.17-12.58.49:749][ 33]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.17-12.58.49:749][ 33]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.17-12.58.49:749][ 33]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.17-12.58.49:749][ 33]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.17-12.58.49:749][ 33]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.17-12.58.49:749][ 33]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.17-12.58.49:749][ 33]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.17-12.58.49:749][ 33]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.17-12.58.49:749][ 33]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.17-12.58.49:749][ 33]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.17-12.58.49:755][ 33]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.17-12.58.49:755][ 33]LogAudioMixer: Display: 1: FrontRight
+[2021.06.17-12.58.49:774][ 33]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2021.06.17-12.58.49:775][ 33]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.17-12.58.49:775][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.17-12.58.49:775][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.17-12.58.49:776][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.17-12.58.49:776][ 33]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.17-12.58.49:776][ 33]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.17-12.58.49:800][ 33]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.17-12.58.49:800][ 33]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.17-12.58.49:800][ 33]LogInit: FAudioDevice initialized.
+[2021.06.17-12.58.49:800][ 33]LogAudio: Display: Audio Device (ID: 34) registered with world 'Arena01'.
+[2021.06.17-12.58.49:827][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-12.58.49:827][ 33]LogLoad: Game class is 'GameplayGM_C'
+[2021.06.17-12.58.49:830][ 33]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Arena01.Arena01 up for play (max tick rate 60) at 2021.06.17-20.58.49
+[2021.06.17-12.58.49:830][ 33]LogWorld: Bringing up level for play took: 0.002616
+[2021.06.17-12.58.49:831][ 33]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2021.06.17-12.58.49:835][ 33]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.17-12.58.49:835][ 33]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.17-12.58.49:835][ 33]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.17-12.58.49:850][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-12.58.49:854][ 33]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property currentSkillSystemUI". Blueprint:  GameplayPC Function:  Reset Select Graph:  resetSelect Node:  Branch
+[2021.06.17-12.58.49:855][ 33]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  GameplayPC Function:  Reset Select Graph:  resetSelect Node:  Branch
+[2021.06.17-12.58.49:860][ 33]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.17-12.58.49:863][ 33]PIE: Server logged in
+[2021.06.17-12.58.49:865][ 33]PIE: Play in editor total start time 0.197 seconds.
+[2021.06.17-12.58.49:865][ 33]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_Arena01
+[2021.06.17-12.58.49:891][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025430s)
+[2021.06.17-12.58.49:894][ 33]LogAIModule: Creating AISystem for world Arena01
+[2021.06.17-12.58.49:895][ 33]LogPlayLevel: PIE: World Init took: (0.003760s)
+[2021.06.17-12.58.49:895][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Arena01.Arena01 to /Game/Maps/UEDPIE_1_Arena01.Arena01 (0.030067s)
+[2021.06.17-12.58.49:944][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2021.06.17-12.58.49:945][ 33]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2021.06.17-12.58.49:945][ 33]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.17-12.58.49:945][ 33]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.17-12.58.49:945][ 33]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.17-12.58.49:945][ 33]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.17-12.58.49:945][ 33]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.17-12.58.49:945][ 33]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.17-12.58.49:945][ 33]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.17-12.58.49:945][ 33]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.17-12.58.49:946][ 33]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.17-12.58.49:946][ 33]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.17-12.58.49:952][ 33]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.17-12.58.49:952][ 33]LogAudioMixer: Display: 1: FrontRight
+[2021.06.17-12.58.49:976][ 33]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2021.06.17-12.58.49:977][ 33]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.17-12.58.49:977][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.17-12.58.49:977][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.17-12.58.49:977][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.17-12.58.49:977][ 33]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.17-12.58.49:977][ 33]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.17-12.58.50:004][ 33]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.17-12.58.50:004][ 33]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.17-12.58.50:004][ 33]LogInit: FAudioDevice initialized.
+[2021.06.17-12.58.50:005][ 33]LogAudio: Display: Audio Device (ID: 35) registered with world 'Arena01'.
+[2021.06.17-12.58.50:047][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-12.58.50:047][ 33]LogLoad: Game class is 'GameplayGM_C'
+[2021.06.17-12.58.50:050][ 33]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Arena01.Arena01 up for play (max tick rate 60) at 2021.06.17-20.58.50
+[2021.06.17-12.58.50:051][ 33]LogWorld: Bringing up level for play took: 0.002994
+[2021.06.17-12.58.50:052][ 33]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2021.06.17-12.58.50:055][ 33]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.17-12.58.50:055][ 33]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.17-12.58.50:055][ 33]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.17-12.58.50:070][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-12.58.50:075][ 33]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property currentSkillSystemUI". Blueprint:  GameplayPC Function:  Reset Select Graph:  resetSelect Node:  Branch
+[2021.06.17-12.58.50:075][ 33]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  GameplayPC Function:  Reset Select Graph:  resetSelect Node:  Branch
+[2021.06.17-12.58.50:078][ 33]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.17-12.58.50:082][ 33]PIE: Server logged in
+[2021.06.17-12.58.50:083][ 33]PIE: Play in editor total start time 0.415 seconds.
+[2021.06.17-12.58.53:966][ 69]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllPlayerControllers' of length 0 in '/Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C'!
+[2021.06.17-12.58.53:972][ 69]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllPlayerControllers' of length 0 in '/Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C'!
+[2021.06.17-12.58.54:760][ 76]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.17-12.58.54:887][ 76]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2021.06.17-12.58.54:888][ 76]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.06.17-12.58.54:902][ 76]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2021.06.17-12.58.54:902][ 76]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.06.17-12.58.54:903][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-12.58.54:903][ 76]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Arena01
+[2021.06.17-12.58.54:904][ 76]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.17-12.58.54:917][ 76]LogWorld: UWorld::CleanupWorld for Arena01, bSessionEnded=true, bCleanupResources=true
+[2021.06.17-12.58.54:919][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-12.58.54:939][ 76]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Arena01
+[2021.06.17-12.58.54:942][ 76]LogWorld: UWorld::CleanupWorld for Arena01, bSessionEnded=true, bCleanupResources=true
+[2021.06.17-12.58.54:944][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-12.58.54:964][ 76]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.17-12.58.54:971][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-12.58.55:029][ 76]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.17-12.58.55:030][ 76]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.17-12.58.55:030][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.17-12.58.55:032][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.17-12.58.55:070][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.17-12.58.55:072][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.17-12.58.55:108][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.06.17-12.58.55:299][ 77]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2021.06.17-12.58.55:300][ 77]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2021.06.17-12.58.56:050][104]LogSlate: Window 'Message Log' being destroyed
+[2021.06.17-12.58.56:111][104]LogSlate: Window 'Message Log' being destroyed
+[2021.06.17-12.58.57:647][165]LogEditorTransaction: Undo Delete current selection
+[2021.06.17-12.58.57:943][166]LogEditorTransaction: Undo Move Node
+[2021.06.17-12.58.58:256][167]LogEditorTransaction: Undo Move Node
+[2021.06.17-12.58.59:155][204]LogEditorTransaction: Undo Create Pin Link
+[2021.06.17-12.58.59:456][205]LogEditorTransaction: Undo Delete current selection
+[2021.06.17-12.59.00:005][221]LogEditorTransaction: Undo Add Node
+[2021.06.17-12.59.13:914][998]BlueprintLog: New page: Compile GameplayPC
+[2021.06.17-12.59.14:042][998]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.06.17-12.59.14:518][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayPC" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset" SILENT=true
+[2021.06.17-12.59.14:674][  8]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayPC86E3DBFD4DC1AED94991D5A66C087B99.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset'
+[2021.06.17-12.59.14:695][  8]AssetCheck: New page: Asset Save: GameplayPC
+[2021.06.17-12.59.14:695][  8]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayPC.GameplayPC
+[2021.06.17-12.59.15:704][ 43]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.17-12.59.15:721][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.17-12.59.15:721][ 43]PIE: New page: PIE session: Arena01 (Jun 18, 2021, 4:59:15 AM)
+[2021.06.17-12.59.15:721][ 43]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Arena01
+[2021.06.17-12.59.15:760][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038166s)
+[2021.06.17-12.59.15:762][ 43]LogAIModule: Creating AISystem for world Arena01
+[2021.06.17-12.59.15:763][ 43]LogPlayLevel: PIE: World Init took: (0.002689s)
+[2021.06.17-12.59.15:763][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Arena01.Arena01 to /Game/Maps/UEDPIE_0_Arena01.Arena01 (0.041539s)
+[2021.06.17-12.59.15:798][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.06.17-12.59.15:800][ 43]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2021.06.17-12.59.15:800][ 43]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.17-12.59.15:800][ 43]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.17-12.59.15:800][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.17-12.59.15:800][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.17-12.59.15:800][ 43]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.17-12.59.15:800][ 43]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.17-12.59.15:800][ 43]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.17-12.59.15:800][ 43]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.17-12.59.15:801][ 43]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.17-12.59.15:801][ 43]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.17-12.59.15:806][ 43]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.17-12.59.15:806][ 43]LogAudioMixer: Display: 1: FrontRight
+[2021.06.17-12.59.15:825][ 43]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2021.06.17-12.59.15:825][ 43]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.17-12.59.15:826][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.17-12.59.15:826][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.17-12.59.15:826][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.17-12.59.15:826][ 43]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.17-12.59.15:826][ 43]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.17-12.59.15:850][ 43]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.17-12.59.15:850][ 43]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.17-12.59.15:850][ 43]LogInit: FAudioDevice initialized.
+[2021.06.17-12.59.15:851][ 43]LogAudio: Display: Audio Device (ID: 36) registered with world 'Arena01'.
+[2021.06.17-12.59.15:907][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-12.59.15:907][ 43]LogLoad: Game class is 'GameplayGM_C'
+[2021.06.17-12.59.15:917][ 43]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Arena01.Arena01 up for play (max tick rate 60) at 2021.06.17-20.59.15
+[2021.06.17-12.59.15:919][ 43]LogWorld: Bringing up level for play took: 0.009745
+[2021.06.17-12.59.15:921][ 43]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2021.06.17-12.59.15:928][ 43]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.17-12.59.15:928][ 43]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.17-12.59.15:928][ 43]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.17-12.59.15:946][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-12.59.15:951][ 43]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property currentSkillSystemUI". Blueprint:  GameplayPC Function:  Reset Select Graph:  resetSelect Node:  Branch
+[2021.06.17-12.59.15:951][ 43]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  GameplayPC Function:  Reset Select Graph:  resetSelect Node:  Branch
+[2021.06.17-12.59.15:955][ 43]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.17-12.59.15:960][ 43]PIE: Server logged in
+[2021.06.17-12.59.15:962][ 43]PIE: Play in editor total start time 0.243 seconds.
+[2021.06.17-12.59.15:962][ 43]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_Arena01
+[2021.06.17-12.59.15:985][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022960s)
+[2021.06.17-12.59.15:987][ 43]LogAIModule: Creating AISystem for world Arena01
+[2021.06.17-12.59.15:988][ 43]LogPlayLevel: PIE: World Init took: (0.002606s)
+[2021.06.17-12.59.15:988][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Arena01.Arena01 to /Game/Maps/UEDPIE_1_Arena01.Arena01 (0.025857s)
+[2021.06.17-12.59.16:029][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.06.17-12.59.16:030][ 43]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2021.06.17-12.59.16:031][ 43]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.17-12.59.16:031][ 43]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.17-12.59.16:031][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.17-12.59.16:031][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.17-12.59.16:031][ 43]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.17-12.59.16:031][ 43]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.17-12.59.16:031][ 43]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.17-12.59.16:031][ 43]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.17-12.59.16:031][ 43]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.17-12.59.16:031][ 43]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.17-12.59.16:037][ 43]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.17-12.59.16:037][ 43]LogAudioMixer: Display: 1: FrontRight
+[2021.06.17-12.59.16:060][ 43]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2021.06.17-12.59.16:061][ 43]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.17-12.59.16:061][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.17-12.59.16:061][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.17-12.59.16:062][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.17-12.59.16:062][ 43]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.17-12.59.16:062][ 43]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.17-12.59.16:090][ 43]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.17-12.59.16:090][ 43]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.17-12.59.16:090][ 43]LogInit: FAudioDevice initialized.
+[2021.06.17-12.59.16:090][ 43]LogAudio: Display: Audio Device (ID: 37) registered with world 'Arena01'.
+[2021.06.17-12.59.16:147][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-12.59.16:148][ 43]LogLoad: Game class is 'GameplayGM_C'
+[2021.06.17-12.59.16:151][ 43]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Arena01.Arena01 up for play (max tick rate 60) at 2021.06.17-20.59.16
+[2021.06.17-12.59.16:152][ 43]LogWorld: Bringing up level for play took: 0.002717
+[2021.06.17-12.59.16:152][ 43]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2021.06.17-12.59.16:156][ 43]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.17-12.59.16:156][ 43]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.17-12.59.16:156][ 43]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.17-12.59.16:172][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-12.59.16:178][ 43]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property currentSkillSystemUI". Blueprint:  GameplayPC Function:  Reset Select Graph:  resetSelect Node:  Branch
+[2021.06.17-12.59.16:178][ 43]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  GameplayPC Function:  Reset Select Graph:  resetSelect Node:  Branch
+[2021.06.17-12.59.16:180][ 43]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.17-12.59.16:182][ 43]PIE: Server logged in
+[2021.06.17-12.59.16:184][ 43]PIE: Play in editor total start time 0.465 seconds.
+[2021.06.17-12.59.20:104][ 78]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllPlayerControllers' of length 0 in '/Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C'!
+[2021.06.17-12.59.20:107][ 78]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllPlayerControllers' of length 0 in '/Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C'!
+[2021.06.17-12.59.21:741][ 93]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.17-12.59.21:836][ 93]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2021.06.17-12.59.21:836][ 93]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.06.17-12.59.21:839][ 93]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2021.06.17-12.59.21:839][ 93]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.06.17-12.59.21:839][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-12.59.21:840][ 93]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Arena01
+[2021.06.17-12.59.21:840][ 93]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.17-12.59.21:848][ 93]LogWorld: UWorld::CleanupWorld for Arena01, bSessionEnded=true, bCleanupResources=true
+[2021.06.17-12.59.21:848][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-12.59.21:865][ 93]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Arena01
+[2021.06.17-12.59.21:865][ 93]LogWorld: UWorld::CleanupWorld for Arena01, bSessionEnded=true, bCleanupResources=true
+[2021.06.17-12.59.21:866][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-12.59.21:877][ 93]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.17-12.59.21:884][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-12.59.21:935][ 93]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.17-12.59.21:935][ 93]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.17-12.59.21:936][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.17-12.59.21:937][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.17-12.59.21:974][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.17-12.59.21:979][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.17-12.59.22:021][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.06.17-12.59.22:262][ 94]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2021.06.17-12.59.22:262][ 94]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2021.06.17-12.59.23:006][123]LogSlate: Window 'Message Log' being destroyed
+[2021.06.17-12.59.23:031][123]LogSlate: Window 'Message Log' being destroyed
+[2021.06.17-12.59.40:216][ 22]BlueprintLog: New page: Compile GameplayPC
+[2021.06.17-12.59.40:337][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.06.17-12.59.40:735][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayPC" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset" SILENT=true
+[2021.06.17-12.59.40:886][ 27]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayPC3509B746479DC93CBF2F24908779C079.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset'
+[2021.06.17-12.59.40:910][ 27]AssetCheck: New page: Asset Save: GameplayPC
+[2021.06.17-12.59.40:910][ 27]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayPC.GameplayPC
+[2021.06.17-12.59.57:974][681]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Gameplay/SkillSystem/SpecificSkills/Skill_Kill.Skill_Kill
+[2021.06.17-13.00.49:086][677]LogSlate: Window 'Message Log' being destroyed
+[2021.06.17-13.00.49:124][677]LogSlate: Window 'Message Log' being destroyed
+[2021.06.17-13.00.53:856][786]BlueprintLog: New page: Compile Skill_Kill
+[2021.06.17-13.00.53:952][786]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.06.17-13.00.54:301][792]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Skill_Kill1B7119E64A6F92CE3D887AB5502F0648.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/SkillSystem/SpecificSkills/Skill_Kill.uasset'
+[2021.06.17-13.00.54:324][792]AssetCheck: New page: Asset Save: Skill_Kill
+[2021.06.17-13.00.54:324][792]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/SkillSystem/SpecificSkills/Skill_Kill.Skill_Kill
+[2021.06.17-13.00.58:511][866]LogSlate: Window 'Skill_Kill' being destroyed
+[2021.06.17-13.00.58:549][866]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.06.17-13.00.58:550][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-13.01.13:335][179]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Gameplay/SkillSystem/SkillBar.SkillBar
+[2021.06.17-13.01.16:284][209]LogSlate: Took 0.077022 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.06.17-13.01.18:185][263]LogSlate: Window 'SkillBar' being destroyed
+[2021.06.17-13.01.19:699][305]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Gameplay/SkillSystem/SkillSlot.SkillSlot
+[2021.06.17-13.01.29:197][757]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Gameplay/SkillSystem/SkillSystem_UI.SkillSystem_UI
+[2021.06.17-13.01.32:000][898]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.06.17-13.01.32:000][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-13.01.32:194][898]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.06.17-13.01.32:194][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-13.01.33:688][947]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.17-13.01.33:704][947]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.17-13.01.33:705][947]PIE: New page: PIE session: Arena01 (Jun 18, 2021, 5:01:33 AM)
+[2021.06.17-13.01.33:705][947]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Arena01
+[2021.06.17-13.01.33:748][947]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043037s)
+[2021.06.17-13.01.33:752][947]LogAIModule: Creating AISystem for world Arena01
+[2021.06.17-13.01.33:752][947]LogPlayLevel: PIE: World Init took: (0.004175s)
+[2021.06.17-13.01.33:752][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Arena01.Arena01 to /Game/Maps/UEDPIE_0_Arena01.Arena01 (0.047501s)
+[2021.06.17-13.01.33:877][947]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2021.06.17-13.01.33:881][947]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2021.06.17-13.01.33:881][947]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.17-13.01.33:881][947]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.17-13.01.33:881][947]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.17-13.01.33:881][947]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.17-13.01.33:881][947]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.17-13.01.33:881][947]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.17-13.01.33:881][947]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.17-13.01.33:881][947]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.17-13.01.33:881][947]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.17-13.01.33:881][947]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.17-13.01.33:887][947]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.17-13.01.33:888][947]LogAudioMixer: Display: 1: FrontRight
+[2021.06.17-13.01.33:911][947]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2021.06.17-13.01.33:911][947]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.17-13.01.33:911][947]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.17-13.01.33:911][947]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.17-13.01.33:912][947]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.17-13.01.33:912][947]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.17-13.01.33:912][947]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.17-13.01.33:936][947]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.17-13.01.33:936][947]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.17-13.01.33:936][947]LogInit: FAudioDevice initialized.
+[2021.06.17-13.01.33:936][947]LogAudio: Display: Audio Device (ID: 38) registered with world 'Arena01'.
+[2021.06.17-13.01.33:970][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-13.01.33:970][947]LogLoad: Game class is 'GameplayGM_C'
+[2021.06.17-13.01.33:973][947]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Arena01.Arena01 up for play (max tick rate 60) at 2021.06.17-21.01.33
+[2021.06.17-13.01.33:974][947]LogWorld: Bringing up level for play took: 0.002576
+[2021.06.17-13.01.33:974][947]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2021.06.17-13.01.33:978][947]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.17-13.01.33:978][947]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.17-13.01.33:978][947]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.17-13.01.33:995][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-13.01.34:001][947]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property currentSkillSystemUI". Blueprint:  GameplayPC Function:  Reset Select Graph:  resetSelect Node:  Branch
+[2021.06.17-13.01.34:001][947]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  GameplayPC Function:  Reset Select Graph:  resetSelect Node:  Branch
+[2021.06.17-13.01.34:005][947]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.17-13.01.34:007][947]PIE: Server logged in
+[2021.06.17-13.01.34:009][947]PIE: Play in editor total start time 0.307 seconds.
+[2021.06.17-13.01.34:009][947]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_Arena01
+[2021.06.17-13.01.34:037][947]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027857s)
+[2021.06.17-13.01.34:039][947]LogAIModule: Creating AISystem for world Arena01
+[2021.06.17-13.01.34:040][947]LogPlayLevel: PIE: World Init took: (0.002485s)
+[2021.06.17-13.01.34:040][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Arena01.Arena01 to /Game/Maps/UEDPIE_1_Arena01.Arena01 (0.030596s)
+[2021.06.17-13.01.34:112][947]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2021.06.17-13.01.34:114][947]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2021.06.17-13.01.34:114][947]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.17-13.01.34:114][947]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.17-13.01.34:114][947]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.17-13.01.34:114][947]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.17-13.01.34:114][947]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.17-13.01.34:114][947]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.17-13.01.34:114][947]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.17-13.01.34:114][947]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.17-13.01.34:114][947]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.17-13.01.34:115][947]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.17-13.01.34:123][947]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.17-13.01.34:123][947]LogAudioMixer: Display: 1: FrontRight
+[2021.06.17-13.01.34:145][947]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2021.06.17-13.01.34:146][947]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.17-13.01.34:146][947]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.17-13.01.34:146][947]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.17-13.01.34:146][947]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.17-13.01.34:146][947]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.17-13.01.34:146][947]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.17-13.01.34:178][947]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.17-13.01.34:178][947]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.17-13.01.34:178][947]LogInit: FAudioDevice initialized.
+[2021.06.17-13.01.34:178][947]LogAudio: Display: Audio Device (ID: 39) registered with world 'Arena01'.
+[2021.06.17-13.01.34:241][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-13.01.34:241][947]LogLoad: Game class is 'GameplayGM_C'
+[2021.06.17-13.01.34:243][947]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Arena01.Arena01 up for play (max tick rate 60) at 2021.06.17-21.01.34
+[2021.06.17-13.01.34:244][947]LogWorld: Bringing up level for play took: 0.002152
+[2021.06.17-13.01.34:244][947]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2021.06.17-13.01.34:248][947]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.17-13.01.34:248][947]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.17-13.01.34:248][947]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.17-13.01.34:267][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-13.01.34:273][947]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property currentSkillSystemUI". Blueprint:  GameplayPC Function:  Reset Select Graph:  resetSelect Node:  Branch
+[2021.06.17-13.01.34:273][947]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  GameplayPC Function:  Reset Select Graph:  resetSelect Node:  Branch
+[2021.06.17-13.01.34:276][947]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.17-13.01.34:278][947]PIE: Server logged in
+[2021.06.17-13.01.34:280][947]PIE: Play in editor total start time 0.578 seconds.
+[2021.06.17-13.01.38:275][981]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllPlayerControllers' of length 0 in '/Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C'!
+[2021.06.17-13.01.38:281][981]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllPlayerControllers' of length 0 in '/Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C'!
+[2021.06.17-13.01.54:837][131]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.17-13.01.54:952][131]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2021.06.17-13.01.54:952][131]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.06.17-13.01.54:960][131]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2021.06.17-13.01.54:961][131]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.06.17-13.01.54:961][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-13.01.54:961][131]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Arena01
+[2021.06.17-13.01.54:962][131]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.17-13.01.54:972][131]LogWorld: UWorld::CleanupWorld for Arena01, bSessionEnded=true, bCleanupResources=true
+[2021.06.17-13.01.54:973][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-13.01.54:992][131]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Arena01
+[2021.06.17-13.01.54:993][131]LogWorld: UWorld::CleanupWorld for Arena01, bSessionEnded=true, bCleanupResources=true
+[2021.06.17-13.01.54:994][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-13.01.55:010][131]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.17-13.01.55:026][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-13.01.55:099][131]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.17-13.01.55:101][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.17-13.01.55:104][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.17-13.01.55:139][131]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.17-13.01.55:140][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.17-13.01.55:141][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.17-13.01.55:182][131]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2021.06.17-13.01.55:381][132]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2021.06.17-13.01.55:382][132]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2021.06.17-13.01.56:295][159]LogSlate: Window 'Message Log' being destroyed
+[2021.06.17-13.01.56:323][159]LogSlate: Window 'Message Log' being destroyed
+[2021.06.17-13.04.44:668][974]BlueprintLog: New page: Compile SkillSlot
+[2021.06.17-13.04.44:862][974]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2021.06.17-13.04.45:367][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Gameplay/SkillSystem/SkillSlot" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/UI/Gameplay/SkillSystem/SkillSlot.uasset" SILENT=true
+[2021.06.17-13.04.45:406][997]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/SkillSlot8D44DD57451D6F69A29CF896C0F292C6.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/UI/Gameplay/SkillSystem/SkillSlot.uasset'
+[2021.06.17-13.04.45:425][997]AssetCheck: New page: Asset Save: SkillSlot
+[2021.06.17-13.04.45:425][997]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Gameplay/SkillSystem/SkillSlot.SkillSlot
+[2021.06.17-13.04.47:316][ 78]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.17-13.04.47:332][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.17-13.04.47:332][ 78]PIE: New page: PIE session: Arena01 (Jun 18, 2021, 5:04:47 AM)
+[2021.06.17-13.04.47:332][ 78]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Arena01
+[2021.06.17-13.04.47:350][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017557s)
+[2021.06.17-13.04.47:352][ 78]LogAIModule: Creating AISystem for world Arena01
+[2021.06.17-13.04.47:352][ 78]LogPlayLevel: PIE: World Init took: (0.002294s)
+[2021.06.17-13.04.47:352][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Arena01.Arena01 to /Game/Maps/UEDPIE_0_Arena01.Arena01 (0.020092s)
+[2021.06.17-13.04.47:404][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2021.06.17-13.04.47:405][ 78]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2021.06.17-13.04.47:405][ 78]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.17-13.04.47:405][ 78]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.17-13.04.47:405][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.17-13.04.47:405][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.17-13.04.47:405][ 78]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.17-13.04.47:405][ 78]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.17-13.04.47:405][ 78]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.17-13.04.47:405][ 78]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.17-13.04.47:406][ 78]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.17-13.04.47:406][ 78]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.17-13.04.47:413][ 78]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.17-13.04.47:413][ 78]LogAudioMixer: Display: 1: FrontRight
+[2021.06.17-13.04.47:433][ 78]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2021.06.17-13.04.47:433][ 78]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.17-13.04.47:433][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.17-13.04.47:434][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.17-13.04.47:434][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.17-13.04.47:434][ 78]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.17-13.04.47:434][ 78]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.17-13.04.47:459][ 78]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.17-13.04.47:459][ 78]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.17-13.04.47:459][ 78]LogInit: FAudioDevice initialized.
+[2021.06.17-13.04.47:459][ 78]LogAudio: Display: Audio Device (ID: 40) registered with world 'Arena01'.
+[2021.06.17-13.04.47:530][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-13.04.47:530][ 78]LogLoad: Game class is 'GameplayGM_C'
+[2021.06.17-13.04.47:539][ 78]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Arena01.Arena01 up for play (max tick rate 60) at 2021.06.17-21.04.47
+[2021.06.17-13.04.47:541][ 78]LogWorld: Bringing up level for play took: 0.008246
+[2021.06.17-13.04.47:542][ 78]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2021.06.17-13.04.47:551][ 78]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.17-13.04.47:551][ 78]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.17-13.04.47:551][ 78]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.17-13.04.47:572][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-13.04.47:575][ 78]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property currentSkillSystemUI". Blueprint:  GameplayPC Function:  Reset Select Graph:  resetSelect Node:  Branch
+[2021.06.17-13.04.47:575][ 78]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  GameplayPC Function:  Reset Select Graph:  resetSelect Node:  Branch
+[2021.06.17-13.04.47:582][ 78]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.17-13.04.47:584][ 78]PIE: Server logged in
+[2021.06.17-13.04.47:586][ 78]PIE: Play in editor total start time 0.256 seconds.
+[2021.06.17-13.04.47:586][ 78]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_Arena01
+[2021.06.17-13.04.47:613][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027419s)
+[2021.06.17-13.04.47:615][ 78]LogAIModule: Creating AISystem for world Arena01
+[2021.06.17-13.04.47:616][ 78]LogPlayLevel: PIE: World Init took: (0.002393s)
+[2021.06.17-13.04.47:616][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Arena01.Arena01 to /Game/Maps/UEDPIE_1_Arena01.Arena01 (0.030125s)
+[2021.06.17-13.04.47:674][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2021.06.17-13.04.47:676][ 78]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2021.06.17-13.04.47:676][ 78]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.17-13.04.47:676][ 78]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.17-13.04.47:676][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.17-13.04.47:676][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.17-13.04.47:676][ 78]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.17-13.04.47:676][ 78]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.17-13.04.47:676][ 78]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.17-13.04.47:676][ 78]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.17-13.04.47:676][ 78]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.17-13.04.47:677][ 78]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.17-13.04.47:685][ 78]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.17-13.04.47:685][ 78]LogAudioMixer: Display: 1: FrontRight
+[2021.06.17-13.04.47:706][ 78]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2021.06.17-13.04.47:706][ 78]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.17-13.04.47:706][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.17-13.04.47:706][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.17-13.04.47:707][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.17-13.04.47:707][ 78]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.17-13.04.47:707][ 78]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.17-13.04.47:737][ 78]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.17-13.04.47:737][ 78]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.17-13.04.47:737][ 78]LogInit: FAudioDevice initialized.
+[2021.06.17-13.04.47:737][ 78]LogAudio: Display: Audio Device (ID: 41) registered with world 'Arena01'.
+[2021.06.17-13.04.47:790][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-13.04.47:791][ 78]LogLoad: Game class is 'GameplayGM_C'
+[2021.06.17-13.04.47:800][ 78]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Arena01.Arena01 up for play (max tick rate 60) at 2021.06.17-21.04.47
+[2021.06.17-13.04.47:802][ 78]LogWorld: Bringing up level for play took: 0.008823
+[2021.06.17-13.04.47:803][ 78]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2021.06.17-13.04.47:810][ 78]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.17-13.04.47:810][ 78]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.17-13.04.47:810][ 78]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.17-13.04.47:831][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-13.04.47:835][ 78]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property currentSkillSystemUI". Blueprint:  GameplayPC Function:  Reset Select Graph:  resetSelect Node:  Branch
+[2021.06.17-13.04.47:835][ 78]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  GameplayPC Function:  Reset Select Graph:  resetSelect Node:  Branch
+[2021.06.17-13.04.47:838][ 78]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.17-13.04.47:840][ 78]PIE: Server logged in
+[2021.06.17-13.04.47:842][ 78]PIE: Play in editor total start time 0.512 seconds.
+[2021.06.17-13.04.51:704][113]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllPlayerControllers' of length 0 in '/Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C'!
+[2021.06.17-13.04.51:707][113]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllPlayerControllers' of length 0 in '/Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C'!
+[2021.06.17-13.05.00:365][197]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.17-13.05.00:528][197]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2021.06.17-13.05.00:528][197]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.06.17-13.05.00:541][197]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2021.06.17-13.05.00:542][197]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.06.17-13.05.00:543][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.17-13.05.00:543][197]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Arena01
+[2021.06.17-13.05.00:543][197]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.17-13.05.00:551][197]LogWorld: UWorld::CleanupWorld for Arena01, bSessionEnded=true, bCleanupResources=true
+[2021.06.17-13.05.00:552][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-13.05.00:568][197]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Arena01
+[2021.06.17-13.05.00:569][197]LogWorld: UWorld::CleanupWorld for Arena01, bSessionEnded=true, bCleanupResources=true
+[2021.06.17-13.05.00:570][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-13.05.00:582][197]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.17-13.05.00:593][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.17-13.05.00:664][197]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.17-13.05.00:665][197]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.17-13.05.00:666][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.17-13.05.00:667][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.17-13.05.00:704][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.17-13.05.00:705][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.17-13.05.00:751][197]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.06.17-13.05.00:911][198]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2021.06.17-13.05.00:912][198]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2021.06.17-13.05.01:807][229]LogSlate: Window 'Message Log' being destroyed
+[2021.06.17-13.05.01:836][229]LogSlate: Window 'Message Log' being destroyed
