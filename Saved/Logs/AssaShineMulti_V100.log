@@ -4304,3 +4304,85 @@ Continue: Skip saving this asset only.
 [2021.06.18-13.15.18:161][549]LogFileHelpers: Loading map 'MainMenu' took 0.224
 [2021.06.18-13.15.21:271][734]LogTemp: Repeating last play command: Standalone Game
 [2021.06.18-13.15.21:309][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.06.18-13.20.21:459][ 29]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Info/Introduction.Introduction
+[2021.06.18-13.20.23:697][139]LogSlate: Took 0.001138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.06.18-13.21.24:065][746]BlueprintLog: New page: Compile Introduction
+[2021.06.18-13.21.24:112][746]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2021.06.18-13.21.24:539][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Info/Introduction" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/Info/Introduction.uasset" SILENT=true
+[2021.06.18-13.21.24:543][770]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/Introduction6205C962487D51FCD837109CB5F2C6B9.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/Info/Introduction.uasset'
+[2021.06.18-13.21.24:556][770]AssetCheck: New page: Asset Save: Introduction
+[2021.06.18-13.21.24:556][770]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Info/Introduction.Introduction
+[2021.06.18-13.21.27:548][950]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.21.27:548][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.18-13.21.27:560][950]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2021.06.18-13.21.27:560][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.18-13.21.29:051][ 36]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:055][ 36]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:065][ 37]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:067][ 37]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:082][ 38]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:085][ 38]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:099][ 39]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:101][ 39]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:116][ 40]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:118][ 40]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:133][ 41]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:136][ 41]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:152][ 42]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:157][ 42]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:168][ 43]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:172][ 43]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:187][ 44]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:191][ 44]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:200][ 45]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:203][ 45]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:217][ 46]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:219][ 46]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:233][ 47]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:236][ 47]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:250][ 48]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:252][ 48]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:266][ 49]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:268][ 49]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:283][ 50]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:285][ 50]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:299][ 51]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:301][ 51]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:315][ 52]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:317][ 52]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:333][ 53]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:337][ 53]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:349][ 54]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:354][ 54]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:366][ 55]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:369][ 55]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:383][ 56]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:385][ 56]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:399][ 57]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:401][ 57]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:416][ 58]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:419][ 58]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:432][ 59]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:435][ 59]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:448][ 60]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:450][ 60]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:465][ 61]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:467][ 61]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:482][ 62]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:484][ 62]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:501][ 63]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:503][ 63]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:516][ 64]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:518][ 64]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:532][ 65]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:534][ 65]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:549][ 66]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:551][ 66]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:566][ 67]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:569][ 67]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:583][ 68]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:586][ 68]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:599][ 69]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:602][ 69]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:615][ 70]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
+[2021.06.18-13.21.29:618][ 70]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Maps/MainMenu.MainMenu_C
