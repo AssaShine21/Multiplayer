@@ -2052,3 +2052,478 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2021.06.23-05.49.39:145][400]LogPlayLevel: Display: Destroying online subsystem :Context_47
 [2021.06.23-05.49.40:512][474]LogSlate: Window 'Message Log' being destroyed
 [2021.06.23-05.49.40:517][474]LogSlate: Window 'Message Log' being destroyed
+[2021.06.23-05.50.50:828][317]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Lobby/CharacterSelect.CharacterSelect
+[2021.06.23-05.50.52:482][362]LogSlate: Took 0.003838 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.06.23-05.50.55:114][516]LogSlate: Window 'CharacterSelect' being destroyed
+[2021.06.23-05.50.55:126][516]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-05.50.55:127][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-05.50.55:141][516]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-05.50.55:141][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-05.50.56:964][624]LogHttp: Warning: 000001FF94472400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF804C740-4EDD-FA28-BF47-1A89FB85BF7A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=570bd8d84c55dcbb4ac541a219260303%7Cc76c028ccf2c4c8a8ff7f94665d90807%7C0d825f72-4272-4842-96b1-3cf002bb957c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.06.23-05.50.56:964][624]LogHttp: Warning: 000001FF94472400: request failed, libcurl error: 0 (No error)
+[2021.06.23-05.50.56:964][624]LogHttp: Warning: 000001FF94472400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1fe3705beb0 [can pipeline])
+[2021.06.23-05.50.56:964][624]LogHttp: Warning: 000001FF94472400: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2021.06.23-05.50.56:964][624]LogHttp: Warning: 000001FF94472400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.172.199.174) port 443 (#0))
+[2021.06.23-05.50.56:964][624]LogHttp: Warning: 000001FF94472400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.06.23-05.50.56:964][624]LogHttp: Warning: 000001FF94472400: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2021.06.23-05.50.56:964][624]LogHttp: Warning: 000001FF94472400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.06.23-05.50.56:964][624]LogHttp: Warning: 000001FF94472400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.06.23-05.50.56:964][624]LogHttp: Warning: 000001FF94472400: libcurl info message cache 7 (Closing connection 0)
+[2021.06.23-05.50.56:964][624]LogHttp: Warning: 000001FF94472400: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2021.06.23-05.50.56:965][624]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF804C740-4EDD-FA28-BF47-1A89FB85BF7A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=570bd8d84c55dcbb4ac541a219260303%7Cc76c028ccf2c4c8a8ff7f94665d90807%7C0d825f72-4272-4842-96b1-3cf002bb957c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.06.23-05.51.07:237][237]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Barbarous.Barbarous
+[2021.06.23-05.51.07:246][237]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.06.23-05.51.15:840][726]LogSlate: Window 'Barbarous' being destroyed
+[2021.06.23-05.51.15:846][726]LogSlate: Window 'Barbarous' being destroyed
+[2021.06.23-05.51.37:850][504]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.06.23-05.51.37:868][504]LogContentBrowser: Creating deferred item: NewFolder
+[2021.06.23-05.51.43:689][854]LogContentBrowser: Attempting asset rename: NewFolder -> CharacterIcons
+[2021.06.23-05.51.43:689][854]LogContentBrowser: End creating deferred item NewFolder
+[2021.06.23-05.52.01:938][939]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Character/Base/Base.Base
+[2021.06.23-05.52.01:946][939]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.23-05.52.02:202][939]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2021.06.23-05.52.52:622][777]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Character/0_BaseSkeleton.0_BaseSkeleton
+[2021.06.23-05.52.52:625][777]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.23-05.52.59:433][134]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-05.52.59:433][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-05.53.01:007][215]LogSlate: Window 'Base' being destroyed
+[2021.06.23-05.53.01:014][215]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-05.53.01:014][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-05.53.02:254][283]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Character/Base/Base.Base
+[2021.06.23-05.53.02:258][283]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.23-05.53.02:474][283]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2021.06.23-05.56.24:404][ 28]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Character/barbarous/Barbarous_Anim.Barbarous_Anim
+[2021.06.23-05.56.24:412][ 28]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.23-05.56.25:043][ 28]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.06.23-05.56.28:806][225]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-05.56.28:806][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-05.56.28:827][225]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-05.56.28:827][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-05.56.28:871][225]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-05.56.28:871][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-05.56.29:747][275]LogSlate: Window 'Base' being destroyed
+[2021.06.23-05.56.29:755][275]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-05.56.29:755][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-05.56.31:663][383]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Character/barbarous/Ske_mesh_barbarous.Ske_mesh_barbarous
+[2021.06.23-05.56.31:667][383]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.23-05.56.31:890][383]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2021.06.23-05.58.08:847][927]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Character/Archer/archer.archer
+[2021.06.23-05.58.08:850][927]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_53:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.23-05.58.09:124][927]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2021.06.23-05.59.38:537][ 99]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Character/Gambler/gambler.gambler
+[2021.06.23-05.59.38:540][ 99]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.23-05.59.38:798][ 99]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2021.06.23-06.00.54:614][532]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Character/Mage/mage.mage
+[2021.06.23-06.00.54:617][532]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.23-06.00.54:846][532]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2021.06.23-06.02.55:612][314]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Character/Policeman/policeman.policeman
+[2021.06.23-06.02.55:616][314]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_56:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.23-06.02.55:938][314]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2021.06.23-06.04.35:387][151]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Character/Fool/fool.fool
+[2021.06.23-06.04.35:390][151]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_57:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.23-06.04.35:713][151]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2021.06.23-06.05.44:548][242]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Character/PuppetMaster/puppet.puppet
+[2021.06.23-06.05.44:551][242]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.23-06.05.44:910][242]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2021.06.23-06.06.40:005][ 34]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Character/Vampire/vampire.vampire
+[2021.06.23-06.06.40:008][ 34]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_59:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.23-06.06.40:349][ 34]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2021.06.23-06.07.42:923][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\Base.png)
+[2021.06.23-06.07.42:934][338]LogTexture: Display: Building textures: Base (BGRA8, 318X279)
+[2021.06.23-06.07.42:948][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\Barbarous.png)
+[2021.06.23-06.07.42:958][338]LogTexture: Display: Building textures: Barbarous (BGRA8, 387X343)
+[2021.06.23-06.07.42:971][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\archer.png)
+[2021.06.23-06.07.42:979][338]LogTexture: Display: Building textures: archer (BGRA8, 441X325)
+[2021.06.23-06.07.42:989][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\gambler.png)
+[2021.06.23-06.07.42:995][338]LogTexture: Display: Building textures: gambler (BGRA8, 314X288)
+[2021.06.23-06.07.43:002][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\mage1.png)
+[2021.06.23-06.07.43:013][338]LogTexture: Display: Building textures: mage1 (BGRA8, 351X306)
+[2021.06.23-06.07.43:028][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\Policeman.png)
+[2021.06.23-06.07.43:040][338]LogTexture: Display: Building textures: Policeman (BGRA8, 356X309)
+[2021.06.23-06.07.43:052][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\Fool1.png)
+[2021.06.23-06.07.43:059][338]LogTexture: Display: Building textures: Fool1 (BGRA8, 261X245)
+[2021.06.23-06.07.43:066][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\PuppetMaster.png)
+[2021.06.23-06.07.43:073][338]LogTexture: Display: Building textures: PuppetMaster (BGRA8, 371X285)
+[2021.06.23-06.07.43:081][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\Vampire.png)
+[2021.06.23-06.07.43:092][338]LogTexture: Display: Building textures: Vampire (BGRA8, 360X305)
+[2021.06.23-06.07.45:547][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.23-06.07.45:716][424]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2021.06.23-06.07.45:738][424]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/MainMenu8DDD09C743021606C33C7FB677777602.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Maps/MainMenu.umap'
+[2021.06.23-06.07.45:748][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu_BuiltData" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Maps/MainMenu_BuiltData.uasset" SILENT=true
+[2021.06.23-06.07.45:749][424]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/MainMenu_BuiltData78768EE94985E172CA795EAC66555D70.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Maps/MainMenu_BuiltData.uasset'
+[2021.06.23-06.07.45:763][424]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.23-06.07.45:763][424]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMenu_BuiltData.MainMenu_BuiltData
+[2021.06.23-06.07.45:763][424]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2021.06.23-06.07.46:311][453]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.06.23-06.07.47:190][453]LogSlate: Window 'Save Content' being destroyed
+[2021.06.23-06.07.47:220][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/CharacterIcons/archer" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/CharacterIcons/archer.uasset" SILENT=true
+[2021.06.23-06.07.47:235][453]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/archer67B946EF49F5D62FE62252AFB1E05495.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/CharacterIcons/archer.uasset'
+[2021.06.23-06.07.47:242][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/CharacterIcons/Barbarous" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/CharacterIcons/Barbarous.uasset" SILENT=true
+[2021.06.23-06.07.47:257][453]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/Barbarous8063DC80415F44A631D27FB7DE04F4DB.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/CharacterIcons/Barbarous.uasset'
+[2021.06.23-06.07.47:263][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/CharacterIcons/Base" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/CharacterIcons/Base.uasset" SILENT=true
+[2021.06.23-06.07.47:273][453]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/BaseA7C026394C5D24FF36A45987E587616C.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/CharacterIcons/Base.uasset'
+[2021.06.23-06.07.47:280][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/CharacterIcons/Fool1" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/CharacterIcons/Fool1.uasset" SILENT=true
+[2021.06.23-06.07.47:289][453]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/Fool1B34164524D6486C4627B5683CCB1DC2D.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/CharacterIcons/Fool1.uasset'
+[2021.06.23-06.07.47:295][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/CharacterIcons/gambler" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/CharacterIcons/gambler.uasset" SILENT=true
+[2021.06.23-06.07.47:307][453]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/gambler5BC6C16340D95D0617E2CA8E72A99234.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/CharacterIcons/gambler.uasset'
+[2021.06.23-06.07.47:313][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/CharacterIcons/mage1" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/CharacterIcons/mage1.uasset" SILENT=true
+[2021.06.23-06.07.47:326][453]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/mage1DE62C6834353CF67BFB28C8F5FEA64CF.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/CharacterIcons/mage1.uasset'
+[2021.06.23-06.07.47:331][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/CharacterIcons/Policeman" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/CharacterIcons/Policeman.uasset" SILENT=true
+[2021.06.23-06.07.47:344][453]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/Policeman8AEF5A634AE5A26343E3DD9A53559A05.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/CharacterIcons/Policeman.uasset'
+[2021.06.23-06.07.47:350][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/CharacterIcons/PuppetMaster" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/CharacterIcons/PuppetMaster.uasset" SILENT=true
+[2021.06.23-06.07.47:362][453]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/PuppetMasterAFAC8E904D74822C56BE598DBCB160E3.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/CharacterIcons/PuppetMaster.uasset'
+[2021.06.23-06.07.47:368][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/CharacterIcons/Vampire" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/CharacterIcons/Vampire.uasset" SILENT=true
+[2021.06.23-06.07.47:381][453]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/Vampire2159044043811A233818B7880CEBC093.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/CharacterIcons/Vampire.uasset'
+[2021.06.23-06.07.47:400][453]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.23-06.07.47:400][453]LogContentValidation: Display: Validating Texture2D /Game/Textures/CharacterIcons/Base.Base
+[2021.06.23-06.07.47:400][453]LogContentValidation: Display: Validating Texture2D /Game/Textures/CharacterIcons/Barbarous.Barbarous
+[2021.06.23-06.07.47:400][453]LogContentValidation: Display: Validating Texture2D /Game/Textures/CharacterIcons/archer.archer
+[2021.06.23-06.07.47:400][453]LogContentValidation: Display: Validating Texture2D /Game/Textures/CharacterIcons/gambler.gambler
+[2021.06.23-06.07.47:401][453]LogContentValidation: Display: Validating Texture2D /Game/Textures/CharacterIcons/mage1.mage1
+[2021.06.23-06.07.47:401][453]LogContentValidation: Display: Validating Texture2D /Game/Textures/CharacterIcons/Policeman.Policeman
+[2021.06.23-06.07.47:401][453]LogContentValidation: Display: Validating Texture2D /Game/Textures/CharacterIcons/Fool1.Fool1
+[2021.06.23-06.07.47:401][453]LogContentValidation: Display: Validating Texture2D /Game/Textures/CharacterIcons/PuppetMaster.PuppetMaster
+[2021.06.23-06.07.47:401][453]LogContentValidation: Display: Validating Texture2D /Game/Textures/CharacterIcons/Vampire.Vampire
+[2021.06.23-06.07.51:654][707]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Lobby/CharacterSelect.CharacterSelect
+[2021.06.23-06.11.53:106][561]BlueprintLog: New page: Compile CharacterSelect
+[2021.06.23-06.11.53:173][561]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.06.23-06.11.53:649][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/CharacterSelect" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/Lobby/CharacterSelect.uasset" SILENT=true
+[2021.06.23-06.11.53:682][581]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/CharacterSelect4D0569994E0AFBE37158D386A5582818.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/Lobby/CharacterSelect.uasset'
+[2021.06.23-06.11.53:698][581]AssetCheck: New page: Asset Save: CharacterSelect
+[2021.06.23-06.11.53:698][581]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Lobby/CharacterSelect.CharacterSelect
+[2021.06.23-06.12.11:362][613]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Lobby/LobbyPC.LobbyPC
+[2021.06.23-06.12.41:006][191]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2021.06.23-06.13.09:706][636]BlueprintLog: New page: Compile LobbyPC
+[2021.06.23-06.13.09:822][636]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.06.23-06.13.10:367][661]BlueprintLog: New page: Compile LobbyPC
+[2021.06.23-06.13.10:453][661]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.06.23-06.13.20:848][190]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-06.13.20:848][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-06.13.21:513][224]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-06.13.21:513][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-06.13.21:923][245]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-06.13.21:923][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-06.13.22:323][265]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-06.13.22:323][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-06.13.22:639][280]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-06.13.22:639][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-06.13.23:008][298]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-06.13.23:009][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-06.13.23:355][315]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-06.13.23:355][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-06.13.24:096][355]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-06.13.24:096][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-06.13.26:194][459]LogSlate: Window 'CharacterSelect' being destroyed
+[2021.06.23-06.13.28:054][552]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.23-06.13.41:203][167]BlueprintLog: New page: Compile LobbyGM
+[2021.06.23-06.13.41:327][167]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2021.06.23-06.13.41:864][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyGM" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Blueprints/Lobby/LobbyGM.uasset" SILENT=true
+[2021.06.23-06.13.41:930][183]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/LobbyGM82FE1A874157D98E272274A3E4986A67.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Blueprints/Lobby/LobbyGM.uasset'
+[2021.06.23-06.13.41:942][183]AssetCheck: New page: Asset Save: LobbyGM
+[2021.06.23-06.13.41:942][183]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2021.06.23-06.13.51:138][710]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.23-06.13.51:146][710]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-06.13.51:146][710]PIE: New page: PIE session: MainMenu (Jun 23, 2021, 10:13:51 PM)
+[2021.06.23-06.13.51:146][710]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.23-06.13.51:153][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006274s)
+[2021.06.23-06.13.51:153][710]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.23-06.13.51:154][710]LogPlayLevel: PIE: World Init took: (0.000987s)
+[2021.06.23-06.13.51:154][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.007372s)
+[2021.06.23-06.13.51:191][710]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.06.23-06.13.51:192][710]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.06.23-06.13.51:192][710]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.23-06.13.51:192][710]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.23-06.13.51:192][710]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.23-06.13.51:192][710]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.23-06.13.51:192][710]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.23-06.13.51:192][710]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.23-06.13.51:192][710]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.23-06.13.51:192][710]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.23-06.13.51:192][710]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.23-06.13.51:192][710]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.23-06.13.51:195][710]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.23-06.13.51:195][710]LogAudioMixer: Display: 1: FrontRight
+[2021.06.23-06.13.51:210][710]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.23-06.13.51:211][710]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.23-06.13.51:211][710]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.23-06.13.51:211][710]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.23-06.13.51:211][710]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.23-06.13.51:211][710]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.23-06.13.51:211][710]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.23-06.13.51:228][710]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.23-06.13.51:228][710]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.23-06.13.51:228][710]LogInit: FAudioDevice initialized.
+[2021.06.23-06.13.51:228][710]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainMenu'.
+[2021.06.23-06.13.51:254][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.23-06.13.51:255][710]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.23-06.13.51:256][710]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.23-14.13.51
+[2021.06.23-06.13.51:256][710]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.23-06.13.51:256][710]LogWorld: Bringing up level for play took: 0.000702
+[2021.06.23-06.13.51:257][710]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2021.06.23-06.13.51:260][710]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.23-06.13.51:261][710]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.23-06.13.51:261][710]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.23-06.13.51:264][710]PIE: Server logged in
+[2021.06.23-06.13.51:265][710]PIE: Play in editor total start time 0.12 seconds.
+[2021.06.23-06.13.53:420][834]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.06.23-06.13.53:420][834]LogNet: Browse: /Game/Maps/Lobby?listen
+[2021.06.23-06.13.53:420][834]LogLoad: LoadMap: /Game/Maps/Lobby?listen
+[2021.06.23-06.13.53:420][834]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.23-06.13.53:421][834]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-06.13.53:421][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-06.13.53:490][834]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.23-06.13.53:494][834]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.06.23-06.13.53:509][834]LogAudio: Display: Audio Device (ID: 5) registered with world 'Lobby'.
+[2021.06.23-06.13.53:510][834]LogAIModule: Creating AISystem for world Lobby
+[2021.06.23-06.13.53:510][834]LogLoad: Game class is 'LobbyGM_C'
+[2021.06.23-06.13.53:511][834]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.06.23-06.13.53:511][834]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.06.23-06.13.53:511][834]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.06.23-06.13.53:511][834]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2021.06.23-06.13.53:511][834]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.06.23-06.13.53:511][834]LogNet: GameNetDriver IpNetDriver_3 IpNetDriver listening on port 7777
+[2021.06.23-06.13.53:513][834]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 60) at 2021.06.23-14.13.53
+[2021.06.23-06.13.53:513][834]LogWorld: Bringing up level for play took: 0.000996
+[2021.06.23-06.13.53:517][834]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.23-06.13.53:517][834]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.06.23-06.13.53:517][834]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.06.23-06.13.53:519][834]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.23-06.13.53:519][834]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.23-06.13.53:519][834]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.23-06.13.53:519][834]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.23-06.13.53:519][834]LogLoad: Took 0.099762 seconds to LoadMap(/Game/Maps/Lobby)
+[2021.06.23-06.13.55:014][924]PIE: Warning: CharacterSelect
+[2021.06.23-06.14.00:081][228]PIE: Warning: CharacterSelect
+[2021.06.23-06.14.01:230][297]PIE: Warning: CharacterSelect
+[2021.06.23-06.14.02:281][360]PIE: Warning: CharacterSelect
+[2021.06.23-06.14.03:680][444]PIE: Warning: CharacterSelect
+[2021.06.23-06.14.04:898][517]PIE: Warning: CharacterSelect
+[2021.06.23-06.14.06:198][595]PIE: Warning: CharacterSelect
+[2021.06.23-06.14.07:514][674]PIE: Warning: CharacterSelect
+[2021.06.23-06.14.09:097][769]PIE: Warning: CharacterSelect
+[2021.06.23-06.14.10:932][879]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.06.23-06.14.10:932][879]LogGameState: Match State Changed from InProgress to LeavingMap
+[2021.06.23-06.14.10:932][879]LogNet: Browse: /Game/Maps/MainMenu
+[2021.06.23-06.14.10:932][879]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2021.06.23-06.14.10:932][879]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Lobby
+[2021.06.23-06.14.10:933][879]LogNet: World NetDriver shutdown IpNetDriver_3 [GameNetDriver]
+[2021.06.23-06.14.10:933][879]LogNet: DestroyNamedNetDriver IpNetDriver_3 [GameNetDriver]
+[2021.06.23-06.14.10:933][879]LogExit: GameNetDriver IpNetDriver_3 shut down
+[2021.06.23-06.14.10:935][879]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.06.23-06.14.10:935][879]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-06.14.10:935][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-06.14.10:993][879]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.23-06.14.10:998][879]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.06.23-06.14.10:999][879]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.23-06.14.11:005][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006148s)
+[2021.06.23-06.14.11:006][879]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.23-06.14.11:006][879]LogPlayLevel: PIE: World Init took: (0.001060s)
+[2021.06.23-06.14.11:007][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.007353s)
+[2021.06.23-06.14.11:007][879]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainMenu'.
+[2021.06.23-06.14.11:007][879]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.23-06.14.11:008][879]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.23-14.14.11
+[2021.06.23-06.14.11:008][879]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.23-06.14.11:008][879]LogWorld: Bringing up level for play took: 0.000802
+[2021.06.23-06.14.11:009][879]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.23-06.14.11:009][879]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.23-06.14.11:009][879]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.23-06.14.11:011][879]LogLoad: Took 0.078506 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenu)
+[2021.06.23-06.14.11:807][927]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.23-06.14.11:814][927]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.23-06.14.11:814][927]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-06.14.11:814][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-06.14.11:822][927]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.23-06.14.11:828][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-06.14.11:864][927]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.23-06.14.11:864][927]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.23-06.14.11:865][927]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.23-06.14.11:885][927]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.06.23-06.14.11:961][928]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2021.06.23-06.14.13:257][997]LogSlate: Window 'Message Log' being destroyed
+[2021.06.23-06.14.13:263][997]LogSlate: Window 'Message Log' being destroyed
+[2021.06.23-06.14.29:988][971]ImportText (Hovered): Missing opening parenthesis: Texture2D'/Game/Textures/CharacterIcons/Barbarous.Barbarous'
+[2021.06.23-06.14.31:546][ 61]ImportText (Hovered): Missing opening parenthesis: Texture2D'/Game/Textures/CharacterIcons/Barbarous.Barbarous'
+[2021.06.23-06.14.37:779][428]ImportText (Hovered): Missing opening parenthesis: Texture2D'/Game/Textures/CharacterIcons/Barbarous.Barbarous'
+[2021.06.23-06.14.42:128][682]ImportText (Pressed): Missing opening parenthesis: Texture2D'/Game/Textures/CharacterIcons/Barbarous.Barbarous'
+[2021.06.23-06.14.45:304][866]ImportText (Pressed): Missing opening parenthesis: Texture2D'/Game/Textures/CharacterIcons/Barbarous.Barbarous'
+[2021.06.23-06.14.46:828][954]ImportText (Pressed): Missing opening parenthesis: Texture2D'/Game/Textures/CharacterIcons/Barbarous.Barbarous'
+[2021.06.23-06.15.00:564][758]LogSlate: Window 'Color Picker' being destroyed
+[2021.06.23-06.15.17:190][736]LogSlate: Window 'Color Picker' being destroyed
+[2021.06.23-06.15.33:613][698]LogSlate: Window 'Color Picker' being destroyed
+[2021.06.23-06.15.40:489][101]LogSlate: Window 'Color Picker' being destroyed
+[2021.06.23-06.15.49:261][614]LogSlate: Window 'Color Picker' being destroyed
+[2021.06.23-06.15.57:798][112]LogSlate: Window 'Color Picker' being destroyed
+[2021.06.23-06.16.06:546][621]LogSlate: Window 'Color Picker' being destroyed
+[2021.06.23-06.16.12:375][965]BlueprintLog: New page: Compile CharacterSelect
+[2021.06.23-06.16.12:435][965]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.06.23-06.16.13:115][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/CharacterSelect" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/Lobby/CharacterSelect.uasset" SILENT=true
+[2021.06.23-06.16.13:146][  2]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/CharacterSelect688C007341E517A876726C9357E693B3.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/Lobby/CharacterSelect.uasset'
+[2021.06.23-06.16.13:161][  2]AssetCheck: New page: Asset Save: CharacterSelect
+[2021.06.23-06.16.13:161][  2]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Lobby/CharacterSelect.CharacterSelect
+[2021.06.23-06.16.14:072][ 56]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.23-06.16.14:080][ 56]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-06.16.14:080][ 56]PIE: New page: PIE session: MainMenu (Jun 23, 2021, 10:16:14 PM)
+[2021.06.23-06.16.14:080][ 56]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.23-06.16.14:086][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006136s)
+[2021.06.23-06.16.14:087][ 56]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.23-06.16.14:087][ 56]LogPlayLevel: PIE: World Init took: (0.000970s)
+[2021.06.23-06.16.14:087][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.007216s)
+[2021.06.23-06.16.14:128][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.06.23-06.16.14:128][ 56]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.06.23-06.16.14:128][ 56]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.23-06.16.14:128][ 56]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.23-06.16.14:128][ 56]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.23-06.16.14:128][ 56]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.23-06.16.14:128][ 56]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.23-06.16.14:128][ 56]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.23-06.16.14:128][ 56]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.23-06.16.14:128][ 56]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.23-06.16.14:129][ 56]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.23-06.16.14:129][ 56]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.23-06.16.14:131][ 56]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.23-06.16.14:131][ 56]LogAudioMixer: Display: 1: FrontRight
+[2021.06.23-06.16.14:145][ 56]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.23-06.16.14:145][ 56]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.23-06.16.14:145][ 56]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.23-06.16.14:145][ 56]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.23-06.16.14:145][ 56]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.23-06.16.14:146][ 56]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.23-06.16.14:146][ 56]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.23-06.16.14:161][ 56]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.23-06.16.14:161][ 56]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.23-06.16.14:161][ 56]LogInit: FAudioDevice initialized.
+[2021.06.23-06.16.14:161][ 56]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainMenu'.
+[2021.06.23-06.16.14:188][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.23-06.16.14:188][ 56]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.23-06.16.14:190][ 56]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.23-14.16.14
+[2021.06.23-06.16.14:190][ 56]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.23-06.16.14:190][ 56]LogWorld: Bringing up level for play took: 0.000775
+[2021.06.23-06.16.14:190][ 56]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2021.06.23-06.16.14:193][ 56]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.23-06.16.14:194][ 56]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.23-06.16.14:194][ 56]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.23-06.16.14:197][ 56]PIE: Server logged in
+[2021.06.23-06.16.14:197][ 56]PIE: Play in editor total start time 0.118 seconds.
+[2021.06.23-06.16.16:000][161]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.06.23-06.16.16:000][161]LogNet: Browse: /Game/Maps/Lobby?listen
+[2021.06.23-06.16.16:000][161]LogLoad: LoadMap: /Game/Maps/Lobby?listen
+[2021.06.23-06.16.16:000][161]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.23-06.16.16:001][161]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-06.16.16:001][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-06.16.16:071][161]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.23-06.16.16:075][161]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.06.23-06.16.16:086][161]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lobby'.
+[2021.06.23-06.16.16:086][161]LogAIModule: Creating AISystem for world Lobby
+[2021.06.23-06.16.16:086][161]LogLoad: Game class is 'LobbyGM_C'
+[2021.06.23-06.16.16:087][161]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.06.23-06.16.16:087][161]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.06.23-06.16.16:087][161]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.06.23-06.16.16:087][161]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2021.06.23-06.16.16:087][161]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.06.23-06.16.16:087][161]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 7777
+[2021.06.23-06.16.16:089][161]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 60) at 2021.06.23-14.16.16
+[2021.06.23-06.16.16:089][161]LogWorld: Bringing up level for play took: 0.001146
+[2021.06.23-06.16.16:093][161]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.23-06.16.16:093][161]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.06.23-06.16.16:093][161]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.06.23-06.16.16:095][161]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.23-06.16.16:095][161]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.23-06.16.16:095][161]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.23-06.16.16:095][161]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.23-06.16.16:095][161]LogLoad: Took 0.094454 seconds to LoadMap(/Game/Maps/Lobby)
+[2021.06.23-06.16.17:035][218]PIE: Warning: CharacterSelect
+[2021.06.23-06.16.18:585][311]PIE: Warning: CharacterSelect
+[2021.06.23-06.16.25:094][700]PIE: Warning: CharacterSelect
+[2021.06.23-06.16.28:944][931]PIE: Warning: CharacterSelect
+[2021.06.23-06.16.31:012][ 55]Cmd: servertravel /Game/Maps/Arena01
+[2021.06.23-06.16.31:018][ 55]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2021.06.23-06.16.34:478][263]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.23-06.16.34:487][263]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.06.23-06.16.34:488][263]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Lobby
+[2021.06.23-06.16.34:488][263]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-06.16.34:488][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-06.16.34:495][263]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2021.06.23-06.16.34:495][263]LogNet: DestroyNamedNetDriver IpNetDriver_4 [GameNetDriver]
+[2021.06.23-06.16.34:495][263]LogExit: GameNetDriver IpNetDriver_4 shut down
+[2021.06.23-06.16.34:495][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.23-06.16.34:502][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-06.16.34:537][263]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.23-06.16.34:537][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.23-06.16.34:538][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.23-06.16.34:559][263]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.06.23-06.16.34:634][264]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2021.06.23-06.16.36:848][388]LogSlate: Window 'Message Log' being destroyed
+[2021.06.23-06.16.36:855][388]LogSlate: Window 'Message Log' being destroyed
+[2021.06.23-06.16.37:515][428]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.23-06.16.37:523][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-06.16.37:523][428]PIE: New page: PIE session: MainMenu (Jun 23, 2021, 10:16:37 PM)
+[2021.06.23-06.16.37:523][428]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.23-06.16.37:530][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007041s)
+[2021.06.23-06.16.37:531][428]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.23-06.16.37:531][428]LogPlayLevel: PIE: World Init took: (0.001051s)
+[2021.06.23-06.16.37:531][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.008212s)
+[2021.06.23-06.16.37:567][428]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.06.23-06.16.37:568][428]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.06.23-06.16.37:568][428]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.23-06.16.37:568][428]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.23-06.16.37:568][428]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.23-06.16.37:568][428]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.23-06.16.37:568][428]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.23-06.16.37:568][428]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.23-06.16.37:568][428]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.23-06.16.37:568][428]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.23-06.16.37:568][428]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.23-06.16.37:568][428]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.23-06.16.37:571][428]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.23-06.16.37:571][428]LogAudioMixer: Display: 1: FrontRight
+[2021.06.23-06.16.37:585][428]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.23-06.16.37:585][428]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.23-06.16.37:585][428]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.23-06.16.37:585][428]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.23-06.16.37:585][428]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.23-06.16.37:585][428]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.23-06.16.37:585][428]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.23-06.16.37:601][428]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.23-06.16.37:601][428]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.23-06.16.37:601][428]LogInit: FAudioDevice initialized.
+[2021.06.23-06.16.37:601][428]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMenu'.
+[2021.06.23-06.16.37:630][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.23-06.16.37:630][428]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.23-06.16.37:631][428]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.23-14.16.37
+[2021.06.23-06.16.37:631][428]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.23-06.16.37:631][428]LogWorld: Bringing up level for play took: 0.000691
+[2021.06.23-06.16.37:631][428]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2021.06.23-06.16.37:633][428]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.23-06.16.37:634][428]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.23-06.16.37:634][428]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.23-06.16.37:637][428]PIE: Server logged in
+[2021.06.23-06.16.37:638][428]PIE: Play in editor total start time 0.116 seconds.
+[2021.06.23-06.16.40:587][601]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.06.23-06.16.40:587][601]LogNet: Browse: /Game/Maps/Info
+[2021.06.23-06.16.40:587][601]LogLoad: LoadMap: /Game/Maps/Info
+[2021.06.23-06.16.40:587][601]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.23-06.16.40:587][601]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-06.16.40:587][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-06.16.40:641][601]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.23-06.16.40:644][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.06.23-06.16.40:709][601]LogAudio: Display: Audio Device (ID: 7) registered with world 'Info'.
+[2021.06.23-06.16.40:710][601]LogAIModule: Creating AISystem for world Info
+[2021.06.23-06.16.40:711][601]LogLoad: Game class is 'InfoGM_C'
+[2021.06.23-06.16.40:721][601]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Info.Info up for play (max tick rate 60) at 2021.06.23-14.16.40
+[2021.06.23-06.16.40:721][601]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.23-06.16.40:721][601]LogWorld: Bringing up level for play took: 0.010277
+[2021.06.23-06.16.40:723][601]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.23-06.16.40:723][601]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.23-06.16.40:744][601]LogLoad: Took 0.156725 seconds to LoadMap(/Game/Maps/Info)
+[2021.06.23-06.16.50:480][117]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.23-06.16.50:486][117]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.06.23-06.16.50:487][117]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Info
+[2021.06.23-06.16.50:487][117]LogWorld: UWorld::CleanupWorld for Info, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-06.16.50:487][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-06.16.50:494][117]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.23-06.16.50:501][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-06.16.50:534][117]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.23-06.16.50:536][117]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.23-06.16.50:537][117]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.23-06.16.50:558][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2021.06.23-06.16.50:589][119]LogPlayLevel: Display: Destroying online subsystem :Context_70
