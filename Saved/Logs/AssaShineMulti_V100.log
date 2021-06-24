@@ -10496,3 +10496,592 @@ Sky Sphere
 [2021.06.24-14.08.19:530][915]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
 [2021.06.24-14.08.19:530][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2021.06.24-14.08.21:969][ 46]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu/ServerMenu.ServerMenu
+[2021.06.24-14.08.43:026][357]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu/RoomButton.RoomButton
+[2021.06.24-14.09.17:265][349]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu/MainMenu.MainMenu
+[2021.06.24-14.09.31:956][180]BlueprintLog: New page: Compile RoomButton
+[2021.06.24-14.09.32:031][180]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.06.24-14.09.37:906][518]LogSlate: Window 'Color Picker' being destroyed
+[2021.06.24-14.09.40:904][697]BlueprintLog: New page: Compile RoomButton
+[2021.06.24-14.09.40:953][697]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.06.24-14.09.53:797][450]LogSlate: Window 'Color Picker' being destroyed
+[2021.06.24-14.10.21:812][101]BlueprintLog: New page: Compile RoomButton
+[2021.06.24-14.10.21:861][101]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.06.24-14.10.30:447][602]BlueprintLog: New page: Compile RoomButton
+[2021.06.24-14.10.30:499][602]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.06.24-14.10.31:695][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/RoomButton" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/RoomButton.uasset" SILENT=true
+[2021.06.24-14.10.31:720][664]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/RoomButton91818C4A4294FAA83BBEAD870893543D.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/RoomButton.uasset'
+[2021.06.24-14.10.31:743][664]AssetCheck: New page: Asset Save: RoomButton
+[2021.06.24-14.10.31:743][664]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/RoomButton.RoomButton
+[2021.06.24-14.10.35:940][913]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.24-14.10.35:950][913]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.24-14.10.35:950][913]PIE: New page: PIE session: MainMenu (Jun 25, 2021, 6:10:35 AM)
+[2021.06.24-14.10.35:950][913]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-14.10.35:959][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008541s)
+[2021.06.24-14.10.35:959][913]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.24-14.10.35:960][913]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2021.06.24-14.10.35:960][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.009778s)
+[2021.06.24-14.10.35:996][913]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.06.24-14.10.35:996][913]LogAudio: Display: Creating Audio Device:                 Id: 127, Scope: Unique, Realtime: True
+[2021.06.24-14.10.35:996][913]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.24-14.10.35:996][913]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.24-14.10.35:996][913]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.24-14.10.35:996][913]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.24-14.10.35:996][913]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.24-14.10.35:996][913]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.24-14.10.35:996][913]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.24-14.10.35:996][913]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.24-14.10.35:997][913]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.24-14.10.35:997][913]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.24-14.10.36:000][913]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.24-14.10.36:000][913]LogAudioMixer: Display: 1: FrontRight
+[2021.06.24-14.10.36:014][913]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.24-14.10.36:014][913]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.24-14.10.36:014][913]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.24-14.10.36:014][913]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.24-14.10.36:015][913]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.24-14.10.36:015][913]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.24-14.10.36:015][913]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.24-14.10.36:030][913]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.24-14.10.36:030][913]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.24-14.10.36:030][913]LogInit: FAudioDevice initialized.
+[2021.06.24-14.10.36:030][913]LogAudio: Display: Audio Device (ID: 127) registered with world 'MainMenu'.
+[2021.06.24-14.10.36:067][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-14.10.36:068][913]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.24-14.10.36:070][913]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.24-22.10.36
+[2021.06.24-14.10.36:070][913]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.24-14.10.36:071][913]LogWorld: Bringing up level for play took: 0.002131
+[2021.06.24-14.10.36:071][913]LogOnline: OSS: Creating online subsystem instance for: :Context_186
+[2021.06.24-14.10.36:072][913]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.24-14.10.36:073][913]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.24-14.10.36:073][913]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.24-14.10.36:075][913]PIE: Server logged in
+[2021.06.24-14.10.36:076][913]PIE: Play in editor total start time 0.127 seconds.
+[2021.06.24-14.10.36:076][913]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_MainMenu
+[2021.06.24-14.10.36:090][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014166s)
+[2021.06.24-14.10.36:091][913]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.24-14.10.36:091][913]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2021.06.24-14.10.36:091][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_1_MainMenu.MainMenu (0.015404s)
+[2021.06.24-14.10.36:126][913]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.06.24-14.10.36:126][913]LogAudio: Display: Creating Audio Device:                 Id: 128, Scope: Unique, Realtime: True
+[2021.06.24-14.10.36:126][913]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.24-14.10.36:127][913]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.24-14.10.36:127][913]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.24-14.10.36:127][913]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.24-14.10.36:127][913]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.24-14.10.36:127][913]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.24-14.10.36:127][913]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.24-14.10.36:127][913]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.24-14.10.36:127][913]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.24-14.10.36:127][913]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.24-14.10.36:130][913]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.24-14.10.36:130][913]LogAudioMixer: Display: 1: FrontRight
+[2021.06.24-14.10.36:141][913]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.24-14.10.36:141][913]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.24-14.10.36:141][913]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.24-14.10.36:141][913]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.24-14.10.36:142][913]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.24-14.10.36:142][913]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.24-14.10.36:142][913]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.24-14.10.36:143][913]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.24-14.10.36:143][913]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.24-14.10.36:143][913]LogInit: FAudioDevice initialized.
+[2021.06.24-14.10.36:143][913]LogAudio: Display: Audio Device (ID: 128) registered with world 'MainMenu'.
+[2021.06.24-14.10.36:184][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-14.10.36:185][913]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.24-14.10.36:187][913]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.24-22.10.36
+[2021.06.24-14.10.36:187][913]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.24-14.10.36:187][913]LogWorld: Bringing up level for play took: 0.002009
+[2021.06.24-14.10.36:187][913]LogOnline: OSS: Creating online subsystem instance for: :Context_187
+[2021.06.24-14.10.36:189][913]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.24-14.10.36:190][913]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.24-14.10.36:190][913]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.24-14.10.36:193][913]PIE: Server logged in
+[2021.06.24-14.10.36:194][913]PIE: Play in editor total start time 0.245 seconds.
+[2021.06.24-14.10.45:199][284]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.06.24-14.10.45:200][284]LogNet: Browse: /Game/Maps/Lobby?listen
+[2021.06.24-14.10.45:203][284]LogLoad: LoadMap: /Game/Maps/Lobby?listen
+[2021.06.24-14.10.45:203][284]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MainMenu
+[2021.06.24-14.10.45:204][284]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-14.10.45:205][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-14.10.45:255][284]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.24-14.10.45:259][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.06.24-14.10.45:305][284]LogAudio: Display: Audio Device (ID: 128) registered with world 'Lobby'.
+[2021.06.24-14.10.45:305][284]LogAIModule: Creating AISystem for world Lobby
+[2021.06.24-14.10.45:305][284]LogLoad: Game class is 'LobbyGM_C'
+[2021.06.24-14.10.45:311][284]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.06.24-14.10.45:312][284]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.06.24-14.10.45:313][284]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.06.24-14.10.45:313][284]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2021.06.24-14.10.45:315][284]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.06.24-14.10.45:315][284]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2021.06.24-14.10.45:320][284]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Lobby.Lobby up for play (max tick rate 60) at 2021.06.24-22.10.45
+[2021.06.24-14.10.45:320][284]LogWorld: Bringing up level for play took: 0.003972
+[2021.06.24-14.10.45:343][284]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.24-14.10.45:343][284]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.06.24-14.10.45:343][284]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.06.24-14.10.45:349][284]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.24-14.10.45:349][284]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.24-14.10.45:351][284]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.24-14.10.45:351][284]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.24-14.10.45:354][284]LogLoad: Took 0.151125 seconds to LoadMap(/Game/Maps/Lobby)
+[2021.06.24-14.10.52:888][572]LogScript: Script Msg: Found a session. Ping is 16
+[2021.06.24-14.11.05:948][213]LogOnlineSession: OSS: Join session: traveling to 192.168.0.105:7777
+[2021.06.24-14.11.05:957][213]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.06.24-14.11.05:957][213]LogNet: Browse: 192.168.0.105/Game/Maps/MainMenu
+[2021.06.24-14.11.05:957][213]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.06.24-14.11.05:957][213]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.06.24-14.11.05:960][213]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.06.24-14.11.05:961][213]LogNet: Game client on port 7777, rate 100000
+[2021.06.24-14.11.06:987][263]LogNet: NotifyAcceptingConnection accepted from: 192.168.0.105:55703
+[2021.06.24-14.11.06:989][263]LogHandshake: SendConnectChallenge. Timestamp: 21.822576, Cookie: 106243018082139100042176223229167008001022016001018166100168
+[2021.06.24-14.11.07:001][264]LogHandshake: SendChallengeResponse. Timestamp: 21.822576, Cookie: 106243018082139100042176223229167008001022016001018166100168
+[2021.06.24-14.11.07:003][264]LogNet: NotifyAcceptingConnection accepted from: 192.168.0.105:55703
+[2021.06.24-14.11.07:003][264]LogHandshake: SendChallengeAck. InCookie: 106243018082139100042176223229167008001022016001018166100168
+[2021.06.24-14.11.07:003][264]LogNet: Server accepting post-challenge connection from: 192.168.0.105:55703
+[2021.06.24-14.11.07:003][264]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.06.24-14.11.07:004][264]LogNet: NotifyAcceptedConnection: Name: Lobby, TimeStamp: 06/24/21 22:11:07, [UNetConnection] RemoteAddr: 192.168.0.105:55703, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.06.24-14.11.07:004][264]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 192.168.0.105:55703, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.06.24-14.11.07:027][265]LogNetVersion: AssaShineMulti_V100 1.0.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2899424777)
+[2021.06.24-14.11.07:027][265]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 192.168.0.105:7777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.06.24-14.11.07:033][265]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_Lobby.Lobby: Accepted
+[2021.06.24-14.11.07:033][265]LogNet: Remote platform little endian=1
+[2021.06.24-14.11.07:033][265]LogNet: This platform little endian=1
+[2021.06.24-14.11.07:046][266]LogNet: Login request: ?Name=LAPTOP-D22OQ9HA-741E914B44C7A7608C31A0AA81E91125 userId: NULL:LAPTOP-D22OQ9HA-741E914B44C7A7608C31A0AA81E91125 platform: NULL
+[2021.06.24-14.11.07:068][267]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_Lobby, Game: /Game/Blueprints/Lobby/LobbyGM.LobbyGM_C)
+[2021.06.24-14.11.07:071][267]LogLoad: LoadMap: 192.168.0.105/Game/Maps/UEDPIE_1_Lobby?game=/Game/Blueprints/Lobby/LobbyGM.LobbyGM_C
+[2021.06.24-14.11.07:072][267]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-14.11.07:073][267]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-14.11.07:074][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-14.11.07:126][267]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.24-14.11.07:294][267]LogUObjectHash: Compacting FUObjectHashTables data took   8.87ms
+[2021.06.24-14.11.07:304][267]LogAudio: Display: Audio Device (ID: 127) registered with world 'Lobby'.
+[2021.06.24-14.11.07:305][267]LogAIModule: Creating AISystem for world Lobby
+[2021.06.24-14.11.07:307][267]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 60) at 2021.06.24-22.11.07
+[2021.06.24-14.11.07:307][267]LogWorld: Bringing up level for play took: 0.001219
+[2021.06.24-14.11.07:307][267]LogLoad: Took 0.235125 seconds to LoadMap(/Game/Maps/UEDPIE_1_Lobby)
+[2021.06.24-14.11.07:307][267]LogNet: Client netspeed is 100000
+[2021.06.24-14.11.07:307][267]LogNet: Join request: /Game/Maps/MainMenu?Name=LAPTOP-D22OQ9HA-741E914B44C7A7608C31A0AA81E91125?SplitscreenCount=1
+[2021.06.24-14.11.07:324][267]LogNet: Join succeeded: LAPTOP-D22OQ9HA-741E
+[2021.06.24-14.11.07:353][268]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.24-14.11.07:353][268]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.06.24-14.11.07:353][268]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.06.24-14.11.08:121][312]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.24-14.11.08:147][312]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.06.24-14.11.08:148][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-14.11.08:148][312]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Lobby
+[2021.06.24-14.11.08:148][312]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.24-14.11.08:156][312]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-14.11.08:157][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-14.11.08:168][312]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2021.06.24-14.11.08:168][312]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2021.06.24-14.11.08:168][312]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 192.168.0.105:55703, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: LobbyPC_C_1, Owner: LobbyPC_C_1, UniqueId: NULL:LAPTOP-D22OQ9HA-741E914B44C7A7608C31A0AA81E91125
+[2021.06.24-14.11.08:168][312]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.0.105:55703, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: LobbyPC_C_1, Owner: LobbyPC_C_1, UniqueId: NULL:LAPTOP-D22OQ9HA-741E914B44C7A7608C31A0AA81E91125, Channels: 9, Time: 2021.06.24-14.11.08
+[2021.06.24-14.11.08:168][312]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.0.105:55703, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: LobbyPC_C_1, Owner: LobbyPC_C_1, UniqueId: NULL:LAPTOP-D22OQ9HA-741E914B44C7A7608C31A0AA81E91125
+[2021.06.24-14.11.08:169][312]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2021.06.24-14.11.08:170][312]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Lobby
+[2021.06.24-14.11.08:171][312]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-14.11.08:171][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-14.11.08:181][312]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2021.06.24-14.11.08:181][312]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2021.06.24-14.11.08:181][312]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.0.105:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: LobbyPC_C_0, Owner: LobbyPC_C_0, UniqueId: NULL:LAPTOP-D22OQ9HA-741E914B44C7A7608C31A0AA81E91125, Channels: 9, Time: 2021.06.24-14.11.08
+[2021.06.24-14.11.08:181][312]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.0.105:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: LobbyPC_C_0, Owner: LobbyPC_C_0, UniqueId: NULL:LAPTOP-D22OQ9HA-741E914B44C7A7608C31A0AA81E91125
+[2021.06.24-14.11.08:181][312]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2021.06.24-14.11.08:182][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.24-14.11.08:188][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-14.11.08:228][312]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.24-14.11.08:228][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-14.11.08:229][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-14.11.08:248][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-14.11.08:248][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-14.11.08:296][312]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.06.24-14.11.08:318][313]LogPlayLevel: Display: Destroying online subsystem :Context_187
+[2021.06.24-14.11.08:318][313]LogPlayLevel: Display: Destroying online subsystem :Context_186
+[2021.06.24-14.11.32:915][765]BlueprintLog: New page: Compile RoomButton
+[2021.06.24-14.11.32:968][765]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.06.24-14.11.33:670][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/RoomButton" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/RoomButton.uasset" SILENT=true
+[2021.06.24-14.11.33:692][801]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/RoomButtonEE2E7D7C499E30D9999C7E8A2EC2943C.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/RoomButton.uasset'
+[2021.06.24-14.11.33:711][801]AssetCheck: New page: Asset Save: RoomButton
+[2021.06.24-14.11.33:711][801]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/RoomButton.RoomButton
+[2021.06.24-14.11.34:890][867]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.24-14.11.34:899][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.24-14.11.34:899][867]PIE: New page: PIE session: MainMenu (Jun 25, 2021, 6:11:34 AM)
+[2021.06.24-14.11.34:899][867]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-14.11.34:910][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009686s)
+[2021.06.24-14.11.34:911][867]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.24-14.11.34:911][867]LogPlayLevel: PIE: World Init took: (0.001209s)
+[2021.06.24-14.11.34:911][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.011010s)
+[2021.06.24-14.11.34:951][867]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.06.24-14.11.34:953][867]LogAudio: Display: Creating Audio Device:                 Id: 129, Scope: Unique, Realtime: True
+[2021.06.24-14.11.34:953][867]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.24-14.11.34:953][867]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.24-14.11.34:953][867]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.24-14.11.34:953][867]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.24-14.11.34:953][867]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.24-14.11.34:953][867]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.24-14.11.34:953][867]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.24-14.11.34:953][867]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.24-14.11.34:954][867]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.24-14.11.34:954][867]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.24-14.11.34:956][867]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.24-14.11.34:956][867]LogAudioMixer: Display: 1: FrontRight
+[2021.06.24-14.11.34:969][867]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.24-14.11.34:969][867]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.24-14.11.34:969][867]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.24-14.11.34:969][867]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.24-14.11.34:970][867]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.24-14.11.34:970][867]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.24-14.11.34:970][867]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.24-14.11.34:985][867]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.24-14.11.34:985][867]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.24-14.11.34:985][867]LogInit: FAudioDevice initialized.
+[2021.06.24-14.11.34:985][867]LogAudio: Display: Audio Device (ID: 129) registered with world 'MainMenu'.
+[2021.06.24-14.11.35:026][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-14.11.35:026][867]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.24-14.11.35:029][867]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.24-22.11.35
+[2021.06.24-14.11.35:029][867]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.24-14.11.35:030][867]LogWorld: Bringing up level for play took: 0.002328
+[2021.06.24-14.11.35:030][867]LogOnline: OSS: Creating online subsystem instance for: :Context_188
+[2021.06.24-14.11.35:031][867]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.24-14.11.35:032][867]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.24-14.11.35:032][867]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.24-14.11.35:034][867]PIE: Server logged in
+[2021.06.24-14.11.35:035][867]PIE: Play in editor total start time 0.137 seconds.
+[2021.06.24-14.11.35:035][867]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_MainMenu
+[2021.06.24-14.11.35:047][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011763s)
+[2021.06.24-14.11.35:048][867]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.24-14.11.35:049][867]LogPlayLevel: PIE: World Init took: (0.001343s)
+[2021.06.24-14.11.35:049][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_1_MainMenu.MainMenu (0.013287s)
+[2021.06.24-14.11.35:091][867]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.06.24-14.11.35:092][867]LogAudio: Display: Creating Audio Device:                 Id: 130, Scope: Unique, Realtime: True
+[2021.06.24-14.11.35:092][867]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.24-14.11.35:092][867]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.24-14.11.35:092][867]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.24-14.11.35:092][867]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.24-14.11.35:092][867]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.24-14.11.35:092][867]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.24-14.11.35:093][867]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.24-14.11.35:093][867]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.24-14.11.35:093][867]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.24-14.11.35:093][867]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.24-14.11.35:096][867]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.24-14.11.35:096][867]LogAudioMixer: Display: 1: FrontRight
+[2021.06.24-14.11.35:107][867]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.24-14.11.35:108][867]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.24-14.11.35:108][867]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.24-14.11.35:108][867]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.24-14.11.35:108][867]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.24-14.11.35:109][867]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.24-14.11.35:109][867]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.24-14.11.35:124][867]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.24-14.11.35:124][867]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.24-14.11.35:124][867]LogInit: FAudioDevice initialized.
+[2021.06.24-14.11.35:124][867]LogAudio: Display: Audio Device (ID: 130) registered with world 'MainMenu'.
+[2021.06.24-14.11.35:167][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-14.11.35:167][867]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.24-14.11.35:170][867]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.24-22.11.35
+[2021.06.24-14.11.35:170][867]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.24-14.11.35:171][867]LogWorld: Bringing up level for play took: 0.002474
+[2021.06.24-14.11.35:171][867]LogOnline: OSS: Creating online subsystem instance for: :Context_189
+[2021.06.24-14.11.35:173][867]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.24-14.11.35:173][867]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.24-14.11.35:173][867]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.24-14.11.35:176][867]PIE: Server logged in
+[2021.06.24-14.11.35:177][867]PIE: Play in editor total start time 0.278 seconds.
+[2021.06.24-14.11.39:938][ 86]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.06.24-14.11.39:939][ 86]LogNet: Browse: /Game/Maps/Lobby?listen
+[2021.06.24-14.11.39:939][ 86]LogLoad: LoadMap: /Game/Maps/Lobby?listen
+[2021.06.24-14.11.39:939][ 86]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MainMenu
+[2021.06.24-14.11.39:939][ 86]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-14.11.39:940][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-14.11.39:976][ 86]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.24-14.11.39:988][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   7.71ms
+[2021.06.24-14.11.39:996][ 86]LogAudio: Display: Audio Device (ID: 130) registered with world 'Lobby'.
+[2021.06.24-14.11.39:997][ 86]LogAIModule: Creating AISystem for world Lobby
+[2021.06.24-14.11.39:997][ 86]LogLoad: Game class is 'LobbyGM_C'
+[2021.06.24-14.11.39:998][ 86]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.06.24-14.11.39:998][ 86]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.06.24-14.11.39:998][ 86]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.06.24-14.11.39:998][ 86]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2021.06.24-14.11.39:998][ 86]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.06.24-14.11.39:998][ 86]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 7777
+[2021.06.24-14.11.40:000][ 86]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Lobby.Lobby up for play (max tick rate 60) at 2021.06.24-22.11.40
+[2021.06.24-14.11.40:000][ 86]LogWorld: Bringing up level for play took: 0.001401
+[2021.06.24-14.11.40:004][ 86]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.24-14.11.40:004][ 86]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.06.24-14.11.40:004][ 86]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.06.24-14.11.40:006][ 86]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.24-14.11.40:006][ 86]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.24-14.11.40:006][ 86]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.24-14.11.40:006][ 86]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.24-14.11.40:006][ 86]LogLoad: Took 0.068393 seconds to LoadMap(/Game/Maps/Lobby)
+[2021.06.24-14.11.47:456][453]LogScript: Script Msg: Found a session. Ping is 20
+[2021.06.24-14.12.51:790][510]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.24-14.12.51:835][510]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.06.24-14.12.51:836][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-14.12.51:836][510]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Lobby
+[2021.06.24-14.12.51:836][510]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.24-14.12.51:880][510]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-14.12.51:880][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-14.12.51:890][510]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2021.06.24-14.12.51:890][510]LogNet: DestroyNamedNetDriver IpNetDriver_2 [GameNetDriver]
+[2021.06.24-14.12.51:890][510]LogExit: GameNetDriver IpNetDriver_2 shut down
+[2021.06.24-14.12.51:891][510]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-14.12.51:891][510]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-14.12.51:891][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-14.12.51:901][510]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.24-14.12.51:910][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-14.12.51:948][510]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.24-14.12.51:948][510]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.24-14.12.51:948][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-14.12.51:950][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-14.12.51:968][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-14.12.51:969][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-14.12.51:994][510]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.06.24-14.12.52:021][511]LogPlayLevel: Display: Destroying online subsystem :Context_189
+[2021.06.24-14.12.52:021][511]LogPlayLevel: Display: Destroying online subsystem :Context_188
+[2021.06.24-14.14.10:883][866]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.06.24-14.14.11:032][871]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.06.24-14.14.13:581][985]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.06.24-14.14.19:757][273]BlueprintLog: New page: Compile ServerMenu
+[2021.06.24-14.14.19:838][273]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2021.06.24-14.14.20:312][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/ServerMenu" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/ServerMenu.uasset" SILENT=true
+[2021.06.24-14.14.20:397][295]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/ServerMenu320749C0423BDAB027BAB5A31E9A073F.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/ServerMenu.uasset'
+[2021.06.24-14.14.20:418][295]AssetCheck: New page: Asset Save: ServerMenu
+[2021.06.24-14.14.20:418][295]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/ServerMenu.ServerMenu
+[2021.06.24-14.14.22:506][418]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.24-14.14.22:516][418]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.24-14.14.22:516][418]PIE: New page: PIE session: MainMenu (Jun 25, 2021, 6:14:22 AM)
+[2021.06.24-14.14.22:516][418]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-14.14.22:526][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009799s)
+[2021.06.24-14.14.22:527][418]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.24-14.14.22:527][418]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2021.06.24-14.14.22:527][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.010959s)
+[2021.06.24-14.14.22:571][418]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.06.24-14.14.22:571][418]LogAudio: Display: Creating Audio Device:                 Id: 131, Scope: Unique, Realtime: True
+[2021.06.24-14.14.22:571][418]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.24-14.14.22:571][418]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.24-14.14.22:571][418]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.24-14.14.22:571][418]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.24-14.14.22:571][418]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.24-14.14.22:571][418]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.24-14.14.22:571][418]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.24-14.14.22:571][418]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.24-14.14.22:572][418]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.24-14.14.22:572][418]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.24-14.14.22:574][418]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.24-14.14.22:574][418]LogAudioMixer: Display: 1: FrontRight
+[2021.06.24-14.14.22:588][418]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.24-14.14.22:588][418]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.24-14.14.22:589][418]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.24-14.14.22:589][418]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.24-14.14.22:589][418]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.24-14.14.22:589][418]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.24-14.14.22:589][418]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.24-14.14.22:603][418]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.24-14.14.22:603][418]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.24-14.14.22:603][418]LogInit: FAudioDevice initialized.
+[2021.06.24-14.14.22:603][418]LogAudio: Display: Audio Device (ID: 131) registered with world 'MainMenu'.
+[2021.06.24-14.14.22:642][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-14.14.22:642][418]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.24-14.14.22:644][418]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.24-22.14.22
+[2021.06.24-14.14.22:645][418]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.24-14.14.22:645][418]LogWorld: Bringing up level for play took: 0.002002
+[2021.06.24-14.14.22:645][418]LogOnline: OSS: Creating online subsystem instance for: :Context_190
+[2021.06.24-14.14.22:647][418]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.24-14.14.22:648][418]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.24-14.14.22:648][418]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.24-14.14.22:654][418]PIE: Server logged in
+[2021.06.24-14.14.22:655][418]PIE: Play in editor total start time 0.14 seconds.
+[2021.06.24-14.14.22:655][418]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_MainMenu
+[2021.06.24-14.14.22:667][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011669s)
+[2021.06.24-14.14.22:668][418]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.24-14.14.22:668][418]LogPlayLevel: PIE: World Init took: (0.001260s)
+[2021.06.24-14.14.22:668][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_1_MainMenu.MainMenu (0.013089s)
+[2021.06.24-14.14.22:711][418]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.06.24-14.14.22:711][418]LogAudio: Display: Creating Audio Device:                 Id: 132, Scope: Unique, Realtime: True
+[2021.06.24-14.14.22:711][418]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.24-14.14.22:711][418]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.24-14.14.22:711][418]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.24-14.14.22:711][418]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.24-14.14.22:711][418]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.24-14.14.22:711][418]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.24-14.14.22:711][418]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.24-14.14.22:711][418]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.24-14.14.22:712][418]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.24-14.14.22:712][418]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.24-14.14.22:714][418]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.24-14.14.22:714][418]LogAudioMixer: Display: 1: FrontRight
+[2021.06.24-14.14.22:725][418]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.24-14.14.22:725][418]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.24-14.14.22:726][418]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.24-14.14.22:726][418]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.24-14.14.22:726][418]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.24-14.14.22:726][418]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.24-14.14.22:726][418]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.24-14.14.22:742][418]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.24-14.14.22:742][418]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.24-14.14.22:742][418]LogInit: FAudioDevice initialized.
+[2021.06.24-14.14.22:742][418]LogAudio: Display: Audio Device (ID: 132) registered with world 'MainMenu'.
+[2021.06.24-14.14.22:783][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-14.14.22:783][418]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.24-14.14.22:786][418]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.24-22.14.22
+[2021.06.24-14.14.22:787][418]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.24-14.14.22:787][418]LogWorld: Bringing up level for play took: 0.002760
+[2021.06.24-14.14.22:787][418]LogOnline: OSS: Creating online subsystem instance for: :Context_191
+[2021.06.24-14.14.22:789][418]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.24-14.14.22:789][418]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.24-14.14.22:789][418]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.24-14.14.22:792][418]PIE: Server logged in
+[2021.06.24-14.14.22:793][418]PIE: Play in editor total start time 0.278 seconds.
+[2021.06.24-14.15.15:202][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-14.15.15:204][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-14.15.15:204][827]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MainMenu
+[2021.06.24-14.15.15:204][827]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.24-14.15.15:230][827]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-14.15.15:231][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-14.15.15:244][827]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-14.15.15:244][827]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.24-14.15.15:255][827]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-14.15.15:255][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-14.15.15:262][827]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.24-14.15.15:270][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-14.15.15:312][827]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.24-14.15.15:312][827]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.24-14.15.15:312][827]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-14.15.15:313][827]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-14.15.15:333][827]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-14.15.15:334][827]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-14.15.15:361][827]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.06.24-14.15.15:386][828]LogPlayLevel: Display: Destroying online subsystem :Context_191
+[2021.06.24-14.15.15:386][828]LogPlayLevel: Display: Destroying online subsystem :Context_190
+[2021.06.24-14.16.05:107][783]BlueprintLog: New page: Compile HostMenu
+[2021.06.24-14.16.05:169][783]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.06.24-14.16.05:862][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/HostMenu" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/HostMenu.uasset" SILENT=true
+[2021.06.24-14.16.05:920][818]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/HostMenu22B983054211A578B2420CB2E1EFC05B.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/HostMenu.uasset'
+[2021.06.24-14.16.05:936][818]AssetCheck: New page: Asset Save: HostMenu
+[2021.06.24-14.16.05:937][818]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/HostMenu.HostMenu
+[2021.06.24-14.16.24:823][672]BlueprintLog: New page: Compile HostMenu
+[2021.06.24-14.16.24:904][672]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2021.06.24-14.16.25:319][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/HostMenu" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/HostMenu.uasset" SILENT=true
+[2021.06.24-14.16.25:374][691]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/HostMenuD94BF8CE464C5303515EC4BE58A8B06A.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/HostMenu.uasset'
+[2021.06.24-14.16.25:394][691]AssetCheck: New page: Asset Save: HostMenu
+[2021.06.24-14.16.25:394][691]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/HostMenu.HostMenu
+[2021.06.24-14.16.53:368][288]LogSlate: Window 'Color Picker' being destroyed
+[2021.06.24-14.17.01:529][774]BlueprintLog: New page: Compile MainMenu
+[2021.06.24-14.17.01:587][774]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2021.06.24-14.17.02:004][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/MainMenu" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/MainMenu.uasset" SILENT=true
+[2021.06.24-14.17.02:025][795]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/MainMenuB43559B3486400F8D538868DF0095CC0.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/MainMenu.uasset'
+[2021.06.24-14.17.02:044][795]AssetCheck: New page: Asset Save: MainMenu
+[2021.06.24-14.17.02:044][795]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/MainMenu.MainMenu
+[2021.06.24-14.17.02:595][826]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.24-14.17.02:604][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.24-14.17.02:604][826]PIE: New page: PIE session: MainMenu (Jun 25, 2021, 6:17:02 AM)
+[2021.06.24-14.17.02:604][826]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-14.17.02:613][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008877s)
+[2021.06.24-14.17.02:614][826]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.24-14.17.02:614][826]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2021.06.24-14.17.02:614][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.010008s)
+[2021.06.24-14.17.02:657][826]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.06.24-14.17.02:658][826]LogAudio: Display: Creating Audio Device:                 Id: 133, Scope: Unique, Realtime: True
+[2021.06.24-14.17.02:658][826]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.24-14.17.02:658][826]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.24-14.17.02:658][826]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.24-14.17.02:658][826]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.24-14.17.02:658][826]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.24-14.17.02:658][826]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.24-14.17.02:658][826]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.24-14.17.02:658][826]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.24-14.17.02:658][826]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.24-14.17.02:658][826]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.24-14.17.02:661][826]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.24-14.17.02:661][826]LogAudioMixer: Display: 1: FrontRight
+[2021.06.24-14.17.02:676][826]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.24-14.17.02:676][826]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.24-14.17.02:676][826]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.24-14.17.02:676][826]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.24-14.17.02:677][826]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.24-14.17.02:677][826]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.24-14.17.02:677][826]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.24-14.17.02:692][826]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.24-14.17.02:692][826]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.24-14.17.02:692][826]LogInit: FAudioDevice initialized.
+[2021.06.24-14.17.02:692][826]LogAudio: Display: Audio Device (ID: 133) registered with world 'MainMenu'.
+[2021.06.24-14.17.02:733][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-14.17.02:734][826]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.24-14.17.02:736][826]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.24-22.17.02
+[2021.06.24-14.17.02:736][826]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.24-14.17.02:736][826]LogWorld: Bringing up level for play took: 0.001888
+[2021.06.24-14.17.02:737][826]LogOnline: OSS: Creating online subsystem instance for: :Context_192
+[2021.06.24-14.17.02:738][826]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.24-14.17.02:739][826]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.24-14.17.02:739][826]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.24-14.17.02:743][826]PIE: Server logged in
+[2021.06.24-14.17.02:746][826]PIE: Play in editor total start time 0.143 seconds.
+[2021.06.24-14.17.02:746][826]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_MainMenu
+[2021.06.24-14.17.02:756][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009623s)
+[2021.06.24-14.17.02:757][826]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.24-14.17.02:757][826]LogPlayLevel: PIE: World Init took: (0.001123s)
+[2021.06.24-14.17.02:757][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_1_MainMenu.MainMenu (0.010904s)
+[2021.06.24-14.17.02:799][826]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.06.24-14.17.02:800][826]LogAudio: Display: Creating Audio Device:                 Id: 134, Scope: Unique, Realtime: True
+[2021.06.24-14.17.02:800][826]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.24-14.17.02:800][826]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.24-14.17.02:800][826]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.24-14.17.02:800][826]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.24-14.17.02:800][826]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.24-14.17.02:800][826]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.24-14.17.02:800][826]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.24-14.17.02:800][826]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.24-14.17.02:801][826]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.24-14.17.02:801][826]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.24-14.17.02:804][826]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.24-14.17.02:804][826]LogAudioMixer: Display: 1: FrontRight
+[2021.06.24-14.17.02:815][826]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.24-14.17.02:816][826]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.24-14.17.02:816][826]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.24-14.17.02:816][826]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.24-14.17.02:816][826]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.24-14.17.02:816][826]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.24-14.17.02:816][826]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.24-14.17.02:832][826]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.24-14.17.02:832][826]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.24-14.17.02:832][826]LogInit: FAudioDevice initialized.
+[2021.06.24-14.17.02:832][826]LogAudio: Display: Audio Device (ID: 134) registered with world 'MainMenu'.
+[2021.06.24-14.17.02:876][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-14.17.02:876][826]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.24-14.17.02:878][826]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.24-22.17.02
+[2021.06.24-14.17.02:878][826]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.24-14.17.02:879][826]LogWorld: Bringing up level for play took: 0.001717
+[2021.06.24-14.17.02:879][826]LogOnline: OSS: Creating online subsystem instance for: :Context_193
+[2021.06.24-14.17.02:881][826]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.24-14.17.02:881][826]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.24-14.17.02:881][826]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.24-14.17.02:883][826]PIE: Server logged in
+[2021.06.24-14.17.02:884][826]PIE: Play in editor total start time 0.281 seconds.
+[2021.06.24-14.17.09:615][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-14.17.09:616][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-14.17.09:616][145]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MainMenu
+[2021.06.24-14.17.09:617][145]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.24-14.17.09:636][145]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-14.17.09:637][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-14.17.09:650][145]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-14.17.09:650][145]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.24-14.17.09:658][145]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-14.17.09:658][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-14.17.09:669][145]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.24-14.17.09:675][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-14.17.09:712][145]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.24-14.17.09:712][145]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.24-14.17.09:712][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-14.17.09:713][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-14.17.09:734][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-14.17.09:735][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-14.17.09:756][145]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.06.24-14.17.09:778][146]LogPlayLevel: Display: Destroying online subsystem :Context_193
+[2021.06.24-14.17.09:778][146]LogPlayLevel: Display: Destroying online subsystem :Context_192
+[2021.06.24-14.17.25:905][996]BlueprintLog: New page: Compile MainMenu
+[2021.06.24-14.17.25:964][996]LogUObjectHash: Compacting FUObjectHashTables data took   6.68ms
+[2021.06.24-14.17.26:327][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/MainMenu" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/MainMenu.uasset" SILENT=true
+[2021.06.24-14.17.26:347][ 10]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/MainMenuB308BFA34BB199FB71D4B0A9CA72198D.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/MainMenu.uasset'
+[2021.06.24-14.17.26:366][ 10]AssetCheck: New page: Asset Save: MainMenu
+[2021.06.24-14.17.26:366][ 10]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/MainMenu.MainMenu
