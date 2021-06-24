@@ -4261,3 +4261,1120 @@ Sky Sphere
 [2021.06.24-11.44.49:689][992]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.06.24-11.44.49:711][992]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
 [2021.06.24-11.44.49:732][993]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2021.06.24-11.47.00:170][530]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2021.06.24-11.47.02:842][676]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.24-11.47.02:849][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.24-11.47.02:850][676]PIE: New page: PIE session: MainMenu (Jun 25, 2021, 3:47:02 AM)
+[2021.06.24-11.47.02:850][676]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-11.47.02:858][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008290s)
+[2021.06.24-11.47.02:859][676]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.24-11.47.02:859][676]LogPlayLevel: PIE: World Init took: (0.000987s)
+[2021.06.24-11.47.02:859][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.009395s)
+[2021.06.24-11.47.02:879][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.06.24-11.47.02:880][676]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2021.06.24-11.47.02:881][676]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.24-11.47.02:881][676]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.24-11.47.02:881][676]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.24-11.47.02:881][676]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.24-11.47.02:881][676]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.24-11.47.02:881][676]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.24-11.47.02:881][676]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.24-11.47.02:881][676]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.24-11.47.02:881][676]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.24-11.47.02:881][676]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.24-11.47.02:884][676]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.24-11.47.02:884][676]LogAudioMixer: Display: 1: FrontRight
+[2021.06.24-11.47.02:898][676]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.24-11.47.02:898][676]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.24-11.47.02:898][676]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.24-11.47.02:898][676]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.24-11.47.02:898][676]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.24-11.47.02:898][676]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.24-11.47.02:899][676]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.24-11.47.02:899][676]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.24-11.47.02:899][676]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.24-11.47.02:899][676]LogInit: FAudioDevice initialized.
+[2021.06.24-11.47.02:899][676]LogAudio: Display: Audio Device (ID: 31) registered with world 'MainMenu'.
+[2021.06.24-11.47.02:929][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-11.47.02:930][676]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.24-11.47.02:932][676]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.24-19.47.02
+[2021.06.24-11.47.02:932][676]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.24-11.47.02:932][676]LogWorld: Bringing up level for play took: 0.001755
+[2021.06.24-11.47.02:933][676]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2021.06.24-11.47.02:934][676]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.24-11.47.02:934][676]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.24-11.47.02:937][676]PIE: Server logged in
+[2021.06.24-11.47.02:938][676]PIE: Play in editor total start time 0.09 seconds.
+[2021.06.24-11.47.11:690][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-11.47.11:691][159]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-11.47.11:692][159]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.24-11.47.11:736][159]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-11.47.11:736][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-11.47.11:743][159]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.24-11.47.11:753][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-11.47.11:773][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-11.47.11:774][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-11.47.11:793][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.06.24-11.47.11:813][160]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2021.06.24-11.47.16:821][455]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu/MainMenu.MainMenu
+[2021.06.24-11.53.41:831][490]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2021.06.24-11.53.53:860][859]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\arrowSilver_left.png)
+[2021.06.24-11.53.53:867][859]LogTexture: Display: Building textures: arrowSilver_left (BGRA8, 22X21)
+[2021.06.24-11.53.56:571][999]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\arrowSilver_right.png)
+[2021.06.24-11.53.56:576][999]LogTexture: Display: Building textures: arrowSilver_right (BGRA8, 22X21)
+[2021.06.24-11.54.25:685][653]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.06.24-11.54.25:749][653]LogContentBrowser: Creating deferred item: NewFolder
+[2021.06.24-11.54.28:788][836]LogContentBrowser: Attempting asset rename: NewFolder -> Kenny
+[2021.06.24-11.54.28:794][836]LogContentBrowser: End creating deferred item NewFolder
+[2021.06.24-11.54.36:889][301]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\buttonLong_beige.png)
+[2021.06.24-11.54.36:893][301]LogTexture: Display: Building textures: buttonLong_beige (BGRA8, 190X49)
+[2021.06.24-11.54.39:064][410]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\buttonLong_beige_pressed.png)
+[2021.06.24-11.54.39:068][410]LogTexture: Display: Building textures: buttonLong_beige_pressed (BGRA8, 190X45)
+[2021.06.24-11.54.40:757][490]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\buttonLong_blue.png)
+[2021.06.24-11.54.40:761][490]LogTexture: Display: Building textures: buttonLong_blue (BGRA8, 190X49)
+[2021.06.24-11.54.42:947][600]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\buttonLong_blue_pressed.png)
+[2021.06.24-11.54.42:951][600]LogTexture: Display: Building textures: buttonLong_blue_pressed (BGRA8, 190X45)
+[2021.06.24-11.54.54:436][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\buttonRound_brown.png)
+[2021.06.24-11.54.54:440][765]LogTexture: Display: Building textures: buttonRound_brown (BGRA8, 35X38)
+[2021.06.24-11.54.54:445][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\buttonRound_grey.png)
+[2021.06.24-11.54.54:449][765]LogTexture: Display: Building textures: buttonRound_grey (BGRA8, 35X38)
+[2021.06.24-11.54.54:453][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\buttonSquare_beige.png)
+[2021.06.24-11.54.54:458][765]LogTexture: Display: Building textures: buttonSquare_beige (BGRA8, 45X49)
+[2021.06.24-11.54.54:463][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\buttonSquare_beige_pressed.png)
+[2021.06.24-11.54.54:467][765]LogTexture: Display: Building textures: buttonSquare_beige_pressed (BGRA8, 45X45)
+[2021.06.24-11.54.54:472][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\buttonSquare_blue.png)
+[2021.06.24-11.54.54:476][765]LogTexture: Display: Building textures: buttonSquare_blue (BGRA8, 45X49)
+[2021.06.24-11.54.54:481][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\buttonSquare_blue_pressed.png)
+[2021.06.24-11.54.54:485][765]LogTexture: Display: Building textures: buttonSquare_blue_pressed (BGRA8, 45X45)
+[2021.06.24-11.54.54:490][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\buttonSquare_brown.png)
+[2021.06.24-11.54.54:494][765]LogTexture: Display: Building textures: buttonSquare_brown (BGRA8, 45X49)
+[2021.06.24-11.54.54:499][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\buttonSquare_brown_pressed.png)
+[2021.06.24-11.54.54:503][765]LogTexture: Display: Building textures: buttonSquare_brown_pressed (BGRA8, 45X45)
+[2021.06.24-11.54.54:508][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\buttonSquare_grey.png)
+[2021.06.24-11.54.54:512][765]LogTexture: Display: Building textures: buttonSquare_grey (BGRA8, 45X49)
+[2021.06.24-11.54.54:517][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\buttonSquare_grey_pressed.png)
+[2021.06.24-11.54.54:521][765]LogTexture: Display: Building textures: buttonSquare_grey_pressed (BGRA8, 45X45)
+[2021.06.24-11.54.54:525][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\cursorGauntlet_blue.png)
+[2021.06.24-11.54.54:530][765]LogTexture: Display: Building textures: cursorGauntlet_blue (BGRA8, 30X30)
+[2021.06.24-11.54.54:534][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\cursorGauntlet_bronze.png)
+[2021.06.24-11.54.54:538][765]LogTexture: Display: Building textures: cursorGauntlet_bronze (BGRA8, 30X30)
+[2021.06.24-11.54.54:543][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\cursorGauntlet_grey.png)
+[2021.06.24-11.54.54:547][765]LogTexture: Display: Building textures: cursorGauntlet_grey (BGRA8, 30X30)
+[2021.06.24-11.54.54:552][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\cursorHand_beige.png)
+[2021.06.24-11.54.54:556][765]LogTexture: Display: Building textures: cursorHand_beige (BGRA8, 27X28)
+[2021.06.24-11.54.54:561][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\cursorHand_blue.png)
+[2021.06.24-11.54.54:565][765]LogTexture: Display: Building textures: cursorHand_blue (BGRA8, 27X28)
+[2021.06.24-11.54.54:570][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\cursorHand_grey.png)
+[2021.06.24-11.54.54:574][765]LogTexture: Display: Building textures: cursorHand_grey (BGRA8, 27X28)
+[2021.06.24-11.54.54:579][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\cursorSword_bronze.png)
+[2021.06.24-11.54.54:583][765]LogTexture: Display: Building textures: cursorSword_bronze (BGRA8, 34X37)
+[2021.06.24-11.54.54:588][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\cursorSword_gold.png)
+[2021.06.24-11.54.54:592][765]LogTexture: Display: Building textures: cursorSword_gold (BGRA8, 34X37)
+[2021.06.24-11.54.54:597][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\cursorSword_silver.png)
+[2021.06.24-11.54.54:601][765]LogTexture: Display: Building textures: cursorSword_silver (BGRA8, 34X37)
+[2021.06.24-11.54.54:605][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\iconCheck_beige.png)
+[2021.06.24-11.54.54:609][765]LogTexture: Display: Building textures: iconCheck_beige (BGRA8, 16X15)
+[2021.06.24-11.54.54:614][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\iconCheck_blue.png)
+[2021.06.24-11.54.54:618][765]LogTexture: Display: Building textures: iconCheck_blue (BGRA8, 16X15)
+[2021.06.24-11.54.54:622][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\iconCheck_bronze.png)
+[2021.06.24-11.54.54:626][765]LogTexture: Display: Building textures: iconCheck_bronze (BGRA8, 16X15)
+[2021.06.24-11.54.54:631][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\iconCheck_grey.png)
+[2021.06.24-11.54.54:635][765]LogTexture: Display: Building textures: iconCheck_grey (BGRA8, 16X15)
+[2021.06.24-11.54.54:641][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\iconCircle_beige.png)
+[2021.06.24-11.54.54:645][765]LogTexture: Display: Building textures: iconCircle_beige (BGRA8, 17X17)
+[2021.06.24-11.54.54:649][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\iconCircle_blue.png)
+[2021.06.24-11.54.54:653][765]LogTexture: Display: Building textures: iconCircle_blue (BGRA8, 17X17)
+[2021.06.24-11.54.54:657][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\iconCircle_brown.png)
+[2021.06.24-11.54.54:661][765]LogTexture: Display: Building textures: iconCircle_brown (BGRA8, 17X17)
+[2021.06.24-11.54.54:665][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\iconCircle_grey.png)
+[2021.06.24-11.54.54:670][765]LogTexture: Display: Building textures: iconCircle_grey (BGRA8, 17X17)
+[2021.06.24-11.54.54:673][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\iconCross_beige.png)
+[2021.06.24-11.54.54:677][765]LogTexture: Display: Building textures: iconCross_beige (BGRA8, 16X15)
+[2021.06.24-11.54.54:682][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\iconCross_blue.png)
+[2021.06.24-11.54.54:686][765]LogTexture: Display: Building textures: iconCross_blue (BGRA8, 16X15)
+[2021.06.24-11.54.54:690][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\iconCross_brown.png)
+[2021.06.24-11.54.54:694][765]LogTexture: Display: Building textures: iconCross_brown (BGRA8, 16X15)
+[2021.06.24-11.54.54:699][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\iconCross_grey.png)
+[2021.06.24-11.54.54:702][765]LogTexture: Display: Building textures: iconCross_grey (BGRA8, 16X15)
+[2021.06.24-11.54.54:707][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\panel_beige.png)
+[2021.06.24-11.54.54:711][765]LogTexture: Display: Building textures: panel_beige (AutoDXT, 100X100)
+[2021.06.24-11.54.54:719][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\panel_beigeLight.png)
+[2021.06.24-11.54.54:724][765]LogTexture: Display: Building textures: panel_beigeLight (AutoDXT, 100X100)
+[2021.06.24-11.54.54:730][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\panel_blue.png)
+[2021.06.24-11.54.54:734][765]LogTexture: Display: Building textures: panel_blue (AutoDXT, 100X100)
+[2021.06.24-11.54.54:741][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\panel_brown.png)
+[2021.06.24-11.54.54:745][765]LogTexture: Display: Building textures: panel_brown (AutoDXT, 100X100)
+[2021.06.24-11.54.54:752][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\panelInset_beige.png)
+[2021.06.24-11.54.54:756][765]LogTexture: Display: Building textures: panelInset_beige (BGRA8, 93X94)
+[2021.06.24-11.54.54:761][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\panelInset_beigeLight.png)
+[2021.06.24-11.54.54:765][765]LogTexture: Display: Building textures: panelInset_beigeLight (BGRA8, 93X94)
+[2021.06.24-11.54.54:770][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\panelInset_blue.png)
+[2021.06.24-11.54.54:774][765]LogTexture: Display: Building textures: panelInset_blue (BGRA8, 93X94)
+[2021.06.24-11.54.54:779][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\panelInset_brown.png)
+[2021.06.24-11.54.54:784][765]LogTexture: Display: Building textures: panelInset_brown (BGRA8, 93X94)
+[2021.06.24-11.55.07:346][153]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\buttonRound_blue.png)
+[2021.06.24-11.55.07:350][153]LogTexture: Display: Building textures: buttonRound_blue (BGRA8, 35X38)
+[2021.06.24-11.55.07:355][153]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\buttonLong_brown.png)
+[2021.06.24-11.55.07:359][153]LogTexture: Display: Building textures: buttonLong_brown (BGRA8, 190X49)
+[2021.06.24-11.55.07:364][153]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\buttonLong_brown_pressed.png)
+[2021.06.24-11.55.07:369][153]LogTexture: Display: Building textures: buttonLong_brown_pressed (BGRA8, 190X45)
+[2021.06.24-11.55.07:374][153]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\buttonLong_grey.png)
+[2021.06.24-11.55.07:378][153]LogTexture: Display: Building textures: buttonLong_grey (BGRA8, 190X49)
+[2021.06.24-11.55.07:382][153]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\buttonLong_grey_pressed.png)
+[2021.06.24-11.55.07:387][153]LogTexture: Display: Building textures: buttonLong_grey_pressed (BGRA8, 190X45)
+[2021.06.24-11.55.07:392][153]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\uipack-rpg\PNG\buttonRound_beige.png)
+[2021.06.24-11.55.07:396][153]LogTexture: Display: Building textures: buttonRound_beige (BGRA8, 35X38)
+[2021.06.24-11.55.17:086][369]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2021.06.24-11.55.18:801][369]LogSlate: Window 'Save Content' being destroyed
+[2021.06.24-11.55.18:845][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/arrowSilver_leftB4F906C04FEA201CBF471787A53139B0.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Arrows/arrowSilver_left.uasset'
+[2021.06.24-11.55.18:847][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/arrowSilver_rightECF4E6B84EF50A51FEF5FBAB04832797.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Arrows/arrowSilver_right.uasset'
+[2021.06.24-11.55.18:851][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/buttonLong_beigeE5826EAC48426D9C5A5B73AA71651970.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/buttonLong_beige.uasset'
+[2021.06.24-11.55.18:854][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/buttonLong_beige_pressed6CF2F7584F731CAE63C0238B26DDDAE7.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/buttonLong_beige_pressed.uasset'
+[2021.06.24-11.55.18:857][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/buttonLong_blue8A01A66E456465C7BC0D22B765BC11F2.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/buttonLong_blue.uasset'
+[2021.06.24-11.55.18:861][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/buttonLong_blue_pressed78AC618D4B136EBEC98289ACF8001E35.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/buttonLong_blue_pressed.uasset'
+[2021.06.24-11.55.18:864][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/buttonLong_brownC8E418C6462CF3D40BE0D7896A6AB6AA.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/buttonLong_brown.uasset'
+[2021.06.24-11.55.18:868][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/buttonLong_brown_pressed7AF8232041F6468323415E914F0C0A11.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/buttonLong_brown_pressed.uasset'
+[2021.06.24-11.55.18:871][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/buttonLong_greyADCFDA94493CDD3E6EC15CB811703173.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/buttonLong_grey.uasset'
+[2021.06.24-11.55.18:875][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/buttonLong_grey_pressedF5B65988498E7841AE555482C40614BF.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/buttonLong_grey_pressed.uasset'
+[2021.06.24-11.55.18:878][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/buttonRound_beige51CA9F8B48DDC30B15B1AAB6761384FB.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/buttonRound_beige.uasset'
+[2021.06.24-11.55.18:881][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/buttonRound_blueA67F1ECA41C7205021C249A9303B008E.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/buttonRound_blue.uasset'
+[2021.06.24-11.55.18:883][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/buttonRound_brownA32FB2664509D3CBB0FC489FDB75776E.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/buttonRound_brown.uasset'
+[2021.06.24-11.55.18:885][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/buttonRound_grey1EEC24E849EC8C8B8BE53FBE21A09F7A.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/buttonRound_grey.uasset'
+[2021.06.24-11.55.18:888][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/buttonSquare_beigeE76E976F477A07773DDEDA85547B1853.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/buttonSquare_beige.uasset'
+[2021.06.24-11.55.18:892][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/buttonSquare_beige_pressed07CF139B4CBE649386DB18A62CB27821.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/buttonSquare_beige_pressed.uasset'
+[2021.06.24-11.55.18:895][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/buttonSquare_blueB00AF75B4D7282CB959CCD8388652655.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/buttonSquare_blue.uasset'
+[2021.06.24-11.55.18:898][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/buttonSquare_blue_pressed59EA9B4047883E8D39D9219A2A5AD9FE.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/buttonSquare_blue_pressed.uasset'
+[2021.06.24-11.55.18:900][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/buttonSquare_brown8C7819BC401FA78DEBE49C8D0E921A13.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/buttonSquare_brown.uasset'
+[2021.06.24-11.55.18:902][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/buttonSquare_brown_pressed477CE71047BD11F2FB9D979BDD393DCD.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/buttonSquare_brown_pressed.uasset'
+[2021.06.24-11.55.18:905][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/buttonSquare_grey0B2DF04B4E237FF076E16E8F75B754D3.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/buttonSquare_grey.uasset'
+[2021.06.24-11.55.18:908][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/buttonSquare_grey_pressedF02991D64CEFEA89EE5F39BD602F5BEC.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/buttonSquare_grey_pressed.uasset'
+[2021.06.24-11.55.18:910][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/cursorGauntlet_blueCCD3CD2D4DA42F894B0D139B7584146F.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/cursorGauntlet_blue.uasset'
+[2021.06.24-11.55.18:913][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/cursorGauntlet_bronzeD5035CD349B9307DAFCD15AD451A9075.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/cursorGauntlet_bronze.uasset'
+[2021.06.24-11.55.18:915][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/cursorGauntlet_grey316BAD514BC918EE9C8E33BE671855B0.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/cursorGauntlet_grey.uasset'
+[2021.06.24-11.55.18:918][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/cursorHand_beigeCF28C67F4404CA197A676BBCBDFE495F.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/cursorHand_beige.uasset'
+[2021.06.24-11.55.18:920][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/cursorHand_blueA56DA987421AB9C2F5A276B295245900.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/cursorHand_blue.uasset'
+[2021.06.24-11.55.18:922][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/cursorHand_grey9CEA244C4A59D8643D43B2897A4306B6.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/cursorHand_grey.uasset'
+[2021.06.24-11.55.18:925][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/cursorSword_bronze094F1C5F4A44B45F53B5A2911D4D2229.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/cursorSword_bronze.uasset'
+[2021.06.24-11.55.18:928][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/cursorSword_goldC1187EE04E6D93FD54877C81F0047006.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/cursorSword_gold.uasset'
+[2021.06.24-11.55.18:930][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/cursorSword_silver750239BD4B105F1AF135EEB5908098FB.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/cursorSword_silver.uasset'
+[2021.06.24-11.55.18:933][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/iconCheck_beige17BB0DD7473DA9AB22B950A3C6473343.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/iconCheck_beige.uasset'
+[2021.06.24-11.55.18:935][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/iconCheck_blue12EA8536410B7BBBF20B3AB289392751.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/iconCheck_blue.uasset'
+[2021.06.24-11.55.18:937][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/iconCheck_bronzeDBD5B38742EC52E43030EFA195EA4B53.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/iconCheck_bronze.uasset'
+[2021.06.24-11.55.18:940][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/iconCheck_grey69BCA0884B91FE306EB668B86EFAA51F.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/iconCheck_grey.uasset'
+[2021.06.24-11.55.18:942][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/iconCircle_beige685AE8F14554D4A4C64B5B9E019D66C8.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/iconCircle_beige.uasset'
+[2021.06.24-11.55.18:944][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/iconCircle_blue8F4C3CF54E619C0D3677C78BD68B0D0A.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/iconCircle_blue.uasset'
+[2021.06.24-11.55.18:946][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/iconCircle_brown313BB7924785DCDB77D264BF91F6CE30.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/iconCircle_brown.uasset'
+[2021.06.24-11.55.18:949][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/iconCircle_grey7420A31542EBDE4237A8FDBECD0E2A0D.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/iconCircle_grey.uasset'
+[2021.06.24-11.55.18:951][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/iconCross_beigeCF0B33524B355E3BFBE9268EBF330F56.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/iconCross_beige.uasset'
+[2021.06.24-11.55.18:953][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/iconCross_blue0620497D4BFA98C95A5FF39154D75690.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/iconCross_blue.uasset'
+[2021.06.24-11.55.18:955][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/iconCross_brownB574F36B48CD08C736151C8F100CA30F.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/iconCross_brown.uasset'
+[2021.06.24-11.55.18:958][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/iconCross_grey7E4F3DDB4BCDAA75BEDD34886331D5BE.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/iconCross_grey.uasset'
+[2021.06.24-11.55.18:961][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/panel_beige31814DAB4EBC51F410E89EA4F95A179A.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/panel_beige.uasset'
+[2021.06.24-11.55.18:964][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/panel_beigeLight5C72DB8943D79A7E5F359D8170CD3A80.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/panel_beigeLight.uasset'
+[2021.06.24-11.55.18:968][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/panel_blue26BACC514CABB321ECEA97AC66EB1EE8.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/panel_blue.uasset'
+[2021.06.24-11.55.18:971][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/panel_brownF4EA54744E9BD02D2E9284824EABD211.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/panel_brown.uasset'
+[2021.06.24-11.55.18:974][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/panelInset_beige006EEF7046A7A6A3491203A68E99A355.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/panelInset_beige.uasset'
+[2021.06.24-11.55.18:978][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/panelInset_beigeLight68E09FAB4AAEBFE973EFD897B08C52F4.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/panelInset_beigeLight.uasset'
+[2021.06.24-11.55.18:981][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/panelInset_blueECFBE57E4FD5FCAB7316449441C3712E.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/panelInset_blue.uasset'
+[2021.06.24-11.55.18:985][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/panelInset_brownF83B507E4D3948CEF43FB68E2BB9BC09.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/panelInset_brown.uasset'
+[2021.06.24-11.55.18:986][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AllLevels/TOPD_GameMode" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Blueprints/AllLevels/TOPD_GameMode.uasset" SILENT=true
+[2021.06.24-11.55.18:989][369]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/TOPD_GameModeC1580BD644917D9376DB95B147EC7E36.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Blueprints/AllLevels/TOPD_GameMode.uasset'
+[2021.06.24-11.55.19:018][369]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.24-11.55.19:018][369]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AllLevels/TOPD_GameMode.TOPD_GameMode
+[2021.06.24-11.55.19:018][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Arrows/arrowSilver_left.arrowSilver_left
+[2021.06.24-11.55.19:018][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Arrows/arrowSilver_right.arrowSilver_right
+[2021.06.24-11.55.19:018][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/buttonLong_beige.buttonLong_beige
+[2021.06.24-11.55.19:018][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/buttonLong_beige_pressed.buttonLong_beige_pressed
+[2021.06.24-11.55.19:018][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/buttonLong_blue.buttonLong_blue
+[2021.06.24-11.55.19:018][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/buttonLong_blue_pressed.buttonLong_blue_pressed
+[2021.06.24-11.55.19:018][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/buttonRound_brown.buttonRound_brown
+[2021.06.24-11.55.19:018][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/buttonRound_grey.buttonRound_grey
+[2021.06.24-11.55.19:018][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/buttonSquare_beige.buttonSquare_beige
+[2021.06.24-11.55.19:018][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/buttonSquare_beige_pressed.buttonSquare_beige_pressed
+[2021.06.24-11.55.19:018][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/buttonSquare_blue.buttonSquare_blue
+[2021.06.24-11.55.19:018][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/buttonSquare_blue_pressed.buttonSquare_blue_pressed
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/buttonSquare_brown.buttonSquare_brown
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/buttonSquare_brown_pressed.buttonSquare_brown_pressed
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/buttonSquare_grey.buttonSquare_grey
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/buttonSquare_grey_pressed.buttonSquare_grey_pressed
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/cursorGauntlet_blue.cursorGauntlet_blue
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/cursorGauntlet_bronze.cursorGauntlet_bronze
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/cursorGauntlet_grey.cursorGauntlet_grey
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/cursorHand_beige.cursorHand_beige
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/cursorHand_blue.cursorHand_blue
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/cursorHand_grey.cursorHand_grey
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/cursorSword_bronze.cursorSword_bronze
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/cursorSword_gold.cursorSword_gold
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/cursorSword_silver.cursorSword_silver
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/iconCheck_beige.iconCheck_beige
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/iconCheck_blue.iconCheck_blue
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/iconCheck_bronze.iconCheck_bronze
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/iconCheck_grey.iconCheck_grey
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/iconCircle_beige.iconCircle_beige
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/iconCircle_blue.iconCircle_blue
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/iconCircle_brown.iconCircle_brown
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/iconCircle_grey.iconCircle_grey
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/iconCross_beige.iconCross_beige
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/iconCross_blue.iconCross_blue
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/iconCross_brown.iconCross_brown
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/iconCross_grey.iconCross_grey
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/panel_beige.panel_beige
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/panel_beigeLight.panel_beigeLight
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/panel_blue.panel_blue
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/panel_brown.panel_brown
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/panelInset_beige.panelInset_beige
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/panelInset_beigeLight.panelInset_beigeLight
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/panelInset_blue.panelInset_blue
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/panelInset_brown.panelInset_brown
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/buttonRound_blue.buttonRound_blue
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/buttonLong_brown.buttonLong_brown
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/buttonLong_brown_pressed.buttonLong_brown_pressed
+[2021.06.24-11.55.19:019][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/buttonLong_grey.buttonLong_grey
+[2021.06.24-11.55.19:020][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/buttonLong_grey_pressed.buttonLong_grey_pressed
+[2021.06.24-11.55.19:020][369]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Kenny/buttonRound_beige.buttonRound_beige
+[2021.06.24-11.55.21:298][497]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserInterface/Kenny/cursorSword_silver.cursorSword_silver
+[2021.06.24-11.55.21:309][497]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.06.24-11.55.23:609][593]LogSlate: Window 'cursorSword_silver' being destroyed
+[2021.06.24-11.55.32:495][ 80]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.06.24-11.56.54:663][887]Cmd: TRANSACTION UNDO
+[2021.06.24-11.56.54:663][887]LogEditorTransaction: Undo Add Child
+[2021.06.24-11.56.55:693][934]Cmd: TRANSACTION UNDO
+[2021.06.24-11.56.55:694][934]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.24-11.58.47:432][  6]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.24-11.59.11:133][392]LogSlate: Window 'Project Settings' being destroyed
+[2021.06.24-11.59.11:144][392]LogSlate: Window 'Project Settings' being destroyed
+[2021.06.24-11.59.12:150][449]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.24-11.59.12:159][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.24-11.59.12:159][449]PIE: New page: PIE session: MainMenu (Jun 25, 2021, 3:59:12 AM)
+[2021.06.24-11.59.12:159][449]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-11.59.12:173][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014294s)
+[2021.06.24-11.59.12:174][449]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.24-11.59.12:175][449]LogPlayLevel: PIE: World Init took: (0.001556s)
+[2021.06.24-11.59.12:175][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.015992s)
+[2021.06.24-11.59.12:296][449]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2021.06.24-11.59.12:301][449]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2021.06.24-11.59.12:301][449]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.24-11.59.12:301][449]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.24-11.59.12:301][449]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.24-11.59.12:301][449]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.24-11.59.12:301][449]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.24-11.59.12:301][449]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.24-11.59.12:301][449]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.24-11.59.12:301][449]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.24-11.59.12:301][449]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.24-11.59.12:301][449]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.24-11.59.12:304][449]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.24-11.59.12:304][449]LogAudioMixer: Display: 1: FrontRight
+[2021.06.24-11.59.12:319][449]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.24-11.59.12:319][449]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.24-11.59.12:319][449]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.24-11.59.12:319][449]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.24-11.59.12:319][449]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.24-11.59.12:319][449]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.24-11.59.12:319][449]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.24-11.59.12:333][449]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.24-11.59.12:333][449]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.24-11.59.12:333][449]LogInit: FAudioDevice initialized.
+[2021.06.24-11.59.12:333][449]LogAudio: Display: Audio Device (ID: 32) registered with world 'MainMenu'.
+[2021.06.24-11.59.12:364][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-11.59.12:364][449]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.24-11.59.12:367][449]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.24-19.59.12
+[2021.06.24-11.59.12:367][449]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.24-11.59.12:367][449]LogWorld: Bringing up level for play took: 0.002065
+[2021.06.24-11.59.12:368][449]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2021.06.24-11.59.12:369][449]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.24-11.59.12:369][449]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.24-11.59.12:372][449]PIE: Server logged in
+[2021.06.24-11.59.12:373][449]PIE: Play in editor total start time 0.216 seconds.
+[2021.06.24-11.59.14:246][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-11.59.14:246][546]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-11.59.14:246][546]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.24-11.59.14:261][546]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-11.59.14:262][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-11.59.14:273][546]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.24-11.59.14:279][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-11.59.14:317][546]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-11.59.14:318][546]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-11.59.14:357][546]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2021.06.24-11.59.14:378][547]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2021.06.24-12.01.47:467][587]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserInterface/Kenny/cursorHand_grey.cursorHand_grey
+[2021.06.24-12.01.53:291][886]LogSlate: Window 'cursorHand_grey' being destroyed
+[2021.06.24-12.02.14:667][138]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserInterface/Kenny/cursorHand_grey.cursorHand_grey
+[2021.06.24-12.02.17:750][290]LogSlate: Window 'cursorHand_grey' being destroyed
+[2021.06.24-12.03.15:998][ 27]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserInterface/Kenny/cursorHand_grey.cursorHand_grey
+[2021.06.24-12.03.17:720][110]LogSlate: Window 'cursorHand_grey' being destroyed
+[2021.06.24-12.03.22:713][380]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.06.24-12.04.10:494][215]LogSlate: Window 'Project Settings' being destroyed
+[2021.06.24-12.04.10:504][215]LogSlate: Window 'Project Settings' being destroyed
+[2021.06.24-12.04.11:117][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.24-12.04.11:150][247]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.06.24-12.04.11:194][247]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/MainMenu694E7CF84CA0475F2D61C8B2D90B81C7.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Maps/MainMenu.umap'
+[2021.06.24-12.04.11:204][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu_BuiltData" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Maps/MainMenu_BuiltData.uasset" SILENT=true
+[2021.06.24-12.04.11:205][247]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/MainMenu_BuiltDataA97BE7B04EE6B96908521D9794A92AC3.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Maps/MainMenu_BuiltData.uasset'
+[2021.06.24-12.04.11:226][247]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.24-12.04.11:226][247]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2021.06.24-12.04.11:226][247]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMenu_BuiltData.MainMenu_BuiltData
+[2021.06.24-12.04.11:904][287]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.24-12.04.11:912][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.24-12.04.11:913][287]PIE: New page: PIE session: MainMenu (Jun 25, 2021, 4:04:11 AM)
+[2021.06.24-12.04.11:913][287]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-12.04.11:922][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009022s)
+[2021.06.24-12.04.11:923][287]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.24-12.04.11:923][287]LogPlayLevel: PIE: World Init took: (0.001171s)
+[2021.06.24-12.04.11:923][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.010323s)
+[2021.06.24-12.04.11:952][287]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.06.24-12.04.11:952][287]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2021.06.24-12.04.11:952][287]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.24-12.04.11:952][287]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.24-12.04.11:952][287]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.24-12.04.11:952][287]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.24-12.04.11:952][287]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.24-12.04.11:952][287]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.24-12.04.11:952][287]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.24-12.04.11:952][287]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.24-12.04.11:953][287]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.24-12.04.11:953][287]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.24-12.04.11:956][287]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.24-12.04.11:956][287]LogAudioMixer: Display: 1: FrontRight
+[2021.06.24-12.04.11:972][287]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.24-12.04.11:972][287]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.24-12.04.11:972][287]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.24-12.04.11:973][287]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.24-12.04.11:973][287]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.24-12.04.11:973][287]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.24-12.04.11:973][287]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.24-12.04.11:987][287]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.24-12.04.11:987][287]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.24-12.04.11:987][287]LogInit: FAudioDevice initialized.
+[2021.06.24-12.04.11:987][287]LogAudio: Display: Audio Device (ID: 33) registered with world 'MainMenu'.
+[2021.06.24-12.04.11:987][287]LogInit: Error: Failed to load cursor '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/cursorHand_grey.png'
+[2021.06.24-12.04.12:019][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-12.04.12:019][287]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.24-12.04.12:022][287]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.24-20.04.12
+[2021.06.24-12.04.12:022][287]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.24-12.04.12:022][287]LogWorld: Bringing up level for play took: 0.001972
+[2021.06.24-12.04.12:022][287]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2021.06.24-12.04.12:024][287]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.24-12.04.12:024][287]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.24-12.04.12:030][287]PIE: Server logged in
+[2021.06.24-12.04.12:032][287]PIE: Play in editor total start time 0.12 seconds.
+[2021.06.24-12.04.14:163][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-12.04.14:163][395]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-12.04.14:163][395]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.24-12.04.14:182][395]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-12.04.14:183][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.04.14:190][395]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.24-12.04.14:196][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.04.14:225][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-12.04.14:226][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-12.04.14:250][395]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.06.24-12.04.14:274][396]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2021.06.24-12.04.24:623][  9]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserInterface/Kenny/cursorHand_grey.cursorHand_grey
+[2021.06.24-12.04.32:187][427]LogSlate: Window 'cursorHand_grey' being destroyed
+[2021.06.24-12.04.36:778][691]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.24-12.04.36:785][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.24-12.04.36:786][691]PIE: New page: PIE session: MainMenu (Jun 25, 2021, 4:04:36 AM)
+[2021.06.24-12.04.36:786][691]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-12.04.36:794][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008168s)
+[2021.06.24-12.04.36:795][691]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.24-12.04.36:795][691]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2021.06.24-12.04.36:795][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.009252s)
+[2021.06.24-12.04.36:824][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.06.24-12.04.36:827][691]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2021.06.24-12.04.36:827][691]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.24-12.04.36:827][691]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.24-12.04.36:827][691]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.24-12.04.36:827][691]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.24-12.04.36:827][691]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.24-12.04.36:827][691]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.24-12.04.36:827][691]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.24-12.04.36:827][691]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.24-12.04.36:827][691]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.24-12.04.36:827][691]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.24-12.04.36:830][691]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.24-12.04.36:830][691]LogAudioMixer: Display: 1: FrontRight
+[2021.06.24-12.04.36:844][691]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.24-12.04.36:844][691]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.24-12.04.36:844][691]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.24-12.04.36:844][691]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.24-12.04.36:844][691]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.24-12.04.36:844][691]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.24-12.04.36:844][691]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.24-12.04.36:845][691]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.24-12.04.36:845][691]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.24-12.04.36:845][691]LogInit: FAudioDevice initialized.
+[2021.06.24-12.04.36:845][691]LogAudio: Display: Audio Device (ID: 34) registered with world 'MainMenu'.
+[2021.06.24-12.04.36:846][691]LogInit: Error: Failed to load cursor '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/cursorHand_grey.png'
+[2021.06.24-12.04.36:878][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-12.04.36:878][691]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.24-12.04.36:880][691]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.24-20.04.36
+[2021.06.24-12.04.36:880][691]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.24-12.04.36:881][691]LogWorld: Bringing up level for play took: 0.002060
+[2021.06.24-12.04.36:881][691]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2021.06.24-12.04.36:883][691]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.24-12.04.36:883][691]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.24-12.04.36:888][691]PIE: Server logged in
+[2021.06.24-12.04.36:890][691]PIE: Play in editor total start time 0.106 seconds.
+[2021.06.24-12.04.38:513][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-12.04.38:514][773]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-12.04.38:515][773]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.24-12.04.38:541][773]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-12.04.38:542][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.04.38:551][773]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.24-12.04.38:558][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.04.38:586][773]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.24-12.04.38:586][773]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-12.04.38:587][773]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-12.04.38:610][773]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.06.24-12.04.38:643][774]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2021.06.24-12.04.42:082][952]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.06.24-12.05.30:402][802]LogSlate: Window 'Project Settings' being destroyed
+[2021.06.24-12.05.30:411][802]LogSlate: Window 'Project Settings' being destroyed
+[2021.06.24-12.05.31:210][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.24-12.05.31:241][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.06.24-12.05.31:287][846]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/MainMenu9A9A1EEF4EE1E736CA7E6D8CC4C063CB.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Maps/MainMenu.umap'
+[2021.06.24-12.05.31:299][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu_BuiltData" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Maps/MainMenu_BuiltData.uasset" SILENT=true
+[2021.06.24-12.05.31:300][846]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/MainMenu_BuiltData852FF8164E2A53DCA7DD1EAF897F5A03.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Maps/MainMenu_BuiltData.uasset'
+[2021.06.24-12.05.31:321][846]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.24-12.05.31:321][846]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2021.06.24-12.05.31:321][846]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMenu_BuiltData.MainMenu_BuiltData
+[2021.06.24-12.05.32:020][883]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.24-12.05.32:029][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.24-12.05.32:029][883]PIE: New page: PIE session: MainMenu (Jun 25, 2021, 4:05:32 AM)
+[2021.06.24-12.05.32:029][883]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-12.05.32:038][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009008s)
+[2021.06.24-12.05.32:039][883]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.24-12.05.32:039][883]LogPlayLevel: PIE: World Init took: (0.001079s)
+[2021.06.24-12.05.32:039][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.010213s)
+[2021.06.24-12.05.32:069][883]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.06.24-12.05.32:069][883]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2021.06.24-12.05.32:069][883]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.24-12.05.32:069][883]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.24-12.05.32:069][883]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.24-12.05.32:069][883]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.24-12.05.32:069][883]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.24-12.05.32:069][883]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.24-12.05.32:069][883]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.24-12.05.32:069][883]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.24-12.05.32:070][883]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.24-12.05.32:070][883]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.24-12.05.32:073][883]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.24-12.05.32:073][883]LogAudioMixer: Display: 1: FrontRight
+[2021.06.24-12.05.32:087][883]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.24-12.05.32:087][883]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.24-12.05.32:088][883]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.24-12.05.32:088][883]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.24-12.05.32:088][883]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.24-12.05.32:088][883]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.24-12.05.32:088][883]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.24-12.05.32:102][883]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.24-12.05.32:102][883]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.24-12.05.32:102][883]LogInit: FAudioDevice initialized.
+[2021.06.24-12.05.32:102][883]LogAudio: Display: Audio Device (ID: 35) registered with world 'MainMenu'.
+[2021.06.24-12.05.32:103][883]LogInit: Error: Failed to load cursor '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content//Game/Textures/UserInterface/Kenny/cursorHand_grey.png'
+[2021.06.24-12.05.32:138][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-12.05.32:139][883]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.24-12.05.32:141][883]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.24-20.05.32
+[2021.06.24-12.05.32:141][883]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.24-12.05.32:142][883]LogWorld: Bringing up level for play took: 0.002209
+[2021.06.24-12.05.32:142][883]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2021.06.24-12.05.32:144][883]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.24-12.05.32:144][883]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.24-12.05.32:147][883]PIE: Server logged in
+[2021.06.24-12.05.32:151][883]PIE: Play in editor total start time 0.123 seconds.
+[2021.06.24-12.05.34:391][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-12.05.34:392][994]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-12.05.34:392][994]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.24-12.05.34:417][994]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-12.05.34:418][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.05.34:428][994]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.24-12.05.34:434][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.05.34:462][994]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.24-12.05.34:462][994]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-12.05.34:463][994]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-12.05.34:487][994]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.06.24-12.05.34:512][995]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2021.06.24-12.05.37:992][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.06.24-12.05.39:753][288]LogTemp: Repeating last play command: Standalone Game
+[2021.06.24-12.05.39:791][288]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.06.24-12.06.15:808][744]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserInterface/Kenny/cursorHand_grey.cursorHand_grey
+[2021.06.24-12.06.17:724][837]LogSlate: Window 'cursorHand_grey' being destroyed
+[2021.06.24-12.06.23:121][124]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.06.24-12.07.00:527][289]LogSlate: Window 'Project Settings' being destroyed
+[2021.06.24-12.07.00:539][289]LogSlate: Window 'Project Settings' being destroyed
+[2021.06.24-12.07.01:652][348]LogTemp: Repeating last play command: Standalone Game
+[2021.06.24-12.07.01:688][348]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.06.24-12.07.02:461][389]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.06.24-12.07.02:465][389]LogPlayLevel: Launcher Device ID: WindowsNoEditor@LAPTOP-D22OQ9HA
+[2021.06.24-12.07.02:476][389]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.24-12.07.02:479][389]LogCook: Display: Creating asset registry
+[2021.06.24-12.07.02:544][389]LogCook: Display: Discovering localized assets for cultures: en
+[2021.06.24-12.07.02:552][389]LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2021.06.24-12.07.02:552][389]LogCook: Display: Clearing all cooked content for platform WindowsNoEditor
+[2021.06.24-12.07.02:587][389]LogCook: Display: Sandbox cleanup took 0.035 seconds for platforms WindowsNoEditor
+[2021.06.24-12.07.04:179][389]LogLauncherProfile: Unable to use promoted target - ../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Binaries/Win64/AssaShineMulti_V100.target does not exist.
+[2021.06.24-12.07.04:181][389]LogLauncherProfile: Unable to use promoted target - ../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Binaries/Win64/AssaShineMulti_V100.target does not exist.
+[2021.06.24-12.07.04:282][390]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2021.06.24-12.07.04:295][390]LogCook: Display: Cooked packages 0 Packages Remain 87 Total 87
+[2021.06.24-12.07.04:295][390]LogCook: Display: Cook Diagnostics: OpenFileHandles=1083, VirtualMemory=9213MiB
+[2021.06.24-12.07.04:308][390]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintNativeCodeGen' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.06.24-12.07.05:140][395]LogCook: Display: Cooked packages 192 Packages Remain 967 Total 1159
+[2021.06.24-12.07.06:220][403]LogUObjectHash: Compacting FUObjectHashTables data took  11.17ms
+[2021.06.24-12.07.06:507][405]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2021.06.24-12.07.06:641][406]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2021.06.24-12.07.06:948][409]LogMaterial: Display: Missing cached shader map for material M_log_stump, compiling. 
+[2021.06.24-12.07.07:000][409]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2021.06.24-12.07.07:000][409]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2021.06.24-12.07.07:000][409]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.06.24-12.07.07:000][409]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.06.24-12.07.07:000][409]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.06.24-12.07.07:000][409]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.06.24-12.07.07:103][410]LogMaterial: Display: Missing cached shader map for material M_landscape, compiling. 
+[2021.06.24-12.07.07:216][410]LogCook: Display: Cooked packages 371 Packages Remain 793 Total 1164
+[2021.06.24-12.07.07:237][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 46
+[2021.06.24-12.07.07:237][411]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 40
+[2021.06.24-12.07.07:241][411]LogMaterial: Display: Missing cached shader map for material M_landscape, compiling. 
+[2021.06.24-12.07.07:310][411]LogMaterial: Display: Missing cached shader map for material M_foliage, compiling. 
+[2021.06.24-12.07.07:511][412]LogMaterial: Display: Missing cached shader map for material M_tree_bark, compiling. 
+[2021.06.24-12.07.07:603][413]LogMaterial: Display: Missing cached shader map for material M_tree_bark, compiling. 
+[2021.06.24-12.07.07:728][414]LogMaterial: Display: Missing cached shader map for material M_log_stump, compiling. 
+[2021.06.24-12.07.07:829][414]LogMaterial: Display: Missing cached shader map for material M_stone, compiling. 
+[2021.06.24-12.07.07:915][415]LogMaterial: Display: Missing cached shader map for material M_foliage, compiling. 
+[2021.06.24-12.07.08:053][416]LogMaterial: Display: Missing cached shader map for material M_landscape, compiling. 
+[2021.06.24-12.07.08:096][416]LogMaterial: Display: Missing cached shader map for material M_plants, compiling. 
+[2021.06.24-12.07.08:242][417]LogMaterial: Display: Missing cached shader map for material M_plants, compiling. 
+[2021.06.24-12.07.08:395][418]LogMaterial: Display: Missing cached shader map for material M_plants, compiling. 
+[2021.06.24-12.07.08:633][419]LogPlayLevel: Completed Launch On Stage: Cooking in the editor, Time: 3.420858
+[2021.06.24-12.07.08:633][419]LogCook: Display: Cook by the book total time in tick 3.308744s total time 6.156930
+[2021.06.24-12.07.08:633][419]LogCook: Display: Peak Used virtual 11516 MiB Peak Used physical 3779 MiB
+[2021.06.24-12.07.11:836][481]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 681
+[2021.06.24-12.07.12:637][499]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 671
+[2021.06.24-12.07.12:672][500]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 661
+[2021.06.24-12.07.12:778][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.24-12.07.12:779][501]PIE: New page: PIE session: MainMenu (Jun 25, 2021, 4:07:12 AM)
+[2021.06.24-12.07.12:779][501]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-12.07.12:810][501]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 651
+[2021.06.24-12.07.12:812][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032768s)
+[2021.06.24-12.07.12:814][501]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.24-12.07.12:815][501]LogPlayLevel: PIE: World Init took: (0.003077s)
+[2021.06.24-12.07.12:815][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.036202s)
+[2021.06.24-12.07.12:872][501]LogUObjectHash: Compacting FUObjectHashTables data took   8.47ms
+[2021.06.24-12.07.12:884][501]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2021.06.24-12.07.12:884][501]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.24-12.07.12:884][501]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.24-12.07.12:884][501]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.24-12.07.12:884][501]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.24-12.07.12:884][501]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.24-12.07.12:884][501]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.24-12.07.12:884][501]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.24-12.07.12:884][501]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.24-12.07.12:885][501]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.24-12.07.12:885][501]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.24-12.07.12:893][501]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.24-12.07.12:893][501]LogAudioMixer: Display: 1: FrontRight
+[2021.06.24-12.07.12:932][501]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.24-12.07.12:933][501]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.24-12.07.12:933][501]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.24-12.07.12:933][501]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.24-12.07.12:934][501]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.24-12.07.12:934][501]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.24-12.07.12:934][501]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.24-12.07.12:975][501]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.24-12.07.12:975][501]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.24-12.07.12:975][501]LogInit: FAudioDevice initialized.
+[2021.06.24-12.07.12:975][501]LogAudio: Display: Audio Device (ID: 36) registered with world 'MainMenu'.
+[2021.06.24-12.07.12:976][501]LogInit: Error: Failed to load cursor '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/C:/Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/cursorHand_grey.uasset'
+[2021.06.24-12.07.13:031][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-12.07.13:032][501]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.24-12.07.13:036][501]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.24-20.07.13
+[2021.06.24-12.07.13:036][501]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.24-12.07.13:037][501]LogWorld: Bringing up level for play took: 0.003424
+[2021.06.24-12.07.13:037][501]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2021.06.24-12.07.13:048][501]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.24-12.07.13:048][501]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.24-12.07.13:055][501]PIE: Server logged in
+[2021.06.24-12.07.13:059][501]PIE: Play in editor total start time 0.283 seconds.
+[2021.06.24-12.07.13:604][506]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 641
+[2021.06.24-12.07.14:001][513]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 631
+[2021.06.24-12.07.16:219][559]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 621
+[2021.06.24-12.07.16:534][567]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 611
+[2021.06.24-12.07.18:789][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-12.07.18:791][621]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-12.07.18:791][621]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.24-12.07.18:838][621]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-12.07.18:839][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.07.18:855][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.24-12.07.18:883][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.07.18:931][621]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.24-12.07.18:931][621]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-12.07.18:933][621]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-12.07.18:987][621]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2021.06.24-12.07.19:063][622]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2021.06.24-12.07.21:876][707]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 601
+[2021.06.24-12.07.23:055][742]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 591
+[2021.06.24-12.07.23:884][771]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 581
+[2021.06.24-12.07.24:052][776]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 571
+[2021.06.24-12.07.24:081][777]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 561
+[2021.06.24-12.07.24:953][807]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 551
+[2021.06.24-12.07.26:228][844]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 541
+[2021.06.24-12.07.26:434][850]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.24-12.07.26:453][850]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.24-12.07.26:454][850]PIE: New page: PIE session: MainMenu (Jun 25, 2021, 4:07:26 AM)
+[2021.06.24-12.07.26:454][850]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-12.07.26:482][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028074s)
+[2021.06.24-12.07.26:485][850]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.24-12.07.26:485][850]LogPlayLevel: PIE: World Init took: (0.003127s)
+[2021.06.24-12.07.26:485][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.031562s)
+[2021.06.24-12.07.26:538][850]LogUObjectHash: Compacting FUObjectHashTables data took   7.97ms
+[2021.06.24-12.07.26:543][850]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2021.06.24-12.07.26:544][850]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.24-12.07.26:544][850]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.24-12.07.26:544][850]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.24-12.07.26:544][850]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.24-12.07.26:544][850]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.24-12.07.26:544][850]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.24-12.07.26:544][850]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.24-12.07.26:544][850]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.24-12.07.26:544][850]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.24-12.07.26:544][850]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.24-12.07.26:551][850]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.24-12.07.26:551][850]LogAudioMixer: Display: 1: FrontRight
+[2021.06.24-12.07.26:592][850]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.24-12.07.26:592][850]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.24-12.07.26:592][850]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.24-12.07.26:592][850]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.24-12.07.26:593][850]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.24-12.07.26:593][850]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.24-12.07.26:593][850]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.24-12.07.26:632][850]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.24-12.07.26:632][850]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.24-12.07.26:632][850]LogInit: FAudioDevice initialized.
+[2021.06.24-12.07.26:632][850]LogAudio: Display: Audio Device (ID: 37) registered with world 'MainMenu'.
+[2021.06.24-12.07.26:633][850]LogInit: Error: Failed to load cursor '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/C:/Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Kenny/cursorHand_grey.uasset'
+[2021.06.24-12.07.26:678][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-12.07.26:679][850]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.24-12.07.26:682][850]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.24-20.07.26
+[2021.06.24-12.07.26:682][850]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.24-12.07.26:683][850]LogWorld: Bringing up level for play took: 0.003108
+[2021.06.24-12.07.26:683][850]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2021.06.24-12.07.26:687][850]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.24-12.07.26:687][850]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.24-12.07.26:699][850]PIE: Server logged in
+[2021.06.24-12.07.26:702][850]PIE: Play in editor total start time 0.251 seconds.
+[2021.06.24-12.07.26:963][853]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 531
+[2021.06.24-12.07.30:737][942]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 521
+[2021.06.24-12.07.32:239][979]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 511
+[2021.06.24-12.07.33:709][ 10]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 501
+[2021.06.24-12.07.34:650][ 32]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 491
+[2021.06.24-12.07.35:649][ 55]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 481
+[2021.06.24-12.07.35:785][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-12.07.35:788][ 59]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-12.07.35:788][ 59]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.24-12.07.35:842][ 59]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-12.07.35:844][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.07.35:860][ 59]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.24-12.07.35:893][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.07.35:938][ 59]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.24-12.07.35:938][ 59]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-12.07.35:940][ 59]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-12.07.36:001][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   7.38ms
+[2021.06.24-12.07.36:057][ 60]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2021.06.24-12.07.37:299][ 93]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 471
+[2021.06.24-12.07.38:661][136]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 461
+[2021.06.24-12.07.39:268][153]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 451
+[2021.06.24-12.07.41:452][182]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 441
+[2021.06.24-12.07.41:512][183]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 431
+[2021.06.24-12.07.42:309][206]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 421
+[2021.06.24-12.07.42:969][222]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 411
+[2021.06.24-12.07.44:314][242]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 401
+[2021.06.24-12.07.46:481][311]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 391
+[2021.06.24-12.07.46:596][314]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 381
+[2021.06.24-12.07.47:867][352]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 371
+[2021.06.24-12.07.48:590][368]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 361
+[2021.06.24-12.07.52:126][475]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 351
+[2021.06.24-12.07.52:509][489]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 341
+[2021.06.24-12.07.52:595][492]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 331
+[2021.06.24-12.07.54:527][555]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 321
+[2021.06.24-12.07.55:741][597]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 311
+[2021.06.24-12.07.56:800][621]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 301
+[2021.06.24-12.07.57:919][642]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 291
+[2021.06.24-12.08.00:004][680]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 281
+[2021.06.24-12.08.00:005][680]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 271
+[2021.06.24-12.08.00:005][680]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.06.24-12.08.03:007][742]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 261
+[2021.06.24-12.08.03:684][761]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 251
+[2021.06.24-12.08.04:798][790]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 241
+[2021.06.24-12.08.06:739][843]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 231
+[2021.06.24-12.08.07:961][874]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 221
+[2021.06.24-12.08.08:682][895]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 211
+[2021.06.24-12.08.09:587][920]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 201
+[2021.06.24-12.08.10:768][951]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 191
+[2021.06.24-12.08.11:644][970]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 181
+[2021.06.24-12.08.11:966][976]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 171
+[2021.06.24-12.08.14:768][ 44]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 161
+[2021.06.24-12.08.16:399][ 84]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.24-12.08.16:617][ 88]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 151
+[2021.06.24-12.08.18:023][128]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 141
+[2021.06.24-12.08.18:131][130]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 131
+[2021.06.24-12.08.19:088][155]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 121
+[2021.06.24-12.08.21:698][223]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 111
+[2021.06.24-12.08.22:475][246]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 101
+[2021.06.24-12.08.23:737][278]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 91
+[2021.06.24-12.08.24:267][293]LogSlate: Window 'Project Settings' being destroyed
+[2021.06.24-12.08.24:301][293]LogSlate: Window 'Project Settings' being destroyed
+[2021.06.24-12.08.24:470][294]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 81
+[2021.06.24-12.08.25:085][307]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.24-12.08.25:108][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.24-12.08.25:109][307]PIE: New page: PIE session: MainMenu (Jun 25, 2021, 4:08:25 AM)
+[2021.06.24-12.08.25:109][307]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-12.08.25:129][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020554s)
+[2021.06.24-12.08.25:132][307]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.24-12.08.25:132][307]LogPlayLevel: PIE: World Init took: (0.003213s)
+[2021.06.24-12.08.25:132][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.024181s)
+[2021.06.24-12.08.25:192][307]LogUObjectHash: Compacting FUObjectHashTables data took   9.64ms
+[2021.06.24-12.08.25:201][307]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2021.06.24-12.08.25:201][307]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.24-12.08.25:201][307]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.24-12.08.25:201][307]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.24-12.08.25:201][307]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.24-12.08.25:201][307]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.24-12.08.25:201][307]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.24-12.08.25:201][307]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.24-12.08.25:201][307]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.24-12.08.25:203][307]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.24-12.08.25:203][307]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.24-12.08.25:209][307]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.24-12.08.25:209][307]LogAudioMixer: Display: 1: FrontRight
+[2021.06.24-12.08.25:241][307]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.24-12.08.25:242][307]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.24-12.08.25:242][307]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.24-12.08.25:242][307]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.24-12.08.25:243][307]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.24-12.08.25:243][307]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.24-12.08.25:243][307]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.24-12.08.25:295][307]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.24-12.08.25:295][307]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.24-12.08.25:295][307]LogInit: FAudioDevice initialized.
+[2021.06.24-12.08.25:296][307]LogAudio: Display: Audio Device (ID: 38) registered with world 'MainMenu'.
+[2021.06.24-12.08.25:352][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-12.08.25:353][307]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.24-12.08.25:356][307]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.24-20.08.25
+[2021.06.24-12.08.25:356][307]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.24-12.08.25:357][307]LogWorld: Bringing up level for play took: 0.002927
+[2021.06.24-12.08.25:357][307]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2021.06.24-12.08.25:361][307]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.24-12.08.25:361][307]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.24-12.08.25:373][307]PIE: Server logged in
+[2021.06.24-12.08.25:377][307]PIE: Play in editor total start time 0.272 seconds.
+[2021.06.24-12.08.26:565][331]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 71
+[2021.06.24-12.08.29:374][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-12.08.29:374][400]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-12.08.29:376][400]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.24-12.08.29:411][400]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-12.08.29:412][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.08.29:428][400]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.24-12.08.29:462][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.08.29:510][400]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.24-12.08.29:510][400]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-12.08.29:512][400]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-12.08.29:577][400]LogUObjectHash: Compacting FUObjectHashTables data took   7.84ms
+[2021.06.24-12.08.29:649][401]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2021.06.24-12.08.30:078][412]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 62
+[2021.06.24-12.08.31:565][458]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 54
+[2021.06.24-12.08.32:303][486]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 47
+[2021.06.24-12.08.32:326][487]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 41
+[2021.06.24-12.08.33:413][523]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 35
+[2021.06.24-12.08.34:110][539]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 30
+[2021.06.24-12.08.34:110][539]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 26
+[2021.06.24-12.08.37:038][639]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2021.06.24-12.08.37:104][642]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 19
+[2021.06.24-12.08.37:804][668]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2021.06.24-12.08.38:171][683]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.06.24-12.08.38:794][708]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.06.24-12.08.38:843][710]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.06.24-12.08.39:426][731]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.06.24-12.08.40:159][753]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Gameplay/CursorKnife.CursorKnife
+[2021.06.24-12.08.40:201][753]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.06.24-12.08.41:180][753]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.06.24-12.08.41:180][753]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.06.24-12.08.41:180][753]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.06.24-12.08.41:180][753]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.06.24-12.08.41:180][753]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.06.24-12.08.50:343][216]LogSlate: Window 'CursorKnife' being destroyed
+[2021.06.24-12.08.50:377][216]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-12.08.50:377][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.08.50:393][216]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-12.08.50:393][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.08.58:552][684]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.06.24-12.08.58:569][684]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.06.24-12.09.03:977][  7]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> CursorHand
+[2021.06.24-12.09.03:987][  7]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.06.24-12.09.05:153][ 75]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/AllLevels/CursorHand.CursorHand
+[2021.06.24-12.09.46:818][138]BlueprintLog: New page: Compile CursorHand
+[2021.06.24-12.09.46:866][138]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2021.06.24-12.09.46:908][138]LogSlate: Took 0.000777 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.06.24-12.09.47:324][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/CursorHand" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/CursorHand.uasset" SILENT=true
+[2021.06.24-12.09.47:328][159]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/CursorHandF3CE4E2047FD884421C79D9983D774B2.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/CursorHand.uasset'
+[2021.06.24-12.09.47:355][159]AssetCheck: New page: Asset Save: CursorHand
+[2021.06.24-12.09.47:355][159]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AllLevels/CursorHand.CursorHand
+[2021.06.24-12.09.48:394][211]LogSlate: Window 'CursorHand' being destroyed
+[2021.06.24-12.09.48:415][211]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-12.09.48:415][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.09.48:425][211]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-12.09.48:425][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.09.53:054][462]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.06.24-12.09.57:878][739]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.24-12.10.04:790][144]LogSlate: Window 'Project Settings' being destroyed
+[2021.06.24-12.10.04:796][144]LogSlate: Window 'Project Settings' being destroyed
+[2021.06.24-12.10.05:317][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.24-12.10.05:353][172]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.06.24-12.10.05:397][172]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/MainMenu830288AE429ED75CC1B119B25FAD2893.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Maps/MainMenu.umap'
+[2021.06.24-12.10.05:407][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu_BuiltData" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Maps/MainMenu_BuiltData.uasset" SILENT=true
+[2021.06.24-12.10.05:408][172]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/MainMenu_BuiltData18DAD4DC433EE4E4E9799BA4C809EC35.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Maps/MainMenu_BuiltData.uasset'
+[2021.06.24-12.10.05:425][172]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.24-12.10.05:425][172]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2021.06.24-12.10.05:426][172]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMenu_BuiltData.MainMenu_BuiltData
+[2021.06.24-12.10.05:989][203]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.24-12.10.05:999][203]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.24-12.10.05:999][203]PIE: New page: PIE session: MainMenu (Jun 25, 2021, 4:10:05 AM)
+[2021.06.24-12.10.05:999][203]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-12.10.06:010][203]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011064s)
+[2021.06.24-12.10.06:011][203]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.24-12.10.06:011][203]LogPlayLevel: PIE: World Init took: (0.001311s)
+[2021.06.24-12.10.06:011][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.012534s)
+[2021.06.24-12.10.06:045][203]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.06.24-12.10.06:046][203]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2021.06.24-12.10.06:046][203]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.24-12.10.06:046][203]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.24-12.10.06:046][203]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.24-12.10.06:046][203]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.24-12.10.06:046][203]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.24-12.10.06:046][203]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.24-12.10.06:046][203]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.24-12.10.06:046][203]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.24-12.10.06:046][203]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.24-12.10.06:046][203]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.24-12.10.06:050][203]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.24-12.10.06:050][203]LogAudioMixer: Display: 1: FrontRight
+[2021.06.24-12.10.06:066][203]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.24-12.10.06:066][203]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.24-12.10.06:066][203]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.24-12.10.06:066][203]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.24-12.10.06:066][203]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.24-12.10.06:066][203]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.24-12.10.06:066][203]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.24-12.10.06:082][203]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.24-12.10.06:082][203]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.24-12.10.06:082][203]LogInit: FAudioDevice initialized.
+[2021.06.24-12.10.06:082][203]LogAudio: Display: Audio Device (ID: 39) registered with world 'MainMenu'.
+[2021.06.24-12.10.06:113][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-12.10.06:114][203]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.24-12.10.06:116][203]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.24-20.10.06
+[2021.06.24-12.10.06:116][203]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.24-12.10.06:116][203]LogWorld: Bringing up level for play took: 0.001812
+[2021.06.24-12.10.06:117][203]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2021.06.24-12.10.06:118][203]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.24-12.10.06:118][203]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.24-12.10.06:122][203]PIE: Server logged in
+[2021.06.24-12.10.06:125][203]PIE: Play in editor total start time 0.128 seconds.
+[2021.06.24-12.11.39:701][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-12.11.39:701][114]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-12.11.39:701][114]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.24-12.11.39:723][114]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-12.11.39:723][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.11.39:734][114]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.24-12.11.39:746][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.11.39:776][114]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-12.11.39:777][114]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-12.11.39:800][114]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.06.24-12.11.39:823][115]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2021.06.24-12.18.38:433][800]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/AllLevels/CursorHand.CursorHand
+[2021.06.24-12.19.02:792][ 77]LogEditorTransaction: Undo Create Binding
+[2021.06.24-12.19.11:670][502]BlueprintLog: New page: Compile CursorHand
+[2021.06.24-12.19.11:713][502]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.06.24-12.19.12:444][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/CursorHand" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/CursorHand.uasset" SILENT=true
+[2021.06.24-12.19.12:449][540]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/CursorHand00B7753D48A1A4CD6015D38976C63600.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/CursorHand.uasset'
+[2021.06.24-12.19.12:465][540]AssetCheck: New page: Asset Save: CursorHand
+[2021.06.24-12.19.12:465][540]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AllLevels/CursorHand.CursorHand
+[2021.06.24-12.19.19:691][906]LogSlate: Window 'Color Picker' being destroyed
+[2021.06.24-12.19.23:028][ 72]LogSlate: Window 'Color Picker' being destroyed
+[2021.06.24-12.19.31:978][527]LogSlate: Window 'CursorHand' being destroyed
+[2021.06.24-12.19.31:998][527]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-12.19.31:998][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.19.32:009][527]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-12.19.32:009][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.19.33:268][599]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.24-12.19.33:276][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.24-12.19.33:276][599]PIE: New page: PIE session: MainMenu (Jun 25, 2021, 4:19:33 AM)
+[2021.06.24-12.19.33:276][599]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-12.19.33:285][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008577s)
+[2021.06.24-12.19.33:286][599]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.24-12.19.33:286][599]LogPlayLevel: PIE: World Init took: (0.000967s)
+[2021.06.24-12.19.33:286][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.009661s)
+[2021.06.24-12.19.33:323][599]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.06.24-12.19.33:324][599]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2021.06.24-12.19.33:324][599]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.24-12.19.33:324][599]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.24-12.19.33:324][599]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.24-12.19.33:324][599]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.24-12.19.33:324][599]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.24-12.19.33:324][599]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.24-12.19.33:324][599]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.24-12.19.33:324][599]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.24-12.19.33:325][599]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.24-12.19.33:325][599]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.24-12.19.33:328][599]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.24-12.19.33:328][599]LogAudioMixer: Display: 1: FrontRight
+[2021.06.24-12.19.33:343][599]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.24-12.19.33:343][599]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.24-12.19.33:343][599]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.24-12.19.33:343][599]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.24-12.19.33:343][599]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.24-12.19.33:343][599]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.24-12.19.33:343][599]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.24-12.19.33:357][599]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.24-12.19.33:357][599]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.24-12.19.33:357][599]LogInit: FAudioDevice initialized.
+[2021.06.24-12.19.33:357][599]LogAudio: Display: Audio Device (ID: 40) registered with world 'MainMenu'.
+[2021.06.24-12.19.33:387][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-12.19.33:388][599]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.24-12.19.33:391][599]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.24-20.19.33
+[2021.06.24-12.19.33:392][599]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.24-12.19.33:392][599]LogWorld: Bringing up level for play took: 0.003565
+[2021.06.24-12.19.33:392][599]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2021.06.24-12.19.33:395][599]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.24-12.19.33:395][599]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.24-12.19.33:400][599]PIE: Server logged in
+[2021.06.24-12.19.33:402][599]PIE: Play in editor total start time 0.127 seconds.
+[2021.06.24-12.19.37:160][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-12.19.37:161][802]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-12.19.37:161][802]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.24-12.19.37:196][802]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-12.19.37:198][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.19.37:208][802]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.24-12.19.37:220][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.19.37:250][802]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-12.19.37:251][802]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-12.19.37:272][802]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.06.24-12.19.37:295][803]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2021.06.24-12.23.22:243][581]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/AllLevels/CursorHand.CursorHand
+[2021.06.24-12.24.59:317][455]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2021.06.24-12.24.59:319][455]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMenu' took 0.047
+[2021.06.24-12.24.59:320][455]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/AllLevels/CursorHand] ([2] browsable assets)...
+[2021.06.24-12.24.59:320][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/AllLevels/CursorHand]
+[2021.06.24-12.24.59:324][455]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/CursorHand_Auto19A6E591648B9CCB511B7DD82DFC24F9B.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/Autosaves/Game/UI/AllLevels/CursorHand_Auto1.uasset'
+[2021.06.24-12.24.59:325][455]LogFileHelpers: Auto-saving content packages took 0.007
+[2021.06.24-12.25.53:158][616]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.24-12.25.53:161][616]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft Pinyin).
+[2021.06.24-12.25.56:789][781]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.24-12.25.56:789][781]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.24-12.26.10:872][550]LogEditorTransaction: Undo Add Node
+[2021.06.24-12.26.47:989][661]LogSlate: Window 'CursorHand' being destroyed
+[2021.06.24-12.26.55:652][274]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Gameplay/GameplayGM.GameplayGM
+[2021.06.24-12.27.05:701][857]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-12.27.05:701][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.27.07:052][946]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Gameplay/GameplayPC.GameplayPC
+[2021.06.24-12.27.16:557][637]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-12.27.16:557][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.27.46:218][666]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Gameplay/GameplayPC.GameplayPC
+[2021.06.24-12.28.16:742][131]BlueprintLog: New page: Compile CursorHand
+[2021.06.24-12.28.16:791][131]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2021.06.24-12.28.19:149][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/CursorHand" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/CursorHand.uasset" SILENT=true
+[2021.06.24-12.28.19:154][401]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/CursorHandDED979FE4D9EF077C6EDA9BE8E44035A.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/CursorHand.uasset'
+[2021.06.24-12.28.19:170][401]AssetCheck: New page: Asset Save: CursorHand
+[2021.06.24-12.28.19:170][401]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AllLevels/CursorHand.CursorHand
+[2021.06.24-12.28.24:422][988]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-12.28.24:422][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.28.24:436][988]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-12.28.24:436][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.28.53:894][853]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AllLevels/TOPD_GameMode.TOPD_GameMode
+[2021.06.24-12.28.55:892][ 49]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-12.28.55:892][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.28.57:354][143]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AllLevels/TOPD_Controller.TOPD_Controller
+[2021.06.24-12.29.00:564][299]LogSlate: Window 'TOPD_Controller' being destroyed
+[2021.06.24-12.29.00:593][299]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-12.29.00:593][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.29.00:665][299]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AllLevels/TOPD_Controller.TOPD_Controller
+[2021.06.24-12.29.22:536][480]LogSlate: Took 0.001100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.06.24-12.29.43:642][637]LogEditorTransaction: Undo Add Node
+[2021.06.24-12.30.24:368][419]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.24-12.31.24:420][751]LogSlate: Window 'TOPD_Controller' being destroyed
+[2021.06.24-12.31.33:092][488]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/AllLevels/CursorHand.CursorHand
+[2021.06.24-12.32.38:436][946]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2021.06.24-12.32.38:437][946]LogBlueprint: Warning: [AssetLog]  (no disk path found): [Compiler] Pasted node  CustomEvent   conflicted with  Onclicked  and was replaced as a Custom Event!
+[2021.06.24-12.33.01:717][431]BlueprintLog: New page: Compile CursorHand
+[2021.06.24-12.33.01:803][431]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2021.06.24-12.33.07:772][ 45]BlueprintLog: New page: Compile CursorHand
+[2021.06.24-12.33.07:819][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.06.24-12.33.08:667][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/CursorHand" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/CursorHand.uasset" SILENT=true
+[2021.06.24-12.33.08:675][135]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/CursorHand7FD1BF714BF362BEBA63E2B6537A1864.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/CursorHand.uasset'
+[2021.06.24-12.33.08:696][135]AssetCheck: New page: Asset Save: CursorHand
+[2021.06.24-12.33.08:697][135]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AllLevels/CursorHand.CursorHand
+[2021.06.24-12.33.44:409][996]BlueprintLog: New page: Compile TOPD_Controller
+[2021.06.24-12.33.44:413][996]LogBlueprint: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Blueprints\AllLevels\TOPD_Controller.uasset: [Compiler] InputKey Event specifies axis FKey'MouseX' for  Mouse X
+[2021.06.24-12.33.44:479][996]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2021.06.24-12.33.44:834][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AllLevels/TOPD_Controller" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Blueprints/AllLevels/TOPD_Controller.uasset" SILENT=true
+[2021.06.24-12.33.44:846][ 27]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/TOPD_Controller65951E29405BB8081CE95EAA2D1FD9F2.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Blueprints/AllLevels/TOPD_Controller.uasset'
+[2021.06.24-12.33.44:861][ 27]AssetCheck: New page: Asset Save: TOPD_Controller
+[2021.06.24-12.33.44:861][ 27]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AllLevels/TOPD_Controller.TOPD_Controller
+[2021.06.24-12.34.01:394][735]BlueprintLog: New page: Compile TOPD_Controller
+[2021.06.24-12.34.01:466][735]LogUObjectHash: Compacting FUObjectHashTables data took   6.37ms
+[2021.06.24-12.34.03:095][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AllLevels/TOPD_Controller" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Blueprints/AllLevels/TOPD_Controller.uasset" SILENT=true
+[2021.06.24-12.34.03:104][880]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/TOPD_Controller099BCD7A4016ABCB09887EA24586780F.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Blueprints/AllLevels/TOPD_Controller.uasset'
+[2021.06.24-12.34.03:120][880]AssetCheck: New page: Asset Save: TOPD_Controller
+[2021.06.24-12.34.03:120][880]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AllLevels/TOPD_Controller.TOPD_Controller
+[2021.06.24-12.34.04:750][  6]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.24-12.34.04:761][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.24-12.34.04:761][  6]PIE: New page: PIE session: MainMenu (Jun 25, 2021, 4:34:04 AM)
+[2021.06.24-12.34.04:762][  6]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-12.34.04:772][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009745s)
+[2021.06.24-12.34.04:773][  6]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.24-12.34.04:773][  6]LogPlayLevel: PIE: World Init took: (0.001159s)
+[2021.06.24-12.34.04:773][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.011069s)
+[2021.06.24-12.34.04:813][  6]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.06.24-12.34.04:815][  6]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2021.06.24-12.34.04:815][  6]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.24-12.34.04:815][  6]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.24-12.34.04:815][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.24-12.34.04:815][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.24-12.34.04:815][  6]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.24-12.34.04:815][  6]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.24-12.34.04:815][  6]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.24-12.34.04:815][  6]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.24-12.34.04:816][  6]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.24-12.34.04:816][  6]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.24-12.34.04:820][  6]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.24-12.34.04:820][  6]LogAudioMixer: Display: 1: FrontRight
+[2021.06.24-12.34.04:837][  6]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.24-12.34.04:837][  6]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.24-12.34.04:837][  6]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.24-12.34.04:837][  6]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.24-12.34.04:838][  6]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.24-12.34.04:838][  6]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.24-12.34.04:838][  6]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.24-12.34.04:852][  6]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.24-12.34.04:852][  6]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.24-12.34.04:852][  6]LogInit: FAudioDevice initialized.
+[2021.06.24-12.34.04:852][  6]LogAudio: Display: Audio Device (ID: 41) registered with world 'MainMenu'.
+[2021.06.24-12.34.04:889][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-12.34.04:889][  6]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.24-12.34.04:892][  6]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.06.24-20.34.04
+[2021.06.24-12.34.04:892][  6]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.24-12.34.04:892][  6]LogWorld: Bringing up level for play took: 0.002203
+[2021.06.24-12.34.04:893][  6]LogOnline: OSS: Creating online subsystem instance for: :Context_80
+[2021.06.24-12.34.04:895][  6]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.24-12.34.04:895][  6]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.24-12.34.04:901][  6]PIE: Server logged in
+[2021.06.24-12.34.04:904][  6]PIE: Play in editor total start time 0.143 seconds.
+[2021.06.24-12.34.57:948][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-12.34.57:949][888]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.24-12.34.57:951][888]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.24-12.34.57:997][888]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-12.34.57:997][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.34.58:006][888]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.24-12.34.58:020][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-12.34.58:059][888]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.24-12.34.58:059][888]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-12.34.58:060][888]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-12.34.58:083][888]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.06.24-12.34.58:110][889]LogPlayLevel: Display: Destroying online subsystem :Context_80
