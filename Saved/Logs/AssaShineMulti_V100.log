@@ -1766,3 +1766,1310 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.25-12.56.01:665][457]LogSlate: Window 'Message Log' being destroyed
 [2021.06.25-12.56.01:670][457]LogSlate: Window 'Message Log' being destroyed
 [2021.06.25-12.56.03:202][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.06.25-13.10.44:091][490]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.06.25-13.10.48:746][490]LogMainFrame: Selected target: AssaShineMulti_V100
+[2021.06.25-13.10.48:748][490]LogLauncherProfile: Unable to use promoted target - receipt ../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Binaries/Win64/AssaShineMulti_V100.target is not for a promoted target
+[2021.06.25-13.10.49:154][490]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2021.06.25-13.10.49:154][490]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject=C:/Users/10562/Desktop/Assashine/Multiplayer/AssaShineMulti_V100.uproject BuildCookRun -nocompileeditor -installed -nop4 -project=C:/Users/10562/Desktop/Assashine/Multiplayer/AssaShineMulti_V100.uproject -cook -stage -archive -archivedirectory=C:/Users/10562/Desktop/WindowsNoEditor -package -ue4exe="C:\Program Files\Epic Games\UE_4.26\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -compressed -ddc=InstalledDerivedDataBackendGraph -pak -prereqs -nodebuginfo -targetplatform=Win64 -build -target=AssaShineMulti_V100 -clientconfig=Development -utf8output
+[2021.06.25-13.10.49:629][517]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for C:\Users\10562\Desktop\Assashine\Multiplayer\AssaShineMulti_V100.uproject
+[2021.06.25-13.10.50:253][552]UATHelper: Packaging (Windows (64-bit)): ********** BUILD COMMAND STARTED **********
+[2021.06.25-13.10.50:253][552]UATHelper: Packaging (Windows (64-bit)): Running: C:\Program Files\Epic Games\UE_4.26\Engine\Binaries\DotNET\UnrealBuildTool.exe AssaShineMulti_V100 Win64 Development -Project=C:\Users\10562\Desktop\Assashine\Multiplayer\AssaShineMulti_V100.uproject  C:\Users\10562\Desktop\Assashine\Multiplayer\AssaShineMulti_V100.uproject -NoUBTMakefiles  -remoteini="C:\Users\10562\Desktop\Assashine\Multiplayer" -skipdeploy -Manifest=C:\Users\10562\Desktop\Assashine\Multiplayer\Intermediate\Build\Manifest.xml -NoHotReload -log="C:\Users\10562\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.26\UBT-AssaShineMulti_V100-Win64-Development.txt"
+[2021.06.25-13.10.50:792][585]UATHelper: Packaging (Windows (64-bit)):   Using 'git status' to determine working set for adaptive non-unity build (C:\Users\10562\Desktop\Assashine\Multiplayer).
+[2021.06.25-13.10.52:198][669]UATHelper: Packaging (Windows (64-bit)):   Writing manifest to C:\Users\10562\Desktop\Assashine\Multiplayer\Intermediate\Build\Manifest.xml
+[2021.06.25-13.10.52:426][683]UATHelper: Packaging (Windows (64-bit)):   Target is up to date
+[2021.06.25-13.10.52:444][684]UATHelper: Packaging (Windows (64-bit)):   Total execution time: 2.14 seconds
+[2021.06.25-13.10.52:477][686]UATHelper: Packaging (Windows (64-bit)): Took 2.2294957s to run UnrealBuildTool.exe, ExitCode=0
+[2021.06.25-13.10.52:511][688]UATHelper: Packaging (Windows (64-bit)): ********** BUILD COMMAND COMPLETED **********
+[2021.06.25-13.10.52:511][688]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2021.06.25-13.10.52:527][689]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project C:\Users\10562\Desktop\Assashine\Multiplayer\AssaShineMulti_V100.uproject
+[2021.06.25-13.10.52:527][689]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is C:\Program Files\Epic Games\UE_4.26\Engine\Programs\AutomationTool\Saved\Cook-2021.06.25-21.10.52.txt
+[2021.06.25-13.10.52:527][689]UATHelper: Packaging (Windows (64-bit)): Running: C:\Program Files\Epic Games\UE_4.26\Engine\Binaries\Win64\UE4Editor-Cmd.exe C:\Users\10562\Desktop\Assashine\Multiplayer\AssaShineMulti_V100.uproject -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -ddc=InstalledDerivedDataBackendGraph -unversioned -abslog="C:\Program Files\Epic Games\UE_4.26\Engine\Programs\AutomationTool\Saved\Cook-2021.06.25-21.10.52.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2021.06.25-13.10.53:026][719]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: AssaShineMulti_V100
+[2021.06.25-13.10.53:829][767]UATHelper: Packaging (Windows (64-bit)):   LogSteamShared: Display: Loading Steam SDK 1.47
+[2021.06.25-13.10.53:829][767]UATHelper: Packaging (Windows (64-bit)):   LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2021.06.25-13.10.53:910][772]UATHelper: Packaging (Windows (64-bit)):   LogHAL: Display: Platform has ~ 13 GB [13885485056 / 17179869184 / 13], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.06.25-13.10.54:244][792]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.06.25-13.10.54:278][794]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.06.25-13.10.54:278][794]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.06.25-13.10.54:278][794]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.06.25-13.10.54:278][794]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.06.25-13.10.54:278][794]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.06.25-13.10.54:278][794]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.06.25-13.10.54:278][794]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.06.25-13.10.54:278][794]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.06.25-13.10.54:278][794]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.06.25-13.10.54:278][794]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.06.25-13.10.54:312][796]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.06.25-13.10.54:312][796]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.06.25-13.10.54:330][797]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.06.25-13.10.54:330][797]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.06.25-13.10.54:344][798]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.06.25-13.10.54:344][798]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.06.25-13.10.54:361][799]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.06.25-13.10.54:378][800]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.06.25-13.10.54:378][800]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.06.25-13.10.54:416][802]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.06.25-13.10.54:416][802]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.06.25-13.10.54:416][802]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.06.25-13.10.54:430][803]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.06.25-13.10.54:447][804]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.06.25-13.10.54:447][804]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.06.25-13.10.54:479][806]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.06.25-13.10.54:479][806]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.06.25-13.10.54:479][806]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.06.25-13.10.54:495][807]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.06.25-13.10.54:510][808]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.06.25-13.10.54:510][808]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.06.25-13.10.54:510][808]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2021.06.25-13.10.54:529][809]UATHelper: Packaging (Windows (64-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.06.25-13.10.55:044][840]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.06.25-13.10.55:680][878]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.06.25-13.10.55:729][881]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/10562/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.06.25-13.10.55:745][882]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.06.25-13.10.55:760][883]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Performance to C:/Users/10562/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=432.82MBs, RandomWriteSpeed=118.49MBs. Assigned SpeedClass 'Local'
+[2021.06.25-13.10.57:113][964]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.25-13.10.57:113][964]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.25-13.10.58:259][ 33]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.06.25-13.10.58:259][ 33]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 1
+[2021.06.25-13.10.58:259][ 33]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2021.06.25-13.10.58:562][ 51]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Discovering localized assets for cultures: en
+[2021.06.25-13.10.58:578][ 52]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Inisetting is different for Windows Engine /Script/Engine.RendererSettings r.DefaultFeature.AutoExposure 0, value True != False invalidating cook
+[2021.06.25-13.10.58:578][ 52]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: To avoid this add blacklist setting to DefaultEditor.ini [CookSettings] Windows.Engine:/Script/Engine.RendererSettings
+[2021.06.25-13.10.58:578][ 52]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Clearing all cooked content for platform WindowsNoEditor
+[2021.06.25-13.10.58:611][ 54]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 0.054 seconds for platforms WindowsNoEditor
+[2021.06.25-13.11.00:928][193]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 560 Total 560
+[2021.06.25-13.11.00:928][193]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=162, VirtualMemory=452MiB
+[2021.06.25-13.11.01:186][208]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 50 Packages Remain 651 Total 701
+[2021.06.25-13.11.03:198][329]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 296 Packages Remain 440 Total 736
+[2021.06.25-13.11.04:585][412]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.06.25-13.11.05:025][437]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.06.25-13.11.05:057][439]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 491 Packages Remain 254 Total 745
+[2021.06.25-13.11.06:590][526]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Y.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:590][526]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Y.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:590][526]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Y.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:590][526]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Y.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_Y_White': Can't find file.
+[2021.06.25-13.11.06:590][526]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Y.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_Y_White': Can't find file.
+[2021.06.25-13.11.06:590][526]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Y.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_Y_White': Can't find file.
+[2021.06.25-13.11.06:590][526]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Y.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:590][526]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Y.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:590][526]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Y.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:590][526]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Y.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_Y_White': Can't find file.
+[2021.06.25-13.11.06:590][526]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Y.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_Y_White': Can't find file.
+[2021.06.25-13.11.06:590][526]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Y.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_Y_White': Can't find file.
+[2021.06.25-13.11.06:593][526]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Y.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:593][526]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Y.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_Y_White': Can't find file.
+[2021.06.25-13.11.06:593][526]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Y.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:593][526]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Y.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_Y_White': Can't find file.
+[2021.06.25-13.11.06:606][527]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_X.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:606][527]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_X.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:606][527]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_X.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_X_White': Can't find file.
+[2021.06.25-13.11.06:606][527]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_X.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_X_White': Can't find file.
+[2021.06.25-13.11.06:606][527]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_X.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_X_White': Can't find file.
+[2021.06.25-13.11.06:606][527]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_X.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:606][527]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_X.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:606][527]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_X.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:606][527]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_X.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_X_White': Can't find file.
+[2021.06.25-13.11.06:606][527]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_X.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_X_White': Can't find file.
+[2021.06.25-13.11.06:607][527]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_X.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_X_White': Can't find file.
+[2021.06.25-13.11.06:607][527]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_X.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:609][527]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_X.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_X_White': Can't find file.
+[2021.06.25-13.11.06:609][527]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_X.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_X_White': Can't find file.
+[2021.06.25-13.11.06:622][528]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_RMB.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:622][528]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_RMB.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:622][528]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_RMB.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_RMB': Can't find file.
+[2021.06.25-13.11.06:622][528]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_RMB.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_RMB': Can't find file.
+[2021.06.25-13.11.06:622][528]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_RMB.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_RMB': Can't find file.
+[2021.06.25-13.11.06:622][528]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_RMB.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:622][528]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_RMB.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_RMB': Can't find file.
+[2021.06.25-13.11.06:622][528]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_RMB.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:622][528]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_RMB.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:622][528]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_RMB.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_RMB': Can't find file.
+[2021.06.25-13.11.06:622][528]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_RMB.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_RMB': Can't find file.
+[2021.06.25-13.11.06:622][528]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_RMB.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_RMB': Can't find file.
+[2021.06.25-13.11.06:622][528]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_RMB.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:622][528]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_RMB.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_RMB': Can't find file.
+[2021.06.25-13.11.06:638][529]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Q.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:638][529]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Q.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:638][529]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Q.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_Q_Key': Can't find file.
+[2021.06.25-13.11.06:638][529]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Q.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_Q_Key': Can't find file.
+[2021.06.25-13.11.06:638][529]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Q.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_Q_Key': Can't find file.
+[2021.06.25-13.11.06:638][529]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Q.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:638][529]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Q.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_Q_Key': Can't find file.
+[2021.06.25-13.11.06:638][529]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Q.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:638][529]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Q.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:638][529]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Q.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_Q_Key': Can't find file.
+[2021.06.25-13.11.06:638][529]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Q.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_Q_Key': Can't find file.
+[2021.06.25-13.11.06:638][529]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Q.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_Q_Key': Can't find file.
+[2021.06.25-13.11.06:638][529]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_LMB.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:638][529]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Q.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:638][529]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Q.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_Q_Key': Can't find file.
+[2021.06.25-13.11.06:639][529]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_LMB.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:641][529]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_LMB.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:641][529]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_LMB.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:651][530]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_LMB.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_LMB': Can't find file.
+[2021.06.25-13.11.06:651][530]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_LMB.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_LMB': Can't find file.
+[2021.06.25-13.11.06:651][530]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_LMB.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_LMB': Can't find file.
+[2021.06.25-13.11.06:651][530]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_LMB.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:651][530]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_LMB.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_LMB': Can't find file.
+[2021.06.25-13.11.06:651][530]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_LMB.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_LMB': Can't find file.
+[2021.06.25-13.11.06:651][530]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_LMB.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_LMB': Can't find file.
+[2021.06.25-13.11.06:651][530]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_LMB.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_LMB': Can't find file.
+[2021.06.25-13.11.06:651][530]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_LMB.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:651][530]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_LMB.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_LMB': Can't find file.
+[2021.06.25-13.11.06:658][530]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_E.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:659][530]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_E.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:659][530]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_E.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_E_Key': Can't find file.
+[2021.06.25-13.11.06:659][530]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_E.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_E_Key': Can't find file.
+[2021.06.25-13.11.06:659][530]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_E.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_E_Key': Can't find file.
+[2021.06.25-13.11.06:659][530]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_E.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:659][530]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_E.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:659][530]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_E.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:659][530]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_E.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_E_Key': Can't find file.
+[2021.06.25-13.11.06:659][530]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_E.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_E_Key': Can't find file.
+[2021.06.25-13.11.06:659][530]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_E.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_E_Key': Can't find file.
+[2021.06.25-13.11.06:659][530]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_E.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:669][531]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_E.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_E_Key': Can't find file.
+[2021.06.25-13.11.06:670][531]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_B.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:670][531]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_B.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:670][531]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_B.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_B_White': Can't find file.
+[2021.06.25-13.11.06:670][531]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_E.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_E_Key': Can't find file.
+[2021.06.25-13.11.06:670][531]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_B.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:670][531]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_B.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_B_White': Can't find file.
+[2021.06.25-13.11.06:670][531]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_B.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:670][531]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_B.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_B_White': Can't find file.
+[2021.06.25-13.11.06:670][531]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_B.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_B_White': Can't find file.
+[2021.06.25-13.11.06:675][531]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_B.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_B_White': Can't find file.
+[2021.06.25-13.11.06:675][531]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_B.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:675][531]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_B.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_B_White': Can't find file.
+[2021.06.25-13.11.06:675][531]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_A.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:676][531]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_A.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:676][531]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_B.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_B_White': Can't find file.
+[2021.06.25-13.11.06:676][531]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_B.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:676][531]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_B.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_B_White': Can't find file.
+[2021.06.25-13.11.06:676][531]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_A.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:676][531]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_A.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:685][532]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_A.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_A_White': Can't find file.
+[2021.06.25-13.11.06:685][532]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_A.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_A_White': Can't find file.
+[2021.06.25-13.11.06:685][532]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_A.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_A_White': Can't find file.
+[2021.06.25-13.11.06:685][532]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_A.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:685][532]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_A.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_A_White': Can't find file.
+[2021.06.25-13.11.06:685][532]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_A.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_A_White': Can't find file.
+[2021.06.25-13.11.06:685][532]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_A.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_A_White': Can't find file.
+[2021.06.25-13.11.06:686][532]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_A.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_A_White': Can't find file.
+[2021.06.25-13.11.06:686][532]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_A.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:686][532]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_A.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_A_White': Can't find file.
+[2021.06.25-13.11.06:704][533]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Up.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:704][533]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Up.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:704][533]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Up.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Up': Can't find file.
+[2021.06.25-13.11.06:704][533]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Up.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Up': Can't find file.
+[2021.06.25-13.11.06:704][533]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Up.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Up': Can't find file.
+[2021.06.25-13.11.06:704][533]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Up.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:704][533]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Up.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Up': Can't find file.
+[2021.06.25-13.11.06:704][533]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Right.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:704][533]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Right.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:704][533]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Up.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:704][533]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Up.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:704][533]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Up.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Up': Can't find file.
+[2021.06.25-13.11.06:705][533]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Up.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Up': Can't find file.
+[2021.06.25-13.11.06:705][533]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Up.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Up': Can't find file.
+[2021.06.25-13.11.06:705][533]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Up.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:705][533]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Up.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Up': Can't find file.
+[2021.06.25-13.11.06:705][533]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Right.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:705][533]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Right.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:708][533]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Right.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Right': Can't find file.
+[2021.06.25-13.11.06:708][533]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Right.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Right': Can't find file.
+[2021.06.25-13.11.06:708][533]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Right.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Right': Can't find file.
+[2021.06.25-13.11.06:708][533]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Right.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Right': Can't find file.
+[2021.06.25-13.11.06:721][534]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Right.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Right': Can't find file.
+[2021.06.25-13.11.06:721][534]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Right.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:721][534]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Right.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Right': Can't find file.
+[2021.06.25-13.11.06:721][534]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Left.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:721][534]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Left.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:721][534]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Left.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Left': Can't find file.
+[2021.06.25-13.11.06:721][534]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Left.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Left': Can't find file.
+[2021.06.25-13.11.06:721][534]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Left.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Left': Can't find file.
+[2021.06.25-13.11.06:721][534]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Right.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Right': Can't find file.
+[2021.06.25-13.11.06:721][534]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Right.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:721][534]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Right.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Right': Can't find file.
+[2021.06.25-13.11.06:721][534]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Left.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:721][534]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Left.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:721][534]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Left.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Left': Can't find file.
+[2021.06.25-13.11.06:721][534]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Left.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Left': Can't find file.
+[2021.06.25-13.11.06:721][534]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Left.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Left': Can't find file.
+[2021.06.25-13.11.06:724][534]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Left.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:724][534]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Left.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Left': Can't find file.
+[2021.06.25-13.11.06:724][534]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Down.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:724][534]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Left.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:724][534]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Left.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Left': Can't find file.
+[2021.06.25-13.11.06:724][534]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Down.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:733][535]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Down.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:733][535]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Down.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Down': Can't find file.
+[2021.06.25-13.11.06:733][535]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Down.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Down': Can't find file.
+[2021.06.25-13.11.06:733][535]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Down.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Down': Can't find file.
+[2021.06.25-13.11.06:733][535]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Down.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:733][535]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Down.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Down': Can't find file.
+[2021.06.25-13.11.06:733][535]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Down.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:733][535]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Down.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Down': Can't find file.
+[2021.06.25-13.11.06:733][535]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Down.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Down': Can't find file.
+[2021.06.25-13.11.06:733][535]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Down.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Down': Can't find file.
+[2021.06.25-13.11.06:733][535]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Down.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.06:733][535]PackagingResults: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Down.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Down': Can't find file.
+[2021.06.25-13.11.07:049][554]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 699 Packages Remain 46 Total 745
+[2021.06.25-13.11.09:200][683]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 720 Packages Remain 25 Total 745
+[2021.06.25-13.11.09:919][726]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 744 Packages Remain 0 Total 744
+[2021.06.25-13.11.09:919][726]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=747, VirtualMemory=832MiB
+[2021.06.25-13.11.09:919][726]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Finishing up...
+[2021.06.25-13.11.09:919][726]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Saving BulkData manifest(s)...
+[2021.06.25-13.11.09:919][726]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done saving BulkData manifest(s)
+[2021.06.25-13.11.09:919][726]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2021.06.25-13.11.09:919][726]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2021.06.25-13.11.09:919][726]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2021.06.25-13.11.09:965][729]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry.
+[2021.06.25-13.11.10:098][737]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 742, size is 346.63kb
+[2021.06.25-13.11.10:099][737]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2021.06.25-13.11.10:933][787]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:
+[2021.06.25-13.11.10:933][787]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Shader Code Stats: PCD3D_SM5
+[2021.06.25-13.11.10:933][787]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2021.06.25-13.11.10:933][787]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Unique Shaders: 4174, Total Shaders: 4590, Unique Shadermaps: 287
+[2021.06.25-13.11.10:933][787]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Unique Shaders Size: 9.61mb, Total Shader Size: 10.29mb
+[2021.06.25-13.11.10:933][787]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2021.06.25-13.11.10:933][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook by the book total time in tick 8.965893s total time 12.674991
+[2021.06.25-13.11.10:933][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Peak Used virtual 944 MiB Peak Used physical 983 MiB
+[2021.06.25-13.11.10:933][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2021.06.25-13.11.10:933][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   Root: 0.000s (0)
+[2021.06.25-13.11.10:933][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CleanSandbox: 0.054s (1)
+[2021.06.25-13.11.10:933][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.005s (1)
+[2021.06.25-13.11.10:933][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CollectFilesToCook: 0.272s (1)
+[2021.06.25-13.11.10:933][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CookModificationDelegate: 0.000s (1)
+[2021.06.25-13.11.10:933][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GenerateLongPackageName: 0.004s (1)
+[2021.06.25-13.11.10:933][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     TickCookOnTheSide: 8.966s (15)
+[2021.06.25-13.11.10:934][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       PostLoadPackageFixup: 0.002s (1591)
+[2021.06.25-13.11.10:934][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       LoadPackageForCooking: 5.950s (744)
+[2021.06.25-13.11.10:934][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SavingPackages: 2.989s (284)
+[2021.06.25-13.11.10:934][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         BeginPackageCacheForCookedPlatformData: 0.277s (77)
+[2021.06.25-13.11.10:934][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.712s (742)
+[2021.06.25-13.11.10:934][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           BeginPackageCacheForCookedPlatformData: 0.711s (667)
+[2021.06.25-13.11.10:934][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         SaveCookedPackage: 1.933s (744)
+[2021.06.25-13.11.10:934][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           GEditorSavePackage: 1.909s (744)
+[2021.06.25-13.11.10:934][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             ConvertingBlueprints: 0.008s (744)
+[2021.06.25-13.11.10:934][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             VerifyCanCookPackage: 0.006s (742)
+[2021.06.25-13.11.10:934][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.015s (744)
+[2021.06.25-13.11.10:934][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     FinalizePackageStore: 0.001s (1)
+[2021.06.25-13.11.10:934][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GeneratingBlueprintAssets: 0.002s (1)
+[2021.06.25-13.11.10:934][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingCurrentIniSettings: 0.026s (1)
+[2021.06.25-13.11.10:934][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.005s (1)
+[2021.06.25-13.11.10:934][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingAssetRegistry: 0.981s (1)
+[2021.06.25-13.11.10:934][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       BuildChunkManifest: 0.013s (1)
+[2021.06.25-13.11.10:934][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveManifests: 0.002s (1)
+[2021.06.25-13.11.10:934][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveRealAssetRegistry: 0.131s (1)
+[2021.06.25-13.11.10:934][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       WriteCookerOpenOrder: 0.002s (1)
+[2021.06.25-13.11.10:934][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done!
+[2021.06.25-13.11.10:949][788]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Display: Took 0.010751s to verify the EDL loading graph.
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ===============
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NiagaraShader.Misc
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000000
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.000574
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Load
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPreloadedDependencies=310
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumInlineLoads=119
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=595
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=6.360031
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: CookOnTheFlyServer
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakRequestQueueSize=542
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakLoadQueueSize=159
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakSaveQueueSize=151
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Save
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=744
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=1.655440
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.281805
+[2021.06.25-13.11.10:969][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.086245
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     FullyLoadLoadersTimeSec=0.000474
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ResetLoadersTimeSec=0.004039
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.007428
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000788
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.326104
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.325136
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.217358
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.000000
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     MBWritten=753.389568
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: UnversionedProperties
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedStructs=0
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedMB=0
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     EquivalentTaggedMB=0
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     CompressionRatio=-nan(ind)
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BitfieldWasteKB=0
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Cook Profile
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ============
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=18.154913
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=5.446462
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=12.698904
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=2.675273
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000042
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=9.985162
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=5.950375
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=1.933399
+[2021.06.25-13.11.10:970][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2021.06.25-13.11.10:971][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=0.989027
+[2021.06.25-13.11.10:971][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.000000
+[2021.06.25-13.11.10:971][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2021.06.25-13.11.10:971][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.000080
+[2021.06.25-13.11.10:971][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000027
+[2021.06.25-13.11.10:971][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000055
+[2021.06.25-13.11.10:971][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000009
+[2021.06.25-13.11.10:971][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2021.06.25-13.11.10:971][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2021.06.25-13.11.10:971][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =================
+[2021.06.25-13.11.10:971][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHits    =      2396
+[2021.06.25-13.11.10:971][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGets       =      2398
+[2021.06.25-13.11.10:971][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHitPct  =  0.999166
+[2021.06.25-13.11.10:971][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LocalGetHitPct  =  0.626772
+[2021.06.25-13.11.10:971][789]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SharedGetHitPct =  0.000000
+[2021.06.25-13.11.10:987][790]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: OtherGetHitPct  =  0.372394
+[2021.06.25-13.11.10:987][790]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GetMissPct      =  0.000834
+[2021.06.25-13.11.10:987][790]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHits    =         2
+[2021.06.25-13.11.10:987][790]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPuts       =         2
+[2021.06.25-13.11.10:987][790]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHitPct  =  1.000000
+[2021.06.25-13.11.10:987][790]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PutMissPct      =  0.000000
+[2021.06.25-13.11.10:987][790]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2021.06.25-13.11.10:987][790]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2021.06.25-13.11.10:987][790]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2021.06.25-13.11.10:987][790]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2021.06.25-13.11.10:987][790]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2021.06.25-13.11.10:987][790]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Streaming)                             4.06                   0.00             0        642.22
+[2021.06.25-13.11.10:987][790]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: AnimSequence                                    1.86                   1.86             0          3.45
+[2021.06.25-13.11.10:987][790]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader                                  0.36                   0.36             0          8.18
+[2021.06.25-13.11.10:987][790]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NavCollision                                    0.26                   0.26             0          0.86
+[2021.06.25-13.11.10:987][790]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: StaticMesh                                      0.26                   0.26             0         10.68
+[2021.06.25-13.11.10:987][790]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LandscapeCollision (Heightfield)                0.17                   0.17             0          4.03
+[2021.06.25-13.11.10:987][790]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.16                   0.16             0          3.89
+[2021.06.25-13.11.10:987][790]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SkeletalMesh                                    0.02                   0.02             0          1.82
+[2021.06.25-13.11.10:987][790]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.02                   0.02             0          6.56
+[2021.06.25-13.11.10:987][790]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.00                   0.00             2         60.19
+[2021.06.25-13.11.10:987][790]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2021.06.25-13.11.10:988][790]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2021.06.25-13.11.10:988][790]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Warning/Error Summary (Unique only)
+[2021.06.25-13.11.10:988][790]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: -----------------------------------
+[2021.06.25-13.11.10:988][790]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Y.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.10:988][790]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Y.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_Y_White': Can't find file.
+[2021.06.25-13.11.10:988][790]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_X.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.10:988][790]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_X.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_X_White': Can't find file.
+[2021.06.25-13.11.10:988][790]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_RMB.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.10:988][790]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_RMB.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_RMB': Can't find file.
+[2021.06.25-13.11.10:988][790]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Q.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.10:988][790]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_Q.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_Q_Key': Can't find file.
+[2021.06.25-13.11.10:988][790]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_LMB.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.10:988][790]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_LMB.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_LMB': Can't find file.
+[2021.06.25-13.11.10:988][790]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_E.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.10:988][790]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_E.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/T_Button_E_Key': Can't find file.
+[2021.06.25-13.11.10:988][790]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_B.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.10:988][790]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_B.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_B_White': Can't find file.
+[2021.06.25-13.11.10:988][790]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_A.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.11:000][791]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_UI_Button_A.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Buttons/Var_2/T_Button_A_White': Can't find file.
+[2021.06.25-13.11.11:000][791]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Up.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.11:000][791]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Up.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Up': Can't find file.
+[2021.06.25-13.11.11:000][791]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Right.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.11:000][791]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Right.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Right': Can't find file.
+[2021.06.25-13.11.11:000][791]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Left.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.11:000][791]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Left.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Left': Can't find file.
+[2021.06.25-13.11.11:000][791]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Down.uasset: Failed to load '/Game/TPSAT/Materials/UserInterface/M_WidgetTexture': Can't find file.
+[2021.06.25-13.11.11:000][791]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\10562\Desktop\Assashine\Multiplayer\Content\Materials\UserInterface\MI_ObjectArrow_Down.uasset: Failed to load '/Game/TPSAT/Textures/UserInterface/Arrows/T_ObjectArrow_Down': Can't find file.
+[2021.06.25-13.11.11:000][791]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2021.06.25-13.11.11:000][791]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Success - 0 error(s), 85 warning(s)
+[2021.06.25-13.11.11:000][791]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2021.06.25-13.11.11:000][791]UATHelper: Packaging (Windows (64-bit)):   
+[2021.06.25-13.11.11:000][791]UATHelper: Packaging (Windows (64-bit)):   Execution of commandlet took:  12.75 seconds
+[2021.06.25-13.11.11:298][809]UATHelper: Packaging (Windows (64-bit)):   LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2021.06.25-13.11.11:603][827]UATHelper: Packaging (Windows (64-bit)):   LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.06.25-13.11.13:999][971]UATHelper: Packaging (Windows (64-bit)): Took 21.4823578s to run UE4Editor-Cmd.exe, ExitCode=0
+[2021.06.25-13.11.14:014][972]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND COMPLETED **********
+[2021.06.25-13.11.14:014][972]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND STARTED **********
+[2021.06.25-13.11.14:082][976]UATHelper: Packaging (Windows (64-bit)): Creating Staging Manifest...
+[2021.06.25-13.11.14:164][981]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\BaseEditor.ini
+[2021.06.25-13.11.14:164][981]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\BaseEditorKeyBindings.ini
+[2021.06.25-13.11.14:164][981]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2021.06.25-13.11.14:164][981]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\BaseEditorSettings.ini
+[2021.06.25-13.11.14:164][981]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\BaseLightmass.ini
+[2021.06.25-13.11.14:164][981]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\BasePakFileRules.ini
+[2021.06.25-13.11.14:164][981]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\Category.ini
+[2021.06.25-13.11.14:164][981]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\Editor.ini
+[2021.06.25-13.11.14:164][981]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\EditorTutorials.ini
+[2021.06.25-13.11.14:164][981]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\Engine.ini
+[2021.06.25-13.11.14:164][981]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\Keywords.ini
+[2021.06.25-13.11.14:164][981]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\PortableObjectExport.ini
+[2021.06.25-13.11.14:164][981]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\PortableObjectImport.ini
+[2021.06.25-13.11.14:164][981]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\PropertyNames.ini
+[2021.06.25-13.11.14:164][981]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\RepairData.ini
+[2021.06.25-13.11.14:164][981]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\ToolTips.ini
+[2021.06.25-13.11.14:164][981]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\WordCount.ini
+[2021.06.25-13.11.14:186][982]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Users\10562\Desktop\Assashine\Multiplayer\Config\DefaultEditor.ini
+[2021.06.25-13.11.14:186][982]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Users\10562\Desktop\Assashine\Multiplayer\Config\DefaultEditorPerProjectUserSettings.ini
+[2021.06.25-13.11.14:336][991]UATHelper: Packaging (Windows (64-bit)): Cleaning Stage Directory: C:\Users\10562\Desktop\Assashine\Multiplayer\Saved\StagedBuilds\WindowsNoEditor
+[2021.06.25-13.11.14:369][993]UATHelper: Packaging (Windows (64-bit)): Creating pak using staging manifest.
+[2021.06.25-13.11.14:550][  4]UATHelper: Packaging (Windows (64-bit)): Executing 1 UnrealPak command...
+[2021.06.25-13.11.24:733][525]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (0/1)
+[2021.06.25-13.11.27:403][675]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/1)
+[2021.06.25-13.11.27:403][675]UATHelper: Packaging (Windows (64-bit)): Output from: C:\Users\10562\Desktop\Assashine\Multiplayer\AssaShineMulti_V100.uproject C:\Users\10562\Desktop\Assashine\Multiplayer\Saved\StagedBuilds\WindowsNoEditor\AssaShineMulti_V100\Content\Paks\AssaShineMulti_V100-WindowsNoEditor.pak -create="C:\Users\10562\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.26\PakList_AssaShineMulti_V100-WindowsNoEditor.txt" -cryptokeys=C:\Users\10562\Desktop\Assashine\Multiplayer\Saved\Cooked\WindowsNoEditor\AssaShineMulti_V100\Metadata\Crypto.json -order=C:\Users\10562\Desktop\Assashine\Multiplayer\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log -patchpaddingalign=2048 -platform=Windows  -multiprocess -abslog="C:\Users\10562\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.26\UnrealPak-AssaShineMulti_V100-WindowsNoEditor-2021.06.25-21.11.14.txt"
+[2021.06.25-13.11.27:403][675]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2021.06.25-13.11.27:403][675]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading response file C:\Users\10562\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.26\PakList_AssaShineMulti_V100-WindowsNoEditor.txt
+[2021.06.25-13.11.27:403][675]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 2763 entries to add to pak file.
+[2021.06.25-13.11.27:403][675]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading pak order file C:\Users\10562\Desktop\Assashine\Multiplayer\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log...
+[2021.06.25-13.11.27:403][675]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Finished loading pak order file C:\Users\10562\Desktop\Assashine\Multiplayer\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log.
+[2021.06.25-13.11.27:403][675]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collecting files to add to pak file...
+[2021.06.25-13.11.27:403][675]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collected 2763 files in 0.02s.
+[2021.06.25-13.11.27:403][675]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Creating pak C:\Users\10562\Desktop\Assashine\Multiplayer\Saved\StagedBuilds\WindowsNoEditor\AssaShineMulti_V100\Content\Paks\AssaShineMulti_V100-WindowsNoEditor.pak.
+[2021.06.25-13.11.27:403][675]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.06.25-13.11.27:403][675]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Performance to C:/Users/10562/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.00ms. RandomReadSpeed=999.00MBs, RandomWriteSpeed=999.00MBs. Assigned SpeedClass 'Local'
+[2021.06.25-13.11.27:403][675]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 2763 files, 470696321 bytes total, time 12.01s.
+[2021.06.25-13.11.27:403][675]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: PrimaryIndex size: 90318 bytes
+[2021.06.25-13.11.27:403][675]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: PathHashIndex size: 56746 bytes
+[2021.06.25-13.11.27:403][675]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: FullDirectoryIndex size: 91954 bytes
+[2021.06.25-13.11.27:403][675]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Compression summary: 55.15% of original size. Compressed Size 424060389 bytes, Original Size 768962145 bytes.
+[2021.06.25-13.11.27:403][675]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Used compression formats (in priority order) 'Zlib, '
+[2021.06.25-13.11.27:403][675]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Encryption - DISABLED
+[2021.06.25-13.11.27:403][675]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Unreal pak executed in 12.160519 seconds
+[2021.06.25-13.11.27:403][675]UATHelper: Packaging (Windows (64-bit)): UnrealPak terminated with exit code 0
+[2021.06.25-13.11.27:403][675]UATHelper: Packaging (Windows (64-bit)): Copying NonUFSFiles to staging directory: C:\Users\10562\Desktop\Assashine\Multiplayer\Saved\StagedBuilds\WindowsNoEditor
+[2021.06.25-13.11.27:685][692]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND COMPLETED **********
+[2021.06.25-13.11.27:685][692]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND STARTED **********
+[2021.06.25-13.11.27:685][692]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND COMPLETED **********
+[2021.06.25-13.11.27:685][692]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND STARTED **********
+[2021.06.25-13.11.27:685][692]UATHelper: Packaging (Windows (64-bit)): Archiving to C:/Users/10562/Desktop/WindowsNoEditor
+[2021.06.25-13.11.31:920][946]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND COMPLETED **********
+[2021.06.25-13.11.31:920][946]UATHelper: Packaging (Windows (64-bit)): BUILD SUCCESSFUL
+[2021.06.25-13.11.31:920][946]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
+[2021.06.25-13.11.56:601][569]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/foolicon.foolicon
+[2021.06.25-13.11.56:611][569]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.06.25-13.11.59:994][748]LogSlate: Window 'foolicon' being destroyed
+[2021.06.25-13.12.01:958][860]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/soccat.soccat
+[2021.06.25-13.12.05:571][ 69]LogSlate: Window 'soccat' being destroyed
+[2021.06.25-13.12.06:518][121]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/mageicon.mageicon
+[2021.06.25-13.12.13:994][562]LogSlate: Window 'mageicon' being destroyed
+[2021.06.25-13.12.16:140][684]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/vampicon.vampicon
+[2021.06.25-13.12.25:178][215]LogSlate: Window 'Color Picker' being destroyed
+[2021.06.25-13.12.31:708][606]LogSlate: Window 'vampicon' being destroyed
+[2021.06.25-13.12.36:891][911]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/foolicon.foolicon
+[2021.06.25-13.12.40:608][127]LogSlate: Window 'foolicon' being destroyed
+[2021.06.25-13.12.47:184][516]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/joker.joker
+[2021.06.25-13.12.49:090][623]LogSlate: Window 'joker' being destroyed
+[2021.06.25-13.12.50:052][677]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/mageicon.mageicon
+[2021.06.25-13.13.03:413][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/UserIcons/mageicon" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/mageicon.uasset" SILENT=true
+[2021.06.25-13.13.03:416][470]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/mageicon00F473E0412CDE94977C7497BC3CA52C.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/mageicon.uasset'
+[2021.06.25-13.13.03:437][470]AssetCheck: New page: Asset Save: mageicon
+[2021.06.25-13.13.03:437][470]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserIcons/mageicon.mageicon
+[2021.06.25-13.13.04:349][524]LogSlate: Window 'mageicon' being destroyed
+[2021.06.25-13.13.06:033][620]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/vampicon.vampicon
+[2021.06.25-13.13.09:903][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/UserIcons/vampicon" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/vampicon.uasset" SILENT=true
+[2021.06.25-13.13.09:906][842]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/vampicon116B5CB64AF7785D793C74B063C36E1B.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/vampicon.uasset'
+[2021.06.25-13.13.09:922][842]AssetCheck: New page: Asset Save: vampicon
+[2021.06.25-13.13.09:922][842]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserIcons/vampicon.vampicon
+[2021.06.25-13.13.10:490][875]LogSlate: Window 'vampicon' being destroyed
+[2021.06.25-13.13.11:924][956]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/soccat.soccat
+[2021.06.25-13.13.15:409][157]LogTexture: Display: Building textures: soccat (BGRA8, 553X404)
+[2021.06.25-13.13.16:625][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/UserIcons/soccat" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/soccat.uasset" SILENT=true
+[2021.06.25-13.13.16:628][228]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/soccatF7628CAF435355B506CA4D813CD26DDF.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/soccat.uasset'
+[2021.06.25-13.13.16:644][228]AssetCheck: New page: Asset Save: soccat
+[2021.06.25-13.13.16:644][228]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserIcons/soccat.soccat
+[2021.06.25-13.13.17:250][263]LogSlate: Window 'soccat' being destroyed
+[2021.06.25-13.13.18:875][355]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/foolicon.foolicon
+[2021.06.25-13.13.21:159][483]LogTexture: Display: Building textures: foolicon (BGRA8, 508X407)
+[2021.06.25-13.13.22:753][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/UserIcons/foolicon" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/foolicon.uasset" SILENT=true
+[2021.06.25-13.13.22:755][575]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/foolicon9D232F324CC5E0FA8D28DC9C6CDECA81.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/foolicon.uasset'
+[2021.06.25-13.13.22:770][575]AssetCheck: New page: Asset Save: foolicon
+[2021.06.25-13.13.22:770][575]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserIcons/foolicon.foolicon
+[2021.06.25-13.13.23:405][612]LogSlate: Window 'foolicon' being destroyed
+[2021.06.25-13.13.24:356][664]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/babaicon.babaicon
+[2021.06.25-13.13.26:618][793]LogSlate: Window 'babaicon' being destroyed
+[2021.06.25-13.13.27:647][849]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/bugicon.bugicon
+[2021.06.25-13.13.29:227][935]LogSlate: Window 'bugicon' being destroyed
+[2021.06.25-13.13.30:075][980]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/foolicon.foolicon
+[2021.06.25-13.13.32:322][107]LogSlate: Window 'foolicon' being destroyed
+[2021.06.25-13.13.33:227][155]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/gambleicon.gambleicon
+[2021.06.25-13.13.35:041][254]LogSlate: Window 'gambleicon' being destroyed
+[2021.06.25-13.13.35:916][301]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/joker.joker
+[2021.06.25-13.13.37:597][394]LogSlate: Window 'joker' being destroyed
+[2021.06.25-13.13.38:547][446]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/mageicon.mageicon
+[2021.06.25-13.13.41:574][620]LogTexture: Display: Building textures: mageicon (BGRA8, 579X462)
+[2021.06.25-13.13.43:215][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/UserIcons/mageicon" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/mageicon.uasset" SILENT=true
+[2021.06.25-13.13.43:218][716]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/mageicon17D05A034A3AAD5CC8862095EE550F2B.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/mageicon.uasset'
+[2021.06.25-13.13.43:235][716]AssetCheck: New page: Asset Save: mageicon
+[2021.06.25-13.13.43:235][716]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserIcons/mageicon.mageicon
+[2021.06.25-13.13.43:907][755]LogSlate: Window 'mageicon' being destroyed
+[2021.06.25-13.13.44:977][815]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/soccat.soccat
+[2021.06.25-13.13.46:982][927]LogTexture: Display: Building textures: soccat (BGRA8, 553X404)
+[2021.06.25-13.13.48:067][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/UserIcons/soccat" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/soccat.uasset" SILENT=true
+[2021.06.25-13.13.48:070][989]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/soccatF7935AC44E84DAC5ADE7058B12501C8E.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/soccat.uasset'
+[2021.06.25-13.13.48:087][989]AssetCheck: New page: Asset Save: soccat
+[2021.06.25-13.13.48:087][989]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserIcons/soccat.soccat
+[2021.06.25-13.13.48:745][ 27]LogSlate: Window 'soccat' being destroyed
+[2021.06.25-13.13.51:048][159]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/vampicon.vampicon
+[2021.06.25-13.13.52:344][227]LogTexture: Display: Building textures: vampicon (BGRA8, 525X413)
+[2021.06.25-13.13.53:436][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/UserIcons/vampicon" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/vampicon.uasset" SILENT=true
+[2021.06.25-13.13.53:438][291]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/vampicon775FF32548F6EE66DE341CB5E407C000.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/vampicon.uasset'
+[2021.06.25-13.13.53:453][291]AssetCheck: New page: Asset Save: vampicon
+[2021.06.25-13.13.53:453][291]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserIcons/vampicon.vampicon
+[2021.06.25-13.13.54:097][328]LogSlate: Window 'vampicon' being destroyed
+[2021.06.25-13.13.56:572][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.25-13.13.56:572][474]PIE: New page: PIE session: MainMenu (Jun 26, 2021, 5:13:56 AM)
+[2021.06.25-13.13.56:572][474]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.25-13.13.56:583][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010605s)
+[2021.06.25-13.13.56:584][474]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.25-13.13.56:584][474]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2021.06.25-13.13.56:584][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.011849s)
+[2021.06.25-13.13.56:702][474]LogUObjectHash: Compacting FUObjectHashTables data took   6.26ms
+[2021.06.25-13.13.56:705][474]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.06.25-13.13.56:705][474]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.25-13.13.56:705][474]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.25-13.13.56:705][474]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.25-13.13.56:705][474]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.25-13.13.56:705][474]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.25-13.13.56:705][474]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.25-13.13.56:705][474]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.25-13.13.56:705][474]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.25-13.13.56:705][474]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.25-13.13.56:705][474]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.25-13.13.56:709][474]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.25-13.13.56:709][474]LogAudioMixer: Display: 1: FrontRight
+[2021.06.25-13.13.56:721][474]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.25-13.13.56:721][474]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.25-13.13.56:721][474]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.25-13.13.56:721][474]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.25-13.13.56:722][474]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.25-13.13.56:722][474]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.25-13.13.56:722][474]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.25-13.13.56:739][474]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.25-13.13.56:739][474]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.25-13.13.56:739][474]LogInit: FAudioDevice initialized.
+[2021.06.25-13.13.56:739][474]LogAudio: Display: Audio Device (ID: 14) registered with world 'MainMenu'.
+[2021.06.25-13.13.56:770][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-13.13.56:770][474]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.25-13.13.56:773][474]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.25-21.13.56
+[2021.06.25-13.13.56:773][474]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.25-13.13.56:773][474]LogWorld: Bringing up level for play took: 0.001759
+[2021.06.25-13.13.56:773][474]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.06.25-13.13.56:775][474]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.25-13.13.56:776][474]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.25-13.13.56:779][474]PIE: Server logged in
+[2021.06.25-13.13.56:780][474]PIE: Play in editor total start time 0.209 seconds.
+[2021.06.25-13.13.56:780][474]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_MainMenu
+[2021.06.25-13.13.56:790][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009576s)
+[2021.06.25-13.13.56:791][474]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.25-13.13.56:791][474]LogPlayLevel: PIE: World Init took: (0.001097s)
+[2021.06.25-13.13.56:791][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_1_MainMenu.MainMenu (0.010868s)
+[2021.06.25-13.13.56:865][474]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.06.25-13.13.56:866][474]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.06.25-13.13.56:866][474]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.25-13.13.56:866][474]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.25-13.13.56:866][474]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.25-13.13.56:866][474]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.25-13.13.56:866][474]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.25-13.13.56:866][474]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.25-13.13.56:866][474]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.25-13.13.56:866][474]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.25-13.13.56:867][474]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.25-13.13.56:867][474]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.25-13.13.56:869][474]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.25-13.13.56:869][474]LogAudioMixer: Display: 1: FrontRight
+[2021.06.25-13.13.56:881][474]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.25-13.13.56:881][474]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.25-13.13.56:881][474]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.25-13.13.56:881][474]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.25-13.13.56:881][474]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.25-13.13.56:881][474]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.25-13.13.56:881][474]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.25-13.13.56:898][474]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.25-13.13.56:898][474]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.25-13.13.56:898][474]LogInit: FAudioDevice initialized.
+[2021.06.25-13.13.56:898][474]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainMenu'.
+[2021.06.25-13.13.56:931][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-13.13.56:931][474]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.25-13.13.56:933][474]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.25-21.13.56
+[2021.06.25-13.13.56:933][474]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.25-13.13.56:934][474]LogWorld: Bringing up level for play took: 0.001982
+[2021.06.25-13.13.56:934][474]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.06.25-13.13.56:936][474]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.25-13.13.56:936][474]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.25-13.13.56:939][474]PIE: Server logged in
+[2021.06.25-13.13.56:940][474]PIE: Play in editor total start time 0.369 seconds.
+[2021.06.25-13.13.56:940][474]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_2_MainMenu
+[2021.06.25-13.13.56:950][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009417s)
+[2021.06.25-13.13.56:951][474]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.25-13.13.56:951][474]LogPlayLevel: PIE: World Init took: (0.001197s)
+[2021.06.25-13.13.56:951][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_2_MainMenu.MainMenu (0.010769s)
+[2021.06.25-13.13.56:970][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.06.25-13.13.56:970][474]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.06.25-13.13.56:970][474]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.25-13.13.56:970][474]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.25-13.13.56:970][474]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.25-13.13.56:970][474]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.25-13.13.56:970][474]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.25-13.13.56:970][474]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.25-13.13.56:970][474]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.25-13.13.56:970][474]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.25-13.13.56:971][474]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.25-13.13.56:971][474]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.25-13.13.56:973][474]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.25-13.13.56:973][474]LogAudioMixer: Display: 1: FrontRight
+[2021.06.25-13.13.56:985][474]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.25-13.13.56:986][474]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.25-13.13.56:986][474]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.25-13.13.56:986][474]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.25-13.13.56:986][474]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.25-13.13.56:986][474]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.25-13.13.56:986][474]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.25-13.13.57:003][474]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.25-13.13.57:003][474]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.25-13.13.57:003][474]LogInit: FAudioDevice initialized.
+[2021.06.25-13.13.57:003][474]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainMenu'.
+[2021.06.25-13.13.57:041][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-13.13.57:041][474]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.25-13.13.57:043][474]LogWorld: Bringing World /Game/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.25-21.13.57
+[2021.06.25-13.13.57:044][474]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.25-13.13.57:044][474]LogWorld: Bringing up level for play took: 0.001764
+[2021.06.25-13.13.57:044][474]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.06.25-13.13.57:046][474]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.25-13.13.57:046][474]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.25-13.13.57:049][474]PIE: Server logged in
+[2021.06.25-13.13.57:050][474]PIE: Play in editor total start time 0.478 seconds.
+[2021.06.25-13.14.12:949][332]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.06.25-13.14.12:949][332]LogNet: Browse: /Game/Maps/Lobby?listen
+[2021.06.25-13.14.12:950][332]LogLoad: LoadMap: /Game/Maps/Lobby?listen
+[2021.06.25-13.14.12:950][332]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.25-13.14.12:950][332]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.25-13.14.12:950][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-13.14.12:967][332]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.25-13.14.12:972][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.06.25-13.14.12:979][332]LogAudio: Display: Audio Device (ID: 14) registered with world 'Lobby'.
+[2021.06.25-13.14.12:980][332]LogAIModule: Creating AISystem for world Lobby
+[2021.06.25-13.14.12:981][332]LogLoad: Game class is 'LobbyGM_C'
+[2021.06.25-13.14.12:981][332]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.06.25-13.14.12:981][332]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.06.25-13.14.12:981][332]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.06.25-13.14.12:981][332]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2021.06.25-13.14.12:981][332]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.06.25-13.14.12:981][332]LogNet: GameNetDriver IpNetDriver_3 IpNetDriver listening on port 7777
+[2021.06.25-13.14.12:983][332]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 60) at 2021.06.25-21.14.12
+[2021.06.25-13.14.12:983][332]LogWorld: Bringing up level for play took: 0.001041
+[2021.06.25-13.14.12:987][332]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.25-13.14.12:987][332]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.06.25-13.14.12:987][332]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.06.25-13.14.12:990][332]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.25-13.14.12:990][332]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.25-13.14.12:990][332]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.25-13.14.12:990][332]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.25-13.14.12:990][332]LogLoad: Took 0.041324 seconds to LoadMap(/Game/Maps/Lobby)
+[2021.06.25-13.14.15:041][454]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.06.25-13.14.15:041][454]LogGameState: Match State Changed from InProgress to LeavingMap
+[2021.06.25-13.14.15:041][454]LogNet: Browse: /Game/Maps/MainMenu
+[2021.06.25-13.14.15:041][454]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2021.06.25-13.14.15:041][454]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Lobby
+[2021.06.25-13.14.15:041][454]LogNet: World NetDriver shutdown IpNetDriver_3 [GameNetDriver]
+[2021.06.25-13.14.15:041][454]LogNet: DestroyNamedNetDriver IpNetDriver_3 [GameNetDriver]
+[2021.06.25-13.14.15:041][454]LogExit: GameNetDriver IpNetDriver_3 shut down
+[2021.06.25-13.14.15:042][454]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.06.25-13.14.15:042][454]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2021.06.25-13.14.15:042][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-13.14.15:082][454]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.25-13.14.15:086][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.06.25-13.14.15:086][454]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.25-13.14.15:096][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009129s)
+[2021.06.25-13.14.15:096][454]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.25-13.14.15:097][454]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2021.06.25-13.14.15:097][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.010414s)
+[2021.06.25-13.14.15:097][454]LogAudio: Display: Audio Device (ID: 14) registered with world 'MainMenu'.
+[2021.06.25-13.14.15:097][454]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.25-13.14.15:098][454]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.25-21.14.15
+[2021.06.25-13.14.15:099][454]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.25-13.14.15:099][454]LogWorld: Bringing up level for play took: 0.000837
+[2021.06.25-13.14.15:099][454]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.25-13.14.15:099][454]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.25-13.14.15:100][454]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.25-13.14.15:101][454]LogLoad: Took 0.060051 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenu)
+[2021.06.25-13.14.16:256][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-13.14.16:257][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-13.14.16:257][521]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_2_MainMenu
+[2021.06.25-13.14.16:273][521]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.25-13.14.16:280][521]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.25-13.14.16:280][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-13.14.16:287][521]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MainMenu
+[2021.06.25-13.14.16:287][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-13.14.16:287][521]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.25-13.14.16:290][521]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.25-13.14.16:290][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-13.14.16:297][521]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.25-13.14.16:297][521]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.25-13.14.16:303][521]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.25-13.14.16:304][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-13.14.16:314][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.25-13.14.16:324][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-13.14.16:341][521]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.25-13.14.16:342][521]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.25-13.14.16:342][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-13.14.16:344][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-13.14.16:364][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-13.14.16:365][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-13.14.16:384][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-13.14.16:385][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-13.14.16:412][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.06.25-13.14.16:463][522]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.06.25-13.14.16:463][522]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.06.25-13.14.16:463][522]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.06.25-13.14.18:379][633]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/mageicon.mageicon
+[2021.06.25-13.14.21:499][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/UserIcons/mageicon" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/mageicon.uasset" SILENT=true
+[2021.06.25-13.14.21:501][809]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/mageicon93C988FE4A00D0B5520B84A6F2D8E598.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/mageicon.uasset'
+[2021.06.25-13.14.21:516][809]AssetCheck: New page: Asset Save: mageicon
+[2021.06.25-13.14.21:516][809]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserIcons/mageicon.mageicon
+[2021.06.25-13.14.22:530][868]LogSlate: Window 'mageicon' being destroyed
+[2021.06.25-13.14.24:071][955]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/foolicon.foolicon
+[2021.06.25-13.14.27:309][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/UserIcons/foolicon" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/foolicon.uasset" SILENT=true
+[2021.06.25-13.14.27:312][138]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/fooliconA2C047CD48AF448FC5739F840195195F.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/foolicon.uasset'
+[2021.06.25-13.14.27:324][138]AssetCheck: New page: Asset Save: foolicon
+[2021.06.25-13.14.27:324][138]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserIcons/foolicon.foolicon
+[2021.06.25-13.14.28:060][181]LogSlate: Window 'foolicon' being destroyed
+[2021.06.25-13.14.28:911][227]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/vampicon.vampicon
+[2021.06.25-13.14.33:150][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/UserIcons/vampicon" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/vampicon.uasset" SILENT=true
+[2021.06.25-13.14.33:152][470]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/vampicon17F25804485BD97AA28607965C6371C3.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/vampicon.uasset'
+[2021.06.25-13.14.33:167][470]AssetCheck: New page: Asset Save: vampicon
+[2021.06.25-13.14.33:167][470]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserIcons/vampicon.vampicon
+[2021.06.25-13.14.33:901][512]LogSlate: Window 'vampicon' being destroyed
+[2021.06.25-13.14.34:801][561]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/soccat.soccat
+[2021.06.25-13.14.37:681][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/UserIcons/soccat" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/soccat.uasset" SILENT=true
+[2021.06.25-13.14.37:684][721]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/soccatF5D70B7249A56E8F1DF1CFA2541C02B3.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/soccat.uasset'
+[2021.06.25-13.14.37:697][721]AssetCheck: New page: Asset Save: soccat
+[2021.06.25-13.14.37:697][721]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserIcons/soccat.soccat
+[2021.06.25-13.14.38:199][750]LogSlate: Window 'soccat' being destroyed
+[2021.06.25-13.14.39:510][828]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.25-13.14.39:517][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.25-13.14.39:517][828]PIE: New page: PIE session: MainMenu (Jun 26, 2021, 5:14:39 AM)
+[2021.06.25-13.14.39:517][828]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.25-13.14.39:526][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009119s)
+[2021.06.25-13.14.39:527][828]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.25-13.14.39:527][828]LogPlayLevel: PIE: World Init took: (0.000936s)
+[2021.06.25-13.14.39:527][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.010165s)
+[2021.06.25-13.14.39:544][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.06.25-13.14.39:548][828]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.06.25-13.14.39:548][828]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.25-13.14.39:548][828]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.25-13.14.39:548][828]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.25-13.14.39:548][828]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.25-13.14.39:548][828]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.25-13.14.39:548][828]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.25-13.14.39:548][828]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.25-13.14.39:548][828]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.25-13.14.39:548][828]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.25-13.14.39:548][828]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.25-13.14.39:551][828]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.25-13.14.39:551][828]LogAudioMixer: Display: 1: FrontRight
+[2021.06.25-13.14.39:564][828]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.25-13.14.39:565][828]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.25-13.14.39:565][828]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.25-13.14.39:565][828]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.25-13.14.39:565][828]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.25-13.14.39:565][828]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.25-13.14.39:565][828]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.25-13.14.39:582][828]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.25-13.14.39:582][828]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.25-13.14.39:582][828]LogInit: FAudioDevice initialized.
+[2021.06.25-13.14.39:582][828]LogAudio: Display: Audio Device (ID: 17) registered with world 'MainMenu'.
+[2021.06.25-13.14.39:615][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-13.14.39:615][828]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.25-13.14.39:617][828]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.25-21.14.39
+[2021.06.25-13.14.39:617][828]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.25-13.14.39:617][828]LogWorld: Bringing up level for play took: 0.001860
+[2021.06.25-13.14.39:617][828]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.06.25-13.14.39:619][828]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.25-13.14.39:619][828]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.25-13.14.39:621][828]PIE: Server logged in
+[2021.06.25-13.14.39:624][828]PIE: Play in editor total start time 0.107 seconds.
+[2021.06.25-13.14.39:624][828]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_MainMenu
+[2021.06.25-13.14.39:633][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009887s)
+[2021.06.25-13.14.39:633][828]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.25-13.14.39:634][828]LogPlayLevel: PIE: World Init took: (0.000983s)
+[2021.06.25-13.14.39:634][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_1_MainMenu.MainMenu (0.010982s)
+[2021.06.25-13.14.39:653][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.06.25-13.14.39:653][828]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.06.25-13.14.39:653][828]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.25-13.14.39:653][828]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.25-13.14.39:653][828]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.25-13.14.39:653][828]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.25-13.14.39:653][828]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.25-13.14.39:653][828]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.25-13.14.39:653][828]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.25-13.14.39:653][828]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.25-13.14.39:654][828]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.25-13.14.39:654][828]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.25-13.14.39:656][828]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.25-13.14.39:656][828]LogAudioMixer: Display: 1: FrontRight
+[2021.06.25-13.14.39:679][828]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.25-13.14.39:679][828]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.25-13.14.39:679][828]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.25-13.14.39:679][828]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.25-13.14.39:680][828]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.25-13.14.39:680][828]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.25-13.14.39:680][828]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.25-13.14.39:697][828]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.25-13.14.39:697][828]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.25-13.14.39:697][828]LogInit: FAudioDevice initialized.
+[2021.06.25-13.14.39:697][828]LogAudio: Display: Audio Device (ID: 18) registered with world 'MainMenu'.
+[2021.06.25-13.14.39:734][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-13.14.39:734][828]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.25-13.14.39:736][828]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.25-21.14.39
+[2021.06.25-13.14.39:736][828]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.25-13.14.39:736][828]LogWorld: Bringing up level for play took: 0.001979
+[2021.06.25-13.14.39:737][828]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.06.25-13.14.39:738][828]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.25-13.14.39:738][828]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.25-13.14.39:741][828]PIE: Server logged in
+[2021.06.25-13.14.39:742][828]PIE: Play in editor total start time 0.227 seconds.
+[2021.06.25-13.14.39:743][828]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_2_MainMenu
+[2021.06.25-13.14.39:752][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008958s)
+[2021.06.25-13.14.39:752][828]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.25-13.14.39:753][828]LogPlayLevel: PIE: World Init took: (0.001063s)
+[2021.06.25-13.14.39:753][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_2_MainMenu.MainMenu (0.010135s)
+[2021.06.25-13.14.39:774][828]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.06.25-13.14.39:774][828]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.06.25-13.14.39:774][828]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.25-13.14.39:774][828]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.25-13.14.39:774][828]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.25-13.14.39:774][828]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.25-13.14.39:774][828]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.25-13.14.39:774][828]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.25-13.14.39:774][828]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.25-13.14.39:774][828]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.25-13.14.39:775][828]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.25-13.14.39:775][828]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.25-13.14.39:778][828]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.25-13.14.39:778][828]LogAudioMixer: Display: 1: FrontRight
+[2021.06.25-13.14.39:790][828]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.25-13.14.39:790][828]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.25-13.14.39:790][828]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.25-13.14.39:790][828]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.25-13.14.39:790][828]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.25-13.14.39:790][828]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.25-13.14.39:791][828]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.25-13.14.39:809][828]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.25-13.14.39:809][828]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.25-13.14.39:809][828]LogInit: FAudioDevice initialized.
+[2021.06.25-13.14.39:809][828]LogAudio: Display: Audio Device (ID: 19) registered with world 'MainMenu'.
+[2021.06.25-13.14.39:846][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-13.14.39:846][828]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.25-13.14.39:848][828]LogWorld: Bringing World /Game/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.25-21.14.39
+[2021.06.25-13.14.39:848][828]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.25-13.14.39:848][828]LogWorld: Bringing up level for play took: 0.001540
+[2021.06.25-13.14.39:848][828]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.06.25-13.14.39:850][828]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.25-13.14.39:851][828]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.25-13.14.39:853][828]PIE: Server logged in
+[2021.06.25-13.14.39:854][828]PIE: Play in editor total start time 0.338 seconds.
+[2021.06.25-13.14.56:102][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-13.14.56:104][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-13.14.56:104][685]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_2_MainMenu
+[2021.06.25-13.14.56:119][685]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.25-13.14.56:123][685]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.25-13.14.56:123][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-13.14.56:132][685]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MainMenu
+[2021.06.25-13.14.56:132][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-13.14.56:132][685]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.25-13.14.56:135][685]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.25-13.14.56:135][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-13.14.56:142][685]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.25-13.14.56:142][685]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.25-13.14.56:148][685]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.25-13.14.56:148][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-13.14.56:160][685]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.25-13.14.56:170][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-13.14.56:187][685]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.25-13.14.56:187][685]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-13.14.56:188][685]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-13.14.56:209][685]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.25-13.14.56:209][685]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.25-13.14.56:209][685]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-13.14.56:210][685]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-13.14.56:229][685]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-13.14.56:230][685]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-13.14.56:256][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.06.25-13.14.56:304][686]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.06.25-13.14.56:304][686]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.06.25-13.14.56:304][686]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.06.25-13.14.57:963][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.06.25-13.14.59:924][897]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/soccat.soccat
+[2021.06.25-13.15.04:683][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/UserIcons/soccat" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/soccat.uasset" SILENT=true
+[2021.06.25-13.15.04:731][170]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/soccatBAE5B9AD4280CADA0A2105BED39A44D7.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/soccat.uasset'
+[2021.06.25-13.15.04:743][170]AssetCheck: New page: Asset Save: soccat
+[2021.06.25-13.15.04:743][170]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserIcons/soccat.soccat
+[2021.06.25-13.15.18:244][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/UserIcons/soccat" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/soccat.uasset" SILENT=true
+[2021.06.25-13.15.18:247][974]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/soccatA6EB83B94E5CBCC9C6BBAD95A0D5DEDD.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/soccat.uasset'
+[2021.06.25-13.15.18:261][974]AssetCheck: New page: Asset Save: soccat
+[2021.06.25-13.15.18:261][974]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserIcons/soccat.soccat
+[2021.06.25-13.15.18:907][ 12]LogSlate: Window 'soccat' being destroyed
+[2021.06.25-13.15.20:026][ 74]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/mageicon.mageicon
+[2021.06.25-13.15.23:904][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/UserIcons/mageicon" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/mageicon.uasset" SILENT=true
+[2021.06.25-13.15.23:907][296]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/mageicon5F28B8774291929E7AC07AB7B8DE5647.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/mageicon.uasset'
+[2021.06.25-13.15.23:919][296]AssetCheck: New page: Asset Save: mageicon
+[2021.06.25-13.15.23:919][296]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserIcons/mageicon.mageicon
+[2021.06.25-13.15.24:872][352]LogSlate: Window 'mageicon' being destroyed
+[2021.06.25-13.15.26:497][445]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/vampicon.vampicon
+[2021.06.25-13.15.31:744][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/UserIcons/vampicon" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/vampicon.uasset" SILENT=true
+[2021.06.25-13.15.31:746][745]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/vampicon9F2685BD4F1FD36BA3D5488607037538.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/vampicon.uasset'
+[2021.06.25-13.15.31:760][745]AssetCheck: New page: Asset Save: vampicon
+[2021.06.25-13.15.31:760][745]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserIcons/vampicon.vampicon
+[2021.06.25-13.15.32:460][786]LogSlate: Window 'vampicon' being destroyed
+[2021.06.25-13.15.33:426][841]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.25-13.15.33:432][841]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.25-13.15.33:433][841]PIE: New page: PIE session: MainMenu (Jun 26, 2021, 5:15:33 AM)
+[2021.06.25-13.15.33:433][841]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.25-13.15.33:441][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008446s)
+[2021.06.25-13.15.33:442][841]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.25-13.15.33:442][841]LogPlayLevel: PIE: World Init took: (0.001004s)
+[2021.06.25-13.15.33:442][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.009560s)
+[2021.06.25-13.15.33:461][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.06.25-13.15.33:465][841]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.06.25-13.15.33:465][841]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.25-13.15.33:465][841]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.25-13.15.33:465][841]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.25-13.15.33:466][841]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.25-13.15.33:466][841]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.25-13.15.33:466][841]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.25-13.15.33:466][841]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.25-13.15.33:466][841]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.25-13.15.33:466][841]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.25-13.15.33:466][841]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.25-13.15.33:469][841]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.25-13.15.33:469][841]LogAudioMixer: Display: 1: FrontRight
+[2021.06.25-13.15.33:482][841]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.25-13.15.33:482][841]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.25-13.15.33:482][841]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.25-13.15.33:482][841]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.25-13.15.33:482][841]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.25-13.15.33:482][841]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.25-13.15.33:482][841]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.25-13.15.33:500][841]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.25-13.15.33:500][841]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.25-13.15.33:500][841]LogInit: FAudioDevice initialized.
+[2021.06.25-13.15.33:500][841]LogAudio: Display: Audio Device (ID: 20) registered with world 'MainMenu'.
+[2021.06.25-13.15.33:529][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-13.15.33:529][841]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.25-13.15.33:532][841]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.25-21.15.33
+[2021.06.25-13.15.33:532][841]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.25-13.15.33:532][841]LogWorld: Bringing up level for play took: 0.001944
+[2021.06.25-13.15.33:532][841]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.06.25-13.15.33:534][841]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.25-13.15.33:534][841]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.25-13.15.33:537][841]PIE: Server logged in
+[2021.06.25-13.15.33:538][841]PIE: Play in editor total start time 0.106 seconds.
+[2021.06.25-13.15.33:538][841]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_MainMenu
+[2021.06.25-13.15.33:547][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008650s)
+[2021.06.25-13.15.33:548][841]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.25-13.15.33:548][841]LogPlayLevel: PIE: World Init took: (0.001654s)
+[2021.06.25-13.15.33:548][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_1_MainMenu.MainMenu (0.010446s)
+[2021.06.25-13.15.33:566][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.06.25-13.15.33:567][841]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.06.25-13.15.33:567][841]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.25-13.15.33:567][841]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.25-13.15.33:567][841]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.25-13.15.33:567][841]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.25-13.15.33:567][841]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.25-13.15.33:567][841]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.25-13.15.33:567][841]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.25-13.15.33:567][841]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.25-13.15.33:568][841]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.25-13.15.33:568][841]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.25-13.15.33:570][841]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.25-13.15.33:570][841]LogAudioMixer: Display: 1: FrontRight
+[2021.06.25-13.15.33:581][841]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.25-13.15.33:581][841]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.25-13.15.33:582][841]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.25-13.15.33:582][841]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.25-13.15.33:582][841]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.25-13.15.33:582][841]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.25-13.15.33:582][841]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.25-13.15.33:597][841]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.25-13.15.33:597][841]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.25-13.15.33:597][841]LogInit: FAudioDevice initialized.
+[2021.06.25-13.15.33:597][841]LogAudio: Display: Audio Device (ID: 21) registered with world 'MainMenu'.
+[2021.06.25-13.15.33:630][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-13.15.33:630][841]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.25-13.15.33:632][841]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.25-21.15.33
+[2021.06.25-13.15.33:632][841]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.25-13.15.33:632][841]LogWorld: Bringing up level for play took: 0.001621
+[2021.06.25-13.15.33:633][841]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2021.06.25-13.15.33:634][841]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.25-13.15.33:635][841]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.25-13.15.33:638][841]PIE: Server logged in
+[2021.06.25-13.15.33:639][841]PIE: Play in editor total start time 0.207 seconds.
+[2021.06.25-13.15.33:639][841]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_2_MainMenu
+[2021.06.25-13.15.33:648][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009479s)
+[2021.06.25-13.15.33:650][841]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.25-13.15.33:651][841]LogPlayLevel: PIE: World Init took: (0.002519s)
+[2021.06.25-13.15.33:651][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_2_MainMenu.MainMenu (0.012201s)
+[2021.06.25-13.15.33:669][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.06.25-13.15.33:669][841]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.06.25-13.15.33:670][841]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.25-13.15.33:670][841]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.25-13.15.33:670][841]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.25-13.15.33:670][841]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.25-13.15.33:670][841]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.25-13.15.33:670][841]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.25-13.15.33:670][841]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.25-13.15.33:670][841]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.25-13.15.33:670][841]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.25-13.15.33:670][841]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.25-13.15.33:673][841]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.25-13.15.33:673][841]LogAudioMixer: Display: 1: FrontRight
+[2021.06.25-13.15.33:684][841]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.25-13.15.33:684][841]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.25-13.15.33:684][841]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.25-13.15.33:684][841]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.25-13.15.33:685][841]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.25-13.15.33:685][841]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.25-13.15.33:685][841]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.25-13.15.33:703][841]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.25-13.15.33:703][841]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.25-13.15.33:703][841]LogInit: FAudioDevice initialized.
+[2021.06.25-13.15.33:703][841]LogAudio: Display: Audio Device (ID: 22) registered with world 'MainMenu'.
+[2021.06.25-13.15.33:740][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-13.15.33:740][841]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.25-13.15.33:742][841]LogWorld: Bringing World /Game/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.25-21.15.33
+[2021.06.25-13.15.33:742][841]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.25-13.15.33:742][841]LogWorld: Bringing up level for play took: 0.001336
+[2021.06.25-13.15.33:742][841]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2021.06.25-13.15.33:744][841]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.25-13.15.33:744][841]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.25-13.15.33:747][841]PIE: Server logged in
+[2021.06.25-13.15.33:748][841]PIE: Play in editor total start time 0.316 seconds.
+[2021.06.25-13.15.55:227][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-13.15.55:228][991]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_2_MainMenu
+[2021.06.25-13.15.55:229][991]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.25-13.15.55:251][991]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.25-13.15.55:252][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-13.15.55:261][991]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MainMenu
+[2021.06.25-13.15.55:261][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-13.15.55:261][991]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.25-13.15.55:297][991]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.25-13.15.55:297][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-13.15.55:304][991]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.25-13.15.55:304][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-13.15.55:304][991]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.25-13.15.55:311][991]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.25-13.15.55:312][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-13.15.55:321][991]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.25-13.15.55:332][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-13.15.55:350][991]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.25-13.15.55:350][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-13.15.55:351][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-13.15.55:371][991]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.25-13.15.55:372][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-13.15.55:373][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-13.15.55:391][991]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.25-13.15.55:391][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-13.15.55:392][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-13.15.55:417][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.06.25-13.15.55:439][992]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.06.25-13.15.55:439][992]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.06.25-13.15.55:439][992]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.06.25-13.15.56:559][ 56]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/soccat.soccat
+[2021.06.25-13.16.04:717][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/UserIcons/soccat" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/soccat.uasset" SILENT=true
+[2021.06.25-13.16.04:720][534]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/soccat45AF21B5430F80AFAE567088611C345B.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/soccat.uasset'
+[2021.06.25-13.16.04:734][534]AssetCheck: New page: Asset Save: soccat
+[2021.06.25-13.16.04:734][534]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserIcons/soccat.soccat
+[2021.06.25-13.16.05:388][572]LogSlate: Window 'soccat' being destroyed
+[2021.06.25-13.16.07:918][719]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/babaicon.babaicon
+[2021.06.25-13.16.16:453][222]LogSlate: Window 'babaicon' being destroyed
+[2021.06.25-13.16.18:599][346]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/foolicon.foolicon
+[2021.06.25-13.16.23:573][636]LogTexture: Display: Building textures: foolicon (BGRA8, 508X407)
+[2021.06.25-13.16.29:820][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/UserIcons/foolicon" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/foolicon.uasset" SILENT=true
+[2021.06.25-13.16.29:822][970]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/foolicon193E2E22463664898FD5B8B2B1BDBB98.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/foolicon.uasset'
+[2021.06.25-13.16.29:834][970]AssetCheck: New page: Asset Save: foolicon
+[2021.06.25-13.16.29:834][970]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserIcons/foolicon.foolicon
+[2021.06.25-13.16.30:351][  0]LogSlate: Window 'foolicon' being destroyed
+[2021.06.25-13.16.31:242][ 47]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/gambleicon.gambleicon
+[2021.06.25-13.16.33:055][147]LogSlate: Window 'gambleicon' being destroyed
+[2021.06.25-13.16.34:471][227]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/mageicon.mageicon
+[2021.06.25-13.16.40:186][558]LogTexture: Display: Building textures: mageicon (BGRA8, 579X462)
+[2021.06.25-13.16.41:492][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/UserIcons/mageicon" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/mageicon.uasset" SILENT=true
+[2021.06.25-13.16.41:495][633]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/mageicon74377341448089CEFDE6569EF9D968E6.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/mageicon.uasset'
+[2021.06.25-13.16.41:512][633]AssetCheck: New page: Asset Save: mageicon
+[2021.06.25-13.16.41:512][633]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserIcons/mageicon.mageicon
+[2021.06.25-13.16.42:522][693]LogSlate: Window 'mageicon' being destroyed
+[2021.06.25-13.16.45:003][836]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/vampicon.vampicon
+[2021.06.25-13.16.48:481][ 36]LogTexture: Display: Building textures: vampicon (BGRA8, 525X413)
+[2021.06.25-13.16.50:012][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/UserIcons/vampicon" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/vampicon.uasset" SILENT=true
+[2021.06.25-13.16.50:014][125]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/vampiconE29B9FFE40A6884017CB4297A0A5C577.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserIcons/vampicon.uasset'
+[2021.06.25-13.16.50:027][125]AssetCheck: New page: Asset Save: vampicon
+[2021.06.25-13.16.50:027][125]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserIcons/vampicon.vampicon
+[2021.06.25-13.16.51:947][239]LogSlate: Window 'vampicon' being destroyed
+[2021.06.25-13.16.53:014][299]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UserIcons/soccat.soccat
+[2021.06.25-13.16.55:339][429]LogSlate: Window 'soccat' being destroyed
+[2021.06.25-13.16.56:194][479]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.25-13.16.56:202][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.25-13.16.56:202][479]PIE: New page: PIE session: MainMenu (Jun 26, 2021, 5:16:56 AM)
+[2021.06.25-13.16.56:202][479]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.25-13.16.56:210][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008444s)
+[2021.06.25-13.16.56:211][479]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.25-13.16.56:211][479]LogPlayLevel: PIE: World Init took: (0.000947s)
+[2021.06.25-13.16.56:211][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.009504s)
+[2021.06.25-13.16.56:231][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.06.25-13.16.56:238][479]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.06.25-13.16.56:238][479]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.25-13.16.56:238][479]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.25-13.16.56:238][479]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.25-13.16.56:238][479]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.25-13.16.56:238][479]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.25-13.16.56:238][479]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.25-13.16.56:238][479]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.25-13.16.56:238][479]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.25-13.16.56:239][479]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.25-13.16.56:239][479]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.25-13.16.56:241][479]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.25-13.16.56:241][479]LogAudioMixer: Display: 1: FrontRight
+[2021.06.25-13.16.56:254][479]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.25-13.16.56:254][479]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.25-13.16.56:254][479]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.25-13.16.56:254][479]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.25-13.16.56:254][479]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.25-13.16.56:254][479]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.25-13.16.56:254][479]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.25-13.16.56:271][479]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.25-13.16.56:271][479]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.25-13.16.56:271][479]LogInit: FAudioDevice initialized.
+[2021.06.25-13.16.56:271][479]LogAudio: Display: Audio Device (ID: 23) registered with world 'MainMenu'.
+[2021.06.25-13.16.56:305][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-13.16.56:305][479]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.25-13.16.56:307][479]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.25-21.16.56
+[2021.06.25-13.16.56:307][479]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.25-13.16.56:308][479]LogWorld: Bringing up level for play took: 0.001817
+[2021.06.25-13.16.56:308][479]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.06.25-13.16.56:309][479]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.25-13.16.56:309][479]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.25-13.16.56:312][479]PIE: Server logged in
+[2021.06.25-13.16.56:313][479]PIE: Play in editor total start time 0.113 seconds.
+[2021.06.25-13.16.56:313][479]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_MainMenu
+[2021.06.25-13.16.56:322][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008785s)
+[2021.06.25-13.16.56:323][479]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.25-13.16.56:324][479]LogPlayLevel: PIE: World Init took: (0.001594s)
+[2021.06.25-13.16.56:324][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_1_MainMenu.MainMenu (0.010557s)
+[2021.06.25-13.16.56:341][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.06.25-13.16.56:342][479]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2021.06.25-13.16.56:342][479]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.25-13.16.56:342][479]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.25-13.16.56:342][479]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.25-13.16.56:342][479]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.25-13.16.56:342][479]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.25-13.16.56:342][479]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.25-13.16.56:342][479]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.25-13.16.56:342][479]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.25-13.16.56:342][479]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.25-13.16.56:342][479]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.25-13.16.56:345][479]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.25-13.16.56:345][479]LogAudioMixer: Display: 1: FrontRight
+[2021.06.25-13.16.56:357][479]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.25-13.16.56:357][479]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.25-13.16.56:357][479]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.25-13.16.56:357][479]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.25-13.16.56:358][479]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.25-13.16.56:358][479]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.25-13.16.56:358][479]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.25-13.16.56:374][479]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.25-13.16.56:374][479]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.25-13.16.56:374][479]LogInit: FAudioDevice initialized.
+[2021.06.25-13.16.56:374][479]LogAudio: Display: Audio Device (ID: 24) registered with world 'MainMenu'.
+[2021.06.25-13.16.56:405][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-13.16.56:405][479]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.25-13.16.56:408][479]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.25-21.16.56
+[2021.06.25-13.16.56:408][479]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.25-13.16.56:408][479]LogWorld: Bringing up level for play took: 0.001983
+[2021.06.25-13.16.56:408][479]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2021.06.25-13.16.56:410][479]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.25-13.16.56:410][479]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.25-13.16.56:413][479]PIE: Server logged in
+[2021.06.25-13.16.56:415][479]PIE: Play in editor total start time 0.214 seconds.
+[2021.06.25-13.16.56:415][479]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_2_MainMenu
+[2021.06.25-13.16.56:425][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009514s)
+[2021.06.25-13.16.56:425][479]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.25-13.16.56:426][479]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2021.06.25-13.16.56:426][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_2_MainMenu.MainMenu (0.010648s)
+[2021.06.25-13.16.56:445][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.06.25-13.16.56:445][479]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2021.06.25-13.16.56:445][479]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.25-13.16.56:445][479]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.25-13.16.56:445][479]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.25-13.16.56:445][479]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.25-13.16.56:445][479]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.25-13.16.56:445][479]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.25-13.16.56:445][479]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.25-13.16.56:445][479]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.25-13.16.56:445][479]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.25-13.16.56:445][479]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.25-13.16.56:448][479]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.25-13.16.56:448][479]LogAudioMixer: Display: 1: FrontRight
+[2021.06.25-13.16.56:458][479]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.25-13.16.56:458][479]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.25-13.16.56:460][479]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.25-13.16.56:460][479]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.25-13.16.56:460][479]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.25-13.16.56:460][479]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.25-13.16.56:460][479]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.25-13.16.56:475][479]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.25-13.16.56:475][479]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.25-13.16.56:475][479]LogInit: FAudioDevice initialized.
+[2021.06.25-13.16.56:475][479]LogAudio: Display: Audio Device (ID: 25) registered with world 'MainMenu'.
+[2021.06.25-13.16.56:508][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-13.16.56:508][479]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.06.25-13.16.56:510][479]LogWorld: Bringing World /Game/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 60) at 2021.06.25-21.16.56
+[2021.06.25-13.16.56:510][479]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.06.25-13.16.56:511][479]LogWorld: Bringing up level for play took: 0.002040
+[2021.06.25-13.16.56:511][479]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2021.06.25-13.16.56:513][479]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.25-13.16.56:513][479]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.25-13.16.56:516][479]PIE: Server logged in
+[2021.06.25-13.16.56:517][479]PIE: Play in editor total start time 0.317 seconds.
+[2021.06.25-13.17.10:449][216]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.25-13.17.10:474][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-13.17.10:474][216]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_2_MainMenu
+[2021.06.25-13.17.10:474][216]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.25-13.17.10:477][216]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.25-13.17.10:478][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-13.17.10:488][216]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MainMenu
+[2021.06.25-13.17.10:488][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-13.17.10:488][216]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.25-13.17.10:495][216]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.25-13.17.10:496][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-13.17.10:505][216]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.06.25-13.17.10:505][216]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.25-13.17.10:506][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-13.17.10:515][216]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.25-13.17.10:525][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-13.17.10:542][216]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.25-13.17.10:542][216]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-13.17.10:544][216]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-13.17.10:563][216]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.25-13.17.10:563][216]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.25-13.17.10:563][216]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-13.17.10:564][216]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-13.17.10:585][216]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-13.17.10:586][216]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-13.17.10:611][216]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.06.25-13.17.10:638][217]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2021.06.25-13.17.10:638][217]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2021.06.25-13.17.10:638][217]LogPlayLevel: Display: Destroying online subsystem :Context_40
