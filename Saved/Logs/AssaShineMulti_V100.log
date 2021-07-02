@@ -11016,3 +11016,1258 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.02-03.54.22:363][979]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/HostMenuC3B812534B958432E737029B8F1F5F7D.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/HostMenu.uasset'
 [2021.07.02-03.54.22:382][979]AssetCheck: New page: Asset Save: HostMenu
 [2021.07.02-03.54.22:383][979]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/HostMenu.HostMenu
+[2021.07.02-03.54.52:165][649]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.07.02-03.54.52:173][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.02-03.54.52:173][649]PIE: New page: PIE session: MainMenu (Jul 2, 2021, 7:54:52 PM)
+[2021.07.02-03.54.52:173][649]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.07.02-03.54.52:182][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008480s)
+[2021.07.02-03.54.52:183][649]LogAIModule: Creating AISystem for world MainMenu
+[2021.07.02-03.54.52:183][649]LogPlayLevel: PIE: World Init took: (0.001290s)
+[2021.07.02-03.54.52:183][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.009898s)
+[2021.07.02-03.54.52:237][649]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2021.07.02-03.54.52:238][649]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2021.07.02-03.54.52:238][649]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.02-03.54.52:238][649]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.02-03.54.52:238][649]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.02-03.54.52:238][649]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.02-03.54.52:238][649]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.02-03.54.52:238][649]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.02-03.54.52:238][649]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.02-03.54.52:238][649]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.02-03.54.52:238][649]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.02-03.54.52:239][649]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.02-03.54.52:241][649]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.02-03.54.52:241][649]LogAudioMixer: Display: 1: FrontRight
+[2021.07.02-03.54.52:255][649]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.02-03.54.52:255][649]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.02-03.54.52:255][649]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.02-03.54.52:255][649]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.02-03.54.52:255][649]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.02-03.54.52:255][649]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.02-03.54.52:255][649]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.02-03.54.52:271][649]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.02-03.54.52:271][649]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.02-03.54.52:271][649]LogInit: FAudioDevice initialized.
+[2021.07.02-03.54.52:271][649]LogAudio: Display: Audio Device (ID: 27) registered with world 'MainMenu'.
+[2021.07.02-03.54.52:295][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-03.54.52:295][649]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.07.02-03.54.52:299][649]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.07.02-11.54.52
+[2021.07.02-03.54.52:299][649]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.07.02-03.54.52:299][649]LogWorld: Bringing up level for play took: 0.002886
+[2021.07.02-03.54.52:299][649]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2021.07.02-03.54.52:302][649]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.07.02-03.54.52:302][649]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.07.02-03.54.52:302][649]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.07.02-03.54.52:305][649]PIE: Server logged in
+[2021.07.02-03.54.52:306][649]PIE: Play in editor total start time 0.134 seconds.
+[2021.07.02-03.55.25:809][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-03.55.25:810][650]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.07.02-03.55.25:810][650]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.07.02-03.55.25:815][650]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-03.55.25:815][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-03.55.25:827][650]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.02-03.55.25:850][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-03.55.25:897][650]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.02-03.55.25:898][650]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-03.55.25:899][650]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-03.55.25:920][650]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2021.07.02-03.55.25:940][651]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2021.07.02-03.55.34:433][156]BlueprintLog: New page: Compile HostMenu
+[2021.07.02-03.55.34:508][156]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2021.07.02-03.55.34:773][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/HostMenu" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/HostMenu.uasset" SILENT=true
+[2021.07.02-03.55.34:828][159]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/HostMenu9784E98A41E143143595EC8371B010A1.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/HostMenu.uasset'
+[2021.07.02-03.55.34:845][159]AssetCheck: New page: Asset Save: HostMenu
+[2021.07.02-03.55.34:845][159]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/HostMenu.HostMenu
+[2021.07.02-03.55.35:326][187]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.07.02-03.55.35:334][187]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.02-03.55.35:334][187]PIE: New page: PIE session: MainMenu (Jul 2, 2021, 7:55:35 PM)
+[2021.07.02-03.55.35:334][187]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.07.02-03.55.35:342][187]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008368s)
+[2021.07.02-03.55.35:343][187]LogAIModule: Creating AISystem for world MainMenu
+[2021.07.02-03.55.35:344][187]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2021.07.02-03.55.35:344][187]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.009473s)
+[2021.07.02-03.55.35:404][187]LogUObjectHash: Compacting FUObjectHashTables data took   6.32ms
+[2021.07.02-03.55.35:406][187]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2021.07.02-03.55.35:406][187]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.02-03.55.35:406][187]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.02-03.55.35:406][187]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.02-03.55.35:406][187]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.02-03.55.35:406][187]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.02-03.55.35:406][187]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.02-03.55.35:406][187]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.02-03.55.35:406][187]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.02-03.55.35:407][187]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.02-03.55.35:407][187]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.02-03.55.35:409][187]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.02-03.55.35:409][187]LogAudioMixer: Display: 1: FrontRight
+[2021.07.02-03.55.35:424][187]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.02-03.55.35:424][187]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.02-03.55.35:424][187]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.02-03.55.35:424][187]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.02-03.55.35:425][187]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.02-03.55.35:425][187]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.02-03.55.35:425][187]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.02-03.55.35:440][187]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.02-03.55.35:440][187]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.02-03.55.35:440][187]LogInit: FAudioDevice initialized.
+[2021.07.02-03.55.35:440][187]LogAudio: Display: Audio Device (ID: 28) registered with world 'MainMenu'.
+[2021.07.02-03.55.35:464][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-03.55.35:464][187]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.07.02-03.55.35:467][187]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.07.02-11.55.35
+[2021.07.02-03.55.35:467][187]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.07.02-03.55.35:467][187]LogWorld: Bringing up level for play took: 0.001978
+[2021.07.02-03.55.35:467][187]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2021.07.02-03.55.35:470][187]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.07.02-03.55.35:470][187]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.07.02-03.55.35:470][187]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.07.02-03.55.35:473][187]PIE: Server logged in
+[2021.07.02-03.55.35:474][187]PIE: Play in editor total start time 0.141 seconds.
+[2021.07.02-03.55.59:347][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-03.55.59:348][612]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.07.02-03.55.59:349][612]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.07.02-03.55.59:393][612]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-03.55.59:393][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-03.55.59:404][612]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.02-03.55.59:426][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-03.55.59:470][612]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.02-03.55.59:470][612]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-03.55.59:471][612]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-03.55.59:492][612]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2021.07.02-03.55.59:510][613]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2021.07.02-03.56.02:164][772]BlueprintLog: New page: Compile HostMenu
+[2021.07.02-03.56.02:238][772]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2021.07.02-03.56.02:906][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/HostMenu" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/HostMenu.uasset" SILENT=true
+[2021.07.02-03.56.02:961][800]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/HostMenu8C46F3604F6020AD1400909D61B19792.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/HostMenu.uasset'
+[2021.07.02-03.56.02:976][800]AssetCheck: New page: Asset Save: HostMenu
+[2021.07.02-03.56.02:976][800]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/HostMenu.HostMenu
+[2021.07.02-03.56.03:750][847]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.07.02-03.56.03:759][847]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.02-03.56.03:759][847]PIE: New page: PIE session: MainMenu (Jul 2, 2021, 7:56:03 PM)
+[2021.07.02-03.56.03:759][847]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.07.02-03.56.03:767][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008505s)
+[2021.07.02-03.56.03:768][847]LogAIModule: Creating AISystem for world MainMenu
+[2021.07.02-03.56.03:768][847]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2021.07.02-03.56.03:768][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.009570s)
+[2021.07.02-03.56.03:820][847]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2021.07.02-03.56.03:823][847]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2021.07.02-03.56.03:823][847]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.02-03.56.03:823][847]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.02-03.56.03:823][847]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.02-03.56.03:823][847]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.02-03.56.03:823][847]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.02-03.56.03:823][847]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.02-03.56.03:823][847]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.02-03.56.03:823][847]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.02-03.56.03:824][847]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.02-03.56.03:824][847]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.02-03.56.03:826][847]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.02-03.56.03:826][847]LogAudioMixer: Display: 1: FrontRight
+[2021.07.02-03.56.03:839][847]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.02-03.56.03:839][847]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.02-03.56.03:839][847]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.02-03.56.03:839][847]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.02-03.56.03:840][847]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.02-03.56.03:840][847]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.02-03.56.03:840][847]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.02-03.56.03:841][847]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.02-03.56.03:841][847]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.02-03.56.03:841][847]LogInit: FAudioDevice initialized.
+[2021.07.02-03.56.03:841][847]LogAudio: Display: Audio Device (ID: 29) registered with world 'MainMenu'.
+[2021.07.02-03.56.03:868][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-03.56.03:868][847]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.07.02-03.56.03:871][847]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.07.02-11.56.03
+[2021.07.02-03.56.03:871][847]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.07.02-03.56.03:871][847]LogWorld: Bringing up level for play took: 0.002605
+[2021.07.02-03.56.03:871][847]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2021.07.02-03.56.03:874][847]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.07.02-03.56.03:874][847]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.07.02-03.56.03:874][847]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.07.02-03.56.03:876][847]PIE: Server logged in
+[2021.07.02-03.56.03:877][847]PIE: Play in editor total start time 0.12 seconds.
+[2021.07.02-03.56.16:145][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-03.56.16:146][578]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.07.02-03.56.16:146][578]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.07.02-03.56.16:151][578]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-03.56.16:152][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-03.56.16:159][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.02-03.56.16:182][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-03.56.16:227][578]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.02-03.56.16:228][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-03.56.16:229][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-03.56.16:251][578]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2021.07.02-03.56.16:270][579]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2021.07.02-03.56.34:289][629]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.07.02-03.56.34:314][629]LogMaterial: Display: Missing cached shader map for material palettemat, compiling. 
+[2021.07.02-03.56.34:367][630]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2021.07.02-03.56.34:367][630]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2021.07.02-03.56.34:367][630]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.07.02-03.56.34:367][630]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2021.07.02-03.56.34:367][630]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.07.02-03.56.34:367][630]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.07.02-03.56.34:367][630]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.07.02-03.56.34:367][630]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.07.02-03.56.34:962][649]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.07.02-03.56.35:110][657]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.07.02-03.56.35:161][660]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.07.02-03.56.35:230][664]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.07.02-03.56.35:246][665]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.07.02-03.56.35:315][669]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.07.02-03.56.35:333][670]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.07.02-03.56.35:417][675]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.07.02-03.56.35:451][677]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.07.02-03.56.35:874][695]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.07.02-03.56.36:421][727]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.07.02-03.56.36:421][727]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.07.02-03.56.36:421][727]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.07.02-03.56.36:421][727]MaterialEditorStats: Base pass vertex shader: 91 instructions
+[2021.07.02-03.56.36:421][727]MaterialEditorStats: Texture samplers: 3/16
+[2021.07.02-03.56.36:421][727]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.07.02-03.56.36:421][727]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.07.02-03.57.08:808][308]BlueprintLog: New page: Compile OptionsMenu
+[2021.07.02-03.57.08:892][308]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2021.07.02-03.57.09:324][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionsMenu" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/OptionsMenu.uasset" SILENT=true
+[2021.07.02-03.57.09:406][327]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/OptionsMenuF73B28AA4E409267CA18F88F68A7FB77.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/OptionsMenu.uasset'
+[2021.07.02-03.57.09:420][327]AssetCheck: New page: Asset Save: OptionsMenu
+[2021.07.02-03.57.09:420][327]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/OptionsMenu.OptionsMenu
+[2021.07.02-03.57.39:936][150]BlueprintLog: New page: Compile OptionsMenu
+[2021.07.02-03.57.40:046][150]LogUObjectHash: Compacting FUObjectHashTables data took   6.11ms
+[2021.07.02-03.57.40:744][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionsMenu" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/OptionsMenu.uasset" SILENT=true
+[2021.07.02-03.57.40:827][184]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/OptionsMenu1550009345EC9ECA4A718BA10A51BF85.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/OptionsMenu.uasset'
+[2021.07.02-03.57.40:844][184]AssetCheck: New page: Asset Save: OptionsMenu
+[2021.07.02-03.57.40:844][184]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/OptionsMenu.OptionsMenu
+[2021.07.02-03.57.41:301][212]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.07.02-03.57.41:309][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.02-03.57.41:309][212]PIE: New page: PIE session: MainMenu (Jul 2, 2021, 7:57:41 PM)
+[2021.07.02-03.57.41:309][212]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.07.02-03.57.41:317][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008374s)
+[2021.07.02-03.57.41:318][212]LogAIModule: Creating AISystem for world MainMenu
+[2021.07.02-03.57.41:318][212]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2021.07.02-03.57.41:318][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.009450s)
+[2021.07.02-03.57.41:373][212]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2021.07.02-03.57.41:374][212]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2021.07.02-03.57.41:374][212]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.02-03.57.41:374][212]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.02-03.57.41:374][212]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.02-03.57.41:374][212]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.02-03.57.41:374][212]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.02-03.57.41:374][212]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.02-03.57.41:374][212]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.02-03.57.41:374][212]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.02-03.57.41:375][212]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.02-03.57.41:375][212]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.02-03.57.41:377][212]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.02-03.57.41:377][212]LogAudioMixer: Display: 1: FrontRight
+[2021.07.02-03.57.41:392][212]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.02-03.57.41:393][212]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.02-03.57.41:393][212]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.02-03.57.41:393][212]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.02-03.57.41:393][212]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.02-03.57.41:393][212]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.02-03.57.41:393][212]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.02-03.57.41:409][212]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.02-03.57.41:409][212]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.02-03.57.41:409][212]LogInit: FAudioDevice initialized.
+[2021.07.02-03.57.41:409][212]LogAudio: Display: Audio Device (ID: 30) registered with world 'MainMenu'.
+[2021.07.02-03.57.41:436][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-03.57.41:436][212]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.07.02-03.57.41:439][212]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.07.02-11.57.41
+[2021.07.02-03.57.41:439][212]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.07.02-03.57.41:440][212]LogWorld: Bringing up level for play took: 0.002786
+[2021.07.02-03.57.41:440][212]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2021.07.02-03.57.41:442][212]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.07.02-03.57.41:442][212]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.07.02-03.57.41:442][212]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.07.02-03.57.41:445][212]PIE: Server logged in
+[2021.07.02-03.57.41:446][212]PIE: Play in editor total start time 0.138 seconds.
+[2021.07.02-03.57.51:264][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-03.57.51:264][795]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.07.02-03.57.51:264][795]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.07.02-03.57.51:268][795]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-03.57.51:268][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-03.57.51:278][795]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.02-03.57.51:301][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-03.57.51:345][795]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.02-03.57.51:346][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-03.57.51:347][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-03.57.51:370][795]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2021.07.02-03.57.51:388][796]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2021.07.02-03.58.23:281][637]BlueprintLog: New page: Compile OptionsMenu
+[2021.07.02-03.58.23:359][637]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2021.07.02-03.58.24:363][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionsMenu" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/OptionsMenu.uasset" SILENT=true
+[2021.07.02-03.58.24:447][691]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/OptionsMenuB90F52D5411519FE3925829B11E4A299.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/OptionsMenu.uasset'
+[2021.07.02-03.58.24:462][691]AssetCheck: New page: Asset Save: OptionsMenu
+[2021.07.02-03.58.24:462][691]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/OptionsMenu.OptionsMenu
+[2021.07.02-03.58.30:052][ 27]BlueprintLog: New page: Compile OptionsMenu
+[2021.07.02-03.58.30:158][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2021.07.02-03.58.30:552][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionsMenu" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/OptionsMenu.uasset" SILENT=true
+[2021.07.02-03.58.30:633][ 45]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/OptionsMenu03EAF41045E214BC7D07608B2C6FDA98.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/OptionsMenu.uasset'
+[2021.07.02-03.58.30:649][ 45]AssetCheck: New page: Asset Save: OptionsMenu
+[2021.07.02-03.58.30:649][ 45]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/OptionsMenu.OptionsMenu
+[2021.07.02-03.58.31:030][ 68]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.07.02-03.58.31:038][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.02-03.58.31:038][ 68]PIE: New page: PIE session: MainMenu (Jul 2, 2021, 7:58:31 PM)
+[2021.07.02-03.58.31:038][ 68]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.07.02-03.58.31:046][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008252s)
+[2021.07.02-03.58.31:047][ 68]LogAIModule: Creating AISystem for world MainMenu
+[2021.07.02-03.58.31:047][ 68]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2021.07.02-03.58.31:047][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.009290s)
+[2021.07.02-03.58.31:101][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2021.07.02-03.58.31:102][ 68]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2021.07.02-03.58.31:102][ 68]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.02-03.58.31:102][ 68]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.02-03.58.31:102][ 68]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.02-03.58.31:102][ 68]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.02-03.58.31:102][ 68]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.02-03.58.31:102][ 68]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.02-03.58.31:102][ 68]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.02-03.58.31:102][ 68]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.02-03.58.31:102][ 68]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.02-03.58.31:102][ 68]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.02-03.58.31:105][ 68]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.02-03.58.31:105][ 68]LogAudioMixer: Display: 1: FrontRight
+[2021.07.02-03.58.31:118][ 68]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.02-03.58.31:118][ 68]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.02-03.58.31:118][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.02-03.58.31:118][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.02-03.58.31:119][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.02-03.58.31:119][ 68]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.02-03.58.31:119][ 68]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.02-03.58.31:134][ 68]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.02-03.58.31:134][ 68]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.02-03.58.31:134][ 68]LogInit: FAudioDevice initialized.
+[2021.07.02-03.58.31:134][ 68]LogAudio: Display: Audio Device (ID: 31) registered with world 'MainMenu'.
+[2021.07.02-03.58.31:160][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-03.58.31:160][ 68]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.07.02-03.58.31:162][ 68]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.07.02-11.58.31
+[2021.07.02-03.58.31:163][ 68]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.07.02-03.58.31:163][ 68]LogWorld: Bringing up level for play took: 0.002580
+[2021.07.02-03.58.31:164][ 68]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2021.07.02-03.58.31:166][ 68]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.07.02-03.58.31:167][ 68]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.07.02-03.58.31:167][ 68]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.07.02-03.58.31:169][ 68]PIE: Server logged in
+[2021.07.02-03.58.31:171][ 68]PIE: Play in editor total start time 0.134 seconds.
+[2021.07.02-03.58.35:174][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-03.58.35:174][301]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.07.02-03.58.35:174][301]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.07.02-03.58.35:178][301]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-03.58.35:178][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-03.58.35:190][301]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.02-03.58.35:212][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-03.58.35:258][301]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.02-03.58.35:259][301]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-03.58.35:260][301]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-03.58.35:281][301]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2021.07.02-03.58.35:299][302]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2021.07.02-03.59.20:169][984]LogEditorTransaction: Undo Edit Padding
+[2021.07.02-03.59.20:195][984]LogMaterial: Display: Missing cached shader map for material palettemat, compiling. 
+[2021.07.02-03.59.20:205][984]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2021.07.02-03.59.20:205][984]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2021.07.02-03.59.20:205][984]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.07.02-03.59.20:205][984]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2021.07.02-03.59.20:205][984]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.07.02-03.59.20:205][984]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.07.02-03.59.20:205][984]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.07.02-03.59.20:206][984]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.07.02-03.59.20:445][993]LogEditorTransaction: Undo Reset to Default
+[2021.07.02-03.59.20:500][993]LogMaterial: Display: Missing cached shader map for material palettemat, compiling. 
+[2021.07.02-03.59.20:792][  4]LogEditorTransaction: Undo Edit Right
+[2021.07.02-03.59.20:858][  4]LogMaterial: Display: Missing cached shader map for material palettemat, compiling. 
+[2021.07.02-03.59.20:968][  6]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2021.07.02-03.59.20:985][  7]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2021.07.02-03.59.20:985][  7]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.07.02-03.59.21:048][ 11]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2021.07.02-03.59.21:079][ 13]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2021.07.02-03.59.21:103][ 14]LogEditorTransaction: Undo Reset to Default
+[2021.07.02-03.59.21:157][ 14]LogMaterial: Display: Missing cached shader map for material palettemat, compiling. 
+[2021.07.02-03.59.21:220][ 15]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2021.07.02-03.59.21:220][ 15]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2021.07.02-03.59.21:253][ 17]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2021.07.02-03.59.21:438][ 28]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2021.07.02-03.59.21:592][ 37]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2021.07.02-03.59.21:693][ 43]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2021.07.02-03.59.21:754][ 43]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.07.02-03.59.21:757][ 43]LogMaterial: Display: Missing cached shader map for material palettemat, compiling. 
+[2021.07.02-03.59.21:776][ 43]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2021.07.02-03.59.21:836][ 43]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2021.07.02-03.59.21:836][ 43]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2021.07.02-03.59.21:836][ 43]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2021.07.02-03.59.21:958][ 51]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 14
+[2021.07.02-03.59.22:059][ 57]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2021.07.02-03.59.22:118][ 57]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.07.02-03.59.22:119][ 57]LogMaterial: Display: Missing cached shader map for material palettemat, compiling. 
+[2021.07.02-03.59.22:183][ 58]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2021.07.02-03.59.22:271][ 63]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2021.07.02-03.59.22:299][ 65]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2021.07.02-03.59.22:400][ 71]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2021.07.02-03.59.22:438][ 73]LogEditorTransaction: Undo Edit Padding
+[2021.07.02-03.59.22:502][ 73]LogMaterial: Display: Missing cached shader map for material palettemat, compiling. 
+[2021.07.02-03.59.22:575][ 74]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2021.07.02-03.59.22:575][ 74]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2021.07.02-03.59.22:575][ 74]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.07.02-03.59.22:674][ 80]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.07.02-03.59.22:722][ 83]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2021.07.02-03.59.22:844][ 90]LogEditorTransaction: Undo Edit Padding
+[2021.07.02-03.59.22:912][ 90]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.07.02-03.59.22:915][ 90]LogMaterial: Display: Missing cached shader map for material palettemat, compiling. 
+[2021.07.02-03.59.22:980][ 91]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2021.07.02-03.59.22:992][ 92]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.07.02-03.59.23:097][ 98]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2021.07.02-03.59.23:144][101]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2021.07.02-03.59.23:311][111]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2021.07.02-03.59.23:314][111]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.07.02-03.59.23:314][111]LogEditorTransaction: Undo Reset to Default
+[2021.07.02-03.59.23:373][111]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.07.02-03.59.23:376][111]LogMaterial: Display: Missing cached shader map for material palettemat, compiling. 
+[2021.07.02-03.59.23:444][112]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2021.07.02-03.59.23:545][118]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2021.07.02-03.59.23:608][122]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.07.02-03.59.23:694][127]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2021.07.02-03.59.23:791][133]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2021.07.02-03.59.23:808][134]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2021.07.02-03.59.23:897][139]LogEditorTransaction: Undo Edit Padding
+[2021.07.02-03.59.23:967][139]LogMaterial: Display: Missing cached shader map for material palettemat, compiling. 
+[2021.07.02-03.59.24:040][140]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2021.07.02-03.59.24:040][140]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2021.07.02-03.59.24:056][141]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.07.02-03.59.24:141][146]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2021.07.02-03.59.24:203][150]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2021.07.02-03.59.24:238][152]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2021.07.02-03.59.24:359][159]LogEditorTransaction: Undo Edit Text
+[2021.07.02-03.59.24:425][159]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.07.02-03.59.24:427][159]LogMaterial: Display: Missing cached shader map for material palettemat, compiling. 
+[2021.07.02-03.59.24:502][160]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2021.07.02-03.59.24:502][160]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.07.02-03.59.24:637][168]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2021.07.02-03.59.24:686][171]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2021.07.02-03.59.24:789][177]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2021.07.02-03.59.24:871][182]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.07.02-03.59.24:939][186]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.07.02-03.59.25:072][194]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.07.02-03.59.25:106][196]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2021.07.02-03.59.25:137][198]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.07.02-03.59.25:273][206]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.07.02-03.59.25:338][210]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.07.02-03.59.25:442][216]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.07.02-03.59.25:587][221]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.07.02-03.59.25:587][221]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.07.02-03.59.25:678][226]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.07.02-03.59.25:770][231]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.07.02-03.59.25:937][237]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.07.02-03.59.26:316][258]BlueprintLog: New page: Compile OptionsMenu
+[2021.07.02-03.59.26:441][258]LogUObjectHash: Compacting FUObjectHashTables data took   9.48ms
+[2021.07.02-03.59.26:574][260]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.07.02-03.59.26:574][260]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.07.02-03.59.26:574][260]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.07.02-03.59.26:574][260]MaterialEditorStats: Base pass vertex shader: 91 instructions
+[2021.07.02-03.59.26:575][260]MaterialEditorStats: Texture samplers: 3/16
+[2021.07.02-03.59.26:575][260]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.07.02-03.59.26:575][260]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.07.02-03.59.26:911][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionsMenu" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/OptionsMenu.uasset" SILENT=true
+[2021.07.02-03.59.26:995][279]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/OptionsMenu63B5BE1B4DB18B6551AE7F801F09256D.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/OptionsMenu.uasset'
+[2021.07.02-03.59.27:012][279]AssetCheck: New page: Asset Save: OptionsMenu
+[2021.07.02-03.59.27:012][279]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/OptionsMenu.OptionsMenu
+[2021.07.02-03.59.40:192][ 63]BlueprintLog: New page: Compile OptionsMenu
+[2021.07.02-03.59.40:300][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   6.11ms
+[2021.07.02-03.59.40:676][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionsMenu" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/OptionsMenu.uasset" SILENT=true
+[2021.07.02-03.59.40:759][ 79]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/OptionsMenuDE4E74C449F62CFD48158C9DCADAA88F.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/OptionsMenu.uasset'
+[2021.07.02-03.59.40:775][ 79]AssetCheck: New page: Asset Save: OptionsMenu
+[2021.07.02-03.59.40:775][ 79]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/OptionsMenu.OptionsMenu
+[2021.07.02-03.59.41:066][ 97]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.07.02-03.59.41:073][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.02-03.59.41:073][ 97]PIE: New page: PIE session: MainMenu (Jul 2, 2021, 7:59:41 PM)
+[2021.07.02-03.59.41:074][ 97]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.07.02-03.59.41:082][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008282s)
+[2021.07.02-03.59.41:083][ 97]LogAIModule: Creating AISystem for world MainMenu
+[2021.07.02-03.59.41:083][ 97]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2021.07.02-03.59.41:083][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.009328s)
+[2021.07.02-03.59.41:137][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2021.07.02-03.59.41:137][ 97]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2021.07.02-03.59.41:137][ 97]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.02-03.59.41:137][ 97]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.02-03.59.41:137][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.02-03.59.41:137][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.02-03.59.41:137][ 97]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.02-03.59.41:137][ 97]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.02-03.59.41:137][ 97]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.02-03.59.41:137][ 97]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.02-03.59.41:138][ 97]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.02-03.59.41:138][ 97]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.02-03.59.41:140][ 97]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.02-03.59.41:140][ 97]LogAudioMixer: Display: 1: FrontRight
+[2021.07.02-03.59.41:152][ 97]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.02-03.59.41:153][ 97]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.02-03.59.41:153][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.02-03.59.41:153][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.02-03.59.41:153][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.02-03.59.41:153][ 97]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.02-03.59.41:153][ 97]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.02-03.59.41:168][ 97]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.02-03.59.41:168][ 97]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.02-03.59.41:168][ 97]LogInit: FAudioDevice initialized.
+[2021.07.02-03.59.41:168][ 97]LogAudio: Display: Audio Device (ID: 32) registered with world 'MainMenu'.
+[2021.07.02-03.59.41:195][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-03.59.41:195][ 97]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.07.02-03.59.41:197][ 97]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.07.02-11.59.41
+[2021.07.02-03.59.41:197][ 97]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.07.02-03.59.41:198][ 97]LogWorld: Bringing up level for play took: 0.001804
+[2021.07.02-03.59.41:198][ 97]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2021.07.02-03.59.41:200][ 97]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.07.02-03.59.41:201][ 97]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.07.02-03.59.41:201][ 97]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.07.02-03.59.41:203][ 97]PIE: Server logged in
+[2021.07.02-03.59.41:204][ 97]PIE: Play in editor total start time 0.132 seconds.
+[2021.07.02-03.59.52:579][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-03.59.52:580][775]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.07.02-03.59.52:580][775]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.07.02-03.59.52:584][775]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-03.59.52:584][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-03.59.52:596][775]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.02-03.59.52:618][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-03.59.52:664][775]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.02-03.59.52:665][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-03.59.52:666][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-03.59.52:687][775]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.07.02-03.59.52:706][776]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2021.07.02-03.59.54:472][882]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.07.02-03.59.54:480][882]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.02-03.59.54:480][882]PIE: New page: PIE session: MainMenu (Jul 2, 2021, 7:59:54 PM)
+[2021.07.02-03.59.54:480][882]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.07.02-03.59.54:488][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008310s)
+[2021.07.02-03.59.54:489][882]LogAIModule: Creating AISystem for world MainMenu
+[2021.07.02-03.59.54:489][882]LogPlayLevel: PIE: World Init took: (0.000885s)
+[2021.07.02-03.59.54:489][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.009299s)
+[2021.07.02-03.59.54:536][882]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2021.07.02-03.59.54:536][882]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2021.07.02-03.59.54:536][882]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.02-03.59.54:536][882]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.02-03.59.54:536][882]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.02-03.59.54:536][882]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.02-03.59.54:536][882]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.02-03.59.54:536][882]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.02-03.59.54:536][882]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.02-03.59.54:536][882]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.02-03.59.54:537][882]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.02-03.59.54:537][882]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.02-03.59.54:539][882]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.02-03.59.54:539][882]LogAudioMixer: Display: 1: FrontRight
+[2021.07.02-03.59.54:552][882]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.02-03.59.54:552][882]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.02-03.59.54:552][882]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.02-03.59.54:552][882]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.02-03.59.54:552][882]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.02-03.59.54:553][882]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.02-03.59.54:553][882]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.02-03.59.54:567][882]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.02-03.59.54:567][882]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.02-03.59.54:567][882]LogInit: FAudioDevice initialized.
+[2021.07.02-03.59.54:567][882]LogAudio: Display: Audio Device (ID: 33) registered with world 'MainMenu'.
+[2021.07.02-03.59.54:597][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-03.59.54:597][882]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.07.02-03.59.54:599][882]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.07.02-11.59.54
+[2021.07.02-03.59.54:600][882]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.07.02-03.59.54:600][882]LogWorld: Bringing up level for play took: 0.002144
+[2021.07.02-03.59.54:600][882]LogOnline: OSS: Creating online subsystem instance for: :Context_71
+[2021.07.02-03.59.54:603][882]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.07.02-03.59.54:603][882]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.07.02-03.59.54:603][882]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.07.02-03.59.54:605][882]PIE: Server logged in
+[2021.07.02-03.59.54:606][882]PIE: Play in editor total start time 0.127 seconds.
+[2021.07.02-04.00.05:600][537]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2021.07.02-04.00.05:600][537]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.07.02-04.00.05:600][537]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.02-04.00.05:600][537]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2021.07.02-04.00.05:600][537]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2021.07.02-04.00.05:601][537]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.02-04.00.05:601][537]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.SSGI.Quality:2]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:2]]
+[2021.07.02-04.00.05:601][537]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2021.07.02-04.00.05:601][537]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.02-04.00.05:601][537]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.02-04.00.05:618][537]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 9 NumSamples 1 (Frame:657).
+[2021.07.02-04.00.05:672][540]LogContentStreaming: Texture pool size now 800 MB
+[2021.07.02-04.00.06:504][590]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2021.07.02-04.00.06:504][590]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2021.07.02-04.00.06:504][590]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2021.07.02-04.00.06:504][590]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2021.07.02-04.00.06:504][590]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.02-04.00.06:504][590]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2021.07.02-04.00.06:504][590]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2021.07.02-04.00.06:505][590]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2021.07.02-04.00.06:505][590]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.07.02-04.00.06:505][590]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2021.07.02-04.00.06:505][590]LogConfig: Setting CVar [[r.AnisotropicMaterials:0]]
+[2021.07.02-04.00.06:505][590]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2021.07.02-04.00.06:505][590]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2021.07.02-04.00.06:505][590]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2021.07.02-04.00.06:505][590]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.07.02-04.00.06:505][590]LogConfig: Setting CVar [[r.SSGI.Quality:0]]
+[2021.07.02-04.00.06:505][590]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2021.07.02-04.00.06:505][590]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2021.07.02-04.00.06:505][590]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.02-04.00.06:505][590]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2021.07.02-04.00.06:505][590]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:8.0]]
+[2021.07.02-04.00.06:505][590]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.02-04.00.06:505][590]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:2.0]]
+[2021.07.02-04.00.06:505][590]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:16.0]]
+[2021.07.02-04.00.06:505][590]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:2.0]]
+[2021.07.02-04.00.06:505][590]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:16.0]]
+[2021.07.02-04.00.06:505][590]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:1]]
+[2021.07.02-04.00.06:505][590]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.02-04.00.06:505][590]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.02-04.00.06:505][590]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2021.07.02-04.00.06:505][590]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:0]]
+[2021.07.02-04.00.06:505][590]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.06:505][590]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2021.07.02-04.00.06:505][590]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2021.07.02-04.00.06:505][590]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.06:505][590]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.02-04.00.06:505][590]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.02-04.00.06:505][590]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2021.07.02-04.00.06:520][591]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 9 NumSamples 1 (Frame:711).
+[2021.07.02-04.00.06:605][596]LogContentStreaming: Texture pool size now 400 MB
+[2021.07.02-04.00.07:254][635]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.07:254][635]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2021.07.02-04.00.07:254][635]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2021.07.02-04.00.07:254][635]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.07:254][635]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2021.07.02-04.00.07:254][635]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.07:254][635]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.02-04.00.07:254][635]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2021.07.02-04.00.07:254][635]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2021.07.02-04.00.07:254][635]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2021.07.02-04.00.07:254][635]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2021.07.02-04.00.07:254][635]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2021.07.02-04.00.07:254][635]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2021.07.02-04.00.07:254][635]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2021.07.02-04.00.07:254][635]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2021.07.02-04.00.07:254][635]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2021.07.02-04.00.07:254][635]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2021.07.02-04.00.07:254][635]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2021.07.02-04.00.07:254][635]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2021.07.02-04.00.07:254][635]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.02-04.00.07:254][635]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.07:254][635]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2021.07.02-04.00.07:254][635]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2021.07.02-04.00.07:254][635]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2021.07.02-04.00.07:254][635]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.02-04.00.07:254][635]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2021.07.02-04.00.07:254][635]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2021.07.02-04.00.07:254][635]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2021.07.02-04.00.07:254][635]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.07.02-04.00.07:254][635]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2021.07.02-04.00.07:255][635]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.02-04.00.07:255][635]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.AnisotropicMaterials:0]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.SSGI.Quality:1]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:1]]
+[2021.07.02-04.00.07:255][635]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2021.07.02-04.00.07:255][635]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.02-04.00.07:255][635]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2021.07.02-04.00.07:271][636]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 9 NumSamples 1 (Frame:756).
+[2021.07.02-04.00.07:305][638]LogContentStreaming: Texture pool size now 600 MB
+[2021.07.02-04.00.08:289][695]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2021.07.02-04.00.08:289][695]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.07.02-04.00.08:289][695]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.02-04.00.08:289][695]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2021.07.02-04.00.08:289][695]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2021.07.02-04.00.08:289][695]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.02-04.00.08:290][695]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.SSGI.Quality:2]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:2]]
+[2021.07.02-04.00.08:290][695]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2021.07.02-04.00.08:290][695]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.02-04.00.08:290][695]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.02-04.00.08:305][696]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 9 NumSamples 1 (Frame:816).
+[2021.07.02-04.00.08:391][701]LogContentStreaming: Texture pool size now 800 MB
+[2021.07.02-04.00.09:122][745]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.09:122][745]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.02-04.00.09:122][745]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.02-04.00.09:122][745]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.09:122][745]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.02-04.00.09:123][745]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.02-04.00.09:123][745]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.02-04.00.09:123][745]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.02-04.00.09:123][745]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.02-04.00.09:123][745]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.02-04.00.09:124][745]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.02-04.00.09:124][745]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.02-04.00.09:124][745]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.02-04.00.09:124][745]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.02-04.00.09:124][745]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.02-04.00.09:124][745]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.02-04.00.09:124][745]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.02-04.00.09:124][745]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.02-04.00.09:124][745]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.02-04.00.09:124][745]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.02-04.00.09:124][745]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.02-04.00.09:124][745]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.02-04.00.09:124][745]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.02-04.00.09:124][745]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.02-04.00.09:124][745]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.02-04.00.09:124][745]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.02-04.00.09:124][745]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.02-04.00.09:124][745]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.07.02-04.00.09:124][745]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.09:124][745]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.02-04.00.09:124][745]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.02-04.00.09:124][745]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.09:124][745]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.02-04.00.09:124][745]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.02-04.00.09:124][745]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.02-04.00.09:136][746]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:866).
+[2021.07.02-04.00.09:207][750]LogContentStreaming: Texture pool size now 1000 MB
+[2021.07.02-04.00.34:457][265]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2021.07.02-04.00.34:457][265]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.AnisotropicMaterials:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.SSGI.Quality:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2021.07.02-04.00.34:457][265]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.02-04.00.34:458][265]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2021.07.02-04.00.34:458][265]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:8.0]]
+[2021.07.02-04.00.34:458][265]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.02-04.00.34:458][265]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:2.0]]
+[2021.07.02-04.00.34:458][265]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:16.0]]
+[2021.07.02-04.00.34:458][265]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:2.0]]
+[2021.07.02-04.00.34:458][265]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:16.0]]
+[2021.07.02-04.00.34:458][265]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:1]]
+[2021.07.02-04.00.34:458][265]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.02-04.00.34:458][265]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.02-04.00.34:458][265]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2021.07.02-04.00.34:458][265]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:0]]
+[2021.07.02-04.00.34:458][265]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.34:458][265]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2021.07.02-04.00.34:458][265]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2021.07.02-04.00.34:458][265]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.34:458][265]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.02-04.00.34:458][265]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.02-04.00.34:458][265]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2021.07.02-04.00.34:474][266]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 9 NumSamples 1 (Frame:2386).
+[2021.07.02-04.00.34:526][269]LogContentStreaming: Texture pool size now 400 MB
+[2021.07.02-04.00.35:741][342]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.02-04.00.35:742][342]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.02-04.00.35:742][342]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.02-04.00.35:742][342]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.02-04.00.35:742][342]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.02-04.00.35:742][342]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.02-04.00.35:743][342]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.07.02-04.00.35:743][342]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.02-04.00.35:743][342]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/10562/Desktop/Assashine/Multiplayer/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.02-04.00.35:743][342]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.02-04.00.35:759][343]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:2463).
+[2021.07.02-04.00.35:812][346]LogContentStreaming: Texture pool size now 1000 MB
+[2021.07.02-04.00.39:743][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-04.00.39:744][582]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.07.02-04.00.39:744][582]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.07.02-04.00.39:750][582]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-04.00.39:750][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-04.00.39:763][582]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.02-04.00.39:793][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-04.00.39:843][582]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-04.00.39:844][582]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-04.00.39:867][582]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2021.07.02-04.00.39:887][583]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2021.07.02-04.00.42:002][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionsMenu" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/OptionsMenu.uasset" SILENT=true
+[2021.07.02-04.00.42:084][709]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/OptionsMenu728B595D4A7E907038E9E888DD4E5EBF.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/MainMenu/OptionsMenu.uasset'
+[2021.07.02-04.00.42:101][709]AssetCheck: New page: Asset Save: OptionsMenu
+[2021.07.02-04.00.42:101][709]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/OptionsMenu.OptionsMenu
+[2021.07.02-04.00.42:326][723]BlueprintLog: New page: Compile OptionsMenu
+[2021.07.02-04.00.42:429][723]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
