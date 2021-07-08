@@ -9235,3 +9235,668 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.08-09.05.05:188][587]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
 [2021.07.08-09.05.05:209][588]LogPlayLevel: Display: Destroying online subsystem :Context_117
 [2021.07.08-09.05.05:209][588]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2021.07.08-09.05.29:941][773]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.07.08-09.06.04:546][802]BlueprintLog: New page: Compile CharacterSelect
+[2021.07.08-09.06.04:643][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.07.08-09.06.05:438][846]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.07.08-09.06.05:445][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.08-09.06.05:446][846]PIE: New page: PIE session: MainMenu (Jul 9, 2021, 1:06:05 AM)
+[2021.07.08-09.06.05:446][846]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.07.08-09.06.05:454][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008621s)
+[2021.07.08-09.06.05:455][846]LogAIModule: Creating AISystem for world MainMenu
+[2021.07.08-09.06.05:455][846]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2021.07.08-09.06.05:455][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.009698s)
+[2021.07.08-09.06.05:493][846]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.07.08-09.06.05:494][846]LogAudio: Display: Creating Audio Device:                 Id: 95, Scope: Unique, Realtime: True
+[2021.07.08-09.06.05:494][846]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.08-09.06.05:494][846]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.08-09.06.05:494][846]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.08-09.06.05:494][846]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.08-09.06.05:494][846]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.08-09.06.05:494][846]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.08-09.06.05:494][846]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.08-09.06.05:494][846]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.08-09.06.05:494][846]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.08-09.06.05:494][846]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.08-09.06.05:496][846]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.08-09.06.05:496][846]LogAudioMixer: Display: 1: FrontRight
+[2021.07.08-09.06.05:511][846]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.08-09.06.05:511][846]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.08-09.06.05:511][846]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.08-09.06.05:511][846]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.08-09.06.05:511][846]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.08-09.06.05:511][846]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.08-09.06.05:511][846]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.08-09.06.05:525][846]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.08-09.06.05:525][846]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.08-09.06.05:525][846]LogInit: FAudioDevice initialized.
+[2021.07.08-09.06.05:526][846]LogAudio: Display: Audio Device (ID: 95) registered with world 'MainMenu'.
+[2021.07.08-09.06.05:559][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.08-09.06.05:559][846]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.07.08-09.06.05:561][846]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.07.08-17.06.05
+[2021.07.08-09.06.05:561][846]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.07.08-09.06.05:562][846]LogWorld: Bringing up level for play took: 0.001344
+[2021.07.08-09.06.05:562][846]LogOnline: OSS: Creating online subsystem instance for: :Context_118
+[2021.07.08-09.06.05:564][846]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.07.08-09.06.05:564][846]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.07.08-09.06.05:564][846]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.07.08-09.06.05:566][846]PIE: Server logged in
+[2021.07.08-09.06.05:568][846]PIE: Play in editor total start time 0.122 seconds.
+[2021.07.08-09.06.05:568][846]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_MainMenu
+[2021.07.08-09.06.05:576][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008797s)
+[2021.07.08-09.06.05:577][846]LogAIModule: Creating AISystem for world MainMenu
+[2021.07.08-09.06.05:577][846]LogPlayLevel: PIE: World Init took: (0.001169s)
+[2021.07.08-09.06.05:577][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_1_MainMenu.MainMenu (0.010118s)
+[2021.07.08-09.06.05:614][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.07.08-09.06.05:614][846]LogAudio: Display: Creating Audio Device:                 Id: 96, Scope: Unique, Realtime: True
+[2021.07.08-09.06.05:614][846]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.08-09.06.05:614][846]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.08-09.06.05:614][846]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.08-09.06.05:614][846]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.08-09.06.05:614][846]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.08-09.06.05:614][846]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.08-09.06.05:614][846]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.08-09.06.05:614][846]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.08-09.06.05:614][846]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.08-09.06.05:614][846]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.08-09.06.05:617][846]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.08-09.06.05:617][846]LogAudioMixer: Display: 1: FrontRight
+[2021.07.08-09.06.05:629][846]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.08-09.06.05:629][846]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.08-09.06.05:629][846]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.08-09.06.05:629][846]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.08-09.06.05:629][846]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.08-09.06.05:629][846]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.08-09.06.05:629][846]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.08-09.06.05:644][846]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.08-09.06.05:644][846]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.08-09.06.05:644][846]LogInit: FAudioDevice initialized.
+[2021.07.08-09.06.05:644][846]LogAudio: Display: Audio Device (ID: 96) registered with world 'MainMenu'.
+[2021.07.08-09.06.05:668][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.08-09.06.05:668][846]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.07.08-09.06.05:670][846]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 60) at 2021.07.08-17.06.05
+[2021.07.08-09.06.05:670][846]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.07.08-09.06.05:671][846]LogWorld: Bringing up level for play took: 0.002006
+[2021.07.08-09.06.05:671][846]LogOnline: OSS: Creating online subsystem instance for: :Context_119
+[2021.07.08-09.06.05:673][846]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.07.08-09.06.05:673][846]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.07.08-09.06.05:673][846]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.07.08-09.06.05:676][846]PIE: Server logged in
+[2021.07.08-09.06.05:677][846]PIE: Play in editor total start time 0.232 seconds.
+[2021.07.08-09.06.08:673][974]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.07.08-09.06.08:674][974]LogNet: Browse: /Game/Maps/Lobby?listen
+[2021.07.08-09.06.08:674][974]LogLoad: LoadMap: /Game/Maps/Lobby?listen
+[2021.07.08-09.06.08:674][974]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.07.08-09.06.08:674][974]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.07.08-09.06.08:674][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.08-09.06.08:707][974]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.08-09.06.08:711][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.07.08-09.06.08:736][974]LogAudio: Display: Audio Device (ID: 95) registered with world 'Lobby'.
+[2021.07.08-09.06.08:737][974]LogAIModule: Creating AISystem for world Lobby
+[2021.07.08-09.06.08:737][974]LogLoad: Game class is 'LobbyGM_C'
+[2021.07.08-09.06.08:738][974]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.07.08-09.06.08:738][974]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.07.08-09.06.08:738][974]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.07.08-09.06.08:738][974]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2021.07.08-09.06.08:738][974]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.07.08-09.06.08:738][974]LogNet: GameNetDriver IpNetDriver_3 IpNetDriver listening on port 7777
+[2021.07.08-09.06.08:742][974]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 60) at 2021.07.08-17.06.08
+[2021.07.08-09.06.08:743][974]LogWorld: Bringing up level for play took: 0.003631
+[2021.07.08-09.06.08:747][974]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.07.08-09.06.08:747][974]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.07.08-09.06.08:747][974]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.07.08-09.06.08:749][974]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.07.08-09.06.08:749][974]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.07.08-09.06.08:749][974]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.07.08-09.06.08:749][974]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.07.08-09.06.08:749][974]LogLoad: Took 0.076380 seconds to LoadMap(/Game/Maps/Lobby)
+[2021.07.08-09.06.16:086][415]LogScript: Script Msg: Found a session. Ping is 9
+[2021.07.08-09.06.16:911][464]LogOnlineSession: OSS: Join session: traveling to 192.168.0.102:7777
+[2021.07.08-09.06.16:913][464]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.07.08-09.06.16:913][464]LogNet: Browse: 192.168.0.102/Game/Maps/MainMenu
+[2021.07.08-09.06.16:913][464]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.07.08-09.06.16:913][464]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.07.08-09.06.16:913][464]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.07.08-09.06.16:913][464]LogNet: Game client on port 7777, rate 100000
+[2021.07.08-09.06.17:946][526]LogNet: NotifyAcceptingConnection accepted from: 192.168.0.102:63294
+[2021.07.08-09.06.17:946][526]LogHandshake: SendConnectChallenge. Timestamp: 9.289144, Cookie: 159117123222224089232018255206235218241087071171137090114203
+[2021.07.08-09.06.17:946][526]LogHandshake: SendChallengeResponse. Timestamp: 9.289144, Cookie: 159117123222224089232018255206235218241087071171137090114203
+[2021.07.08-09.06.17:963][527]LogNet: NotifyAcceptingConnection accepted from: 192.168.0.102:63294
+[2021.07.08-09.06.17:963][527]LogHandshake: SendChallengeAck. InCookie: 159117123222224089232018255206235218241087071171137090114203
+[2021.07.08-09.06.17:963][527]LogNet: Server accepting post-challenge connection from: 192.168.0.102:63294
+[2021.07.08-09.06.17:963][527]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.07.08-09.06.17:963][527]LogNet: NotifyAcceptedConnection: Name: Lobby, TimeStamp: 07/08/21 17:06:17, [UNetConnection] RemoteAddr: 192.168.0.102:63294, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.08-09.06.17:963][527]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 192.168.0.102:63294, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.08-09.06.17:964][527]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 192.168.0.102:7777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_4, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.08-09.06.17:979][528]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_Lobby.Lobby: Accepted
+[2021.07.08-09.06.17:979][528]LogNet: Remote platform little endian=1
+[2021.07.08-09.06.17:979][528]LogNet: This platform little endian=1
+[2021.07.08-09.06.17:995][529]LogNet: Login request: ?Name=LAPTOP-D22OQ9HA-1A9C9D2E469472FB316533948A475D7B userId: NULL:LAPTOP-D22OQ9HA-1A9C9D2E469472FB316533948A475D7B platform: NULL
+[2021.07.08-09.06.17:996][529]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_Lobby, Game: /Game/Blueprints/Lobby/LobbyGM.LobbyGM_C)
+[2021.07.08-09.06.17:996][529]LogLoad: LoadMap: 192.168.0.102/Game/Maps/UEDPIE_0_Lobby?game=/Game/Blueprints/Lobby/LobbyGM.LobbyGM_C
+[2021.07.08-09.06.17:996][529]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MainMenu
+[2021.07.08-09.06.17:997][529]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.07.08-09.06.17:997][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.08-09.06.18:055][529]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.08-09.06.18:059][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.07.08-09.06.18:078][529]LogAudio: Display: Audio Device (ID: 96) registered with world 'Lobby'.
+[2021.07.08-09.06.18:079][529]LogAIModule: Creating AISystem for world Lobby
+[2021.07.08-09.06.18:082][529]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Lobby.Lobby up for play (max tick rate 60) at 2021.07.08-17.06.18
+[2021.07.08-09.06.18:082][529]LogWorld: Bringing up level for play took: 0.002947
+[2021.07.08-09.06.18:083][529]LogLoad: Took 0.085995 seconds to LoadMap(/Game/Maps/UEDPIE_0_Lobby)
+[2021.07.08-09.06.18:094][530]LogNet: Client netspeed is 100000
+[2021.07.08-09.06.18:094][530]LogNet: Join request: /Game/Maps/MainMenu?Name=LAPTOP-D22OQ9HA-1A9C9D2E469472FB316533948A475D7B?SplitscreenCount=1
+[2021.07.08-09.06.18:097][530]LogNet: Join succeeded: LAPTOP-D22OQ9HA-1A9C
+[2021.07.08-09.06.18:102][530]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.07.08-09.06.18:102][530]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.07.08-09.06.18:102][530]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.07.08-09.06.18:864][576]LogNet: Browse: /Game/Maps/MainMenu
+[2021.07.08-09.06.18:864][576]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2021.07.08-09.06.18:864][576]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Lobby
+[2021.07.08-09.06.18:864][576]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2021.07.08-09.06.18:864][576]LogNet: DestroyNamedNetDriver IpNetDriver_4 [GameNetDriver]
+[2021.07.08-09.06.18:864][576]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.0.102:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: LobbyPC_C_0, Owner: LobbyPC_C_0, UniqueId: NULL:LAPTOP-D22OQ9HA-1A9C9D2E469472FB316533948A475D7B, Channels: 10, Time: 2021.07.08-09.06.18
+[2021.07.08-09.06.18:864][576]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.0.102:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: LobbyPC_C_0, Owner: LobbyPC_C_0, UniqueId: NULL:LAPTOP-D22OQ9HA-1A9C9D2E469472FB316533948A475D7B
+[2021.07.08-09.06.18:864][576]LogExit: GameNetDriver IpNetDriver_4 shut down
+[2021.07.08-09.06.18:866][576]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2021.07.08-09.06.18:866][576]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2021.07.08-09.06.18:866][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.08-09.06.18:924][576]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.08-09.06.18:930][576]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.07.08-09.06.18:931][576]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_MainMenu
+[2021.07.08-09.06.18:939][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008510s)
+[2021.07.08-09.06.18:940][576]LogAIModule: Creating AISystem for world MainMenu
+[2021.07.08-09.06.18:941][576]LogPlayLevel: PIE: World Init took: (0.001282s)
+[2021.07.08-09.06.18:941][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_1_MainMenu.MainMenu (0.009928s)
+[2021.07.08-09.06.18:941][576]LogAudio: Display: Audio Device (ID: 96) registered with world 'MainMenu'.
+[2021.07.08-09.06.18:941][576]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.07.08-09.06.18:942][576]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 60) at 2021.07.08-17.06.18
+[2021.07.08-09.06.18:942][576]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.07.08-09.06.18:943][576]LogWorld: Bringing up level for play took: 0.000787
+[2021.07.08-09.06.18:943][576]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.07.08-09.06.18:943][576]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.07.08-09.06.18:943][576]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.07.08-09.06.18:945][576]LogLoad: Took 0.080021 seconds to LoadMap(/Game/Maps/UEDPIE_1_MainMenu)
+[2021.07.08-09.06.18:955][577]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2021.07.08-09.06.18:955][577]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.0.102:63294, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: LobbyPC_C_1, Owner: LobbyPC_C_1, UniqueId: NULL:LAPTOP-D22OQ9HA-1A9C9D2E469472FB316533948A475D7B
+[2021.07.08-09.06.18:955][577]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.0.102:63294, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: LobbyPC_C_1, Owner: LobbyPC_C_1, UniqueId: NULL:LAPTOP-D22OQ9HA-1A9C9D2E469472FB316533948A475D7B, Channels: 10, Time: 2021.07.08-09.06.18
+[2021.07.08-09.06.18:955][577]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.0.102:63294, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: LobbyPC_C_1, Owner: LobbyPC_C_1, UniqueId: NULL:LAPTOP-D22OQ9HA-1A9C9D2E469472FB316533948A475D7B
+[2021.07.08-09.06.18:956][577]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.07.08-09.06.26:594][ 16]LogScript: Script Msg: Found a session. Ping is 9
+[2021.07.08-09.06.27:568][ 74]LogOnlineSession: OSS: Join session: traveling to 192.168.0.102:7777
+[2021.07.08-09.06.27:570][ 74]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.07.08-09.06.27:570][ 74]LogNet: Browse: 192.168.0.102/Game/Maps/MainMenu
+[2021.07.08-09.06.27:571][ 74]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.07.08-09.06.27:571][ 74]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.07.08-09.06.27:571][ 74]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.07.08-09.06.27:571][ 74]LogNet: Game client on port 7777, rate 100000
+[2021.07.08-09.06.28:602][136]LogNet: NotifyAcceptingConnection accepted from: 192.168.0.102:55915
+[2021.07.08-09.06.28:602][136]LogHandshake: SendConnectChallenge. Timestamp: 19.946211, Cookie: 051185026013067246143226115021077025123039053123242046247253
+[2021.07.08-09.06.28:603][136]LogHandshake: SendChallengeResponse. Timestamp: 19.946211, Cookie: 051185026013067246143226115021077025123039053123242046247253
+[2021.07.08-09.06.28:619][137]LogNet: NotifyAcceptingConnection accepted from: 192.168.0.102:55915
+[2021.07.08-09.06.28:619][137]LogHandshake: SendChallengeAck. InCookie: 051185026013067246143226115021077025123039053123242046247253
+[2021.07.08-09.06.28:619][137]LogNet: Server accepting post-challenge connection from: 192.168.0.102:55915
+[2021.07.08-09.06.28:620][137]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.07.08-09.06.28:620][137]LogNet: NotifyAcceptedConnection: Name: Lobby, TimeStamp: 07/08/21 17:06:28, [UNetConnection] RemoteAddr: 192.168.0.102:55915, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.08-09.06.28:620][137]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 192.168.0.102:55915, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.08-09.06.28:621][137]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 192.168.0.102:7777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.08-09.06.28:635][138]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_Lobby.Lobby: Accepted
+[2021.07.08-09.06.28:635][138]LogNet: Remote platform little endian=1
+[2021.07.08-09.06.28:635][138]LogNet: This platform little endian=1
+[2021.07.08-09.06.28:653][139]LogNet: Login request: ?Name=LAPTOP-D22OQ9HA-1A9C9D2E469472FB316533948A475D7B userId: NULL:LAPTOP-D22OQ9HA-1A9C9D2E469472FB316533948A475D7B platform: NULL
+[2021.07.08-09.06.28:653][139]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_Lobby, Game: /Game/Blueprints/Lobby/LobbyGM.LobbyGM_C)
+[2021.07.08-09.06.28:653][139]LogLoad: LoadMap: 192.168.0.102/Game/Maps/UEDPIE_0_Lobby?game=/Game/Blueprints/Lobby/LobbyGM.LobbyGM_C
+[2021.07.08-09.06.28:653][139]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MainMenu
+[2021.07.08-09.06.28:653][139]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.07.08-09.06.28:653][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.08-09.06.28:713][139]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.08-09.06.28:718][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.07.08-09.06.28:733][139]LogAudio: Display: Audio Device (ID: 96) registered with world 'Lobby'.
+[2021.07.08-09.06.28:734][139]LogAIModule: Creating AISystem for world Lobby
+[2021.07.08-09.06.28:738][139]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Lobby.Lobby up for play (max tick rate 60) at 2021.07.08-17.06.28
+[2021.07.08-09.06.28:738][139]LogWorld: Bringing up level for play took: 0.002664
+[2021.07.08-09.06.28:738][139]LogLoad: Took 0.085076 seconds to LoadMap(/Game/Maps/UEDPIE_0_Lobby)
+[2021.07.08-09.06.28:747][140]LogNet: Client netspeed is 100000
+[2021.07.08-09.06.28:748][140]LogNet: Join request: /Game/Maps/MainMenu?Name=LAPTOP-D22OQ9HA-1A9C9D2E469472FB316533948A475D7B?SplitscreenCount=1
+[2021.07.08-09.06.28:751][140]LogNet: Join succeeded: LAPTOP-D22OQ9HA-1A9C
+[2021.07.08-09.06.30:585][250]LogNet: Browse: /Game/Maps/MainMenu
+[2021.07.08-09.06.30:585][250]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2021.07.08-09.06.30:585][250]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Lobby
+[2021.07.08-09.06.30:585][250]LogNet: World NetDriver shutdown IpNetDriver_5 [GameNetDriver]
+[2021.07.08-09.06.30:585][250]LogNet: DestroyNamedNetDriver IpNetDriver_5 [GameNetDriver]
+[2021.07.08-09.06.30:585][250]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.0.102:7777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: LobbyPC_C_0, Owner: LobbyPC_C_0, UniqueId: NULL:LAPTOP-D22OQ9HA-1A9C9D2E469472FB316533948A475D7B, Channels: 10, Time: 2021.07.08-09.06.30
+[2021.07.08-09.06.30:585][250]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.0.102:7777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: LobbyPC_C_0, Owner: LobbyPC_C_0, UniqueId: NULL:LAPTOP-D22OQ9HA-1A9C9D2E469472FB316533948A475D7B
+[2021.07.08-09.06.30:585][250]LogExit: GameNetDriver IpNetDriver_5 shut down
+[2021.07.08-09.06.30:586][250]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2021.07.08-09.06.30:586][250]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2021.07.08-09.06.30:587][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.08-09.06.30:620][250]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.08-09.06.30:628][250]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.07.08-09.06.30:628][250]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_MainMenu
+[2021.07.08-09.06.30:637][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008607s)
+[2021.07.08-09.06.30:638][250]LogAIModule: Creating AISystem for world MainMenu
+[2021.07.08-09.06.30:638][250]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2021.07.08-09.06.30:638][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_1_MainMenu.MainMenu (0.009808s)
+[2021.07.08-09.06.30:638][250]LogAudio: Display: Audio Device (ID: 96) registered with world 'MainMenu'.
+[2021.07.08-09.06.30:638][250]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.07.08-09.06.30:640][250]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 60) at 2021.07.08-17.06.30
+[2021.07.08-09.06.30:640][250]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.07.08-09.06.30:640][250]LogWorld: Bringing up level for play took: 0.000805
+[2021.07.08-09.06.30:641][250]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.07.08-09.06.30:641][250]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.07.08-09.06.30:641][250]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.07.08-09.06.30:643][250]LogLoad: Took 0.057317 seconds to LoadMap(/Game/Maps/UEDPIE_1_MainMenu)
+[2021.07.08-09.06.30:652][251]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2021.07.08-09.06.30:652][251]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.0.102:55915, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: LobbyPC_C_2, Owner: LobbyPC_C_2, UniqueId: NULL:LAPTOP-D22OQ9HA-1A9C9D2E469472FB316533948A475D7B
+[2021.07.08-09.06.30:652][251]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.0.102:55915, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: LobbyPC_C_2, Owner: LobbyPC_C_2, UniqueId: NULL:LAPTOP-D22OQ9HA-1A9C9D2E469472FB316533948A475D7B, Channels: 10, Time: 2021.07.08-09.06.30
+[2021.07.08-09.06.30:652][251]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.0.102:55915, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: LobbyPC_C_2, Owner: LobbyPC_C_2, UniqueId: NULL:LAPTOP-D22OQ9HA-1A9C9D2E469472FB316533948A475D7B
+[2021.07.08-09.06.30:653][251]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.07.08-09.06.37:354][613]LogScript: Script Msg: Found a session. Ping is 9
+[2021.07.08-09.06.38:226][665]LogOnlineSession: OSS: Join session: traveling to 192.168.0.102:7777
+[2021.07.08-09.06.38:228][665]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.07.08-09.06.38:228][665]LogNet: Browse: 192.168.0.102/Game/Maps/MainMenu
+[2021.07.08-09.06.38:228][665]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.07.08-09.06.38:228][665]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.07.08-09.06.38:228][665]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.07.08-09.06.38:228][665]LogNet: Game client on port 7777, rate 100000
+[2021.07.08-09.06.39:261][727]LogNet: NotifyAcceptingConnection accepted from: 192.168.0.102:56440
+[2021.07.08-09.06.39:261][727]LogHandshake: SendConnectChallenge. Timestamp: 30.604475, Cookie: 054198088217166150104158236056209191157055044211177096245100
+[2021.07.08-09.06.39:261][727]LogHandshake: SendChallengeResponse. Timestamp: 30.604475, Cookie: 054198088217166150104158236056209191157055044211177096245100
+[2021.07.08-09.06.39:278][728]LogNet: NotifyAcceptingConnection accepted from: 192.168.0.102:56440
+[2021.07.08-09.06.39:278][728]LogHandshake: SendChallengeAck. InCookie: 054198088217166150104158236056209191157055044211177096245100
+[2021.07.08-09.06.39:278][728]LogNet: Server accepting post-challenge connection from: 192.168.0.102:56440
+[2021.07.08-09.06.39:278][728]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.07.08-09.06.39:278][728]LogNet: NotifyAcceptedConnection: Name: Lobby, TimeStamp: 07/08/21 17:06:39, [UNetConnection] RemoteAddr: 192.168.0.102:56440, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.08-09.06.39:278][728]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 192.168.0.102:56440, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.08-09.06.39:279][728]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 192.168.0.102:7777, Name: IpConnection_6, Driver: PendingNetDriver IpNetDriver_6, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.08-09.06.39:294][729]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_Lobby.Lobby: Accepted
+[2021.07.08-09.06.39:294][729]LogNet: Remote platform little endian=1
+[2021.07.08-09.06.39:294][729]LogNet: This platform little endian=1
+[2021.07.08-09.06.39:311][730]LogNet: Login request: ?Name=LAPTOP-D22OQ9HA-1A9C9D2E469472FB316533948A475D7B userId: NULL:LAPTOP-D22OQ9HA-1A9C9D2E469472FB316533948A475D7B platform: NULL
+[2021.07.08-09.06.39:312][730]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_Lobby, Game: /Game/Blueprints/Lobby/LobbyGM.LobbyGM_C)
+[2021.07.08-09.06.39:312][730]LogLoad: LoadMap: 192.168.0.102/Game/Maps/UEDPIE_0_Lobby?game=/Game/Blueprints/Lobby/LobbyGM.LobbyGM_C
+[2021.07.08-09.06.39:312][730]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MainMenu
+[2021.07.08-09.06.39:313][730]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.07.08-09.06.39:313][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.08-09.06.39:346][730]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.08-09.06.39:350][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.07.08-09.06.39:366][730]LogAudio: Display: Audio Device (ID: 96) registered with world 'Lobby'.
+[2021.07.08-09.06.39:366][730]LogAIModule: Creating AISystem for world Lobby
+[2021.07.08-09.06.39:370][730]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Lobby.Lobby up for play (max tick rate 60) at 2021.07.08-17.06.39
+[2021.07.08-09.06.39:370][730]LogWorld: Bringing up level for play took: 0.002842
+[2021.07.08-09.06.39:370][730]LogLoad: Took 0.059039 seconds to LoadMap(/Game/Maps/UEDPIE_0_Lobby)
+[2021.07.08-09.06.39:380][731]LogNet: Client netspeed is 100000
+[2021.07.08-09.06.39:380][731]LogNet: Join request: /Game/Maps/MainMenu?Name=LAPTOP-D22OQ9HA-1A9C9D2E469472FB316533948A475D7B?SplitscreenCount=1
+[2021.07.08-09.06.39:383][731]LogNet: Join succeeded: LAPTOP-D22OQ9HA-1A9C
+[2021.07.08-09.07.36:698][ 49]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.07.08-09.07.36:698][ 49]LogGameState: Match State Changed from InProgress to LeavingMap
+[2021.07.08-09.07.36:698][ 49]LogNet: Browse: /Game/Maps/MainMenu
+[2021.07.08-09.07.36:698][ 49]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2021.07.08-09.07.36:698][ 49]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Lobby
+[2021.07.08-09.07.36:698][ 49]LogNet: World NetDriver shutdown IpNetDriver_3 [GameNetDriver]
+[2021.07.08-09.07.36:698][ 49]LogNet: DestroyNamedNetDriver IpNetDriver_3 [GameNetDriver]
+[2021.07.08-09.07.36:699][ 49]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 192.168.0.102:56440, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: LobbyPC_C_3, Owner: LobbyPC_C_3, UniqueId: NULL:LAPTOP-D22OQ9HA-1A9C9D2E469472FB316533948A475D7B
+[2021.07.08-09.07.36:699][ 49]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.0.102:56440, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: LobbyPC_C_3, Owner: LobbyPC_C_3, UniqueId: NULL:LAPTOP-D22OQ9HA-1A9C9D2E469472FB316533948A475D7B, Channels: 10, Time: 2021.07.08-09.07.36
+[2021.07.08-09.07.36:699][ 49]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.0.102:56440, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: LobbyPC_C_3, Owner: LobbyPC_C_3, UniqueId: NULL:LAPTOP-D22OQ9HA-1A9C9D2E469472FB316533948A475D7B
+[2021.07.08-09.07.36:699][ 49]LogOutputDevice: Warning: 
+
+Script Stack (8 frames):
+LobbyMenu_C.ExecuteUbergraph_LobbyMenu
+LobbyMenu_C.UpdatePlayerWindow
+LobbyPC_C.ExecuteUbergraph_LobbyPC
+LobbyPC_C.AddPlayerInfo
+LobbyGM_C.ExecuteUbergraph_LobbyGM
+LobbyGM_C.EveryoneUpdate
+LobbyGM_C.ExecuteUbergraph_LobbyGM
+LobbyGM_C.K2_OnLogout
+
+[2021.07.08-09.07.37:163][ 49]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.464 s
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: === Handled ensure: ===
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: 
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: Ensure condition failed: !World->bIsTearingDown [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/UMG/Private/UserWidget.cpp] [Line: 1961]
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: Widget Class ConnectedPlayer_C - Attempting to be created while tearing down the world 'Lobby'
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: Stack: 
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbdfffc355 UE4Editor-UMG.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbdfe9b922 UE4Editor-UMG.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbdfe9cfcc UE4Editor-UMG.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbdfdfcf7b UE4Editor-UMG.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbdfe96609 UE4Editor-UMG.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbdffa113c UE4Editor-UMG.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe5ff2604 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe6268176 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe627f7b3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe62ad4ef UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe62822fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe6256b6a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe6281ef1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe62822fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe6281704 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe6256b6a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe626829d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe627f7b3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe62822fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe6256b6a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe6281ef1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe62822fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe6281704 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe6256b6a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe626829d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe627f7b3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe62822fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe6256b6a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe6281ef1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe62822fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe6281704 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe6256b6a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe626829d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe62822fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe6256b6a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe6281ef1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe62822fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe6281704 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe5ff2604 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe6280e63 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe302c435 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe44e1589 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe3762921 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe3589931 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe3906989 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe3002c3a UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe3de3c00 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe3b02816 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe3afcabc UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbd453b4e7 UE4Editor-OnlineSubsystemUtils.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe3baa963 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe4262f25 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe42c72bc UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe42ab148 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe4258502 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe42ca7fd UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe0e68ef2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffbe17850e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ff735a69bc2 UE4Editor.exe!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ff735a8117c UE4Editor.exe!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ff735a8125a UE4Editor.exe!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ff735a952bd UE4Editor.exe!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ff735a97fea UE4Editor.exe!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffc43f87034 KERNEL32.DLL!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: [Callstack] 0x00007ffc44462651 ntdll.dll!UnknownFunction []
+[2021.07.08-09.07.37:164][ 49]LogOutputDevice: Error: 
+[2021.07.08-09.07.37:175][ 49]LogStats:                SubmitErrorReport -  0.000 s
+[2021.07.08-09.07.39:399][ 49]LogStats:                    SendNewReport -  2.225 s
+[2021.07.08-09.07.39:399][ 49]LogStats:             FDebug::EnsureFailed -  2.700 s
+[2021.07.08-09.07.39:400][ 49]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.07.08-09.07.39:400][ 49]LogExit: GameNetDriver IpNetDriver_3 shut down
+[2021.07.08-09.07.39:401][ 49]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.07.08-09.07.39:402][ 49]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2021.07.08-09.07.39:402][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.08-09.07.39:403][ 49]LogAudioMixer: Resetting audio stream to device id 
+[2021.07.08-09.07.39:422][ 49]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.08-09.07.39:422][ 49]LogAudioMixer: Display: 1: FrontRight
+[2021.07.08-09.07.39:491][ 49]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.08-09.07.39:499][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.07.08-09.07.39:501][ 49]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.07.08-09.07.39:511][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008622s)
+[2021.07.08-09.07.39:512][ 49]LogAIModule: Creating AISystem for world MainMenu
+[2021.07.08-09.07.39:512][ 49]LogPlayLevel: PIE: World Init took: (0.001079s)
+[2021.07.08-09.07.39:512][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.011313s)
+[2021.07.08-09.07.39:512][ 49]LogAudio: Display: Audio Device (ID: 95) registered with world 'MainMenu'.
+[2021.07.08-09.07.39:512][ 49]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.07.08-09.07.39:515][ 49]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 3) at 2021.07.08-17.07.39
+[2021.07.08-09.07.39:515][ 49]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.07.08-09.07.39:515][ 49]LogWorld: Bringing up level for play took: 0.001306
+[2021.07.08-09.07.39:515][ 49]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.07.08-09.07.39:515][ 49]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.07.08-09.07.39:515][ 49]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.07.08-09.07.39:517][ 49]LogLoad: Took 2.818972 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenu)
+[2021.07.08-09.07.39:518][ 49]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = FailureReceived, ErrorString = Host closed the connection., Driver = GameNetDriver IpNetDriver_6
+[2021.07.08-09.07.39:518][ 49]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2021.07.08-09.07.39:518][ 49]LogNet: NetworkFailure: FailureReceived, Error: 'Host closed the connection.'
+[2021.07.08-09.07.39:518][ 49]LogGameMode: Display: Match State Changed from InProgress to Aborted
+[2021.07.08-09.07.39:519][ 49]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.0.102:7777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_6, IsServer: NO, PC: LobbyPC_C_0, Owner: LobbyPC_C_0, UniqueId: NULL:LAPTOP-D22OQ9HA-1A9C9D2E469472FB316533948A475D7B, Channels: 10, Time: 2021.07.08-09.07.39
+[2021.07.08-09.07.39:519][ 49]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.0.102:7777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_6, IsServer: NO, PC: LobbyPC_C_0, Owner: LobbyPC_C_0, UniqueId: NULL:LAPTOP-D22OQ9HA-1A9C9D2E469472FB316533948A475D7B
+[2021.07.08-09.07.39:519][ 49]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_6
+[2021.07.08-09.07.39:536][ 50]LogNet: Browse: /Game/Maps/MainMenu?closed
+[2021.07.08-09.07.39:536][ 50]LogNet: Connection failed; returning to Entry
+[2021.07.08-09.07.39:536][ 50]LogLoad: LoadMap: /Game/Maps/MainMenu?closed
+[2021.07.08-09.07.39:536][ 50]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Lobby
+[2021.07.08-09.07.39:536][ 50]LogNet: World NetDriver shutdown IpNetDriver_6 [GameNetDriver]
+[2021.07.08-09.07.39:536][ 50]LogNet: DestroyNamedNetDriver IpNetDriver_6 [GameNetDriver]
+[2021.07.08-09.07.39:537][ 50]LogExit: GameNetDriver IpNetDriver_6 shut down
+[2021.07.08-09.07.39:537][ 50]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2021.07.08-09.07.39:538][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.08-09.07.39:575][ 50]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.08-09.07.39:648][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.07.08-09.07.39:649][ 50]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_MainMenu
+[2021.07.08-09.07.39:658][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009231s)
+[2021.07.08-09.07.39:659][ 50]LogAIModule: Creating AISystem for world MainMenu
+[2021.07.08-09.07.39:659][ 50]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2021.07.08-09.07.39:659][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_1_MainMenu.MainMenu (0.010320s)
+[2021.07.08-09.07.39:659][ 50]LogAudio: Display: Audio Device (ID: 96) registered with world 'MainMenu'.
+[2021.07.08-09.07.39:659][ 50]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.07.08-09.07.39:661][ 50]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 3) at 2021.07.08-17.07.39
+[2021.07.08-09.07.39:661][ 50]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.07.08-09.07.39:661][ 50]LogWorld: Bringing up level for play took: 0.000964
+[2021.07.08-09.07.39:661][ 50]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.07.08-09.07.39:662][ 50]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.07.08-09.07.39:662][ 50]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.07.08-09.07.39:663][ 50]LogLoad: Took 0.127430 seconds to LoadMap(/Game/Maps/UEDPIE_1_MainMenu)
+[2021.07.08-09.07.39:700][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.07.08-09.07.41:039][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.08-09.07.41:040][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.08-09.07.41:040][ 93]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MainMenu
+[2021.07.08-09.07.41:041][ 93]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.07.08-09.07.41:062][ 93]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.07.08-09.07.41:063][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.08-09.07.41:070][ 93]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.07.08-09.07.41:070][ 93]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.07.08-09.07.41:077][ 93]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.07.08-09.07.41:078][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.08-09.07.41:086][ 93]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.08-09.07.41:099][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.08-09.07.41:131][ 93]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.08-09.07.41:131][ 93]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.08-09.07.41:131][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.08-09.07.41:132][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.08-09.07.41:148][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.08-09.07.41:149][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.08-09.07.41:170][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.07.08-09.07.41:197][ 94]LogPlayLevel: Display: Destroying online subsystem :Context_119
+[2021.07.08-09.07.41:197][ 94]LogPlayLevel: Display: Destroying online subsystem :Context_118
+[2021.07.08-09.08.01:941][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyGM" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Blueprints/Lobby/LobbyGM.uasset" SILENT=true
+[2021.07.08-09.08.02:006][308]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/LobbyGMFF97F61D44D97AAF008D258A29E01EA1.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Blueprints/Lobby/LobbyGM.uasset'
+[2021.07.08-09.08.02:020][308]AssetCheck: New page: Asset Save: LobbyGM
+[2021.07.08-09.08.02:020][308]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2021.07.08-09.08.14:128][ 33]BlueprintLog: New page: Compile LobbyPC
+[2021.07.08-09.08.14:248][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.07.08-09.08.14:680][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyPC" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Blueprints/Lobby/LobbyPC.uasset" SILENT=true
+[2021.07.08-09.08.14:765][ 50]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/LobbyPCA194A5634A5C729A871C39ABAE6EF9C8.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Blueprints/Lobby/LobbyPC.uasset'
+[2021.07.08-09.08.14:779][ 50]AssetCheck: New page: Asset Save: LobbyPC
+[2021.07.08-09.08.14:779][ 50]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Lobby/LobbyPC.LobbyPC
+[2021.07.08-09.08.15:354][ 85]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.07.08-09.08.15:362][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.08-09.08.15:362][ 85]PIE: New page: PIE session: MainMenu (Jul 9, 2021, 1:08:15 AM)
+[2021.07.08-09.08.15:362][ 85]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.07.08-09.08.15:370][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008130s)
+[2021.07.08-09.08.15:371][ 85]LogAIModule: Creating AISystem for world MainMenu
+[2021.07.08-09.08.15:371][ 85]LogPlayLevel: PIE: World Init took: (0.001185s)
+[2021.07.08-09.08.15:371][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.009438s)
+[2021.07.08-09.08.15:410][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.07.08-09.08.15:410][ 85]LogAudio: Display: Creating Audio Device:                 Id: 97, Scope: Unique, Realtime: True
+[2021.07.08-09.08.15:410][ 85]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.08-09.08.15:410][ 85]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.08-09.08.15:410][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.08-09.08.15:410][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.08-09.08.15:410][ 85]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.08-09.08.15:410][ 85]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.08-09.08.15:410][ 85]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.08-09.08.15:410][ 85]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.08-09.08.15:411][ 85]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.08-09.08.15:411][ 85]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.08-09.08.15:413][ 85]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.08-09.08.15:413][ 85]LogAudioMixer: Display: 1: FrontRight
+[2021.07.08-09.08.15:426][ 85]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.08-09.08.15:426][ 85]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.08-09.08.15:426][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.08-09.08.15:426][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.08-09.08.15:426][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.08-09.08.15:426][ 85]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.08-09.08.15:426][ 85]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.08-09.08.15:440][ 85]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.08-09.08.15:440][ 85]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.08-09.08.15:440][ 85]LogInit: FAudioDevice initialized.
+[2021.07.08-09.08.15:440][ 85]LogAudio: Display: Audio Device (ID: 97) registered with world 'MainMenu'.
+[2021.07.08-09.08.15:470][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.08-09.08.15:470][ 85]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.07.08-09.08.15:472][ 85]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.07.08-17.08.15
+[2021.07.08-09.08.15:472][ 85]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.07.08-09.08.15:473][ 85]LogWorld: Bringing up level for play took: 0.001971
+[2021.07.08-09.08.15:473][ 85]LogOnline: OSS: Creating online subsystem instance for: :Context_120
+[2021.07.08-09.08.15:475][ 85]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.07.08-09.08.15:475][ 85]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.07.08-09.08.15:475][ 85]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.07.08-09.08.15:479][ 85]PIE: Server logged in
+[2021.07.08-09.08.15:483][ 85]PIE: Play in editor total start time 0.122 seconds.
+[2021.07.08-09.08.15:483][ 85]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_MainMenu
+[2021.07.08-09.08.15:492][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008588s)
+[2021.07.08-09.08.15:493][ 85]LogAIModule: Creating AISystem for world MainMenu
+[2021.07.08-09.08.15:493][ 85]LogPlayLevel: PIE: World Init took: (0.001311s)
+[2021.07.08-09.08.15:493][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_1_MainMenu.MainMenu (0.010053s)
+[2021.07.08-09.08.15:529][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.07.08-09.08.15:529][ 85]LogAudio: Display: Creating Audio Device:                 Id: 98, Scope: Unique, Realtime: True
+[2021.07.08-09.08.15:529][ 85]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.08-09.08.15:529][ 85]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.08-09.08.15:529][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.08-09.08.15:529][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.08-09.08.15:529][ 85]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.08-09.08.15:529][ 85]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.08-09.08.15:529][ 85]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.08-09.08.15:529][ 85]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.08-09.08.15:530][ 85]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.08-09.08.15:530][ 85]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.08-09.08.15:532][ 85]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.08-09.08.15:532][ 85]LogAudioMixer: Display: 1: FrontRight
+[2021.07.08-09.08.15:544][ 85]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.08-09.08.15:544][ 85]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.08-09.08.15:544][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.08-09.08.15:544][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.08-09.08.15:545][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.08-09.08.15:545][ 85]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.08-09.08.15:545][ 85]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.08-09.08.15:559][ 85]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.08-09.08.15:559][ 85]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.08-09.08.15:559][ 85]LogInit: FAudioDevice initialized.
+[2021.07.08-09.08.15:559][ 85]LogAudio: Display: Audio Device (ID: 98) registered with world 'MainMenu'.
+[2021.07.08-09.08.15:588][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.08-09.08.15:588][ 85]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.07.08-09.08.15:590][ 85]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 60) at 2021.07.08-17.08.15
+[2021.07.08-09.08.15:590][ 85]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.07.08-09.08.15:591][ 85]LogWorld: Bringing up level for play took: 0.002165
+[2021.07.08-09.08.15:591][ 85]LogOnline: OSS: Creating online subsystem instance for: :Context_121
+[2021.07.08-09.08.15:593][ 85]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.07.08-09.08.15:593][ 85]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.07.08-09.08.15:593][ 85]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.07.08-09.08.15:599][ 85]PIE: Server logged in
+[2021.07.08-09.08.15:602][ 85]PIE: Play in editor total start time 0.242 seconds.
+[2021.07.08-09.08.20:138][301]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.07.08-09.08.20:138][301]LogNet: Browse: /Game/Maps/Lobby?listen
+[2021.07.08-09.08.20:138][301]LogLoad: LoadMap: /Game/Maps/Lobby?listen
+[2021.07.08-09.08.20:138][301]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.07.08-09.08.20:139][301]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.07.08-09.08.20:139][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.08-09.08.20:171][301]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.08-09.08.20:180][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.07.08-09.08.20:206][301]LogAudio: Display: Audio Device (ID: 97) registered with world 'Lobby'.
+[2021.07.08-09.08.20:207][301]LogAIModule: Creating AISystem for world Lobby
+[2021.07.08-09.08.20:207][301]LogLoad: Game class is 'LobbyGM_C'
+[2021.07.08-09.08.20:207][301]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.07.08-09.08.20:207][301]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.07.08-09.08.20:207][301]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.07.08-09.08.20:207][301]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2021.07.08-09.08.20:207][301]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.07.08-09.08.20:207][301]LogNet: GameNetDriver IpNetDriver_7 IpNetDriver listening on port 7777
+[2021.07.08-09.08.20:211][301]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 60) at 2021.07.08-17.08.20
+[2021.07.08-09.08.20:212][301]LogWorld: Bringing up level for play took: 0.003314
+[2021.07.08-09.08.20:216][301]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.07.08-09.08.20:216][301]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.07.08-09.08.20:216][301]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.07.08-09.08.20:218][301]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.07.08-09.08.20:218][301]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.07.08-09.08.20:218][301]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.07.08-09.08.20:218][301]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.07.08-09.08.20:218][301]LogLoad: Took 0.079682 seconds to LoadMap(/Game/Maps/Lobby)
+[2021.07.08-09.08.53:143][258]LogScript: Script Msg: Found a session. Ping is 10
+[2021.07.08-09.08.55:067][373]LogOnlineSession: OSS: Join session: traveling to 192.168.0.102:7777
+[2021.07.08-09.08.55:069][373]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.07.08-09.08.55:069][373]LogNet: Browse: 192.168.0.102/Game/Maps/MainMenu
+[2021.07.08-09.08.55:069][373]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.07.08-09.08.55:069][373]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.07.08-09.08.55:069][373]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.07.08-09.08.55:069][373]LogNet: Game client on port 7777, rate 100000
+[2021.07.08-09.08.56:100][435]LogNet: NotifyAcceptingConnection accepted from: 192.168.0.102:49853
+[2021.07.08-09.08.56:100][435]LogHandshake: SendConnectChallenge. Timestamp: 35.983033, Cookie: 148084032216229250092226130022067148204071045009028172060002
+[2021.07.08-09.08.56:101][435]LogHandshake: SendChallengeResponse. Timestamp: 35.983033, Cookie: 148084032216229250092226130022067148204071045009028172060002
+[2021.07.08-09.08.56:117][436]LogNet: NotifyAcceptingConnection accepted from: 192.168.0.102:49853
+[2021.07.08-09.08.56:117][436]LogHandshake: SendChallengeAck. InCookie: 148084032216229250092226130022067148204071045009028172060002
+[2021.07.08-09.08.56:117][436]LogNet: Server accepting post-challenge connection from: 192.168.0.102:49853
+[2021.07.08-09.08.56:117][436]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.07.08-09.08.56:117][436]LogNet: NotifyAcceptedConnection: Name: Lobby, TimeStamp: 07/08/21 17:08:56, [UNetConnection] RemoteAddr: 192.168.0.102:49853, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_7, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.08-09.08.56:118][436]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 192.168.0.102:49853, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_7, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.08-09.08.56:118][436]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 192.168.0.102:7777, Name: IpConnection_8, Driver: PendingNetDriver IpNetDriver_8, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.08-09.08.56:134][437]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_Lobby.Lobby: Accepted
+[2021.07.08-09.08.56:134][437]LogNet: Remote platform little endian=1
+[2021.07.08-09.08.56:134][437]LogNet: This platform little endian=1
+[2021.07.08-09.08.56:151][438]LogNet: Login request: ?Name=LAPTOP-D22OQ9HA-12F832054801E1A698878DB73F6E3F36 userId: NULL:LAPTOP-D22OQ9HA-12F832054801E1A698878DB73F6E3F36 platform: NULL
+[2021.07.08-09.08.56:152][438]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_Lobby, Game: /Game/Blueprints/Lobby/LobbyGM.LobbyGM_C)
+[2021.07.08-09.08.56:152][438]LogLoad: LoadMap: 192.168.0.102/Game/Maps/UEDPIE_0_Lobby?game=/Game/Blueprints/Lobby/LobbyGM.LobbyGM_C
+[2021.07.08-09.08.56:152][438]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MainMenu
+[2021.07.08-09.08.56:152][438]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.07.08-09.08.56:153][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.08-09.08.56:186][438]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.08-09.08.56:191][438]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.07.08-09.08.56:209][438]LogAudio: Display: Audio Device (ID: 98) registered with world 'Lobby'.
+[2021.07.08-09.08.56:210][438]LogAIModule: Creating AISystem for world Lobby
+[2021.07.08-09.08.56:214][438]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Lobby.Lobby up for play (max tick rate 60) at 2021.07.08-17.08.56
+[2021.07.08-09.08.56:214][438]LogWorld: Bringing up level for play took: 0.003104
+[2021.07.08-09.08.56:215][438]LogLoad: Took 0.062386 seconds to LoadMap(/Game/Maps/UEDPIE_0_Lobby)
+[2021.07.08-09.08.56:224][439]LogNet: Client netspeed is 100000
+[2021.07.08-09.08.56:224][439]LogNet: Join request: /Game/Maps/MainMenu?Name=LAPTOP-D22OQ9HA-12F832054801E1A698878DB73F6E3F36?SplitscreenCount=1
+[2021.07.08-09.08.56:228][439]LogNet: Join succeeded: LAPTOP-D22OQ9HA-12F8
+[2021.07.08-09.08.56:233][439]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.07.08-09.08.56:233][439]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.07.08-09.08.56:233][439]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.07.08-09.11.36:083][373]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.07.08-09.11.36:108][373]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.07.08-09.11.36:110][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.08-09.11.36:110][373]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Lobby
+[2021.07.08-09.11.36:111][373]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.07.08-09.11.36:152][373]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2021.07.08-09.11.36:153][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.08-09.11.36:161][373]LogNet: World NetDriver shutdown IpNetDriver_8 [GameNetDriver]
+[2021.07.08-09.11.36:161][373]LogNet: DestroyNamedNetDriver IpNetDriver_8 [GameNetDriver]
+[2021.07.08-09.11.36:161][373]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.0.102:7777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_8, IsServer: NO, PC: LobbyPC_C_0, Owner: LobbyPC_C_0, UniqueId: NULL:LAPTOP-D22OQ9HA-12F832054801E1A698878DB73F6E3F36, Channels: 10, Time: 2021.07.08-09.11.36
+[2021.07.08-09.11.36:161][373]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.0.102:7777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_8, IsServer: NO, PC: LobbyPC_C_0, Owner: LobbyPC_C_0, UniqueId: NULL:LAPTOP-D22OQ9HA-12F832054801E1A698878DB73F6E3F36
+[2021.07.08-09.11.36:161][373]LogExit: GameNetDriver IpNetDriver_8 shut down
+[2021.07.08-09.11.36:162][373]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Lobby
+[2021.07.08-09.11.36:202][373]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2021.07.08-09.11.36:203][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.08-09.11.36:211][373]LogNet: World NetDriver shutdown IpNetDriver_7 [GameNetDriver]
+[2021.07.08-09.11.36:211][373]LogNet: DestroyNamedNetDriver IpNetDriver_7 [GameNetDriver]
+[2021.07.08-09.11.36:211][373]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 192.168.0.102:49853, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_7, IsServer: YES, PC: LobbyPC_C_1, Owner: LobbyPC_C_1, UniqueId: NULL:LAPTOP-D22OQ9HA-12F832054801E1A698878DB73F6E3F36
+[2021.07.08-09.11.36:211][373]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.0.102:49853, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_7, IsServer: YES, PC: LobbyPC_C_1, Owner: LobbyPC_C_1, UniqueId: NULL:LAPTOP-D22OQ9HA-12F832054801E1A698878DB73F6E3F36, Channels: 10, Time: 2021.07.08-09.11.36
+[2021.07.08-09.11.36:211][373]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.0.102:49853, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_7, IsServer: YES, PC: LobbyPC_C_1, Owner: LobbyPC_C_1, UniqueId: NULL:LAPTOP-D22OQ9HA-12F832054801E1A698878DB73F6E3F36
+[2021.07.08-09.11.36:211][373]LogExit: GameNetDriver IpNetDriver_7 shut down
+[2021.07.08-09.11.36:212][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.08-09.11.36:225][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.08-09.11.36:261][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.08-09.11.36:262][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.08-09.11.36:278][373]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.08-09.11.36:278][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.08-09.11.36:279][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.08-09.11.36:303][373]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.07.08-09.11.36:327][374]LogPlayLevel: Display: Destroying online subsystem :Context_121
+[2021.07.08-09.11.36:327][374]LogPlayLevel: Display: Destroying online subsystem :Context_120
+[2021.07.08-09.11.40:418][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/CharacterSelect" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/Lobby/CharacterSelect.uasset" SILENT=true
+[2021.07.08-09.11.40:452][615]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/CharacterSelect53C55AF541D826EEC982F5880A9C3867.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/Lobby/CharacterSelect.uasset'
+[2021.07.08-09.11.40:467][615]AssetCheck: New page: Asset Save: CharacterSelect
+[2021.07.08-09.11.40:467][615]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Lobby/CharacterSelect.CharacterSelect
