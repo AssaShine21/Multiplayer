@@ -3115,3 +3115,223 @@ Exception rethrown at [0]:
 [2021.07.10-04.43.03:375][285]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
 [2021.07.10-04.43.03:413][286]LogPlayLevel: Display: Destroying online subsystem :Context_49
 [2021.07.10-04.43.08:068][517]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.07.10-04.50.04:676][851]LogSlate: Window 'Fix Self Context Function References' being destroyed
+[2021.07.10-04.50.16:131][509]BlueprintLog: New page: Compile GameplayPC
+[2021.07.10-04.50.16:479][509]LogBlueprint: Error: [AssetLog] D:\Documents\Unreal Projects\Multiplayer\Multiplayer\Content\Blueprints\Gameplay\GameplayPC.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Spp . Please refresh node or break links to remove pin.
+[2021.07.10-04.50.16:653][509]LogUObjectHash: Compacting FUObjectHashTables data took   6.35ms
+[2021.07.10-04.50.31:400][348]BlueprintLog: New page: Compile GameplayPC
+[2021.07.10-04.50.31:829][348]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2021.07.10-04.50.32:303][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayPC" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset" SILENT=true
+[2021.07.10-04.50.32:645][370]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayPC0F59D9AB41E49548B6D55D91746DA05E.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset'
+[2021.07.10-04.50.32:669][370]AssetCheck: New page: Asset Save: GameplayPC
+[2021.07.10-04.50.32:669][370]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayPC.GameplayPC
+[2021.07.10-04.50.35:781][506]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2021.07.10-04.50.36:057][506]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Arena03.Arena03
+[2021.07.10-04.50.36:057][506]Cmd: MAP LOAD FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Maps/Arena03.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.10-04.50.36:057][506]LightingResults: New page: Lighting Build
+[2021.07.10-04.50.36:058][506]LoadErrors: New page: Loading map: Arena03.umap
+[2021.07.10-04.50.36:060][506]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.07.10-04.50.36:060][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.10-04.50.36:061][506]MapCheck: New page: Map Check
+[2021.07.10-04.50.36:061][506]LightingResults: New page: Lighting Build
+[2021.07.10-04.50.36:129][506]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.10-04.50.36:140][506]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2021.07.10-04.50.36:142][506]LogAudio: Display: Audio Device (ID: 1) registered with world 'Arena03'.
+[2021.07.10-04.50.36:199][506]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.10-04.50.36:199][506]LogAIModule: Creating AISystem for world Arena03
+[2021.07.10-04.50.36:226][506]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2021.07.10-04.50.36:304][506]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.07.10-04.50.36:318][506]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.10-04.50.36:318][506]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.244ms to complete.
+[2021.07.10-04.50.36:318][506]LogFileHelpers: Loading map 'Arena03' took 0.261
+[2021.07.10-04.50.37:435][544]LogTemp: Repeating last play command: Standalone Game
+[2021.07.10-04.50.37:502][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.07.10-04.50.42:850][686]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.10-04.50.42:850][686]PIE: New page: PIE session: Arena03 (Jul 10, 2021, 8:50:42 PM)
+[2021.07.10-04.50.42:850][686]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Arena03
+[2021.07.10-04.50.42:898][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047920s)
+[2021.07.10-04.50.42:900][686]LogAIModule: Creating AISystem for world Arena03
+[2021.07.10-04.50.42:900][686]LogPlayLevel: PIE: World Init took: (0.002022s)
+[2021.07.10-04.50.42:900][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Arena03.Arena03 to /Game/Maps/UEDPIE_0_Arena03.Arena03 (0.050232s)
+[2021.07.10-04.50.42:980][686]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2021.07.10-04.50.42:981][686]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.07.10-04.50.42:981][686]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.10-04.50.42:981][686]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.10-04.50.42:981][686]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.10-04.50.42:981][686]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.10-04.50.42:981][686]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.10-04.50.42:981][686]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.10-04.50.42:981][686]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.10-04.50.42:981][686]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.10-04.50.42:982][686]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.10-04.50.42:982][686]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.10-04.50.42:991][686]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.10-04.50.42:991][686]LogAudioMixer: Display: 1: FrontRight
+[2021.07.10-04.50.43:032][686]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2021.07.10-04.50.43:033][686]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.10-04.50.43:033][686]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.10-04.50.43:033][686]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.10-04.50.43:034][686]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.10-04.50.43:034][686]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.10-04.50.43:034][686]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.10-04.50.43:063][686]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.10-04.50.43:063][686]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.10-04.50.43:063][686]LogInit: FAudioDevice initialized.
+[2021.07.10-04.50.43:063][686]LogAudio: Display: Audio Device (ID: 19) registered with world 'Arena03'.
+[2021.07.10-04.50.43:100][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.10-04.50.43:100][686]LogLoad: Game class is 'GameplayGM_C'
+[2021.07.10-04.50.43:105][686]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Arena03.Arena03 up for play (max tick rate 60) at 2021.07.10-12.50.43
+[2021.07.10-04.50.43:105][686]LogWorld: Bringing up level for play took: 0.004435
+[2021.07.10-04.50.43:106][686]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2021.07.10-04.50.43:112][686]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.07.10-04.50.43:112][686]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.07.10-04.50.43:113][686]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.07.10-04.50.43:134][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.10-04.50.43:148][686]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.07.10-04.50.43:153][686]PIE: Server logged in
+[2021.07.10-04.50.43:156][686]PIE: Play in editor total start time 0.31 seconds.
+[2021.07.10-04.50.43:156][686]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_Arena03
+[2021.07.10-04.50.43:212][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055789s)
+[2021.07.10-04.50.43:214][686]LogAIModule: Creating AISystem for world Arena03
+[2021.07.10-04.50.43:214][686]LogPlayLevel: PIE: World Init took: (0.002331s)
+[2021.07.10-04.50.43:215][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Arena03.Arena03 to /Game/Maps/UEDPIE_1_Arena03.Arena03 (0.058569s)
+[2021.07.10-04.50.43:334][686]LogUObjectHash: Compacting FUObjectHashTables data took   9.36ms
+[2021.07.10-04.50.43:335][686]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.07.10-04.50.43:335][686]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.10-04.50.43:335][686]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.10-04.50.43:335][686]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.10-04.50.43:335][686]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.10-04.50.43:335][686]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.10-04.50.43:335][686]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.10-04.50.43:335][686]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.10-04.50.43:335][686]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.10-04.50.43:335][686]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.10-04.50.43:336][686]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.10-04.50.43:373][686]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.10-04.50.43:373][686]LogAudioMixer: Display: 1: FrontRight
+[2021.07.10-04.50.43:400][686]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2021.07.10-04.50.43:401][686]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.10-04.50.43:401][686]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.10-04.50.43:401][686]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.10-04.50.43:402][686]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.10-04.50.43:402][686]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.10-04.50.43:402][686]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.10-04.50.43:443][686]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.10-04.50.43:443][686]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.10-04.50.43:444][686]LogInit: FAudioDevice initialized.
+[2021.07.10-04.50.43:444][686]LogAudio: Display: Audio Device (ID: 20) registered with world 'Arena03'.
+[2021.07.10-04.50.43:499][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.10-04.50.43:499][686]LogLoad: Game class is 'GameplayGM_C'
+[2021.07.10-04.50.43:504][686]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Arena03.Arena03 up for play (max tick rate 60) at 2021.07.10-12.50.43
+[2021.07.10-04.50.43:504][686]LogWorld: Bringing up level for play took: 0.004458
+[2021.07.10-04.50.43:505][686]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2021.07.10-04.50.43:508][686]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.07.10-04.50.43:509][686]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.07.10-04.50.43:509][686]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.07.10-04.50.43:516][686]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1472.686 Y=602.215 Z=203.690] for [NPC1_C]
+[2021.07.10-04.50.43:523][686]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2470.000 Y=570.000 Z=138.000] for [NPC1_C]
+[2021.07.10-04.50.43:526][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.10-04.50.43:538][686]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.07.10-04.50.43:540][686]PIE: Server logged in
+[2021.07.10-04.50.43:542][686]PIE: Play in editor total start time 0.695 seconds.
+[2021.07.10-04.50.43:549][686]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1972.489 Y=2119.280 Z=200.766] for [NPC1_C]
+[2021.07.10-04.50.44:043][688]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1976.000 Y=988.000 Z=188.000] for [NPC1_C]
+[2021.07.10-04.50.44:080][689]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1596.000 Y=-1862.000 Z=108.000] for [NPC1_C]
+[2021.07.10-04.50.44:086][689]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2035.380 Y=568.601 Z=128.334] for [NPC1_C]
+[2021.07.10-04.50.44:112][690]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=19.805 Y=1163.530 Z=165.285] for [NPC1_C]
+[2021.07.10-04.50.44:155][691]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1862.000 Y=-2470.000 Z=138.000] for [NPC1_C]
+[2021.07.10-04.50.44:167][691]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1596.000 Y=1292.000 Z=208.000] for [NPC1_C]
+[2021.07.10-04.50.44:217][692]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-988.000 Y=0.000 Z=158.000] for [NPC1_C]
+[2021.07.10-04.50.44:259][693]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1597.697 Y=1303.577 Z=208.000] for [NPC1_C]
+[2021.07.10-04.50.44:315][694]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-874.000 Y=-2.000 Z=147.930] for [NPC1_C]
+[2021.07.10-04.50.44:346][695]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=703.000 Y=-1995.000 Z=318.000] for [NPC1_C]
+[2021.07.10-04.50.44:396][696]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-209.387 Y=2681.540 Z=229.140] for [NPC1_C]
+[2021.07.10-04.50.44:446][697]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-19.000 Y=-1976.000 Z=108.000] for [NPC1_C]
+[2021.07.10-04.50.44:539][699]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2489.000 Y=608.000 Z=158.000] for [NPC1_C]
+[2021.07.10-04.50.44:576][700]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-315.420 Y=1022.650 Z=132.858] for [NPC1_C]
+[2021.07.10-04.50.44:581][700]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-988.000 Y=0.000 Z=158.000] for [NPC1_C]
+[2021.07.10-04.50.44:619][701]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=570.000 Y=-304.000 Z=188.000] for [NPC1_C]
+[2021.07.10-04.50.44:688][702]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=551.000 Y=665.000 Z=188.000] for [NPC1_C]
+[2021.07.10-04.50.44:726][703]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-876.068 Y=-143.637 Z=143.141] for [NPC1_C]
+[2021.07.10-04.50.44:770][704]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=144.041 Y=370.303 Z=94.302] for [NPC1_C]
+[2021.07.10-04.50.44:817][705]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2470.000 Y=1273.000 Z=128.000] for [NPC1_C]
+[2021.07.10-04.50.44:990][709]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=247.000 Y=285.000 Z=68.000] for [NPC1_C]
+[2021.07.10-04.50.45:040][710]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-988.000 Y=1083.000 Z=208.000] for [NPC1_C]
+[2021.07.10-04.50.45:123][712]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2375.000 Y=-988.000 Z=148.000] for [NPC1_C]
+[2021.07.10-04.50.45:470][720]LogBlueprintUserMessages: [Mage_C_0] 500
+[2021.07.10-04.50.46:388][741]LogBlueprintUserMessages: [Mage_C_0] 500
+[2021.07.10-04.50.47:349][764]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllPlayerControllers' of length 0 in '/Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C'!
+[2021.07.10-04.50.47:357][764]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AllPlayerControllers' of length 0 in '/Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C'!
+[2021.07.10-04.50.52:506][875]LogBlueprintUserMessages: [Mage_C_0] 500
+[2021.07.10-04.50.53:301][890]LogBlueprintUserMessages: [Mage_C_0] 500
+[2021.07.10-04.50.56:240][948]LogScript: Warning: Accessed None trying to read property killedPlayer
+	GameplayGM_C /Game/Maps/UEDPIE_0_Arena03.Arena03:PersistentLevel.GameplayGM_C_0
+	Function /Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C:printWhenMeteorKills:003C
+[2021.07.10-04.50.56:243][948]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property killedPlayer". Blueprint:  GameplayGM Function:  Print when Meteor Kills Graph:  printWhenMeteorKills Node:  Get Player Name
+[2021.07.10-04.50.56:243][948]LogScript: Warning: Accessed None trying to read property CallFunc_getControllerByCharacter_targetController
+	GameplayGM_C /Game/Maps/UEDPIE_0_Arena03.Arena03:PersistentLevel.GameplayGM_C_0
+	Function /Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C:MAGE_MeteorKill:05E3
+[2021.07.10-04.50.56:244][948]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_getControllerByCharacter_targetController". Blueprint:  GameplayGM Function:  MAGE Meteor Kill Graph:  MAGE_MeteorKill Node:  Pass Character Info to Server
+[2021.07.10-04.51.03:992][112]LogBlueprintUserMessages: [Mage_C_0] 500
+[2021.07.10-04.51.04:773][129]LogBlueprintUserMessages: [Mage_C_0] 500
+[2021.07.10-04.51.07:750][196]LogScript: Warning: Accessed None trying to read property killedPlayer
+	GameplayGM_C /Game/Maps/UEDPIE_0_Arena03.Arena03:PersistentLevel.GameplayGM_C_0
+	Function /Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C:printWhenMeteorKills:003C
+[2021.07.10-04.51.07:751][196]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property killedPlayer". Blueprint:  GameplayGM Function:  Print when Meteor Kills Graph:  printWhenMeteorKills Node:  Get Player Name
+[2021.07.10-04.51.07:752][196]LogScript: Warning: Accessed None trying to read property CallFunc_getControllerByCharacter_targetController
+	GameplayGM_C /Game/Maps/UEDPIE_0_Arena03.Arena03:PersistentLevel.GameplayGM_C_0
+	Function /Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C:MAGE_MeteorKill:05E3
+[2021.07.10-04.51.07:753][196]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_getControllerByCharacter_targetController". Blueprint:  GameplayGM Function:  MAGE Meteor Kill Graph:  MAGE_MeteorKill Node:  Pass Character Info to Server
+[2021.07.10-04.51.07:758][196]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-1634.000 Z=108.000] for [NPC1_C]
+[2021.07.10-04.51.12:538][304]LogBlueprintUserMessages: [Mage_C_0] 500
+[2021.07.10-04.51.17:536][415]LogBlueprintUserMessages: [Mage_C_0] 500
+[2021.07.10-04.51.20:491][482]LogScript: Warning: Accessed None trying to read property killedPlayer
+	GameplayGM_C /Game/Maps/UEDPIE_0_Arena03.Arena03:PersistentLevel.GameplayGM_C_0
+	Function /Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C:printWhenMeteorKills:003C
+[2021.07.10-04.51.20:492][482]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property killedPlayer". Blueprint:  GameplayGM Function:  Print when Meteor Kills Graph:  printWhenMeteorKills Node:  Get Player Name
+[2021.07.10-04.51.20:492][482]LogScript: Warning: Accessed None trying to read property CallFunc_getControllerByCharacter_targetController
+	GameplayGM_C /Game/Maps/UEDPIE_0_Arena03.Arena03:PersistentLevel.GameplayGM_C_0
+	Function /Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C:MAGE_MeteorKill:05E3
+[2021.07.10-04.51.20:493][482]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_getControllerByCharacter_targetController". Blueprint:  GameplayGM Function:  MAGE Meteor Kill Graph:  MAGE_MeteorKill Node:  Pass Character Info to Server
+[2021.07.10-04.51.29:280][682]LogBlueprintUserMessages: [Mage_C_0] 500
+[2021.07.10-04.51.30:733][710]LogBlueprintUserMessages: [GameplayPC_C_0] GameplayPC_C_0 is 1
+[2021.07.10-04.51.31:728][729]LogBlueprintUserMessages: [GameplayPC_C_0] GameplayPC_C_0 is 1
+[2021.07.10-04.51.31:933][733]LogBlueprintUserMessages: [GameplayPC_C_0] GameplayPC_C_0 is 1
+[2021.07.10-04.51.32:082][736]LogBlueprintUserMessages: [GameplayPC_C_0] GameplayPC_C_0 is 1
+[2021.07.10-04.51.32:282][740]LogBlueprintUserMessages: [GameplayPC_C_0] GameplayPC_C_0 is 1
+[2021.07.10-04.51.34:169][778]LogBlueprintUserMessages: [GameplayGM_C_0] GameplayPC_C_0 is 1
+[2021.07.10-04.51.34:519][785]LogBlueprintUserMessages: [GameplayGM_C_0] GameplayPC_C_0 is 1
+[2021.07.10-04.51.34:768][790]LogBlueprintUserMessages: [GameplayGM_C_0] GameplayPC_C_0 is 1
+[2021.07.10-04.51.34:959][794]LogBlueprintUserMessages: [GameplayGM_C_0] GameplayPC_C_0 is 1
+[2021.07.10-04.51.35:295][801]LogBlueprintUserMessages: [GameplayGM_C_0] GameplayPC_C_0 is 1
+[2021.07.10-04.51.36:486][825]LogBlueprintUserMessages: [Mage_C_0] 500
+[2021.07.10-04.51.38:503][867]LogBlueprintUserMessages: [Mage_C_0] 300
+[2021.07.10-04.51.40:194][901]LogBlueprintUserMessages: [Mage_C_0] 300
+[2021.07.10-04.51.40:196][901]LogBlueprintUserMessages: [GameplayGM_C_0] Player GameplayPC_C_0 is of MAGE and 1, with false and false
+[2021.07.10-04.51.40:196][901]LogBlueprintUserMessages: [GameplayGM_C_0] 2.0
+[2021.07.10-04.51.40:210][901]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=153.801 Y=-116.859 Z=130.215] for [NPC1_C]
+[2021.07.10-04.51.44:546][994]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.07.10-04.51.44:565][994]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2021.07.10-04.51.44:565][994]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.07.10-04.51.44:574][994]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2021.07.10-04.51.44:574][994]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.07.10-04.51.44:575][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.10-04.51.44:575][994]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Arena03
+[2021.07.10-04.51.44:576][994]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.07.10-04.51.44:586][994]LogWorld: UWorld::CleanupWorld for Arena03, bSessionEnded=true, bCleanupResources=true
+[2021.07.10-04.51.44:588][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.10-04.51.44:602][994]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Arena03
+[2021.07.10-04.51.44:603][994]LogWorld: UWorld::CleanupWorld for Arena03, bSessionEnded=true, bCleanupResources=true
+[2021.07.10-04.51.44:605][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.10-04.51.44:720][994]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.10-04.51.44:735][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.10-04.51.44:830][994]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.10-04.51.44:833][994]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.10-04.51.44:834][994]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.10-04.51.44:864][994]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.10-04.51.44:866][994]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.10-04.51.44:906][994]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2021.07.10-04.51.45:069][995]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2021.07.10-04.51.45:069][995]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2021.07.10-04.51.58:330][514]LogSlate: Window 'Message Log' being destroyed
+[2021.07.10-04.51.58:349][514]LogSlate: Window 'Message Log' being destroyed
