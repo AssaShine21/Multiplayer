@@ -3978,3 +3978,238 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.12-03.40.29:029][931]AssetCheck: New page: Asset Save: multiple assets
 [2021.07.12-03.40.29:029][931]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
 [2021.07.12-03.40.29:029][931]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMenu_BuiltData.MainMenu_BuiltData
+[2021.07.12-03.41.01:256][678]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.07.12-03.41.02:605][756]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (bgm01)
+[2021.07.12-03.41.30:561][430]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.07.12-03.41.36:068][757]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance
+[2021.07.12-03.41.47:722][427]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.07.12-03.41.47:733][427]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.12-03.41.47:733][427]PIE: New page: PIE session: MainMenu (Jul 12, 2021, 7:41:47 PM)
+[2021.07.12-03.41.47:733][427]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.07.12-03.41.47:743][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009504s)
+[2021.07.12-03.41.47:744][427]LogAIModule: Creating AISystem for world MainMenu
+[2021.07.12-03.41.47:744][427]LogPlayLevel: PIE: World Init took: (0.001059s)
+[2021.07.12-03.41.47:744][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.010683s)
+[2021.07.12-03.41.47:801][427]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.07.12-03.41.47:803][427]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2021.07.12-03.41.47:803][427]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.12-03.41.47:803][427]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.12-03.41.47:803][427]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.12-03.41.47:803][427]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.12-03.41.47:803][427]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.12-03.41.47:803][427]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.12-03.41.47:803][427]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.12-03.41.47:803][427]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.12-03.41.47:803][427]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.12-03.41.47:803][427]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.12-03.41.47:806][427]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.12-03.41.47:806][427]LogAudioMixer: Display: 1: FrontRight
+[2021.07.12-03.41.47:818][427]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.12-03.41.47:819][427]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.12-03.41.47:819][427]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.12-03.41.47:819][427]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.12-03.41.47:819][427]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.12-03.41.47:819][427]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.12-03.41.47:819][427]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.12-03.41.47:833][427]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.12-03.41.47:833][427]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.12-03.41.47:833][427]LogInit: FAudioDevice initialized.
+[2021.07.12-03.41.47:833][427]LogAudio: Display: Audio Device (ID: 36) registered with world 'MainMenu'.
+[2021.07.12-03.41.47:859][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.12-03.41.47:859][427]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.07.12-03.41.47:861][427]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.07.12-11.41.47
+[2021.07.12-03.41.47:862][427]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.07.12-03.41.47:862][427]LogWorld: Bringing up level for play took: 0.002214
+[2021.07.12-03.41.47:862][427]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2021.07.12-03.41.47:865][427]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.07.12-03.41.47:865][427]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.07.12-03.41.47:869][427]PIE: Server logged in
+[2021.07.12-03.41.47:870][427]PIE: Play in editor total start time 0.139 seconds.
+[2021.07.12-03.41.47:870][427]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_MainMenu
+[2021.07.12-03.41.47:879][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008837s)
+[2021.07.12-03.41.47:880][427]LogAIModule: Creating AISystem for world MainMenu
+[2021.07.12-03.41.47:881][427]LogPlayLevel: PIE: World Init took: (0.001260s)
+[2021.07.12-03.41.47:881][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_1_MainMenu.MainMenu (0.010311s)
+[2021.07.12-03.41.47:938][427]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2021.07.12-03.41.47:938][427]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2021.07.12-03.41.47:938][427]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.12-03.41.47:938][427]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.12-03.41.47:938][427]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.12-03.41.47:938][427]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.12-03.41.47:938][427]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.12-03.41.47:938][427]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.12-03.41.47:938][427]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.12-03.41.47:938][427]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.12-03.41.47:938][427]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.12-03.41.47:938][427]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.12-03.41.47:941][427]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.12-03.41.47:941][427]LogAudioMixer: Display: 1: FrontRight
+[2021.07.12-03.41.47:952][427]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.12-03.41.47:953][427]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.12-03.41.47:953][427]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.12-03.41.47:953][427]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.12-03.41.47:953][427]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.12-03.41.47:953][427]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.12-03.41.47:953][427]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.12-03.41.47:967][427]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.12-03.41.47:967][427]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.12-03.41.47:967][427]LogInit: FAudioDevice initialized.
+[2021.07.12-03.41.47:967][427]LogAudio: Display: Audio Device (ID: 37) registered with world 'MainMenu'.
+[2021.07.12-03.41.47:990][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.12-03.41.47:990][427]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.07.12-03.41.47:992][427]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 60) at 2021.07.12-11.41.47
+[2021.07.12-03.41.47:992][427]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.07.12-03.41.47:993][427]LogWorld: Bringing up level for play took: 0.001610
+[2021.07.12-03.41.47:993][427]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2021.07.12-03.41.47:995][427]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.07.12-03.41.47:995][427]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.07.12-03.41.47:999][427]PIE: Server logged in
+[2021.07.12-03.41.48:000][427]PIE: Play in editor total start time 0.268 seconds.
+[2021.07.12-03.41.53:418][747]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.07.12-03.41.53:418][747]LogNet: Browse: /Game/Maps/Info
+[2021.07.12-03.41.53:418][747]LogLoad: LoadMap: /Game/Maps/Info
+[2021.07.12-03.41.53:418][747]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.07.12-03.41.53:418][747]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.41.53:419][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.41.53:502][747]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.12-03.41.53:507][747]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.07.12-03.41.53:588][747]LogAudio: Display: Audio Device (ID: 36) registered with world 'Info'.
+[2021.07.12-03.41.53:589][747]LogAIModule: Creating AISystem for world Info
+[2021.07.12-03.41.53:590][747]LogLoad: Game class is 'InfoGM_C'
+[2021.07.12-03.41.53:597][747]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Info.Info up for play (max tick rate 60) at 2021.07.12-11.41.53
+[2021.07.12-03.41.53:597][747]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.07.12-03.41.53:597][747]LogWorld: Bringing up level for play took: 0.006662
+[2021.07.12-03.41.53:598][747]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.07.12-03.41.53:598][747]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.07.12-03.41.53:604][747]LogLoad: Took 0.185466 seconds to LoadMap(/Game/Maps/Info)
+[2021.07.12-03.41.56:142][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.12-03.41.56:142][895]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MainMenu
+[2021.07.12-03.41.56:142][895]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.07.12-03.41.56:145][895]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.41.56:145][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.41.56:152][895]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Info
+[2021.07.12-03.41.56:152][895]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.07.12-03.41.56:152][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.12-03.41.56:152][895]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.07.12-03.41.56:156][895]LogWorld: UWorld::CleanupWorld for Info, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.41.56:157][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.41.56:163][895]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.12-03.41.56:181][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.41.56:237][895]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.12-03.41.56:238][895]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.12-03.41.56:238][895]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.12-03.41.56:239][895]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.12-03.41.56:254][895]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.12-03.41.56:255][895]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.12-03.41.56:280][895]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2021.07.12-03.41.56:316][896]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2021.07.12-03.41.56:316][896]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2021.07.12-03.42.04:142][355]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.07.12-03.43.41:738][662]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/AllLevels/Back.Back
+[2021.07.12-03.43.54:024][380]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.43.54:024][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.43.54:039][380]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.43.54:039][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.43.59:867][687]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Info/BackForInfo.BackForInfo
+[2021.07.12-03.44.13:435][476]BlueprintLog: New page: Compile BackForInfo
+[2021.07.12-03.44.13:504][476]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2021.07.12-03.44.13:892][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Info/BackForInfo" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/Info/BackForInfo.uasset" SILENT=true
+[2021.07.12-03.44.13:900][491]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/BackForInfo18B9EA9F4077EAC12D2C54A6AD5762CF.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/Info/BackForInfo.uasset'
+[2021.07.12-03.44.13:915][491]AssetCheck: New page: Asset Save: BackForInfo
+[2021.07.12-03.44.13:915][491]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Info/BackForInfo.BackForInfo
+[2021.07.12-03.44.17:095][681]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Lobby/CharacterSelect.CharacterSelect
+[2021.07.12-03.44.32:796][549]BlueprintLog: New page: Compile CharacterSelect
+[2021.07.12-03.44.32:882][549]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2021.07.12-03.44.33:342][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/CharacterSelect" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/Lobby/CharacterSelect.uasset" SILENT=true
+[2021.07.12-03.44.33:376][568]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/CharacterSelect24551FB64996CF8DE2984DA31B28A999.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/Lobby/CharacterSelect.uasset'
+[2021.07.12-03.44.33:394][568]AssetCheck: New page: Asset Save: CharacterSelect
+[2021.07.12-03.44.33:394][568]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Lobby/CharacterSelect.CharacterSelect
+[2021.07.12-03.44.35:155][671]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.44.35:156][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.44.35:167][671]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.44.35:167][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.44.37:252][792]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Lobby/ConnectedPlayer.ConnectedPlayer
+[2021.07.12-03.44.41:445][998]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Lobby/GameSettings.GameSettings
+[2021.07.12-03.45.08:892][601]BlueprintLog: New page: Compile GameSettings
+[2021.07.12-03.45.08:988][601]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2021.07.12-03.45.09:346][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/GameSettings" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/Lobby/GameSettings.uasset" SILENT=true
+[2021.07.12-03.45.09:384][613]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/GameSettingsC6C9255C4FA5AA6CCA19C889E138433E.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/Lobby/GameSettings.uasset'
+[2021.07.12-03.45.09:402][613]AssetCheck: New page: Asset Save: GameSettings
+[2021.07.12-03.45.09:402][613]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Lobby/GameSettings.GameSettings
+[2021.07.12-03.45.09:759][634]LogTemp: Repeating last play command: Standalone Game
+[2021.07.12-03.45.09:835][634]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2021.07.12-03.45.47:557][268]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Lobby/LobbyMenu.LobbyMenu
+[2021.07.12-03.46.09:069][520]BlueprintLog: New page: Compile LobbyMenu
+[2021.07.12-03.46.09:164][520]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2021.07.12-03.46.09:667][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2021.07.12-03.46.09:718][540]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/LobbyMenu7EFF003648BDDC1FE51164B3A2CE5780.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/Lobby/LobbyMenu.uasset'
+[2021.07.12-03.46.09:734][540]AssetCheck: New page: Asset Save: LobbyMenu
+[2021.07.12-03.46.09:734][540]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Lobby/LobbyMenu.LobbyMenu
+[2021.07.12-03.46.12:987][733]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Lobby/PlayerButton.PlayerButton
+[2021.07.12-03.46.19:889][126]BlueprintLog: New page: Compile PlayerButton
+[2021.07.12-03.46.19:969][126]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2021.07.12-03.46.20:457][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/PlayerButton" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/Lobby/PlayerButton.uasset" SILENT=true
+[2021.07.12-03.46.20:469][141]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/PlayerButton16616853480B8D1955A3CE895AC1F3D4.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/Lobby/PlayerButton.uasset'
+[2021.07.12-03.46.20:489][141]AssetCheck: New page: Asset Save: PlayerButton
+[2021.07.12-03.46.20:489][141]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Lobby/PlayerButton.PlayerButton
+[2021.07.12-03.46.21:012][172]LogTemp: Repeating last play command: Standalone Game
+[2021.07.12-03.46.21:100][172]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2021.07.12-03.46.57:745][737]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Lobby/CharacterSelect.CharacterSelect
+[2021.07.12-03.48.44:973][120]BlueprintLog: New page: Compile CharacterSelect
+[2021.07.12-03.48.45:103][120]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2021.07.12-03.48.46:014][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/CharacterSelect" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/Lobby/CharacterSelect.uasset" SILENT=true
+[2021.07.12-03.48.46:049][159]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/CharacterSelectE7F85F974D4A04342D4270B6D171D450.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/Lobby/CharacterSelect.uasset'
+[2021.07.12-03.48.46:063][159]AssetCheck: New page: Asset Save: CharacterSelect
+[2021.07.12-03.48.46:063][159]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Lobby/CharacterSelect.CharacterSelect
+[2021.07.12-03.48.48:606][311]LogTemp: Repeating last play command: Standalone Game
+[2021.07.12-03.48.48:686][311]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2021.07.12-03.51.17:130][ 30]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.51.17:130][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.51.17:145][ 30]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.51.17:145][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.51.17:542][ 51]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.51.17:542][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.51.17:554][ 51]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.51.17:555][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.51.17:790][ 59]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.51.17:790][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.51.17:802][ 59]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.51.17:802][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.51.18:118][ 73]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.51.18:118][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.51.18:130][ 73]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.51.18:130][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.51.18:425][ 88]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.51.18:425][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.51.18:437][ 88]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.51.18:437][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.51.18:582][ 94]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.51.18:582][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.51.18:593][ 94]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.51.18:593][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.51.19:999][176]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.51.19:999][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.51.22:323][307]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.51.22:324][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.51.22:336][307]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.51.22:336][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.51.23:626][381]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.51.23:626][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.51.23:639][381]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.51.23:639][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.51.24:308][418]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.51.24:308][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.51.24:320][418]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.51.24:320][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.51.25:287][473]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.51.25:287][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.51.25:299][473]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.51.25:299][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.51.25:944][509]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.51.25:945][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.51.25:956][509]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.51.25:956][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.51.27:128][577]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.51.27:128][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-03.51.27:141][577]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-03.51.27:142][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
