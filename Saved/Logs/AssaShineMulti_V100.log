@@ -1617,3 +1617,348 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.13-06.50.23:035][683]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
 [2021.07.13-06.52.16:455][100]BlueprintLog: New page: Compile ChatWindow
 [2021.07.13-06.52.16:556][100]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.07.13-06.53.46:603][629]LogTemp: Repeating last play command: Standalone Game
+[2021.07.13-06.53.46:662][629]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2021.07.13-07.04.13:930][951]LogTemp: Repeating last play command: Standalone Game
+[2021.07.13-07.04.13:989][951]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.07.13-07.09.20:276][448]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/AllLevels/Back.Back
+[2021.07.13-07.14.06:100][570]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.15.31:590][193]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\10562\Desktop\WeChat Image_20210713151440.jpg)
+[2021.07.13-07.15.31:602][193]LogTexture: Display: Building textures: WeChat_Image_20210713151440 (AutoDXT, 1080X1080)
+[2021.07.13-07.16.10:123][461]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.07.13-07.16.10:654][485]LogEditorTransaction: Undo Resize Widget
+[2021.07.13-07.16.11:330][524]LogEditorTransaction: Undo Edit Image
+[2021.07.13-07.16.43:046][391]LogContentBrowser: Attempting asset rename: WeChat_Image_20210713151440 -> Instruction
+[2021.07.13-07.16.43:098][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/UserInterface/Instruction" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Instruction.uasset" SILENT=true
+[2021.07.13-07.16.43:119][391]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/Instruction704B3CFC4CC22C1CCAF16FA71E0F9E01.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Instruction.uasset'
+[2021.07.13-07.16.43:244][391]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2021.07.13-07.16.43:301][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.07.13-07.16.43:344][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.07.13-07.16.43:396][391]AssetCheck: New page: Asset Save: Instruction
+[2021.07.13-07.16.43:396][391]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Instruction.Instruction
+[2021.07.13-07.22.40:276][452]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Lobby/LobbyMenu.LobbyMenu
+[2021.07.13-07.22.43:414][618]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-07.22.43:414][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-07.22.43:426][618]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-07.22.43:426][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-07.22.48:468][917]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu/HostMenu.HostMenu
+[2021.07.13-07.22.50:379][ 11]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-07.22.50:379][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-07.22.50:390][ 11]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-07.22.50:390][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-07.22.54:177][230]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu/InfoMenu.InfoMenu
+[2021.07.13-07.23.10:982][199]BlueprintLog: New page: Compile Back
+[2021.07.13-07.23.11:104][199]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2021.07.13-07.23.12:119][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/Back" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset" SILENT=true
+[2021.07.13-07.23.12:127][252]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/Back3C8FBC4E49D34C08DC8ED1B6BEA9CB11.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset'
+[2021.07.13-07.23.12:145][252]AssetCheck: New page: Asset Save: Back
+[2021.07.13-07.23.12:145][252]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AllLevels/Back.Back
+[2021.07.13-07.23.13:806][350]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.13-07.23.13:806][350]PIE: New page: PIE session: MainMenu (Jul 13, 2021, 11:23:13 PM)
+[2021.07.13-07.23.13:806][350]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.07.13-07.23.13:815][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008813s)
+[2021.07.13-07.23.13:816][350]LogAIModule: Creating AISystem for world MainMenu
+[2021.07.13-07.23.13:816][350]LogPlayLevel: PIE: World Init took: (0.001075s)
+[2021.07.13-07.23.13:816][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.010009s)
+[2021.07.13-07.23.13:870][350]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2021.07.13-07.23.13:872][350]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.07.13-07.23.13:872][350]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.13-07.23.13:872][350]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.13-07.23.13:872][350]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.13-07.23.13:872][350]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.13-07.23.13:872][350]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.13-07.23.13:872][350]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.13-07.23.13:872][350]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.13-07.23.13:872][350]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.13-07.23.13:873][350]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.13-07.23.13:873][350]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.13-07.23.13:876][350]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.13-07.23.13:876][350]LogAudioMixer: Display: 1: FrontRight
+[2021.07.13-07.23.13:889][350]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.13-07.23.13:889][350]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.13-07.23.13:889][350]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.13-07.23.13:889][350]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.13-07.23.13:889][350]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.13-07.23.13:889][350]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.13-07.23.13:889][350]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.13-07.23.13:903][350]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.13-07.23.13:903][350]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.13-07.23.13:903][350]LogInit: FAudioDevice initialized.
+[2021.07.13-07.23.13:903][350]LogAudio: Display: Audio Device (ID: 8) registered with world 'MainMenu'.
+[2021.07.13-07.23.13:937][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.13-07.23.13:937][350]LogLoad: Game class is 'TOPD_GameMode_C'
+[2021.07.13-07.23.13:940][350]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.07.13-15.23.13
+[2021.07.13-07.23.13:940][350]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.07.13-07.23.13:940][350]LogWorld: Bringing up level for play took: 0.001427
+[2021.07.13-07.23.13:940][350]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.07.13-07.23.13:942][350]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.07.13-07.23.13:943][350]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.07.13-07.23.13:943][350]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.07.13-07.23.13:945][350]PIE: Server logged in
+[2021.07.13-07.23.13:946][350]PIE: Play in editor total start time 0.14 seconds.
+[2021.07.13-07.23.16:129][477]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.07.13-07.23.16:129][477]LogNet: Browse: /Game/Maps/Info
+[2021.07.13-07.23.16:129][477]LogLoad: LoadMap: /Game/Maps/Info
+[2021.07.13-07.23.16:129][477]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.07.13-07.23.16:129][477]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-07.23.16:129][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-07.23.16:210][477]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.13-07.23.16:216][477]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.07.13-07.23.16:287][477]LogAudio: Display: Audio Device (ID: 8) registered with world 'Info'.
+[2021.07.13-07.23.16:288][477]LogAIModule: Creating AISystem for world Info
+[2021.07.13-07.23.16:289][477]LogLoad: Game class is 'InfoGM_C'
+[2021.07.13-07.23.16:298][477]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Info.Info up for play (max tick rate 60) at 2021.07.13-15.23.16
+[2021.07.13-07.23.16:298][477]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2021.07.13-07.23.16:298][477]LogWorld: Bringing up level for play took: 0.008486
+[2021.07.13-07.23.16:298][477]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.07.13-07.23.16:298][477]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.07.13-07.23.16:303][477]LogLoad: Took 0.174079 seconds to LoadMap(/Game/Maps/Info)
+[2021.07.13-07.23.17:358][538]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.07.13-07.23.17:358][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.13-07.23.17:358][538]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Info
+[2021.07.13-07.23.17:358][538]LogSlate: Window 'AssaShineMulti_V100 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.07.13-07.23.17:363][538]LogWorld: UWorld::CleanupWorld for Info, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-07.23.17:364][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-07.23.17:373][538]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.13-07.23.17:380][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-07.23.17:428][538]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.13-07.23.17:429][538]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.13-07.23.17:430][538]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.13-07.23.17:449][538]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.07.13-07.23.17:467][539]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.07.13-07.23.20:196][699]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2021.07.13-07.24.18:276][812]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.24.24:802][201]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Brush Color entirely.
+[2021.07.13-07.24.43:587][259]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.25.28:828][943]BlueprintLog: New page: Compile Back
+[2021.07.13-07.25.28:902][943]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2021.07.13-07.25.29:202][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/Back" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset" SILENT=true
+[2021.07.13-07.25.29:210][958]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/BackB2514A8245CA9D2BFA52739DC3F217F7.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset'
+[2021.07.13-07.25.29:224][958]AssetCheck: New page: Asset Save: Back
+[2021.07.13-07.25.29:224][958]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AllLevels/Back.Back
+[2021.07.13-07.25.29:938][  1]LogTemp: Repeating last play command: Standalone Game
+[2021.07.13-07.25.29:997][  1]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2021.07.13-07.26.07:909][194]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Brush Color entirely.
+[2021.07.13-07.26.12:181][446]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.26.14:627][592]BlueprintLog: New page: Compile Back
+[2021.07.13-07.26.14:720][592]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.07.13-07.26.15:557][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/Back" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset" SILENT=true
+[2021.07.13-07.26.15:565][637]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/BackF84DD53D4605C9B5B976B2844B72D570.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset'
+[2021.07.13-07.26.15:579][637]AssetCheck: New page: Asset Save: Back
+[2021.07.13-07.26.15:579][637]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AllLevels/Back.Back
+[2021.07.13-07.26.16:828][711]LogTemp: Repeating last play command: Standalone Game
+[2021.07.13-07.26.16:889][711]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2021.07.13-07.29.03:094][245]LogEditorFactories: Performing atomic reimport of [C:/Users/10562/Desktop/WeChat Image_20210713151440.jpg]
+[2021.07.13-07.29.03:094][245]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/10562/Desktop/WeChat Image_20210713151440.jpg)
+[2021.07.13-07.29.03:108][245]LogTexture: Display: Building textures: Instruction (BGRA8, 1079X444)
+[2021.07.13-07.29.03:131][245]LogEditorFactories: -- imported successfully
+[2021.07.13-07.29.05:051][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.13-07.29.05:101][348]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.07.13-07.29.05:148][348]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/MainMenuD758406F4A0B392B1FAA55BEE197ED64.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Maps/MainMenu.umap'
+[2021.07.13-07.29.05:168][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu_BuiltData" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Maps/MainMenu_BuiltData.uasset" SILENT=true
+[2021.07.13-07.29.05:172][348]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/MainMenu_BuiltDataD21948AC46764FA4390CA988E312F485.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Maps/MainMenu_BuiltData.uasset'
+[2021.07.13-07.29.05:190][348]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.13-07.29.05:190][348]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMenu_BuiltData.MainMenu_BuiltData
+[2021.07.13-07.29.05:190][348]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2021.07.13-07.29.15:431][958]BlueprintLog: New page: Compile Back
+[2021.07.13-07.29.15:499][958]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.07.13-07.30.18:787][694]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.30.25:106][ 70]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.31.24:972][615]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.31.39:682][467]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.31.50:362][100]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.32.15:186][568]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.32.19:331][812]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.32.32:836][615]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.32.41:555][134]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.32.53:386][829]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2021.07.13-07.32.54:537][829]LogSlate: Window 'Save Content' being destroyed
+[2021.07.13-07.32.54:561][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/Back" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset" SILENT=true
+[2021.07.13-07.32.54:570][829]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/Back5740024745E454208299BC910AE4D9B2.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset'
+[2021.07.13-07.32.54:574][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/UserInterface/Instruction" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Instruction.uasset" SILENT=true
+[2021.07.13-07.32.54:586][829]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/InstructionBEE57C434CEF22B54E2953BD49D03D47.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Textures/UserInterface/Instruction.uasset'
+[2021.07.13-07.32.54:601][829]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.13-07.32.54:601][829]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AllLevels/Back.Back
+[2021.07.13-07.32.54:602][829]LogContentValidation: Display: Validating Texture2D /Game/Textures/UserInterface/Instruction.Instruction
+[2021.07.13-07.32.58:619][ 68]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu/HostMenu.HostMenu
+[2021.07.13-07.33.15:492][ 45]BlueprintLog: New page: Compile Back
+[2021.07.13-07.33.15:586][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.07.13-07.33.16:593][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/Back" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset" SILENT=true
+[2021.07.13-07.33.16:602][ 97]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/Back8FA10B524AB0ACD8E5DC749438C887AC.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset'
+[2021.07.13-07.33.16:620][ 97]AssetCheck: New page: Asset Save: Back
+[2021.07.13-07.33.16:621][ 97]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AllLevels/Back.Back
+[2021.07.13-07.33.20:391][316]BlueprintLog: New page: Compile Back
+[2021.07.13-07.33.20:489][316]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2021.07.13-07.33.21:063][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/Back" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset" SILENT=true
+[2021.07.13-07.33.21:071][342]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/BackB0B186FD4D5B66868825068CFDE63F04.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset'
+[2021.07.13-07.33.21:087][342]AssetCheck: New page: Asset Save: Back
+[2021.07.13-07.33.21:087][342]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AllLevels/Back.Back
+[2021.07.13-07.33.23:905][510]LogTemp: Repeating last play command: Standalone Game
+[2021.07.13-07.33.23:966][510]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2021.07.13-07.34.24:821][ 89]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.34.28:759][323]LogTemp: Repeating last play command: Standalone Game
+[2021.07.13-07.34.28:818][323]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.07.13-07.34.30:271][323]LogSlate: Window 'Save Content' being destroyed
+[2021.07.13-07.34.30:299][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/Back" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset" SILENT=true
+[2021.07.13-07.34.30:313][323]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/Back1CE6EBE446FE27B792244C938CD1A414.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset'
+[2021.07.13-07.34.30:341][324]AssetCheck: New page: Asset Save: Back
+[2021.07.13-07.34.30:341][324]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AllLevels/Back.Back
+[2021.07.13-07.35.17:191][398]LogSlate: Window 'Widget Reflector' being destroyed
+[2021.07.13-07.35.17:196][398]LogSlate: Window 'Widget Reflector' being destroyed
+[2021.07.13-07.35.21:240][637]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Brush Color entirely.
+[2021.07.13-07.35.43:471][891]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.35.49:515][252]BlueprintLog: New page: Compile Back
+[2021.07.13-07.35.49:623][252]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2021.07.13-07.36.17:657][890]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.36.20:066][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/Back" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset" SILENT=true
+[2021.07.13-07.36.20:076][ 32]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/BackD11951BD4D660568B593A5A7FE3385FE.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset'
+[2021.07.13-07.36.20:092][ 32]AssetCheck: New page: Asset Save: Back
+[2021.07.13-07.36.20:092][ 32]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AllLevels/Back.Back
+[2021.07.13-07.36.38:576][ 89]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.36.40:743][218]BlueprintLog: New page: Compile Back
+[2021.07.13-07.36.40:840][218]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2021.07.13-07.36.51:678][828]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.36.53:660][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/Back" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset" SILENT=true
+[2021.07.13-07.36.53:669][946]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/Back9BDED49A4316E67FBBA2D1B356E7784F.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset'
+[2021.07.13-07.36.53:684][946]AssetCheck: New page: Asset Save: Back
+[2021.07.13-07.36.53:684][946]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AllLevels/Back.Back
+[2021.07.13-07.36.54:126][973]BlueprintLog: New page: Compile Back
+[2021.07.13-07.36.54:220][973]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2021.07.13-07.36.54:963][ 12]BlueprintLog: New page: Compile Back
+[2021.07.13-07.36.55:058][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2021.07.13-07.36.56:825][112]LogTemp: Repeating last play command: Standalone Game
+[2021.07.13-07.36.56:886][112]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2021.07.13-07.37.23:339][336]BlueprintLog: New page: Compile Back
+[2021.07.13-07.37.23:434][336]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.07.13-07.37.37:849][171]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.37.39:334][258]BlueprintLog: New page: Compile Back
+[2021.07.13-07.37.39:431][258]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2021.07.13-07.37.40:296][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/Back" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset" SILENT=true
+[2021.07.13-07.37.40:306][304]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/Back74ECBCEA46E84C3513CBF49F0B20CDAF.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset'
+[2021.07.13-07.37.40:323][304]AssetCheck: New page: Asset Save: Back
+[2021.07.13-07.37.40:323][304]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AllLevels/Back.Back
+[2021.07.13-07.37.40:979][343]LogTemp: Repeating last play command: Standalone Game
+[2021.07.13-07.37.41:040][343]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2021.07.13-07.38.02:103][520]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.38.11:204][ 39]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.38.33:291][319]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.38.39:239][649]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.38.47:534][130]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.38.50:507][281]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.38.52:249][382]BlueprintLog: New page: Compile Back
+[2021.07.13-07.38.52:370][382]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2021.07.13-07.38.53:902][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/Back" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset" SILENT=true
+[2021.07.13-07.38.53:914][464]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/Back8AE04A5C415B6C52153643974B669919.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset'
+[2021.07.13-07.38.53:936][464]AssetCheck: New page: Asset Save: Back
+[2021.07.13-07.38.53:936][464]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AllLevels/Back.Back
+[2021.07.13-07.39.04:939][121]LogTemp: Repeating last play command: Standalone Game
+[2021.07.13-07.39.05:006][121]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2021.07.13-07.39.55:090][ 99]BlueprintLog: New page: Compile Back
+[2021.07.13-07.39.55:184][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.07.13-07.39.56:497][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/Back" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset" SILENT=true
+[2021.07.13-07.39.56:507][172]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/Back050E8FA145A91FBE27F3D2A8D6DD8E95.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset'
+[2021.07.13-07.39.56:523][172]AssetCheck: New page: Asset Save: Back
+[2021.07.13-07.39.56:523][172]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AllLevels/Back.Back
+[2021.07.13-07.40.12:352][102]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.40.17:139][387]BlueprintLog: New page: Compile Back
+[2021.07.13-07.40.17:233][387]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2021.07.13-07.40.34:328][402]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Brush Color entirely.
+[2021.07.13-07.40.51:422][400]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.42.01:431][560]LogEditorTransaction: Undo Edit Size Rule
+[2021.07.13-07.42.01:817][574]LogEditorTransaction: Undo Edit Size Rule
+[2021.07.13-07.42.02:254][594]LogEditorTransaction: Undo Edit Vertical Alignment
+[2021.07.13-07.42.02:704][618]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2021.07.13-07.42.03:202][645]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2021.07.13-07.42.03:643][670]LogEditorTransaction: Undo Wrap Widgets
+[2021.07.13-07.42.04:129][697]LogEditorTransaction: Undo Edit Vertical Alignment
+[2021.07.13-07.42.04:891][741]LogEditorTransaction: Undo Move Widget
+[2021.07.13-07.42.20:525][648]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.42.21:950][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/Back" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset" SILENT=true
+[2021.07.13-07.42.21:960][731]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/BackBB007CB94525BB8A7C48559FF919F3AC.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset'
+[2021.07.13-07.42.21:977][731]AssetCheck: New page: Asset Save: Back
+[2021.07.13-07.42.21:977][731]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AllLevels/Back.Back
+[2021.07.13-07.42.22:884][786]BlueprintLog: New page: Compile Back
+[2021.07.13-07.42.22:995][786]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2021.07.13-07.42.24:013][842]BlueprintLog: New page: Compile Back
+[2021.07.13-07.42.24:110][842]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2021.07.13-07.42.24:159][842]BlueprintLog: New page: Compile Back
+[2021.07.13-07.42.24:252][842]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2021.07.13-07.42.24:305][842]BlueprintLog: New page: Compile Back
+[2021.07.13-07.42.24:399][842]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2021.07.13-07.42.40:072][753]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.42.42:281][884]BlueprintLog: New page: Compile Back
+[2021.07.13-07.42.42:373][884]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2021.07.13-07.42.54:263][586]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.42.55:752][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/Back" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset" SILENT=true
+[2021.07.13-07.42.55:761][674]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/Back70A4E2D0444EE78225CDFE91F0A2A71F.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset'
+[2021.07.13-07.42.55:775][674]AssetCheck: New page: Asset Save: Back
+[2021.07.13-07.42.55:775][674]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AllLevels/Back.Back
+[2021.07.13-07.42.56:317][707]BlueprintLog: New page: Compile Back
+[2021.07.13-07.42.56:413][707]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2021.07.13-07.42.56:985][736]BlueprintLog: New page: Compile Back
+[2021.07.13-07.42.57:080][736]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2021.07.13-07.42.58:148][795]LogTemp: Repeating last play command: Standalone Game
+[2021.07.13-07.42.58:210][795]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2021.07.13-07.43.34:470][356]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.43.42:780][849]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.13-07.43.44:497][952]BlueprintLog: New page: Compile Back
+[2021.07.13-07.43.44:591][952]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.07.13-07.43.46:157][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/Back" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset" SILENT=true
+[2021.07.13-07.43.46:167][ 39]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/Back8B81DF3D4D27424F2EEAB98B4799DD1E.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset'
+[2021.07.13-07.43.46:183][ 39]AssetCheck: New page: Asset Save: Back
+[2021.07.13-07.43.46:183][ 39]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AllLevels/Back.Back
+[2021.07.13-07.44.00:276][876]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Brush Color entirely.
+[2021.07.13-07.44.10:659][416]BlueprintLog: New page: Compile Back
+[2021.07.13-07.44.10:764][416]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2021.07.13-07.44.11:959][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/Back" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset" SILENT=true
+[2021.07.13-07.44.11:968][482]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/Back0044409B4DE363A5AFABCABC8E03F1F9.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/AllLevels/Back.uasset'
+[2021.07.13-07.44.11:981][482]AssetCheck: New page: Asset Save: Back
+[2021.07.13-07.44.11:981][482]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AllLevels/Back.Back
+[2021.07.13-07.44.21:344][ 39]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Info/BackForInfo.BackForInfo
+[2021.07.13-07.44.34:414][793]LogEditorTransaction: Undo Paste clipboard contents
+[2021.07.13-07.44.57:987][ 99]BlueprintLog: New page: Compile BackForInfo
+[2021.07.13-07.44.58:051][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2021.07.13-07.44.59:124][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Info/BackForInfo" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/Info/BackForInfo.uasset" SILENT=true
+[2021.07.13-07.44.59:132][155]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/BackForInfo538C261D410DBFBD5A7DBDA5C810844E.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/Info/BackForInfo.uasset'
+[2021.07.13-07.44.59:145][155]AssetCheck: New page: Asset Save: BackForInfo
+[2021.07.13-07.44.59:145][155]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Info/BackForInfo.BackForInfo
+[2021.07.13-07.45.10:661][841]BlueprintLog: New page: Compile BackForInfo
+[2021.07.13-07.45.10:746][841]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2021.07.13-07.45.11:226][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Info/BackForInfo" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/Info/BackForInfo.uasset" SILENT=true
+[2021.07.13-07.45.11:235][863]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/BackForInfo41BF5BFD464D7F6D213F30804BC4A591.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/UI/Info/BackForInfo.uasset'
+[2021.07.13-07.45.11:249][863]AssetCheck: New page: Asset Save: BackForInfo
+[2021.07.13-07.45.11:249][863]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Info/BackForInfo.BackForInfo
+[2021.07.13-07.45.13:744][ 12]LogTemp: Repeating last play command: Standalone Game
+[2021.07.13-07.45.13:808][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2021.07.13-07.45.40:641][233]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-07.45.40:641][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-07.45.40:653][233]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-07.45.40:653][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-07.45.41:090][256]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-07.45.41:090][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-07.45.41:102][256]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-07.45.41:102][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-07.45.41:656][286]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-07.45.41:656][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-07.45.41:668][286]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-07.45.41:668][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-07.45.42:473][331]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-07.45.42:473][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-07.45.42:485][331]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-07.45.42:485][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-07.45.43:206][361]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-07.45.43:206][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-07.45.44:405][414]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.07.13-07.45.44:405][414]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-07.45.44:405][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-07.45.45:688][472]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.07.13-07.45.45:688][472]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-07.45.45:689][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-07.45.46:525][513]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-07.45.46:525][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-07.45.46:539][513]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-07.45.46:539][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-07.45.47:641][570]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-07.45.47:642][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-07.45.47:657][570]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-07.45.47:657][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
