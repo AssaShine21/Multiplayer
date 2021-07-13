@@ -966,3 +966,197 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.13-08.55.56:557][440]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/CharacterAncestor.CharacterAncestor
 [2021.07.13-08.56.00:497][599]LogTemp: Repeating last play command: Standalone Game
 [2021.07.13-08.56.00:595][599]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2021.07.13-09.02.18:667][317]BlueprintLog: New page: Compile GameplayPC
+[2021.07.13-09.02.18:934][317]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2021.07.13-09.02.32:417][907]BlueprintLog: New page: Compile GameplayPC
+[2021.07.13-09.02.32:679][907]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2021.07.13-09.02.33:101][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayPC" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset" SILENT=true
+[2021.07.13-09.02.33:510][909]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayPC894ABA954ACFF7CCDD1F8DB3157DD366.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset'
+[2021.07.13-09.02.33:525][909]AssetCheck: New page: Asset Save: GameplayPC
+[2021.07.13-09.02.33:525][909]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayPC.GameplayPC
+[2021.07.13-09.10.29:427][995]BlueprintLog: New page: Compile GameplayPC
+[2021.07.13-09.10.29:748][995]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2021.07.13-09.10.30:245][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayPC" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset" SILENT=true
+[2021.07.13-09.10.30:656][  1]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayPC435DB8A448B40C481D5F5CA013699583.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset'
+[2021.07.13-09.10.30:668][  1]AssetCheck: New page: Asset Save: GameplayPC
+[2021.07.13-09.10.30:669][  1]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayPC.GameplayPC
+[2021.07.13-09.10.41:192][487]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Gameplay/SkillSystem/SkillSystem_UI.SkillSystem_UI
+[2021.07.13-09.10.42:411][527]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Gameplay/SkillSystem/SkillBar.SkillBar
+[2021.07.13-09.10.48:927][883]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Gameplay/SkillSystem/SkillSlot.SkillSlot
+[2021.07.13-09.11.48:664][325]BlueprintLog: New page: Compile SkillSlot
+[2021.07.13-09.11.48:831][325]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2021.07.13-09.11.49:117][325]LogSlate: Took 0.000419 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.07.13-09.11.49:499][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Gameplay/SkillSystem/SkillSlot" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/UI/Gameplay/SkillSystem/SkillSlot.uasset" SILENT=true
+[2021.07.13-09.11.49:573][346]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/SkillSlotFB0FE4C542510C9CACBF8D8CC16E33B5.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/UI/Gameplay/SkillSystem/SkillSlot.uasset'
+[2021.07.13-09.11.49:593][346]AssetCheck: New page: Asset Save: SkillSlot
+[2021.07.13-09.11.49:593][346]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Gameplay/SkillSystem/SkillSlot.SkillSlot
+[2021.07.13-09.11.54:382][583]BlueprintLog: New page: Compile GameplayPC
+[2021.07.13-09.11.54:715][583]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2021.07.13-09.11.55:166][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayPC" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset" SILENT=true
+[2021.07.13-09.11.55:572][586]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayPCB3301BCF411EA816369FB285BDE76E02.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset'
+[2021.07.13-09.11.55:588][586]AssetCheck: New page: Asset Save: GameplayPC
+[2021.07.13-09.11.55:588][586]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayPC.GameplayPC
+[2021.07.13-09.13.23:040][425]LogEditorTransaction: Undo Delete current selection
+[2021.07.13-09.13.24:506][481]BlueprintLog: New page: Compile GameplayPC
+[2021.07.13-09.13.24:794][481]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.07.13-09.13.25:573][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayPC" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset" SILENT=true
+[2021.07.13-09.13.25:982][505]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayPCD4E72204481A32A09ED1DAA6E1460C97.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset'
+[2021.07.13-09.13.26:005][505]AssetCheck: New page: Asset Save: GameplayPC
+[2021.07.13-09.13.26:005][505]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayPC.GameplayPC
+[2021.07.13-09.13.30:567][729]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-09.13.30:567][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-09.13.32:204][800]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.07.13-09.13.32:204][800]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-09.13.32:204][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-09.13.33:474][869]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-09.13.33:474][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-09.13.33:486][869]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-09.13.33:486][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-09.13.34:559][930]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-09.13.34:559][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-09.13.34:571][930]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-09.13.34:571][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-09.13.34:828][942]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-09.13.34:828][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-09.13.34:840][942]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-09.13.34:841][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-09.13.36:125][ 16]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-09.13.36:125][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-09.13.36:137][ 16]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-09.13.36:138][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-09.13.37:075][ 68]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-09.13.37:075][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-09.13.37:087][ 68]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-09.13.37:087][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-09.13.39:406][177]LogTemp: Repeating last play command: Standalone Game
+[2021.07.13-09.13.39:483][177]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.07.13-09.18.43:788][425]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Gameplay/GameplayGM.GameplayGM
+[2021.07.13-09.18.57:140][119]BlueprintLog: New page: Compile GameplayGM
+[2021.07.13-09.18.57:559][119]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2021.07.13-09.18.58:224][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayGM" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayGM.uasset" SILENT=true
+[2021.07.13-09.18.58:451][140]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayGM436FDEBC42CF170867BB8C885A01BA65.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayGM.uasset'
+[2021.07.13-09.18.58:477][140]AssetCheck: New page: Asset Save: GameplayGM
+[2021.07.13-09.18.58:478][140]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayGM.GameplayGM
+[2021.07.13-09.20.05:978][ 93]BlueprintLog: New page: Compile GameplayGM
+[2021.07.13-09.20.06:371][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2021.07.13-09.20.07:045][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayGM" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayGM.uasset" SILENT=true
+[2021.07.13-09.20.07:280][115]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayGMFC7AB97F41D79FCB2F92E3B800DE5189.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayGM.uasset'
+[2021.07.13-09.20.07:300][115]AssetCheck: New page: Asset Save: GameplayGM
+[2021.07.13-09.20.07:301][115]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayGM.GameplayGM
+[2021.07.13-09.20.27:079][218]BlueprintLog: New page: Compile GameplayPC
+[2021.07.13-09.20.27:374][218]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2021.07.13-09.20.29:463][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayPC" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset" SILENT=true
+[2021.07.13-09.20.29:874][321]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayPC7D76192B4E70EB8996EBA6BCA6B46A44.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset'
+[2021.07.13-09.20.29:891][321]AssetCheck: New page: Asset Save: GameplayPC
+[2021.07.13-09.20.29:891][321]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayPC.GameplayPC
+[2021.07.13-09.20.31:903][421]LogTemp: Repeating last play command: Standalone Game
+[2021.07.13-09.20.31:958][421]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.07.13-09.23.40:391][463]LogEditorTransaction: Undo Delete current selection
+[2021.07.13-09.23.44:057][651]BlueprintLog: New page: Compile GameplayGM
+[2021.07.13-09.23.44:484][651]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2021.07.13-09.23.45:225][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayGM" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayGM.uasset" SILENT=true
+[2021.07.13-09.23.45:452][677]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayGM9D8ECC1B4E3556DEED0002AB0B45E0AC.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayGM.uasset'
+[2021.07.13-09.23.45:467][677]AssetCheck: New page: Asset Save: GameplayGM
+[2021.07.13-09.23.45:467][677]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayGM.GameplayGM
+[2021.07.13-09.23.49:880][905]LogTemp: Repeating last play command: Standalone Game
+[2021.07.13-09.23.49:935][905]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.07.13-09.24.10:943][621]BlueprintLog: New page: Compile GameplayGM
+[2021.07.13-09.24.11:617][621]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2021.07.13-09.24.21:831][839]LogTemp: Repeating last play command: Standalone Game
+[2021.07.13-09.24.21:894][839]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2021.07.13-09.24.23:703][839]LogSlate: Window 'Save Content' being destroyed
+[2021.07.13-09.24.23:728][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayGM" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayGM.uasset" SILENT=true
+[2021.07.13-09.24.23:992][839]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayGM032817434336FBCB472AFB9FF95ADA3E.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayGM.uasset'
+[2021.07.13-09.24.24:038][840]AssetCheck: New page: Asset Save: GameplayGM
+[2021.07.13-09.24.24:038][840]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayGM.GameplayGM
+[2021.07.13-09.24.43:383][708]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.07.13-09.24.46:469][765]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.07.13-09.24.47:060][769]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.07.13-09.26.12:282][783]BlueprintLog: New page: Compile GameplayPC
+[2021.07.13-09.26.12:580][783]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.07.13-09.26.13:234][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayPC" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset" SILENT=true
+[2021.07.13-09.26.13:644][802]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayPC86A52058449081DA3B45FEA97DB1C679.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset'
+[2021.07.13-09.26.13:665][802]AssetCheck: New page: Asset Save: GameplayPC
+[2021.07.13-09.26.13:665][802]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayPC.GameplayPC
+[2021.07.13-09.26.15:454][884]LogTemp: Repeating last play command: Standalone Game
+[2021.07.13-09.26.15:508][884]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.07.13-09.28.15:490][115]BlueprintLog: New page: Compile GameplayPC
+[2021.07.13-09.28.15:792][115]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2021.07.13-09.29.39:124][948]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.07.13-09.29.39:125][948]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMenu' took 0.049
+[2021.07.13-09.29.39:126][948]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Gameplay/GameplayPC] ([1] browsable assets)...
+[2021.07.13-09.29.39:126][948]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Gameplay/GameplayPC]
+[2021.07.13-09.29.39:525][948]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayPC_Auto265136A20482494223051458D35704055.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Autosaves/Game/Blueprints/Gameplay/GameplayPC_Auto2.uasset'
+[2021.07.13-09.29.39:544][948]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Gameplay/GameplayGM] ([2] browsable assets)...
+[2021.07.13-09.29.39:544][948]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Gameplay/GameplayGM]
+[2021.07.13-09.29.39:765][948]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayGM_Auto2C7DFF6C54A6EEF19B3B42E98CD5BCA7E.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Autosaves/Game/Blueprints/Gameplay/GameplayGM_Auto2.uasset'
+[2021.07.13-09.29.39:767][948]LogFileHelpers: Auto-saving content packages took 0.643
+[2021.07.13-09.32.08:437][308]BlueprintLog: New page: Compile GameplayGM
+[2021.07.13-09.32.08:884][308]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2021.07.13-09.32.19:280][849]LogSlate: Took 0.006389 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.07.13-09.32.22:903][ 42]BlueprintLog: New page: Compile GameplayGM
+[2021.07.13-09.32.23:304][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.07.13-09.32.23:939][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayGM" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayGM.uasset" SILENT=true
+[2021.07.13-09.32.24:177][ 63]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayGM66EDD68142AA2511069BFA89091A92DA.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayGM.uasset'
+[2021.07.13-09.32.24:192][ 63]AssetCheck: New page: Asset Save: GameplayGM
+[2021.07.13-09.32.24:192][ 63]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayGM.GameplayGM
+[2021.07.13-09.35.28:099][698]BlueprintLog: New page: Compile GameplayGM
+[2021.07.13-09.35.28:570][698]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2021.07.13-09.35.29:185][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayGM" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayGM.uasset" SILENT=true
+[2021.07.13-09.35.29:417][717]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayGMB64230414DE07C4EEFB7FCBA45D05901.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayGM.uasset'
+[2021.07.13-09.35.29:439][717]AssetCheck: New page: Asset Save: GameplayGM
+[2021.07.13-09.35.29:439][717]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayGM.GameplayGM
+[2021.07.13-09.35.30:615][775]BlueprintLog: New page: Compile GameplayPC
+[2021.07.13-09.35.30:927][775]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2021.07.13-09.35.31:533][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayPC" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset" SILENT=true
+[2021.07.13-09.35.31:949][792]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayPC32501E7B4720743F4D5011A1C02A7838.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset'
+[2021.07.13-09.35.31:966][792]AssetCheck: New page: Asset Save: GameplayPC
+[2021.07.13-09.35.31:966][792]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayPC.GameplayPC
+[2021.07.13-09.35.34:121][900]LogTemp: Repeating last play command: Standalone Game
+[2021.07.13-09.35.34:178][900]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2021.07.13-09.39.13:364][206]BlueprintLog: New page: Compile GameplayPC
+[2021.07.13-09.39.13:682][206]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.07.13-09.39.15:012][266]BlueprintLog: New page: Compile GameplayGM
+[2021.07.13-09.39.15:418][266]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2021.07.13-09.39.16:065][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayGM" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayGM.uasset" SILENT=true
+[2021.07.13-09.39.16:304][288]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayGM8AB693264B4189A0F70DAB91EEF261AE.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayGM.uasset'
+[2021.07.13-09.39.16:319][288]AssetCheck: New page: Asset Save: GameplayGM
+[2021.07.13-09.39.16:319][288]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayGM.GameplayGM
+[2021.07.13-09.40.00:596][840]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.07.13-09.40.00:614][840]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.07.13-09.40.23:733][212]BlueprintLog: New page: Compile GameplayPC
+[2021.07.13-09.40.24:047][212]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2021.07.13-09.40.24:652][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayPC" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset" SILENT=true
+[2021.07.13-09.40.25:065][229]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayPC6052785A4AF26A2CEAD4BB995AE4E02C.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset'
+[2021.07.13-09.40.25:082][229]AssetCheck: New page: Asset Save: GameplayPC
+[2021.07.13-09.40.25:082][229]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayPC.GameplayPC
+[2021.07.13-09.40.52:071][762]BlueprintLog: New page: Compile GameplayGM
+[2021.07.13-09.40.52:526][762]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2021.07.13-09.40.53:138][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayGM" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayGM.uasset" SILENT=true
+[2021.07.13-09.40.53:369][782]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayGM8C56508147822649150971AE7E88F9F4.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayGM.uasset'
+[2021.07.13-09.40.53:392][782]AssetCheck: New page: Asset Save: GameplayGM
+[2021.07.13-09.40.53:392][782]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayGM.GameplayGM
+[2021.07.13-09.40.55:608][890]LogTemp: Repeating last play command: Standalone Game
+[2021.07.13-09.40.55:662][890]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.07.13-09.43.17:745][742]BlueprintLog: New page: Compile GameplayGM
+[2021.07.13-09.43.18:204][742]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2021.07.13-09.43.18:743][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayGM" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayGM.uasset" SILENT=true
+[2021.07.13-09.43.18:975][757]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayGMDCB3AD4F4F78F19251392DAAED0D45D2.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayGM.uasset'
+[2021.07.13-09.43.18:996][757]AssetCheck: New page: Asset Save: GameplayGM
+[2021.07.13-09.43.18:996][757]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayGM.GameplayGM
+[2021.07.13-09.43.20:685][835]LogTemp: Repeating last play command: Standalone Game
+[2021.07.13-09.43.20:740][835]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2021.07.13-09.46.01:920][ 28]BlueprintLog: New page: Compile GameplayGM
+[2021.07.13-09.46.02:172][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.07.13-09.46.02:890][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayGM" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayGM.uasset" SILENT=true
+[2021.07.13-09.46.03:125][ 51]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayGMBBE243B545FA2CA85C9C9FBD26AE4E31.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayGM.uasset'
+[2021.07.13-09.46.03:139][ 51]AssetCheck: New page: Asset Save: GameplayGM
+[2021.07.13-09.46.03:139][ 51]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayGM.GameplayGM
+[2021.07.13-09.46.26:977][360]LogTemp: Repeating last play command: Standalone Game
+[2021.07.13-09.46.27:033][360]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.07.13-09.47.33:008][642]BlueprintLog: New page: Compile GameplayGM
+[2021.07.13-09.47.33:296][642]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.07.13-09.47.34:061][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayGM" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayGM.uasset" SILENT=true
+[2021.07.13-09.47.34:303][665]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayGME4C8E93F451C01A7BD79C88E5869F258.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayGM.uasset'
+[2021.07.13-09.47.34:322][665]AssetCheck: New page: Asset Save: GameplayGM
+[2021.07.13-09.47.34:322][665]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayGM.GameplayGM
