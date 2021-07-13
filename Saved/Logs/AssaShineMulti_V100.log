@@ -1160,3 +1160,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.13-09.47.34:303][665]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayGME4C8E93F451C01A7BD79C88E5869F258.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayGM.uasset'
 [2021.07.13-09.47.34:322][665]AssetCheck: New page: Asset Save: GameplayGM
 [2021.07.13-09.47.34:322][665]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayGM.GameplayGM
+[2021.07.13-09.50.36:753][613]BlueprintLog: New page: Compile GameplayGM
+[2021.07.13-09.50.37:062][613]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2021.07.13-09.50.38:905][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayGM" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayGM.uasset" SILENT=true
+[2021.07.13-09.50.39:139][699]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayGMC36174374B2784183BC5C3B09070A971.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayGM.uasset'
+[2021.07.13-09.50.39:162][699]AssetCheck: New page: Asset Save: GameplayGM
+[2021.07.13-09.50.39:162][699]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayGM.GameplayGM
+[2021.07.13-09.50.40:975][781]LogTemp: Repeating last play command: Standalone Game
+[2021.07.13-09.50.41:027][781]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
