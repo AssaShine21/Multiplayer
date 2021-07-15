@@ -918,3 +918,108 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.15-08.35.17:543][316]AssetCheck: New page: Asset Save: footstep_right_Cue
 [2021.07.15-08.35.17:543][316]LogContentValidation: Display: Validating SoundCue /Game/SoundEffect/Footstep/footstep_right_Cue.footstep_right_Cue
 [2021.07.15-08.35.19:517][433]LogSlate: Window 'footstep_right_Cue' being destroyed
+[2021.07.15-08.35.38:030][830]LogRenderer: Reallocating scene render targets to support 1716x820 Format 9 NumSamples 1 (Frame:1709).
+[2021.07.15-08.41.31:683][917]LogAssetTools: Warning: Failed to import 'C:\Users\10562\Desktop\foolmine.glb'. Unknown extension 'glb'.
+[2021.07.15-08.44.35:098][848]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\10562\Desktop\foolmine.obj)
+[2021.07.15-08.44.35:105][848]LogFbx: Loading FBX Scene from C:\Users\10562\Desktop\foolmine.obj
+[2021.07.15-08.44.35:107][848]LogFbx: FBX Scene Loaded Succesfully
+[2021.07.15-08.44.45:070][848]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.07.15-08.44.45:091][848]LogTexture: Display: Building textures: foolmine1 (BGRA8, 256X1)
+[2021.07.15-08.44.45:093][848]LogMaterial: Display: Missing cached shader map for material palette, compiling. 
+[2021.07.15-08.44.45:126][848]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.07.15-08.44.45:126][848]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.07.15-08.44.45:126][848]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.07.15-08.44.45:126][848]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.07.15-08.44.45:126][848]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.07.15-08.44.45:126][848]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.07.15-08.44.45:126][848]LogStaticMesh: Building static mesh foolmine...
+[2021.07.15-08.44.45:127][848]LogStaticMesh: Built static mesh [0.00s] /Game/Materials/foolmine.foolmine
+[2021.07.15-08.44.45:127][848]LogStaticMesh: Warning: foolmine has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.07.15-08.44.45:127][848]LogStaticMesh: Warning: foolmine has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.07.15-08.44.45:132][848]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.07.15-08.44.45:132][848]FBXImport: Warning: foolmine has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.07.15-08.44.45:132][848]FBXImport: Warning: foolmine has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.07.15-08.44.45:216][848]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.07.15-08.44.49:061][ 70]LogSlate: Window 'Message Log' being destroyed
+[2021.07.15-08.44.49:065][ 70]LogSlate: Window 'Message Log' being destroyed
+[2021.07.15-08.44.50:759][170]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Materials/foolmine.foolmine
+[2021.07.15-08.44.51:280][170]LogRenderer: Reallocating scene render targets to support 2572x1292 Format 9 NumSamples 1 (Frame:1).
+[2021.07.15-08.44.51:280][170]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.07.15-08.44.53:990][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/foolmine" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Materials/foolmine.uasset" SILENT=true
+[2021.07.15-08.44.53:997][326]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/foolmineD5CD7D2A473DB554825A73A355BD234B.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Materials/foolmine.uasset'
+[2021.07.15-08.44.54:012][326]AssetCheck: New page: Asset Save: foolmine
+[2021.07.15-08.44.54:012][326]LogContentValidation: Display: Validating StaticMesh /Game/Materials/foolmine.foolmine
+[2021.07.15-08.44.54:649][363]LogSlate: Window 'foolmine' being destroyed
+[2021.07.15-08.44.54:659][363]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-08.44.54:659][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-08.44.59:480][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.07.15-08.44.59:587][645]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.15-08.45.00:445][645]LogSlate: Window 'Delete Assets' being destroyed
+[2021.07.15-08.45.00:461][645]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Materials/foolmine1.foolmine1
+	Asset Name: /Game/Materials/palette.palette
+[2021.07.15-08.45.00:869][645]LogMaterial: Display: Missing cached shader map for material palette, compiling. 
+[2021.07.15-08.45.00:870][645]LogMaterial: Warning: [AssetLog] /Game/Materials/palette.palette (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.07.15-08.45.00:870][645]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.07.15-08.45.00:871][645]LogMaterial: Display: Missing cached shader map for material palette, compiling. 
+[2021.07.15-08.45.00:871][645]LogMaterial: Warning: [AssetLog] /Game/Materials/palette.palette (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.07.15-08.45.00:871][645]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.07.15-08.45.00:902][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.07.15-08.45.01:597][683]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Materials/foolmine.foolmine
+[2021.07.15-08.45.07:020][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/foolmine" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Materials/foolmine.uasset" SILENT=true
+[2021.07.15-08.45.07:026][976]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/foolmine278C22794BF787D8480A32BD511391D5.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Materials/foolmine.uasset'
+[2021.07.15-08.45.07:038][976]AssetCheck: New page: Asset Save: foolmine
+[2021.07.15-08.45.07:038][976]LogContentValidation: Display: Validating StaticMesh /Game/Materials/foolmine.foolmine
+[2021.07.15-08.45.07:766][ 19]LogSlate: Window 'foolmine' being destroyed
+[2021.07.15-08.45.07:778][ 19]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-08.45.07:778][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-08.45.18:601][660]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Gameplay/SkillSystem/SpecificSkills/M_FoolMine.M_FoolMine
+[2021.07.15-08.45.18:877][660]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.07.15-08.45.54:831][720]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Materials/foolmine.foolmine
+[2021.07.15-08.46.00:404][ 34]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-08.46.00:404][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-08.46.31:055][847]LogEditorTransaction: Undo Modify Component(s)
+[2021.07.15-08.46.51:537][ 56]BlueprintLog: New page: Compile M_FoolMine
+[2021.07.15-08.46.51:656][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2021.07.15-08.46.52:993][132]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/M_FoolMine04FA0AEA4498CB3821A15D8134083AF4.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Blueprints/Gameplay/SkillSystem/SpecificSkills/M_FoolMine.uasset'
+[2021.07.15-08.46.53:010][132]AssetCheck: New page: Asset Save: M_FoolMine
+[2021.07.15-08.46.53:010][132]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/SkillSystem/SpecificSkills/M_FoolMine.M_FoolMine
+[2021.07.15-08.46.54:083][195]LogTemp: Repeating last play command: Standalone Game
+[2021.07.15-08.46.54:120][195]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.07.15-08.48.48:637][373]BlueprintLog: New page: Compile M_FoolMine
+[2021.07.15-08.48.48:710][373]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.07.15-08.49.05:944][388]BlueprintLog: New page: Compile M_FoolMine
+[2021.07.15-08.49.06:029][388]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.07.15-08.49.06:408][407]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/M_FoolMine0968E45C4AD55C1E1B49EAB4222A792B.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Blueprints/Gameplay/SkillSystem/SpecificSkills/M_FoolMine.uasset'
+[2021.07.15-08.49.06:422][407]AssetCheck: New page: Asset Save: M_FoolMine
+[2021.07.15-08.49.06:423][407]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/SkillSystem/SpecificSkills/M_FoolMine.M_FoolMine
+[2021.07.15-08.49.07:201][453]LogTemp: Repeating last play command: Standalone Game
+[2021.07.15-08.49.07:237][453]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.07.15-08.50.32:082][794]LogEditorTransaction: Undo Set Scale
+[2021.07.15-08.50.58:327][353]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Materials/foolmine.foolmine
+[2021.07.15-08.51.33:674][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/foolmine" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Materials/foolmine.uasset" SILENT=true
+[2021.07.15-08.51.33:680][438]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/foolmine2C9731014DF21421EAE0A3AFBF61D307.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Materials/foolmine.uasset'
+[2021.07.15-08.51.33:694][438]AssetCheck: New page: Asset Save: foolmine
+[2021.07.15-08.51.33:695][438]LogContentValidation: Display: Validating StaticMesh /Game/Materials/foolmine.foolmine
+[2021.07.15-08.51.34:451][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/foolmine" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Materials/foolmine.uasset" SILENT=true
+[2021.07.15-08.51.34:454][483]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/foolmine975B7DBE42CCAA3AAD4F2AB78566C6A1.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Materials/foolmine.uasset'
+[2021.07.15-08.51.34:466][483]AssetCheck: New page: Asset Save: foolmine
+[2021.07.15-08.51.34:467][483]LogContentValidation: Display: Validating StaticMesh /Game/Materials/foolmine.foolmine
+[2021.07.15-08.51.34:974][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/foolmine" FILE="../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Materials/foolmine.uasset" SILENT=true
+[2021.07.15-08.51.34:977][513]LogSavePackage: Moving '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Saved/foolmineE79182BC47066FA989B117A32147CBCA.tmp' to '../../../../../../Users/10562/Desktop/Assashine/Multiplayer/Content/Materials/foolmine.uasset'
+[2021.07.15-08.51.34:987][513]AssetCheck: New page: Asset Save: foolmine
+[2021.07.15-08.51.34:987][513]LogContentValidation: Display: Validating StaticMesh /Game/Materials/foolmine.foolmine
+[2021.07.15-08.51.36:811][621]LogTemp: Repeating last play command: Standalone Game
+[2021.07.15-08.51.36:845][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.07.15-08.52.09:587][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.07.15-08.52.09:589][ 28]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMenu' took 0.035
+[2021.07.15-08.55.18:281][346]LogSlate: Window 'foolmine' being destroyed
+[2021.07.15-08.55.18:287][346]LogSlate: Window 'foolmine' being destroyed
+[2021.07.15-08.55.18:294][346]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-08.55.18:294][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-08.55.18:363][346]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-08.55.18:363][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-08.55.25:438][424]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Gameplay/SkillSystem/SpecificSkills/M_FoolMine.M_FoolMine
+[2021.07.15-08.55.32:691][826]LogSlate: Window 'M_FoolMine' being destroyed
+[2021.07.15-08.55.32:702][826]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-08.55.32:702][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
