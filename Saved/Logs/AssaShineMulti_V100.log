@@ -1279,3 +1279,204 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.16-03.51.02:262][833]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayGM.GameplayGM
 [2021.07.16-03.51.03:978][931]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
 [2021.07.16-03.51.03:979][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.16-03.51.47:158][403]BlueprintLog: New page: Compile GameplayPC
+[2021.07.16-03.51.47:445][403]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2021.07.16-03.51.47:861][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayPC" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset" SILENT=true
+[2021.07.16-03.51.48:293][419]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayPCFDE38E3A44DAAAD3896C2D8F085198C6.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayPC.uasset'
+[2021.07.16-03.51.48:308][419]AssetCheck: New page: Asset Save: GameplayPC
+[2021.07.16-03.51.48:308][419]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayPC.GameplayPC
+[2021.07.16-03.52.00:976][114]BlueprintLog: New page: Compile 0_Base
+[2021.07.16-03.52.01:206][114]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2021.07.16-03.52.01:614][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/0_Base" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Characters/0_Base.uasset" SILENT=true
+[2021.07.16-03.52.01:656][130]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/0_Base9554EC0C44E1429A6AD9739B3E58E998.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Characters/0_Base.uasset'
+[2021.07.16-03.52.01:670][130]AssetCheck: New page: Asset Save: 0_Base
+[2021.07.16-03.52.01:671][130]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/0_Base.0_Base
+[2021.07.16-03.52.03:275][203]LogTemp: Repeating last play command: Standalone Game
+[2021.07.16-03.52.03:341][203]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.07.16-03.52.05:020][203]LogSlate: Window 'Save Content' being destroyed
+[2021.07.16-03.52.05:066][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Archer" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Characters/Archer.uasset" SILENT=true
+[2021.07.16-03.52.05:079][203]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Archer30A72FAE4435DAD232C33F9E1BDC276E.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Characters/Archer.uasset'
+[2021.07.16-03.52.05:099][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Barbarous" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Characters/Barbarous.uasset" SILENT=true
+[2021.07.16-03.52.05:112][203]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/BarbarousF4D3F71C4B1BB759C1E5EE9F3604E955.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Characters/Barbarous.uasset'
+[2021.07.16-03.52.05:132][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Fool" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Characters/Fool.uasset" SILENT=true
+[2021.07.16-03.52.05:145][203]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Fool867E42C84501762B7023058A987606F1.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Characters/Fool.uasset'
+[2021.07.16-03.52.05:166][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Gambler" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Characters/Gambler.uasset" SILENT=true
+[2021.07.16-03.52.05:179][203]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Gambler3D87A37444923607BF89D1A55BEDE650.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Characters/Gambler.uasset'
+[2021.07.16-03.52.05:205][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Mage" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Characters/Mage.uasset" SILENT=true
+[2021.07.16-03.52.05:219][203]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Mage2FCAE7A640A4704E3C19F18ED5F83682.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Characters/Mage.uasset'
+[2021.07.16-03.52.05:241][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Policeman" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Characters/Policeman.uasset" SILENT=true
+[2021.07.16-03.52.05:253][203]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Policeman20A2882143085279202F8C8726E9EA54.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Characters/Policeman.uasset'
+[2021.07.16-03.52.05:298][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/PuppetMaster" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Characters/PuppetMaster.uasset" SILENT=true
+[2021.07.16-03.52.05:309][203]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/PuppetMasterEBC2B45E4C0C56FED5B5A7A11B45BAFF.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Characters/PuppetMaster.uasset'
+[2021.07.16-03.52.05:328][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Vampire" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Characters/Vampire.uasset" SILENT=true
+[2021.07.16-03.52.05:339][203]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/Vampire858476C94EDF6866281DEF956555D18E.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Characters/Vampire.uasset'
+[2021.07.16-03.52.05:382][204]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.16-03.52.05:382][204]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/Archer.Archer
+[2021.07.16-03.52.05:382][204]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/Barbarous.Barbarous
+[2021.07.16-03.52.05:382][204]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/Fool.Fool
+[2021.07.16-03.52.05:382][204]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/Gambler.Gambler
+[2021.07.16-03.52.05:382][204]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/Mage.Mage
+[2021.07.16-03.52.05:382][204]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/Policeman.Policeman
+[2021.07.16-03.52.05:382][204]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/PuppetMaster.PuppetMaster
+[2021.07.16-03.52.05:383][204]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/Vampire.Vampire
+[2021.07.16-03.53.46:466][210]BlueprintLog: New page: Compile NPC_Spawner
+[2021.07.16-03.53.46:585][210]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2021.07.16-03.53.47:138][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/NPC_Spawner" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/AI/NPC_Spawner.uasset" SILENT=true
+[2021.07.16-03.53.47:203][231]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/NPC_Spawner909674264E42BE3263C24DB505C55C1A.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/AI/NPC_Spawner.uasset'
+[2021.07.16-03.53.47:218][231]AssetCheck: New page: Asset Save: NPC_Spawner
+[2021.07.16-03.53.47:218][231]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AI/NPC_Spawner.NPC_Spawner
+[2021.07.16-03.53.54:671][493]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Gameplay/GameplayGM.GameplayGM
+[2021.07.16-03.53.58:721][649]BlueprintLog: New page: Compile GameplayGM
+[2021.07.16-03.53.58:938][649]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.07.16-03.53.59:371][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayGM" FILE="D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayGM.uasset" SILENT=true
+[2021.07.16-03.53.59:730][650]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Saved/GameplayGME8F00CF04DFF8909002536AA58FF184A.tmp' to 'D:/Documents/Unreal Projects/Multiplayer/Multiplayer/Content/Blueprints/Gameplay/GameplayGM.uasset'
+[2021.07.16-03.53.59:749][650]AssetCheck: New page: Asset Save: GameplayGM
+[2021.07.16-03.53.59:749][650]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/GameplayGM.GameplayGM
+[2021.07.16-03.54.00:261][674]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2021.07.16-03.54.00:393][674]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.07.16-03.54.00:393][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.16-03.54.00:462][674]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.07.16-03.54.00:462][674]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.07.16-03.54.00:462][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.16-03.54.00:537][674]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.07.16-03.54.00:537][674]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.07.16-03.54.00:538][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.16-03.54.00:639][674]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.07.16-03.54.00:639][674]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.07.16-03.54.00:639][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.16-03.54.00:970][674]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.07.16-03.54.00:970][674]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.07.16-03.54.00:970][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.16-03.54.01:446][674]LogSlate: Window 'AssaShineMulti_V100 - Unreal Editor' being destroyed
+[2021.07.16-03.54.02:061][675]Cmd: QUIT_EDITOR
+[2021.07.16-03.54.02:062][675]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.07.16-03.54.02:119][675]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.07.16-03.54.02:312][675]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.07.16-03.54.02:312][675]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.07.16-03.54.02:312][675]LogAudio: Display: Audio Device unregistered from world 'MainMenu'.
+[2021.07.16-03.54.02:312][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.16-03.54.02:347][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.16-03.54.02:405][675]LogAudio: Display: Audio Device Manager Shutdown
+[2021.07.16-03.54.02:405][675]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.16-03.54.02:565][675]LogExit: Preparing to exit.
+[2021.07.16-03.54.03:301][675]LogDeviceProfile: Device profile begin destroy: [0000022BB014D900] Windows
+[2021.07.16-03.54.03:301][675]LogDeviceProfile: Device profile begin destroy: [0000022BB014D800] Default__DeviceProfile
+[2021.07.16-03.54.03:301][675]LogDeviceProfile: Device profile begin destroy: [0000022BB257BD00] WindowsNoEditor
+[2021.07.16-03.54.03:301][675]LogDeviceProfile: Device profile begin destroy: [0000022BB014F300] WindowsServer
+[2021.07.16-03.54.03:301][675]LogDeviceProfile: Device profile begin destroy: [0000022BB2579000] WindowsClient
+[2021.07.16-03.54.03:301][675]LogDeviceProfile: Device profile begin destroy: [0000022BB014D100] IOS
+[2021.07.16-03.54.03:301][675]LogDeviceProfile: Device profile begin destroy: [0000022BB257BA00] iPadAir
+[2021.07.16-03.54.03:301][675]LogDeviceProfile: Device profile begin destroy: [0000022BB014F200] iPadAir2
+[2021.07.16-03.54.03:301][675]LogDeviceProfile: Device profile begin destroy: [0000022BB242A600] IPadPro
+[2021.07.16-03.54.03:301][675]LogDeviceProfile: Device profile begin destroy: [0000022BB242A700] iPadAir3
+[2021.07.16-03.54.03:301][675]LogDeviceProfile: Device profile begin destroy: [0000022BB014F700] iPadAir4
+[2021.07.16-03.54.03:302][675]LogDeviceProfile: Device profile begin destroy: [0000022BB242BC00] iPadMini2
+[2021.07.16-03.54.03:302][675]LogDeviceProfile: Device profile begin destroy: [0000022BB014DF00] iPadMini3
+[2021.07.16-03.54.03:302][675]LogDeviceProfile: Device profile begin destroy: [0000022BB2429B00] iPadMini4
+[2021.07.16-03.54.03:302][675]LogDeviceProfile: Device profile begin destroy: [0000022BB014DD00] iPadMini5
+[2021.07.16-03.54.03:302][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BDF00] iPhone6
+[2021.07.16-03.54.03:302][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BE000] iPodTouch6
+[2021.07.16-03.54.03:302][675]LogDeviceProfile: Device profile begin destroy: [0000022BB257BB00] iPhone7
+[2021.07.16-03.54.03:302][675]LogDeviceProfile: Device profile begin destroy: [0000022BB257BC00] iPodTouch7
+[2021.07.16-03.54.03:302][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BF600] iPhone5S
+[2021.07.16-03.54.03:302][675]LogDeviceProfile: Device profile begin destroy: [0000022BB2579800] iPhone6Plus
+[2021.07.16-03.54.03:302][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BD900] iPhone6S
+[2021.07.16-03.54.03:302][675]LogDeviceProfile: Device profile begin destroy: [0000022BB2579F00] iPhone6SPlus
+[2021.07.16-03.54.03:302][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BCC00] iPhone7Plus
+[2021.07.16-03.54.03:303][675]LogDeviceProfile: Device profile begin destroy: [0000022BB257A800] iPhoneSE
+[2021.07.16-03.54.03:303][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BD200] iPhone8
+[2021.07.16-03.54.03:303][675]LogDeviceProfile: Device profile begin destroy: [0000022BB257B800] iPhone8Plus
+[2021.07.16-03.54.03:303][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BCB00] iPhoneX
+[2021.07.16-03.54.03:303][675]LogDeviceProfile: Device profile begin destroy: [0000022BB2579200] iPhoneXS
+[2021.07.16-03.54.03:303][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BE300] iPhoneXSMax
+[2021.07.16-03.54.03:303][675]LogDeviceProfile: Device profile begin destroy: [0000022BB2578700] iPhoneXR
+[2021.07.16-03.54.03:303][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BF200] iPhone11
+[2021.07.16-03.54.03:303][675]LogDeviceProfile: Device profile begin destroy: [0000022BB257B100] iPhone11Pro
+[2021.07.16-03.54.03:303][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BD500] iPhone11ProMax
+[2021.07.16-03.54.03:303][675]LogDeviceProfile: Device profile begin destroy: [0000022BB257A500] iPhoneSE2
+[2021.07.16-03.54.03:303][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BFC00] iPhone12Mini
+[2021.07.16-03.54.03:303][675]LogDeviceProfile: Device profile begin destroy: [0000022BB2578F00] iPhone12
+[2021.07.16-03.54.03:303][675]LogDeviceProfile: Device profile begin destroy: [0000022BB014FA00] iPhone12Pro
+[2021.07.16-03.54.03:303][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BD700] iPhone12ProMax
+[2021.07.16-03.54.03:304][675]LogDeviceProfile: Device profile begin destroy: [0000022BB014FC00] iPadPro105
+[2021.07.16-03.54.03:304][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BCE00] iPadPro129
+[2021.07.16-03.54.03:304][675]LogDeviceProfile: Device profile begin destroy: [0000022BB014EF00] iPadPro97
+[2021.07.16-03.54.03:304][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BE400] iPadPro2_129
+[2021.07.16-03.54.03:304][675]LogDeviceProfile: Device profile begin destroy: [0000022BB2579700] iPad5
+[2021.07.16-03.54.03:304][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BF800] iPad6
+[2021.07.16-03.54.03:304][675]LogDeviceProfile: Device profile begin destroy: [0000022BB2579A00] iPad7
+[2021.07.16-03.54.03:304][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BCF00] iPad8
+[2021.07.16-03.54.03:304][675]LogDeviceProfile: Device profile begin destroy: [0000022BB2578C00] iPadPro11
+[2021.07.16-03.54.03:304][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BC700] iPadPro2_11
+[2021.07.16-03.54.03:304][675]LogDeviceProfile: Device profile begin destroy: [0000022BB257A100] iPadPro3_129
+[2021.07.16-03.54.03:304][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BE200] iPadPro4_129
+[2021.07.16-03.54.03:304][675]LogDeviceProfile: Device profile begin destroy: [0000022BB257B600] AppleTV
+[2021.07.16-03.54.03:304][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BCD00] AppleTV4K
+[2021.07.16-03.54.03:304][675]LogDeviceProfile: Device profile begin destroy: [0000022BB2578500] TVOS
+[2021.07.16-03.54.03:304][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BC300] Mac
+[2021.07.16-03.54.03:305][675]LogDeviceProfile: Device profile begin destroy: [0000022BB257B000] MacClient
+[2021.07.16-03.54.03:305][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BC400] MacNoEditor
+[2021.07.16-03.54.03:305][675]LogDeviceProfile: Device profile begin destroy: [0000022BB257AA00] MacServer
+[2021.07.16-03.54.03:305][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BFE00] Linux
+[2021.07.16-03.54.03:305][675]LogDeviceProfile: Device profile begin destroy: [0000022BB257B400] LinuxAArch64
+[2021.07.16-03.54.03:305][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BEC00] LinuxNoEditor
+[2021.07.16-03.54.03:305][675]LogDeviceProfile: Device profile begin destroy: [0000022BB2578100] LinuxAArch64NoEditor
+[2021.07.16-03.54.03:305][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BDE00] LinuxClient
+[2021.07.16-03.54.03:305][675]LogDeviceProfile: Device profile begin destroy: [0000022BB2579C00] LinuxAArch64Client
+[2021.07.16-03.54.03:305][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BC900] LinuxServer
+[2021.07.16-03.54.03:305][675]LogDeviceProfile: Device profile begin destroy: [0000022BB2579B00] LinuxAArch64Server
+[2021.07.16-03.54.03:305][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BF100] Android
+[2021.07.16-03.54.03:305][675]LogDeviceProfile: Device profile begin destroy: [0000022BB257AE00] Android_Low
+[2021.07.16-03.54.03:305][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BD100] Android_Mid
+[2021.07.16-03.54.03:305][675]LogDeviceProfile: Device profile begin destroy: [0000022BB257A400] Android_High
+[2021.07.16-03.54.03:306][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BE700] Android_Default
+[2021.07.16-03.54.03:306][675]LogDeviceProfile: Device profile begin destroy: [0000022BB2578800] Android_Adreno4xx
+[2021.07.16-03.54.03:306][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BFF00] Android_Adreno5xx_Low
+[2021.07.16-03.54.03:306][675]LogDeviceProfile: Device profile begin destroy: [0000022BB2578900] Android_Adreno5xx
+[2021.07.16-03.54.03:306][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BC800] Android_Adreno6xx
+[2021.07.16-03.54.03:306][675]LogDeviceProfile: Device profile begin destroy: [0000022BB257BE00] Android_Adreno6xx_Vulkan
+[2021.07.16-03.54.03:306][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BF500] Android_Mali_T6xx
+[2021.07.16-03.54.03:306][675]LogDeviceProfile: Device profile begin destroy: [0000022BB257AB00] Android_Mali_T7xx
+[2021.07.16-03.54.03:306][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BD000] Android_Mali_T8xx
+[2021.07.16-03.54.03:306][675]LogDeviceProfile: Device profile begin destroy: [0000022BB257A900] Android_Mali_G71
+[2021.07.16-03.54.03:306][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BDB00] Android_Mali_G72
+[2021.07.16-03.54.03:306][675]LogDeviceProfile: Device profile begin destroy: [0000022BB2578A00] Android_Mali_G72_Vulkan
+[2021.07.16-03.54.03:306][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BDD00] Android_Mali_G76
+[2021.07.16-03.54.03:306][675]LogDeviceProfile: Device profile begin destroy: [0000022BB2579500] Android_Mali_G76_Vulkan
+[2021.07.16-03.54.03:306][675]LogDeviceProfile: Device profile begin destroy: [0000022BB23BF700] Android_Mali_G77
+[2021.07.16-03.54.03:306][675]LogDeviceProfile: Device profile begin destroy: [0000022BB242AE00] Android_Mali_G77_Vulkan
+[2021.07.16-03.54.03:306][675]LogDeviceProfile: Device profile begin destroy: [0000022BB014CB00] Android_Vulkan_SM5
+[2021.07.16-03.54.03:307][675]LogDeviceProfile: Device profile begin destroy: [0000022BB2428800] Android_PowerVR_G6xxx
+[2021.07.16-03.54.03:307][675]LogDeviceProfile: Device profile begin destroy: [0000022BB014CE00] Android_PowerVR_GT7xxx
+[2021.07.16-03.54.03:307][675]LogDeviceProfile: Device profile begin destroy: [0000022BB2428C00] Android_PowerVR_GE8xxx
+[2021.07.16-03.54.03:307][675]LogDeviceProfile: Device profile begin destroy: [0000022BB014D400] Android_PowerVR_GM9xxx
+[2021.07.16-03.54.03:307][675]LogDeviceProfile: Device profile begin destroy: [0000022BB2428900] Android_PowerVR_GM9xxx_Vulkan
+[2021.07.16-03.54.03:307][675]LogDeviceProfile: Device profile begin destroy: [0000022BB014FF00] Android_TegraK1
+[2021.07.16-03.54.03:307][675]LogDeviceProfile: Device profile begin destroy: [0000022BB2428E00] Android_Unknown_Vulkan
+[2021.07.16-03.54.03:307][675]LogDeviceProfile: Device profile begin destroy: [0000022BB014C100] Lumin
+[2021.07.16-03.54.03:307][675]LogDeviceProfile: Device profile begin destroy: [0000022BB2428D00] Lumin_Desktop
+[2021.07.16-03.54.03:307][675]LogDeviceProfile: Device profile begin destroy: [0000022BB014D700] HoloLens
+[2021.07.16-03.54.03:468][675]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.07.16-03.54.03:474][675]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.07.16-03.54.03:480][675]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.07.16-03.54.03:485][675]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.07.16-03.54.03:492][675]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.07.16-03.54.03:498][675]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.07.16-03.54.03:503][675]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.07.16-03.54.03:507][675]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.07.16-03.54.03:511][675]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.07.16-03.54.03:519][675]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.07.16-03.54.03:528][675]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.07.16-03.54.03:533][675]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.07.16-03.54.03:538][675]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.07.16-03.54.03:542][675]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.07.16-03.54.04:064][675]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.07.16-03.54.04:610][675]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.07.16-03.54.04:627][675]LogExit: Editor shut down
+[2021.07.16-03.54.04:642][675]LogExit: Transaction tracking system shut down
+[2021.07.16-03.54.08:005][675]LogExit: Object subsystem successfully closed.
+[2021.07.16-03.54.08:086][675]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.07.16-03.54.08:959][675]LogModuleManager: Shutting down and abandoning module BlueprintGraph (832)
+[2021.07.16-03.54.08:981][675]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (830)
+[2021.07.16-03.54.08:982][675]LogModuleManager: Shutting down and abandoning module SceneOutliner (828)
+[2021.07.16-03.54.08:982][675]LogModuleManager: Shutting down and abandoning module AddContentDialog (826)
